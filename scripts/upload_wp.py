@@ -63,7 +63,13 @@ class WP:
     def req(self, metode, jalur, **kw):
         url = f"{self.base}/wp-json{jalur}"
         for percobaan in range(3):
-            r = self.s.request(metode, url, timeout=60, **kw)
+            try:
+                r = self.s.request(metode, url, timeout=60, **kw)
+            except (requests.ConnectionError, requests.Timeout):
+                if percobaan < 2:
+                    time.sleep(5 * (percobaan + 1))
+                    continue
+                raise
             if r.status_code in (429,) or r.status_code >= 500:
                 if percobaan < 2:
                     time.sleep(2 * (percobaan + 1))
