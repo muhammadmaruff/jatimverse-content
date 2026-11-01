@@ -20,7 +20,7 @@
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
       "status": "draf",
-      "catatan": ""
+      "catatan": "di luar rentang waktu"
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -40,7 +40,7 @@
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
       "status": "draf",
-      "catatan": ""
+      "catatan": "kata 238 < 250; di luar rentang waktu"
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -60,7 +60,7 @@
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
       "status": "draf",
-      "catatan": ""
+      "catatan": "kata 213 < 250; di luar rentang waktu"
     }
   ]
 }
