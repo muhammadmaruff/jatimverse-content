@@ -6,7 +6,27 @@
     "rentang_jam_hari_kerja": 24,
     "rentang_jam_minggu_senin": 48,
     "kandidat_per_kuota": 1.5,
-    "catatan": "Rentang dihitung dari waktu mulai eksekusi (WIB). Minggu dan Senin memakai 48 jam dan semua paket ditandai tanda_48j."
+    "catatan": "Rentang dihitung dari waktu mulai eksekusi (WIB). Minggu dan Senin memakai 48 jam dan semua paket ditandai tanda_48j.",
+    "kolom_wajib": [
+      "wilayah",
+      "kabkota",
+      "rubrik",
+      "dapil",
+      "tag(>=2)"
+    ],
+    "rubrik_daftar": [
+      "Pelayanan Publik",
+      "Infrastruktur",
+      "Ekonomi/UMKM",
+      "Kesehatan",
+      "Pendidikan",
+      "Pertanian",
+      "Keamanan",
+      "Lingkungan",
+      "Sosial Budaya",
+      "Pemerintahan"
+    ],
+    "baris_sumber_di_artikel": false
   },
   "cara_baca": {
     "utama": "WebFetch halaman daftar berita dengan pertanyaan spesifik (judul, tanggal, URL, URL foto utama).",

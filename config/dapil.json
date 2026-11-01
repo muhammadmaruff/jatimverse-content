@@ -1,0 +1,7 @@
+{
+  "status": "perlu_data",
+  "catatan": "Pemetaan kab/kota -> dapil belum terverifikasi. Sumber KPU yang ditemukan tidak memuat cakupan wilayah per dapil, jadi tidak diisi dari ingatan. Isi dari daftar istilah dapil di WordPress atau sumber resmi, catat URL sumbernya di 'sumber'.",
+  "jenis_dapil": null,
+  "sumber": [],
+  "petakan": {}
+}

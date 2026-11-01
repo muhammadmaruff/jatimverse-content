@@ -13,5 +13,3 @@ Pemkot juga berkoordinasi dengan PT Kereta Api Indonesia (KAI) terkait sebuah ba
 Dalam kesempatan itu, Eri juga menyampaikan terima kasih kepada Polda Jawa Timur, Polres Pelabuhan Tanjung Perak, Badan Narkotika Nasional (BNN), dan pihak lain yang ikut menjaga Surabaya.
 
 Pemkot Surabaya menyebut pendekatan ini dilakukan agar penindakan hukum diikuti pemulihan ekonomi warga, sehingga kawasan Kunti tidak kembali menjadi titik peredaran narkoba.
-
-Sumber: Pemerintah Kota Surabaya
