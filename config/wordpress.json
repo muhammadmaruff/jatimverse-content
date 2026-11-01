@@ -1,6 +1,6 @@
 {
   "aktif": true,
-  "status_wp": "draft",
+  "status_wp": "future",
   "penulis_id": null,
   "maks_per_jalan": 10,
   "tag_default": [
@@ -17,5 +17,9 @@
   },
   "dapil_per_kabkota": {
     "Kota Surabaya": "dapil-jatim-1"
+  },
+  "jadwal_tayang": {
+    "interval_menit": 45,
+    "jeda_awal_menit": 45
   }
 }

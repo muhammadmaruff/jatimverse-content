@@ -2,7 +2,7 @@ name: pipeline-harian
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # 11.00 WIB
+    - cron: "0 23 * * *"  # 06.00 WIB (23.00 UTC hari sebelumnya)
   workflow_dispatch:
     inputs:
       mode:

@@ -170,7 +170,20 @@ def uji_koneksi(wp):
     print("koneksi WordPress OK")
 
 
-def unggah_paket(wp, cfg, p):
+def slot_pertama(wp, cfg):
+    """Slot tayang pertama (UTC) dan selang antar-post. Lanjut setelah post terjadwal terakhir di situs."""
+    j = cfg.get("jadwal_tayang") or {}
+    iv = timedelta(minutes=j.get("interval_menit", 45))
+    mulai = datetime.now(timezone.utc) + timedelta(minutes=j.get("jeda_awal_menit", 45))
+    r = wp.req("GET", "/wp/v2/posts", params={"status": "future", "per_page": 1, "orderby": "date",
+                                               "order": "desc", "context": "edit"})
+    if r.ok and r.json():
+        terakhir = datetime.fromisoformat(r.json()[0]["date_gmt"]).replace(tzinfo=timezone.utc)
+        mulai = max(mulai, terakhir + iv)
+    return mulai, iv
+
+
+def unggah_paket(wp, cfg, p, tayang=None):
     judul, paragraf = parse_md(ROOT / p["file_md"])
     slug = slugify(judul)
     r = wp.req("GET", "/wp/v2/posts", params={"slug": slug, "status": "any"})
@@ -197,6 +210,10 @@ def unggah_paket(wp, cfg, p):
             "wilayah": ids["wilayah"], "rubrik": ids["rubrik"], "dapil": ids["dapil"]}
     if cfg.get("penulis_id"):
         data["author"] = cfg["penulis_id"]
+    if cfg["status_wp"] == "future":
+        if not tayang:
+            raise RuntimeError("jadwal tayang kosong")
+        data["date_gmt"] = tayang.strftime("%Y-%m-%dT%H:%M:%S")
     r = wp.req("POST", "/wp/v2/posts", json=data)
     if not r.ok:
         raise RuntimeError(f"buat post HTTP {r.status_code}")
@@ -212,6 +229,8 @@ def unggah_paket(wp, cfg, p):
         raise RuntimeError("verifikasi: foto/kategori/tag/wilayah/rubrik/dapil/excerpt tidak sesuai")
     p.update(wp_post_id=vj["id"], wp_url=vj.get("link"), status_wp=vj.get("status"),
              tgl_upload=datetime.now(WIB).isoformat(timespec="seconds"), catatan_wp="")
+    if tayang:
+        p["tgl_tayang"] = tayang.astimezone(WIB).isoformat(timespec="minutes")
     return "dibuat"
 
 
@@ -245,9 +264,13 @@ def main():
     wp = WP(base, user, pw, cfg["jeda_detik"])
     uji_koneksi(wp)
     ok = 0
+    slot, iv = slot_pertama(wp, cfg) if cfg["status_wp"] == "future" else (None, None)
     for p in antrean:
         try:
-            print(f"{p['id']}: {unggah_paket(wp, cfg, p)}")
+            hasil = unggah_paket(wp, cfg, p, slot)
+            print(f"{p['id']}: {hasil}" + (f" | tayang {slot.astimezone(WIB):%d/%m %H:%M} WIB" if slot and hasil == "dibuat" else ""))
+            if slot and hasil == "dibuat":
+                slot += iv
             ok += 1
         except Exception as e:  # noqa: BLE001
             p["catatan_wp"] = f"{type(e).__name__}: {e}"[:300]
