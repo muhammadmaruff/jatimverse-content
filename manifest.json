@@ -15,12 +15,12 @@
       "tanda_48j": false,
       "jumlah_kata": 313,
       "file_md": "artikel/2026-11-01_surabaya-raya_gpm-wonokromo.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-01_surabaya-raya_gpm-wonokromo.jpg",
+      "ukuran_kb": 96.9,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+      "status": "lengkap",
+      "catatan": ""
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -35,12 +35,12 @@
       "tanda_48j": false,
       "jumlah_kata": 238,
       "file_md": "artikel/2026-11-01_surabaya-raya_larangan-pungutan-sekolah.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-01_surabaya-raya_larangan-pungutan-sekolah.jpg",
+      "ukuran_kb": 92.8,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+      "status": "lengkap",
+      "catatan": ""
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -55,12 +55,12 @@
       "tanda_48j": false,
       "jumlah_kata": 213,
       "file_md": "artikel/2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti.jpg",
+      "ukuran_kb": 94.2,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+      "status": "lengkap",
+      "catatan": ""
     }
   ]
 }
