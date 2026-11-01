@@ -1,4 +1,66 @@
 {
   "versi": 1,
-  "paket": []
+  "ambang_kata_uji": 200,
+  "paket": [
+    {
+      "id": "2026-11-01_surabaya-raya_gpm-wonokromo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya Gelar Pangan Murah di Wonokromo Jelang Nataru",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25831/tekan-inflasi-dan-amankan-pangan-jelang-nataru-pemkot-surabaya-gelar-gpm-serentak-di-wonokromo"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25831/blob_1947_0.jpg",
+      "tgl_terbit_sumber": "2026-10-21",
+      "tanda_48j": false,
+      "jumlah_kata": 313,
+      "file_md": "artikel/2026-11-01_surabaya-raya_gpm-wonokromo.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+    },
+    {
+      "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Wali Kota Surabaya Larang Pungutan di SD dan SMP Negeri",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25825/larangan-pungutan-di-sd-smp-negeri-surabaya-wali-kota-eri-cahyadi-minta-guru-buat-soal-sendiri"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25825/blob_4947_0.jpg",
+      "tgl_terbit_sumber": "2026-10-20",
+      "tanda_48j": false,
+      "jumlah_kata": 238,
+      "file_md": "artikel/2026-11-01_surabaya-raya_larangan-pungutan-sekolah.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+    },
+    {
+      "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya Siapkan Pelatihan dan Modal Usaha bagi Warga Kunti",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25832/pemkot-surabaya-siapkan-pelatihan-dan-modal-usaha-untuk-warga-jalan-kunti"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25832/blob_2610_0.jpg",
+      "tgl_terbit_sumber": "2026-10-21",
+      "tanda_48j": false,
+      "jumlah_kata": 213,
+      "file_md": "artikel/2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "UJI COBA: terbit di luar rentang 48 jam (bahan terbaru yang terbaca saat uji, Minggu 1 Nov 2026)"
+    }
+  ]
 }
