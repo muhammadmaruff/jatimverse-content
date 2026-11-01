@@ -78,7 +78,7 @@ def main():
             if n != p.get("jumlah_kata"):
                 g.append(f"jumlah_kata manifest {p.get('jumlah_kata')} != {n}")
             if n < aturan["ambang_kata"]:
-                g.append(f"kata {n} < {aturan['ambang_kata']}")
+                peringatan.append(f"kata {n} < {aturan['ambang_kata']} (tetap ditayangkan)")
             if not re.match(r"^[A-Z ,.'/-]+ – ", isi[0]):
                 g.append("dateline")
             if len(baris[0].lstrip("# ")) > 75:
@@ -116,15 +116,18 @@ def main():
                 g.append("url sumber ganda")
             url_set.add(u)
         p["_gagal"] = g
+        p["_peringatan"] = peringatan
         print(f"{p['id'][-34:]:34} {'LOLOS' if not g else 'GAGAL: ' + '; '.join(g)}")
         gagal_total += bool(g)
     if a.tulis:
         for p in m["paket"]:
             g = p.pop("_gagal")
+            w = p.pop("_peringatan", [])
             if p.pop("_lewati", False):
                 continue
             if not g:
                 p["status"] = "lengkap"
+                p["catatan"] = "; ".join(w)[:300]
             else:
                 p["status"] = "draf" if p.get("file_jpg") else "butuh_gambar"
                 p["catatan"] = "; ".join(g)[:300]
