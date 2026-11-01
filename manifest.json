@@ -19,9 +19,15 @@
       "ukuran_kb": 96.9,
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
+      "status": "lengkap",
       "catatan": "di luar rentang waktu",
-      "rentang_jam_khusus": 336
+      "rentang_jam_khusus": 336,
+      "wp_media_id": 1757,
+      "wp_post_id": 1758,
+      "wp_url": "https://jatimverse.id/?p=1758",
+      "status_wp": "draft",
+      "tgl_upload": "2026-11-01T21:33:46+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -40,9 +46,15 @@
       "ukuran_kb": 92.8,
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
+      "status": "lengkap",
       "catatan": "kata 238 < 250; di luar rentang waktu",
-      "rentang_jam_khusus": 336
+      "rentang_jam_khusus": 336,
+      "wp_media_id": 1759,
+      "wp_post_id": 1760,
+      "wp_url": "https://jatimverse.id/?p=1760",
+      "status_wp": "draft",
+      "tgl_upload": "2026-11-01T21:33:49+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -61,9 +73,15 @@
       "ukuran_kb": 94.2,
       "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
+      "status": "lengkap",
       "catatan": "kata 213 < 250; di luar rentang waktu",
-      "rentang_jam_khusus": 336
+      "rentang_jam_khusus": 336,
+      "wp_media_id": 1761,
+      "wp_post_id": 1762,
+      "wp_url": "https://jatimverse.id/?p=1762",
+      "status_wp": "draft",
+      "tgl_upload": "2026-11-01T21:33:56+07:00",
+      "catatan_wp": ""
     }
   ]
 }
