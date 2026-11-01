@@ -85,8 +85,9 @@ def mode_paket():
             info = olah(unduh(p["url_foto_sumber"]), tujuan)
             p.update(file_jpg=f"foto/{p['id']}.jpg", ukuran_kb=info["ukuran_kb"],
                      dimensi=info["dimensi"])
-            p["status"] = "lengkap" if p.get("file_md") else "draf"
-            p["catatan"] = ""
+            # 'lengkap' hanya diberikan oleh scripts/verifikasi.py --tulis
+            p["status"] = "draf"
+            p["catatan"] = "foto diproses, menunggu verifikasi"
             ubah += 1
         except Exception as e:  # noqa: BLE001
             p["catatan"] = f"foto gagal: {type(e).__name__}: {e}"[:300]
