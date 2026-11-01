@@ -30,3 +30,6 @@ Baca `manifest.json` dan `config/sumber.json` lebih dulu. Jangan mencari ulang t
 - Tidak memakai subagent. Artikel tidak ditampilkan di chat.
 - Foto sumber kecil bisa tampak lembut setelah dibesarkan ke 1280x720. Tidak perlu dikoreksi.
 - Jangan menjadwalkan otomatis sebelum pengguna meminta.
+
+## Metadata editorial (wajib untuk unggah WordPress)
+Setiap paket di manifest harus punya: `kategori` (politik, ekonomi, jelajah, viral, atau bola), `rubrik` (biar-paham, cuan-jatim, derbi-jatim, jelajah-jatim, suara-arek, atau wakil-kita), dan `tag` (minimal 3 tag topik spesifik dari isi berita). Wilayah dan kabupaten/kota ikut menjadi tag otomatis. Dapil dipetakan dari `kabkota` lewat `dapil_per_kabkota` di `config/wordpress.json` (atau field `dapil` per paket). Baris `Sumber:` tetap ada di berkas md untuk verifikasi, tetapi tidak ditayangkan.

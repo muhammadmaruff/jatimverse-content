@@ -40,9 +40,8 @@ def ke_html(paragraf):
     out = []
     for p in paragraf:
         if p.startswith("Sumber:"):
-            out.append(f"<p><em>{html.escape(p)}</em></p>")
-        else:
-            out.append(f"<p>{html.escape(p)}</p>")
+            continue  # baris sumber tidak ditayangkan
+        out.append(f"<p>{html.escape(p)}</p>")
     return "\n".join(out)
 
 
@@ -102,35 +101,56 @@ def nama_tag(cfg, p):
     return hasil
 
 
-def id_taksonomi(wp, cfg, p):
-    kslug = cfg["kategori_per_wilayah"].get(p["wilayah"]) or slugify(p["wilayah"])
-    kat = wp.term("categories", kslug, p["wilayah"])
-    tags = [wp.term("tags", slugify(n), n) for n in nama_tag(cfg, p)]
-    if not kat or not tags:
-        raise RuntimeError("kategori/tag kosong")
-    return kat, tags
+def id_meta(wp, cfg, p, wajib=False):
+    """Kategori, wilayah, rubrik, dapil (term yang sudah ada di situs) + tag (dibuat bila belum ada)."""
+    ids, kurang = {}, []
+
+    def cari(rest, slug, label):
+        if not slug:
+            kurang.append(f"{label} belum diisi")
+            return
+        r = wp.req("GET", f"/wp/v2/{rest}", params={"slug": slug})
+        if r.ok and r.json():
+            ids[rest if rest != "categories" else "categories"] = [r.json()[0]["id"]]
+        else:
+            kurang.append(f"{label} '{slug}' tidak ada di WordPress")
+
+    cari("categories", p.get("kategori"), "kategori")
+    cari("wilayah", (cfg.get("slug_wilayah") or {}).get(p.get("wilayah")), "wilayah")
+    cari("rubrik", p.get("rubrik"), "rubrik")
+    cari("dapil", p.get("dapil") or (cfg.get("dapil_per_kabkota") or {}).get(p.get("kabkota")), "dapil")
+    ids["tags"] = [wp.term("tags", slugify(n), n) for n in nama_tag(cfg, p)]
+    if len(ids["tags"]) < 2:
+        kurang.append("tag kurang dari 2")
+    if wajib and kurang:
+        raise RuntimeError("metadata belum lengkap: " + "; ".join(kurang))
+    return ids, kurang
 
 
-def sinkron_taksonomi(wp, cfg, p):
-    """Lengkapi kategori dan tag pada post buatan pipeline (hanya menambah, tidak menghapus)."""
+def sinkron_meta(wp, cfg, p):
+    """Lengkapi metadata post buatan pipeline: kategori diganti, tag/wilayah/rubrik/dapil hanya ditambah,
+    baris Sumber dibuang dari isi."""
     r = wp.req("GET", f"/wp/v2/posts/{p['wp_post_id']}", params={"context": "edit"})
     if not r.ok:
         raise RuntimeError(f"GET post HTTP {r.status_code}")
     v = r.json()
-    kat, tags = id_taksonomi(wp, cfg, p)
-    k_lama, t_lama = set(v.get("categories", [])), set(v.get("tags", []))
-    k_baru, t_baru = k_lama | {kat}, t_lama | set(tags)
-    if k_baru == k_lama and t_baru == t_lama:
-        return "taksonomi sudah lengkap"
-    r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}",
-               json={"categories": sorted(k_baru), "tags": sorted(t_baru)})
-    if not r.ok:
-        raise RuntimeError(f"update taksonomi HTTP {r.status_code}")
-    j = r.json()
-    if kat not in j.get("categories", []) or not set(tags) <= set(j.get("tags", [])):
-        raise RuntimeError("verifikasi taksonomi gagal")
-    p["catatan_wp"] = ""
-    return f"taksonomi dilengkapi: kategori {sorted(k_baru)}, tag {sorted(t_baru)}"
+    ids, kurang = id_meta(wp, cfg, p)
+    upd = {}
+    if ids.get("categories") and sorted(v.get("categories", [])) != sorted(ids["categories"]):
+        upd["categories"] = ids["categories"]
+    for kunci in ("tags", "wilayah", "rubrik", "dapil"):
+        if ids.get(kunci):
+            lama = set(v.get(kunci, []))
+            if lama | set(ids[kunci]) != lama:
+                upd[kunci] = sorted(lama | set(ids[kunci]))
+    if "Sumber:" in (v.get("content") or {}).get("raw", ""):
+        upd["content"] = ke_html(parse_md(ROOT / p["file_md"])[1])
+    if upd:
+        r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}", json=upd)
+        if not r.ok:
+            raise RuntimeError(f"update metadata HTTP {r.status_code}")
+    p["catatan_wp"] = ("metadata kurang: " + "; ".join(kurang)) if kurang else ""
+    return f"diperbarui {sorted(upd)}" if upd else "metadata sudah sesuai"
 
 
 def uji_koneksi(wp):
@@ -159,6 +179,7 @@ def unggah_paket(wp, cfg, p):
         p.update(wp_post_id=ada["id"], wp_url=ada.get("link"), status_wp=ada.get("status"),
                  catatan_wp="sudah ada di WordPress; dilewati")
         return "sudah ada"
+    ids, _ = id_meta(wp, cfg, p, wajib=True)
     # foto
     jpg = ROOT / p["file_jpg"]
     r = wp.req("POST", "/wp/v2/media", data=jpg.read_bytes(),
@@ -170,11 +191,10 @@ def unggah_paket(wp, cfg, p):
     p["wp_media_id"] = media_id
     wp.req("POST", f"/wp/v2/media/{media_id}",
            json={"alt_text": judul, "caption": f"Foto: {p.get('kredit_foto', '')}"})
-    # kategori & tag (wajib terisi)
-    kat, tags = id_taksonomi(wp, cfg, p)
     data = {"title": judul, "content": ke_html(paragraf), "excerpt": ringkas(paragraf),
             "slug": slug, "status": cfg["status_wp"], "featured_media": media_id,
-            "categories": [kat], "tags": tags}
+            "categories": ids["categories"], "tags": ids["tags"],
+            "wilayah": ids["wilayah"], "rubrik": ids["rubrik"], "dapil": ids["dapil"]}
     if cfg.get("penulis_id"):
         data["author"] = cfg["penulis_id"]
     r = wp.req("POST", "/wp/v2/posts", json=data)
@@ -187,9 +207,9 @@ def unggah_paket(wp, cfg, p):
         raise RuntimeError(f"verifikasi GET HTTP {v.status_code}")
     vj = v.json()
     ex = (vj.get("excerpt") or {}).get("raw", "")
-    if (vj.get("featured_media") != media_id or kat not in vj.get("categories", [])
-            or not set(tags) <= set(vj.get("tags", [])) or not ex.strip()):
-        raise RuntimeError("verifikasi: featured_media/kategori/tag/excerpt tidak sesuai")
+    sesuai = all(set(ids[k]) <= set(vj.get(k, [])) for k in ("categories", "tags", "wilayah", "rubrik", "dapil"))
+    if vj.get("featured_media") != media_id or not sesuai or not ex.strip():
+        raise RuntimeError("verifikasi: foto/kategori/tag/wilayah/rubrik/dapil/excerpt tidak sesuai")
     p.update(wp_post_id=vj["id"], wp_url=vj.get("link"), status_wp=vj.get("status"),
              tgl_upload=datetime.now(WIB).isoformat(timespec="seconds"), catatan_wp="")
     return "dibuat"
@@ -211,8 +231,8 @@ def main():
     if kering:
         for p in antrean:
             judul, paragraf = parse_md(ROOT / p["file_md"])
-            print(f"[KERING] {p['id']} | {p['wilayah']} -> {cfg['kategori_per_wilayah'].get(p['wilayah'])} "
-                  f"| tag={nama_tag(cfg, p)} | status={cfg['status_wp']} | slug={slugify(judul)} | foto={p['file_jpg']} ({p.get('ukuran_kb')} KB)")
+            print(f"[KERING] {p['id']} | {p['wilayah']} -> {(cfg.get('slug_wilayah') or {}).get(p['wilayah'])} "
+                  f"| kategori={p.get('kategori')} rubrik={p.get('rubrik')} dapil={p.get('dapil') or (cfg.get('dapil_per_kabkota') or {}).get(p.get('kabkota'))} tag={nama_tag(cfg, p)} | status={cfg['status_wp']} | slug={slugify(judul)} | foto={p['file_jpg']} ({p.get('ukuran_kb')} KB)")
         base = os.environ.get("WP_URL")
         if base and os.environ.get("WP_USER") and os.environ.get("WP_APP_PASSWORD"):
             uji_koneksi(WP(base, os.environ["WP_USER"], os.environ["WP_APP_PASSWORD"], cfg["jeda_detik"]))
@@ -238,10 +258,10 @@ def main():
     for p in m["paket"]:
         if p.get("status") == "lengkap" and p.get("wp_post_id") and p.get("wp_media_id"):
             try:
-                print(f"{p['id']}: {sinkron_taksonomi(wp, cfg, p)}")
+                print(f"{p['id']}: {sinkron_meta(wp, cfg, p)}")
             except Exception as e:  # noqa: BLE001
                 p["catatan_wp"] = f"{type(e).__name__}: {e}"[:300]
-                print(f"{p['id']}: GAGAL taksonomi {p['catatan_wp']}")
+                print(f"{p['id']}: GAGAL metadata {p['catatan_wp']}")
             MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False))
             wp.jeda_ok()
     return 0

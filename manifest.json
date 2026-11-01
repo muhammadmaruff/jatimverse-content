@@ -27,7 +27,15 @@
       "wp_url": "https://jatimverse.id/?p=1758",
       "status_wp": "draft",
       "tgl_upload": "2026-11-01T21:33:46+07:00",
-      "catatan_wp": ""
+      "catatan_wp": "",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pangan Murah",
+        "Inflasi",
+        "Nataru",
+        "Wonokromo"
+      ]
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -54,7 +62,15 @@
       "wp_url": "https://jatimverse.id/?p=1760",
       "status_wp": "draft",
       "tgl_upload": "2026-11-01T21:33:49+07:00",
-      "catatan_wp": ""
+      "catatan_wp": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Pendidikan",
+        "Pungutan Sekolah",
+        "Eri Cahyadi",
+        "SD dan SMP Negeri"
+      ]
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -81,7 +97,16 @@
       "wp_url": "https://jatimverse.id/?p=1762",
       "status_wp": "draft",
       "tgl_upload": "2026-11-01T21:33:56+07:00",
-      "catatan_wp": ""
+      "catatan_wp": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Eri Cahyadi",
+        "Jalan Kunti",
+        "UMKM",
+        "Pelatihan Kerja",
+        "Semampir"
+      ]
     }
   ]
 }
