@@ -41,6 +41,24 @@ def main():
     gagal_total = 0
     for p in m["paket"]:
         g = []
+        # metadata editorial wajib
+        KAT = {"politik", "ekonomi", "jelajah", "viral", "bola"}
+        RUB = {"biar-paham", "cuan-jatim", "derbi-jatim", "jelajah-jatim", "suara-arek", "wakil-kita"}
+        for kolom in ("wilayah", "kabkota"):
+            if not str(p.get(kolom) or "").strip():
+                g.append(f"{kolom} kosong")
+        if p.get("kategori") not in KAT:
+            g.append("kategori tidak valid")
+        if p.get("rubrik") not in RUB:
+            g.append("rubrik tidak valid")
+        if len(p.get("tag") or []) < 2:
+            g.append("tag < 2")
+        peta = {}
+        cfg = ROOT / "config" / "wordpress.json"
+        if cfg.exists():
+            peta = json.loads(cfg.read_text()).get("dapil_per_kabkota", {})
+        if not (str(p.get("dapil") or "").strip() or peta.get(p.get("kabkota"))):
+            g.append("dapil tidak terpetakan")
         md = ROOT / (p.get("file_md") or "tidak-ada")
         jp = ROOT / (p.get("file_jpg") or "tidak-ada")
         if p.get("status") == "lengkap":
