@@ -1,0 +1,59 @@
+name: pipeline-harian
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 11.00 WIB
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "kering = hanya rencana, nyata = unggah (tetap butuh aktif=true di config)"
+        type: choice
+        options: [kering, nyata]
+        default: nyata
+      maks:
+        description: "Maksimal paket per jalan (kosong = ikuti config)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pipeline-harian
+  cancel-in-progress: false
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow requests
+      - name: Proses foto
+        run: python scripts/proses_foto.py
+      - name: Verifikasi
+        run: python scripts/verifikasi.py --tulis
+      - name: Unggah WordPress
+        env:
+          WP_URL: ${{ secrets.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          MODE: ${{ inputs.mode }}
+          MAKS: ${{ inputs.maks }}
+        run: |
+          ARGS=""
+          [ "$MODE" = "kering" ] && ARGS="$ARGS --kering"
+          [ -n "$MAKS" ] && ARGS="$ARGS --maks $MAKS"
+          python scripts/upload_wp.py $ARGS
+      - name: Simpan hasil
+        if: always()
+        run: |
+          git config user.name "jatimverse-bot"
+          git config user.email "bot@jatimverse.id"
+          git add -A
+          if git diff --cached --quiet; then echo "tidak ada perubahan"; exit 0; fi
+          git commit -m "pipeline harian otomatis"
+          git pull --rebase
+          git push

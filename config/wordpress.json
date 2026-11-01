@@ -1,0 +1,16 @@
+{
+  "aktif": false,
+  "status_wp": "draft",
+  "penulis_id": null,
+  "maks_per_jalan": 10,
+  "kategori_per_wilayah": {
+    "Surabaya Raya": "surabaya-raya",
+    "Malang Raya": "malang-raya",
+    "Mataraman": "mataraman",
+    "Tapal Kuda": "tapal-kuda",
+    "Madura": "madura",
+    "Pantura": "pantura"
+  },
+  "tag_default": ["jawa-timur"],
+  "jeda_detik": 1
+}

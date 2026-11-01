@@ -43,6 +43,16 @@ def main():
         g = []
         md = ROOT / (p.get("file_md") or "tidak-ada")
         jp = ROOT / (p.get("file_jpg") or "tidak-ada")
+        if p.get("status") == "lengkap":
+            # Paket lengkap tidak disentuh lagi; hanya dicatat agar duplikat terdeteksi.
+            if jp.exists():
+                foto_hash[hashlib.md5(jp.read_bytes()).hexdigest()] = p["id"]
+            judul_set.add(p["judul"])
+            url_set.update(p.get("url_sumber", []))
+            p["_gagal"] = []
+            p["_lewati"] = True
+            print(f"{p['id'][-34:]:34} LEWATI (sudah lengkap)")
+            continue
         if not md.exists():
             g.append("md hilang")
         else:
@@ -95,6 +105,8 @@ def main():
     if a.tulis:
         for p in m["paket"]:
             g = p.pop("_gagal")
+            if p.pop("_lewati", False):
+                continue
             if not g:
                 p["status"] = "lengkap"
             else:
@@ -103,6 +115,8 @@ def main():
         (ROOT / "manifest.json").write_text(json.dumps(m, indent=2, ensure_ascii=False))
     total = len(m["paket"])
     print(f"lolos {total - gagal_total}/{total} paket")
+    if a.tulis:
+        return 0  # kegagalan dicatat di manifest, tidak menggagalkan workflow
     return 0 if not gagal_total else 1
 
 
