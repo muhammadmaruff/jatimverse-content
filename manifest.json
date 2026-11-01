@@ -232,6 +232,133 @@
         "Desa Wisata",
         "Penghargaan Daerah"
       ]
+    },
+    {
+      "id": "2026-11-02_mataraman_pasar-murah-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "judul": "Pasar Murah di Mojoagung Jombang Catat Transaksi Rp60,3 Juta",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/hadiri-pasar-murah-jombang-gubernur-khofifah-dan-bupati-warsubi-dorong-stabilitas-harga-hingga-serap-rp60-juta-24598"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/72aa509f-4e8e-4eb5-b76a-bd8d3fc9e678.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 163,
+      "file_md": "artikel/2026-11-02_mataraman_pasar-murah-jombang.md",
+      "kredit_foto": "Pemkab Jombang",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Pantura (3) dialihkan ke Mataraman: rilis resmi Tuban/Lamongan/Bojonegoro tidak terbaca atau di luar rentang. Artikel di bawah ambang kata karena sumber tanpa kutipan.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pasar Murah",
+        "Jombang",
+        "Inflasi",
+        "UMKM",
+        "Bupati Warsubi"
+      ]
+    },
+    {
+      "id": "2026-11-02_mataraman_ranperda-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "judul": "DPRD dan Pemkab Tulungagung Sepakati Lima Ranperda",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/lima-ranperda-disetujui-ahmad-baharudin-tekankan-pendidikan-hingga-perlindungan-disabilitas/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/10/20261030163931_IMG_7335-SAP-Decoration-scaled-e1793389189330.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 192,
+      "file_md": "artikel/2026-11-02_mataraman_ranperda-tulungagung.md",
+      "kredit_foto": "Diskominfo Tulungagung",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); jam terbit 02.39 WIB 31 Okt, tepat di batas rentang",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "Ranperda",
+        "DPRD Tulungagung",
+        "Rapat Paripurna",
+        "Ahmad Baharudin",
+        "Penyandang Disabilitas"
+      ]
+    },
+    {
+      "id": "2026-11-02_mataraman_rebana-madiun",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Madiun",
+      "judul": "Parade 1.000 Rebana dan Lomba Seni PAI Digelar di Kota Madiun",
+      "url_sumber": [
+        "https://madiunkota.go.id/berita/2026/11/01/digelar-ditempat-terbuka-parade-1000-rebana-lomba-keterampilan-dan-seni-pai-jadi-sarana-kuatkan-mental-siswa"
+      ],
+      "url_foto_sumber": "https://madiunkota.go.id/menu/file/eyJpdiI6ImMvVW1LMTZYNzFwSkl2UG1lbVM2c0E9PSIsInZhbHVlIjoiSUMrd0lTVHJBN0J5RVRGSDc2cWs2WWNvazRYR05TbmxZQVd0L3pvZUwzTUh2N1JKUm9meFVMUFg1SkNOdWRsZUh6Tkw4WkppME9rR0ZCNEI1bjkwTkkrbGljd1plZVFKbEg3K3B5cjh3cm1RYzRrR0E5Q1J2Mk5iMlB0VE9BVlYiLCJtYWMiOiIxYjI0MzQ4OWE0OGVkNzRkM2JmODQ0MTUyMmU2YWViMzVhZmQ4ODQxMmEzMzhmNDlhZWUxMGEzN2FiMmEwYzQ5IiwidGFnIjoiIn0%3D",
+      "tgl_terbit_sumber": "2026-11-01",
+      "tanda_48j": true,
+      "jumlah_kata": 202,
+      "file_md": "artikel/2026-11-02_mataraman_rebana-madiun.md",
+      "kredit_foto": "Pemkot Madiun",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Parade Rebana",
+        "Hari Santri",
+        "Pendidikan Agama Islam",
+        "Plt Wali Kota Madiun"
+      ]
+    },
+    {
+      "id": "2026-11-02_mataraman_masjid-hubbul-jamal-madiun",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Madiun",
+      "judul": "Plt Wali Kota Madiun Resmikan Masjid Hubbul Jamal di Nambangan Lor",
+      "url_sumber": [
+        "https://madiunkota.go.id/berita/2026/11/01/tak-hanya-tempat-ibadah-hadirnya-masjid-hubbul-jamal-diharap-jadi-sarana-pembangunan-sdm-jamaah"
+      ],
+      "url_foto_sumber": "https://madiunkota.go.id/menu/file/eyJpdiI6IllHUC9Kb2NIVmhTZ3RjaGN2NE9kY1E9PSIsInZhbHVlIjoiTWdBa1d1cVIwK2pGcFd1eGRHeXNzQTlna25NTXA3dmdGZlJMT2x4d3BKbzB1MEE4Nk9TNGg3TzVTS0V4R3Z4eTY1NDF3VERaV0wzNWFWSm9rUkxqTzh6Z3M2c08vRkpCYmlPUjJsR0ZKZHozVjhwU1o0UVhJZnQ5aGFIditNYWgiLCJtYWMiOiJhNzc1YThkYTQ1ZWY0NjZiY2Q4ZDcwYjkxNmM3ZGVmMWE5ZTJiOWI5ZTU4NzkyZGI5ZWZhMjI0ZTFhYmU0OWQ2IiwidGFnIjoiIn0%3D",
+      "tgl_terbit_sumber": "2026-11-01",
+      "tanda_48j": true,
+      "jumlah_kata": 180,
+      "file_md": "artikel/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.md",
+      "kredit_foto": "Pemkot Madiun",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); artikel di bawah ambang kata bila terhitung kurang dari 200",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Masjid Hubbul Jamal",
+        "Nambangan Lor",
+        "Plt Wali Kota Madiun",
+        "Wali Kota Bersama Rakyat"
+      ]
+    },
+    {
+      "id": "2026-11-02_mataraman_duta-pemuda-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "judul": "Pemilihan Duta Pemuda Kabupaten Blitar 2026 Resmi Dimulai",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/10/31/pemkab-blitar-dorong-duta-pemuda-jadi-penggerak-perubahan/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/IMG-20261101-WA0014.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 160,
+      "file_md": "artikel/2026-11-02_mataraman_duta-pemuda-blitar.md",
+      "kredit_foto": "Pemkab Blitar",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); sumber tanpa kutipan langsung, mungkin di bawah ambang kata",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Duta Pemuda",
+        "Pemkab Blitar",
+        "Sekda Blitar",
+        "Khusna Lindarti"
+      ]
     }
   ]
 }
