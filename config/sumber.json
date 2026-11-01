@@ -14,54 +14,310 @@
     "penting": "Shell cloud tidak bisa mengakses domain .go.id. Unduh foto hanya lewat workflow GitHub proses-foto."
   },
   "situs": {
-    "surabaya": {"domain": "surabaya.go.id", "wilayah": "Surabaya Raya", "status": "ok",
+    "surabaya": {
+      "domain": "surabaya.go.id",
+      "wilayah": "Surabaya Raya",
+      "status": "ok",
       "daftar": "https://surabaya.go.id/id/berita",
-      "pola_url": "/id/berita/{id}/{slug}", "tanggal": "dari halaman daftar/artikel (id berurutan)",
-      "pola_foto": "/uploads/images/posts/post_{id}/blob_*.jpg", "catatan": "Halaman /id/berita kadang tidak memuat daftar; beranda surabaya.go.id memuat 7 berita terbaru. Foto utama harus diambil dari halaman artikel."},
-    "sidoarjo": {"domain": "sidoarjokab.go.id", "wilayah": "Surabaya Raya", "status": "sebagian",
-      "daftar": "https://sidoarjokab.go.id/", "pola_url": "/berita/detail/{unix_timestamp}/0",
+      "pola_url": "/id/berita/{id}/{slug}",
+      "tanggal": "dari halaman daftar/artikel (id berurutan)",
+      "pola_foto": "/uploads/images/posts/post_{id}/blob_*.jpg",
+      "catatan": "Halaman /id/berita kadang tidak memuat daftar; beranda surabaya.go.id memuat 7 berita terbaru. Foto utama harus diambil dari halaman artikel."
+    },
+    "sidoarjo": {
+      "domain": "sidoarjokab.go.id",
+      "wilayah": "Surabaya Raya",
+      "status": "sebagian",
+      "daftar": "https://sidoarjokab.go.id/",
+      "pola_url": "/berita/detail/{unix_timestamp}/0",
       "tanggal": "ID adalah unix timestamp unggah (selisih beberapa hari bisa terjadi); konfirmasi tanggal di halaman artikel",
       "pola_foto": "https://adminweb.sidoarjokab.go.id/upload/post/{unix_timestamp}.jpeg",
-      "catatan": "/berita memberi cache lama (Jul 2026), jangan dipakai. Beranda memuat judul tanpa URL; cari URL lewat WebSearch allowed_domains. Foto sumber kecil (800 px). Foto diuji berhasil lewat workflow."},
-    "gresik": {"domain": "gresikkab.go.id", "wilayah": "Surabaya Raya", "status": "websearch",
-      "daftar": null, "pola_url": "/detail-berita/{slug}", "tanggal": "tidak ada di URL; baca dari artikel",
-      "catatan": "WebFetch gagal. Pakai WebSearch allowed_domains."},
-    "mojokerto_kab": {"domain": "mojokertokab.go.id", "wilayah": "Surabaya Raya", "status": "ok",
-      "daftar": "https://mojokertokab.go.id/list-berita", "pola_url": "/detail-berita/{slug}-{unix_timestamp}",
+      "catatan": "/berita memberi cache lama (Jul 2026), jangan dipakai. Beranda memuat judul tanpa URL; cari URL lewat WebSearch allowed_domains. Foto sumber kecil (800 px). Foto diuji berhasil lewat workflow."
+    },
+    "gresik": {
+      "domain": "gresikkab.go.id",
+      "wilayah": "Surabaya Raya",
+      "status": "tidak_terbaca",
+      "daftar": null,
+      "pola_url": "/detail-berita/{slug}",
+      "tanggal": "tidak ada di URL; baca dari artikel",
+      "catatan": "WebFetch gagal juga pada halaman artikel; WebSearch memberi URL tanpa tanggal. Tanpa isi artikel tidak bisa ditulis. Hindari kecuali ada jalur lain."
+    },
+    "mojokerto_kab": {
+      "domain": "mojokertokab.go.id",
+      "wilayah": "Surabaya Raya",
+      "status": "ok",
+      "daftar": "https://mojokertokab.go.id/list-berita",
+      "pola_url": "/detail-berita/{slug}-{unix_timestamp}",
       "tanggal": "unix timestamp di ujung URL (terverifikasi cocok: 1793424567 = 31 Okt 2026 12.29 WIB)",
       "pola_foto": "/storage/pemkab/gambar/berita/YYYYMMDD_HHMMSS.jpg",
-      "catatan": "Beranda hanya 3 berita; gunakan /list-berita. Beranda kosong tanggal, ambil dari timestamp."},
-    "mojokerto_kota": {"domain": "mojokertokota.go.id", "wilayah": "Surabaya Raya", "status": "blokir", "catatan": "robots melarang WebFetch. Coba WebSearch allowed_domains."},
-    "malang_kota": {"domain": "malangkota.go.id", "wilayah": "Malang Raya", "status": "websearch", "catatan": "WebFetch gagal pada / dan /berita."},
-    "malang_kab": {"domain": "malangkab.go.id", "wilayah": "Malang Raya", "status": "blokir", "catatan": "robots melarang WebFetch. Coba WebSearch allowed_domains."},
-    "batu": {"domain": "batukota.go.id", "wilayah": "Malang Raya", "status": "websearch",
-      "pola_url": "/Portal/detail_b/{id}", "catatan": "WebFetch gagal pada /Portal/berita dan prokopim. WebSearch mengembalikan URL tetapi tanpa tanggal; baca tanggal dari artikel."},
-    "jatim_prov": {"domain": "jatimprov.go.id", "wilayah": "Surabaya Raya (se-Jatim)", "status": "websearch", "catatan": "kominfo.jatimprov.go.id gagal dibaca; coba WebSearch allowed_domains."},
-    "kediri_kota": {"domain": "kedirikota.go.id", "wilayah": "Mataraman", "status": "ok",
-      "daftar": "https://kedirikota.go.id/kategori/berita/1", "pola_url": "/p/berita/{id}/{slug}",
+      "catatan": "Beranda hanya 3 berita; gunakan /list-berita. Beranda kosong tanggal, ambil dari timestamp."
+    },
+    "mojokerto_kota": {
+      "domain": "mojokertokota.go.id",
+      "wilayah": "Surabaya Raya",
+      "status": "blokir",
+      "catatan": "robots melarang WebFetch. Coba WebSearch allowed_domains."
+    },
+    "malang_kota": {
+      "domain": "malangkota.go.id",
+      "wilayah": "Malang Raya",
+      "status": "tidak_terbaca",
+      "catatan": "Semua WebFetch gagal (/, /berita, /category/berita/). WebSearch ada tetapi indeksnya berhenti Agustus 2026, tidak andal untuk 24-48 jam.",
+      "pola_url": "/YYYY/MM/DD/{slug}",
+      "tanggal": "ada di URL"
+    },
+    "malang_kab": {
+      "domain": "malangkab.go.id",
+      "wilayah": "Malang Raya",
+      "status": "tidak_terbaca",
+      "catatan": "malangkab.go.id dan kominfo.malangkab.go.id melarang WebFetch (robots). WebSearch memberi artikel OPD tanpa tanggal.",
+      "pola_url": "subdomain OPD: {opd}.malangkab.go.id/berita/{slug}"
+    },
+    "batu": {
+      "domain": "batukota.go.id",
+      "wilayah": "Malang Raya",
+      "status": "tidak_terbaca",
+      "pola_url": "/Portal/detail_b/{id}",
+      "catatan": "WebFetch gagal pada daftar dan artikel (/Portal/detail_b/{id}). Hindari kecuali ada jalur lain."
+    },
+    "jatim_prov": {
+      "domain": "jatimprov.go.id",
+      "wilayah": "Surabaya Raya (se-Jatim)",
+      "status": "websearch",
+      "catatan": "kominfo.jatimprov.go.id gagal dibaca; coba WebSearch allowed_domains."
+    },
+    "kediri_kota": {
+      "domain": "kedirikota.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://kedirikota.go.id/kategori/berita/1",
+      "pola_url": "/p/berita/{id}/{slug}",
       "pola_foto": "https://live.staticflickr.com/... (hosting Flickr; ukuran suffix _n/_m kecil, cari versi lebih besar di halaman artikel)",
-      "catatan": "Beranda mencampur berita lama (2024) dengan baru; saring tanggal. Foto dari Flickr, cek kualitas."},
-    "madiun_kota": {"domain": "madiunkota.go.id", "wilayah": "Mataraman", "status": "ok",
-      "daftar": "https://madiunkota.go.id/kategori/berita", "pola_url": "/berita/{YYYY}/{MM}/{DD}/{slug}",
+      "catatan": "Beranda mencampur berita lama (2024) dengan baru; saring tanggal. Foto dari Flickr, cek kualitas. Beranda memuat berita 28 Okt."
+    },
+    "madiun_kota": {
+      "domain": "madiunkota.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://madiunkota.go.id/kategori/berita",
+      "pola_url": "/berita/{YYYY}/{MM}/{DD}/{slug}",
       "tanggal": "ada di URL",
-      "pola_foto": "/menu/file/{token_terenkripsi}", "catatan": "Beranda hanya menampilkan sebagian; gunakan halaman kategori. Token foto panjang, salin utuh dari halaman artikel."},
-    "ponorogo": {"domain": "ponorogo.go.id", "wilayah": "Mataraman", "status": "websearch", "catatan": "WebFetch gagal."},
-    "tuban": {"domain": "tubankab.go.id", "wilayah": "Pantura", "status": "belum_jelas", "catatan": "Beranda tidak memuat daftar berita; cari halaman daftar lewat WebSearch allowed_domains."},
-    "lamongan": {"domain": "lamongankab.go.id", "wilayah": "Pantura", "status": "gagal", "catatan": "WebFetch error. Coba WebSearch allowed_domains."},
-    "bojonegoro": {"domain": "bojonegorokab.go.id", "wilayah": "Pantura", "status": "belum_jelas", "catatan": "Beranda tidak memuat daftar; cari URL berita lewat WebSearch."},
-    "jember": {"domain": "jemberkab.go.id", "wilayah": "Tapal Kuda", "status": "ok",
-      "daftar": "https://www.jemberkab.go.id/category/berita-terbaru/", "pola_url": "/{slug}/ (WordPress)",
-      "tanggal": "dari halaman daftar", "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}.jpg",
-      "catatan": "Beranda memuat 5 berita dengan tanggal dan URL foto sekaligus. Salah satu situs paling mudah."},
-    "banyuwangi": {"domain": "banyuwangikab.go.id", "wilayah": "Tapal Kuda", "status": "gagal", "catatan": "/berita gagal. Coba beranda atau WebSearch."},
-    "pamekasan": {"domain": "pamekasankab.go.id", "wilayah": "Madura", "status": "ok",
-      "daftar": "https://pamekasankab.go.id/berita", "pola_url": "/berita/{id}/{slug}",
-      "tanggal": "tertulis di daftar", "pola_foto": "//img-berita/{angka}.jpg (akhiran angka adalah unix timestamp unggah, terverifikasi)",
-      "catatan": "Beranda hanya 3 berita. Perhatikan double slash pada URL foto."},
-    "sumenep": {"domain": "sumenepkab.go.id", "wilayah": "Madura", "status": "ok",
-      "daftar": "https://sumenepkab.go.id/berita", "pola_url": "/berita/baca/{slug}",
-      "tanggal": "format DD-MM-YYYY di daftar", "pola_foto": "/uploads/images/news_news/{hash}_thumb.jpg (thumbnail; foto penuh di halaman artikel)",
-      "catatan": "Banyak berita dari kepolisian dan BNN; hati-hati rilis non-pemda (UKM kampus bukan sumber sah)."},
-    "belum_diuji": ["magetankab.go.id", "ngawikab.go.id", "pacitankab.go.id", "trenggalekkab.go.id", "tulungagung.go.id", "blitarkab.go.id", "kedirikab.go.id", "nganjukkab.go.id", "jombangkab.go.id", "pasuruankab.go.id", "probolinggokab.go.id", "lumajangkab.go.id", "bondowosokab.go.id", "situbondokab.go.id", "bangkalankab.go.id", "sampangkab.go.id", "madiunkab.go.id"]
+      "pola_foto": "/menu/file/{token_terenkripsi}",
+      "catatan": "Beranda hanya menampilkan sebagian; gunakan halaman kategori. Token foto panjang, salin utuh dari halaman artikel."
+    },
+    "ponorogo": {
+      "domain": "ponorogo.go.id",
+      "wilayah": "Mataraman",
+      "status": "websearch",
+      "catatan": "WebFetch gagal."
+    },
+    "tuban": {
+      "domain": "tubankab.go.id",
+      "wilayah": "Pantura",
+      "status": "belum_jelas",
+      "catatan": "Beranda tidak memuat daftar berita; cari halaman daftar lewat WebSearch allowed_domains."
+    },
+    "lamongan": {
+      "domain": "lamongankab.go.id",
+      "wilayah": "Pantura",
+      "status": "gagal",
+      "catatan": "WebFetch error. Coba WebSearch allowed_domains."
+    },
+    "bojonegoro": {
+      "domain": "bojonegorokab.go.id",
+      "wilayah": "Pantura",
+      "status": "belum_jelas",
+      "catatan": "Beranda tidak memuat daftar; cari URL berita lewat WebSearch."
+    },
+    "jember": {
+      "domain": "jemberkab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "ok",
+      "daftar": "https://www.jemberkab.go.id/category/berita-terbaru/",
+      "pola_url": "/{slug}/ (WordPress)",
+      "tanggal": "dari halaman daftar",
+      "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}.jpg",
+      "catatan": "Beranda memuat 5 berita dengan tanggal dan URL foto sekaligus. Salah satu situs paling mudah."
+    },
+    "banyuwangi": {
+      "domain": "banyuwangikab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "gagal",
+      "catatan": "/berita gagal. Coba beranda atau WebSearch."
+    },
+    "pamekasan": {
+      "domain": "pamekasankab.go.id",
+      "wilayah": "Madura",
+      "status": "ok",
+      "daftar": "https://pamekasankab.go.id/berita",
+      "pola_url": "/berita/{id}/{slug}",
+      "tanggal": "tertulis di daftar",
+      "pola_foto": "//img-berita/{angka}.jpg (akhiran angka adalah unix timestamp unggah, terverifikasi)",
+      "catatan": "Beranda hanya 3 berita. Perhatikan double slash pada URL foto."
+    },
+    "sumenep": {
+      "domain": "sumenepkab.go.id",
+      "wilayah": "Madura",
+      "status": "ok",
+      "daftar": "https://sumenepkab.go.id/berita",
+      "pola_url": "/berita/baca/{slug}",
+      "tanggal": "format DD-MM-YYYY di daftar",
+      "pola_foto": "/uploads/images/news_news/{hash}_thumb.jpg (thumbnail; foto penuh di halaman artikel)",
+      "catatan": "Banyak berita dari kepolisian dan BNN. Rilis UKM kampus bukan sumber sah. Daftar memuat berita 1 Nov 2026."
+    },
+    "belum_diuji": [],
+    "magetan": {
+      "domain": "magetankab.go.id",
+      "wilayah": "Mataraman",
+      "status": "basi",
+      "catatan": "Beranda hanya menampilkan berita 2015. Tidak berguna."
+    },
+    "ngawi": {
+      "domain": "ngawikab.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://ngawikab.go.id/category/berita/",
+      "pola_url": "/YYYY/MM/DD/{slug}/",
+      "tanggal": "ada di URL",
+      "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}-400x250.jpeg (hapus akhiran -400x250 untuk ukuran asli)",
+      "catatan": "Beranda didominasi pengumuman (terbaru 15 Okt). Pakai kategori berita."
+    },
+    "pacitan": {
+      "domain": "pacitankab.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://pacitankab.go.id/category/pacitan-hari-ini",
+      "pola_url": "/{slug}/",
+      "tanggal": "tertulis di beranda (DD/MM/YYYY)",
+      "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}.webp",
+      "catatan": "Foto berita tidak tampil di beranda; ambil dari halaman artikel."
+    },
+    "tulungagung": {
+      "domain": "tulungagung.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://kabar.tulungagung.go.id/",
+      "pola_url": "kabar.tulungagung.go.id/{slug}/",
+      "tanggal": "tertulis di teks berita",
+      "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}.png",
+      "catatan": "Portal berita ada di subdomain kabar. URL memuat parameter RSS, artinya ada feed RSS WordPress (/feed/) yang layak dicoba."
+    },
+    "blitar_kab": {
+      "domain": "blitarkab.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://www.blitarkab.go.id/",
+      "pola_url": "/YYYY/MM/DD/{slug}/",
+      "tanggal": "ada di URL",
+      "pola_foto": "/wp-content/uploads/YYYY/MM/{nama}.jpg",
+      "catatan": "Beranda memuat 3 berita terbaru (31 Okt)."
+    },
+    "jombang": {
+      "domain": "jombangkab.go.id",
+      "wilayah": "Mataraman",
+      "status": "ok",
+      "daftar": "https://www.jombangkab.go.id/berita",
+      "pola_url": "/berita/{slug}-{id_berurutan}",
+      "tanggal": "tertulis di daftar",
+      "catatan": "Foto berita tidak tampil di beranda; ambil dari halaman artikel."
+    },
+    "pasuruan": {
+      "domain": "pasuruankab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "ok",
+      "daftar": "https://pasuruankab.go.id/berita",
+      "pola_url": "/berita/{slug}",
+      "tanggal": "tertulis di daftar (DD Bulan YYYY)",
+      "catatan": "Daftar memuat berita 1 Nov 2026. Foto dari halaman artikel."
+    },
+    "trenggalek": {
+      "domain": "trenggalekkab.go.id",
+      "wilayah": "Mataraman",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "kediri_kab": {
+      "domain": "kedirikab.go.id",
+      "wilayah": "Mataraman",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "madiun_kab": {
+      "domain": "madiunkab.go.id",
+      "wilayah": "Mataraman",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "probolinggo": {
+      "domain": "probolinggokab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "lumajang": {
+      "domain": "lumajangkab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "situbondo": {
+      "domain": "situbondokab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "gagal",
+      "catatan": "WebFetch error pada beranda. Coba WebSearch allowed_domains."
+    },
+    "nganjuk": {
+      "domain": "nganjukkab.go.id",
+      "wilayah": "Mataraman",
+      "status": "blokir",
+      "catatan": "robots melarang WebFetch."
+    },
+    "bondowoso": {
+      "domain": "bondowosokab.go.id",
+      "wilayah": "Tapal Kuda",
+      "status": "blokir",
+      "catatan": "robots melarang WebFetch."
+    },
+    "bangkalan": {
+      "domain": "bangkalankab.go.id",
+      "wilayah": "Madura",
+      "status": "js_tidak_terbaca",
+      "catatan": "Daftar berita dimuat lewat JavaScript, tidak terbaca WebFetch. Daftar: /berita."
+    },
+    "sampang": {
+      "domain": "sampangkab.go.id",
+      "wilayah": "Madura",
+      "status": "js_tidak_terbaca",
+      "catatan": "Daftar berita dimuat lewat JavaScript, tidak terbaca WebFetch."
+    }
+  },
+  "catatan_topik": "Banyak situs (Blitar, Jombang, Pasuruan, Mojokerto Kab, Sumenep) memuat berita yang sama: Jawa Pos Wilwatikta Awards 2026 (31 Okt). Itu satu peristiwa; ambil paling banyak satu paket dan hitung sebagai seremonial (maks 2 per batch).",
+  "ringkasan_cakupan": {
+    "ok": [
+      "surabaya",
+      "sidoarjo(sebagian)",
+      "mojokerto_kab",
+      "kediri_kota",
+      "madiun_kota",
+      "ngawi",
+      "pacitan",
+      "tulungagung",
+      "blitar_kab",
+      "jombang",
+      "jember",
+      "pasuruan",
+      "pamekasan",
+      "sumenep"
+    ],
+    "tidak_terbaca": [
+      "gresik",
+      "batu",
+      "malang_kota",
+      "malang_kab",
+      "mojokerto_kota",
+      "jatim_prov"
+    ],
+    "risiko": "Malang Raya (kuota 3) hampir pasti tidak terpenuhi dari situs resmi yang bisa dibaca. Gunakan aturan cadangan: alihkan kuota ke wilayah lain dan catat alasannya di manifest."
   }
 }
