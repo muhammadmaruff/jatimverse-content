@@ -17,3 +17,5 @@ Selain bahan pokok, GPM dimanfaatkan untuk mempromosikan UMKM kuliner. Pelaku us
 Nanik menyatakan kecukupan pangan di Surabaya dalam kondisi aman. Ia juga menilai dampak inflasi di Surabaya tidak terlalu terasa dibandingkan daerah lain. Pernyataan itu merupakan penilaian dari pihak pemkot.
 
 Ke depan, DKPP menargetkan jumlah tenan UMKM yang berpartisipasi dalam GPM bertambah setiap bulan. Lokasi kegiatan akan dipilih bergiliran dengan mempertimbangkan kepadatan penduduk dan ketersediaan tempat.
+
+Sumber: Pemerintah Kota Surabaya

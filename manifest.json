@@ -1,5 +1,6 @@
 {
   "versi": 1,
+  "ambang_kata_uji": 200,
   "paket": [
     {
       "id": "2026-11-01_surabaya-raya_gpm-wonokromo",
@@ -28,15 +29,13 @@
       "tgl_upload": "2026-11-01T21:33:46+07:00",
       "catatan_wp": "metadata kurang: dapil belum diisi",
       "kategori": "ekonomi",
-      "rubrik": "Ekonomi/UMKM",
+      "rubrik": "cuan-jatim",
       "tag": [
-        "Surabaya",
-        "Gerakan Pangan Murah",
+        "Pangan Murah",
         "Inflasi",
         "Nataru",
         "Wonokromo"
-      ],
-      "dapil": ""
+      ]
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -65,15 +64,13 @@
       "tgl_upload": "2026-11-01T21:33:49+07:00",
       "catatan_wp": "metadata kurang: dapil belum diisi",
       "kategori": "politik",
-      "rubrik": "Pendidikan",
+      "rubrik": "suara-arek",
       "tag": [
-        "Surabaya",
-        "Eri Cahyadi",
+        "Pendidikan",
         "Pungutan Sekolah",
-        "SD dan SMP Negeri",
-        "Dinas Pendidikan"
-      ],
-      "dapil": ""
+        "Eri Cahyadi",
+        "SD dan SMP Negeri"
+      ]
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -102,15 +99,14 @@
       "tgl_upload": "2026-11-01T21:33:56+07:00",
       "catatan_wp": "metadata kurang: dapil belum diisi",
       "kategori": "politik",
-      "rubrik": "Keamanan",
+      "rubrik": "suara-arek",
       "tag": [
-        "Surabaya",
+        "Eri Cahyadi",
         "Jalan Kunti",
-        "Narkoba",
-        "Pemberdayaan Ekonomi",
-        "UMKM"
-      ],
-      "dapil": ""
+        "UMKM",
+        "Pelatihan Kerja",
+        "Semampir"
+      ]
     }
   ]
 }

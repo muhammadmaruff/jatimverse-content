@@ -40,16 +40,7 @@ def main():
     foto_hash, judul_set, url_set = {}, set(), set()
     gagal_total = 0
     for p in m["paket"]:
-        if p.get("status") == "lengkap":
-            p["_gagal"] = []
-            print(f"{p['id'][-34:]:34} dilewati (sudah lengkap)")
-            continue
         g = []
-        for kolom in ("wilayah", "kabkota", "rubrik", "dapil"):
-            if not str(p.get(kolom) or "").strip():
-                g.append(f"{kolom} kosong")
-        if len(p.get("tag") or []) < 2:
-            g.append("tag < 2")
         md = ROOT / (p.get("file_md") or "tidak-ada")
         jp = ROOT / (p.get("file_jpg") or "tidak-ada")
         if p.get("status") == "lengkap":
@@ -72,6 +63,8 @@ def main():
                 g.append(f"kata {n} < {aturan['ambang_kata']}")
             if not re.match(r"^[A-Z ,.'/-]+ – ", isi[0]):
                 g.append("dateline")
+            if not baris[-1].startswith("Sumber:") and not any(b.startswith("Sumber:") for b in baris):
+                g.append("baris Sumber")
             if len(baris[0].lstrip("# ")) > 75:
                 g.append("judul > ~70 karakter")
         if not jp.exists():

@@ -13,3 +13,5 @@ Kebijakan ini disebut menindaklanjuti laporan masyarakat tentang potensi punguta
 Untuk menindaklanjutinya, Dinas Pendidikan (Dispendik) Kota Surabaya akan turun ke lapangan memeriksa kebutuhan tiap sekolah agar dapat dimasukkan ke dalam anggaran daerah. Menurut Eri, anggaran difokuskan pada sertifikasi dan tunjangan guru agar para guru mampu menyusun soal sendiri tanpa bergantung pada bahan berbayar.
 
 Dengan arahan tersebut, Pemkot Surabaya menyatakan siswa SD dan SMP negeri tidak semestinya dibebani biaya yang menjadi tanggung jawab pemerintah daerah.
+
+Sumber: Pemerintah Kota Surabaya
