@@ -85,7 +85,7 @@ def main():
         # rentang waktu
         try:
             tgl = datetime.fromisoformat(p["tgl_terbit_sumber"]).replace(tzinfo=WIB)
-            batas = 48 if p.get("tanda_48j") else aturan["rentang_jam_hari_kerja"]
+            batas = p.get("rentang_jam_khusus") or (48 if p.get("tanda_48j") else aturan["rentang_jam_hari_kerja"])
             if tgl.date() < (now - timedelta(hours=batas)).date():
                 g.append("di luar rentang waktu")
         except Exception:
