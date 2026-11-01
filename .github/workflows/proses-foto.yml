@@ -1,0 +1,38 @@
+name: proses-foto
+
+on:
+  workflow_dispatch:
+    inputs:
+      uji_url:
+        description: "URL foto untuk uji (kosongkan untuk memproses manifest)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  foto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow requests
+      - name: Jalankan
+        env:
+          UJI_URL: ${{ inputs.uji_url }}
+        run: |
+          if [ -n "$UJI_URL" ]; then
+            python scripts/proses_foto.py --uji $UJI_URL || true
+          else
+            python scripts/proses_foto.py
+          fi
+      - name: Simpan hasil
+        run: |
+          git config user.name "jatimverse-bot"
+          git config user.email "bot@jatimverse.id"
+          git add -A
+          git diff --cached --quiet || git commit -m "proses foto otomatis"
+          git push
