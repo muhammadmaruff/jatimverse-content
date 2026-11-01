@@ -1,7 +1,7 @@
 {
   "diperbarui": "2026-11-01",
   "aturan": {
-    "ambang_kata": 250,
+    "ambang_kata": 200,
     "foto_maks_kb": 100,
     "rentang_jam_hari_kerja": 24,
     "rentang_jam_minggu_senin": 48,
