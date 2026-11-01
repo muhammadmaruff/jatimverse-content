@@ -107,6 +107,131 @@
         "Pelatihan Kerja",
         "Semampir"
       ]
+    },
+    {
+      "id": "2026-11-02_surabaya-raya_rumah-pompa",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Lima Rumah Pompa Baru di Surabaya Ditargetkan Beroperasi 1 Desember",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25875/kabar-baik-warga-surabaya-lima-rumah-pompa-baru-ditargetkan-beroperasi-1-desember-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25875/blob_9128_0.jpg",
+      "tgl_terbit_sumber": "2026-11-01",
+      "tanda_48j": true,
+      "jumlah_kata": 227,
+      "file_md": "artikel/2026-11-02_surabaya-raya_rumah-pompa.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Rumah Pompa",
+        "Banjir Surabaya",
+        "Eri Cahyadi",
+        "DSDABM"
+      ]
+    },
+    {
+      "id": "2026-11-02_surabaya-raya_miras-satpol-pp",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Satpol PP Surabaya Awasi 40 Titik Miras, 15 Toko Disegel",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25873/40-titik-peredaran-miras-di-surabaya-masuk-radar-satpol-pp-15-toko-disegel"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25873/blob_8594_0.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 213,
+      "file_md": "artikel/2026-11-02_surabaya-raya_miras-satpol-pp.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Miras",
+        "Satpol PP Surabaya",
+        "Penyegelan",
+        "Irna Pawanti"
+      ]
+    },
+    {
+      "id": "2026-11-02_surabaya-raya_parkir-parade-juang",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Dishub Surabaya Siapkan 14 Kantong Parkir untuk Parade Juang 2026",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25874/dishub-surabaya-siapkan-rekayasa-lalu-lintas-dan-sediakan-14-kantong-parkir-untuk-parade-juang-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25874/blob_1835_0.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 223,
+      "file_md": "artikel/2026-11-02_surabaya-raya_parkir-parade-juang.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Parade Juang",
+        "Dishub Surabaya",
+        "Kantong Parkir",
+        "Rekayasa Lalu Lintas"
+      ]
+    },
+    {
+      "id": "2026-11-02_surabaya-raya_suroboyo-wani",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Teatrikal Suroboyo Wani Buka Rangkaian Hari Pahlawan di Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25876/parade-juang-suroboyo-wani-wali-kota-eri-cahyadi-tegaskan-semangat-pahlawan-untuk-entaskan-kemiskinan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25876/blob_6019_0.jpg",
+      "tgl_terbit_sumber": "2026-11-01",
+      "tanda_48j": true,
+      "jumlah_kata": 203,
+      "file_md": "artikel/2026-11-02_surabaya-raya_suroboyo-wani.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Hari Pahlawan",
+        "Suroboyo Wani",
+        "Parade Juang",
+        "Tugu Pahlawan"
+      ]
+    },
+    {
+      "id": "2026-11-02_surabaya-raya_wilwatikta-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "judul": "Pemkab Mojokerto Raih Tiga Penghargaan di Wilwatikta Awards 2026",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/fokus-tingkatkan-kinerja-di-berbagai-lini-pemkab-mojokerto-raih-3-penghargaan-1793424567"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261031_122927.jpg",
+      "tgl_terbit_sumber": "2026-10-31",
+      "tanda_48j": true,
+      "jumlah_kata": 216,
+      "file_md": "artikel/2026-11-02_surabaya-raya_wilwatikta-mojokerto.md",
+      "kredit_foto": "Pemkab Mojokerto",
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya (3) dialihkan: situs resmi Malang Raya tidak terbaca/tanpa tanggal",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Wilwatikta Awards 2026",
+        "Pemkab Mojokerto",
+        "Desa Wisata",
+        "Penghargaan Daerah"
+      ]
     }
   ]
 }
