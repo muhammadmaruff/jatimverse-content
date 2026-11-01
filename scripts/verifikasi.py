@@ -63,8 +63,6 @@ def main():
                 g.append(f"kata {n} < {aturan['ambang_kata']}")
             if not re.match(r"^[A-Z ,.'/-]+ – ", isi[0]):
                 g.append("dateline")
-            if not baris[-1].startswith("Sumber:") and not any(b.startswith("Sumber:") for b in baris):
-                g.append("baris Sumber")
             if len(baris[0].lstrip("# ")) > 75:
                 g.append("judul > ~70 karakter")
         if not jp.exists():

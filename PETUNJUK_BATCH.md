@@ -11,10 +11,10 @@ Baca `manifest.json` dan `config/sumber.json` lebih dulu. Jangan mencari ulang t
 3. Kumpulkan kandidat 1,5x kuota. Baca penuh hanya kandidat terpilih, dengan pertanyaan spesifik
    (5W1H, kutipan + nama + jabatan, angka, tanggal terbit, URL foto utama).
 4. Tulis artikel ke `artikel/{id}.md`: baris 1 judul (`# ...`), lalu dateline `KOTA –`, paragraf pendek,
-   baris terakhir `Sumber: [instansi]`. Hanya fakta dari sumber. Kutipan langsung secukupnya, selebihnya tidak langsung.
+   TANPA baris "Sumber:" di akhir (sumber hanya di manifest `url_sumber`). Hanya fakta dari sumber. Kutipan langsung secukupnya, selebihnya tidak langsung.
    Jumlah kata minimal `aturan.ambang_kata`. Jika bahan kurang, ganti topik, jangan menambah fakta.
 5. Tambahkan ke `manifest.json`: status `butuh_gambar`, isi `url_foto_sumber`, `jumlah_kata`, `file_md`, `kredit_foto`.
-   (Hitung jumlah kata: isi di luar judul dan baris Sumber, dateline ikut dihitung.)
+   (Hitung jumlah kata: isi di luar judul; dateline ikut dihitung.)
 6. Commit dan push ke `main`.
 7. Foto: jalankan workflow `proses-foto` (tanpa input):
    `gh api -X POST repos/muhammadmaruff/jatimverse-content/actions/workflows/proses-foto.yml/dispatches -f ref=main`
@@ -32,4 +32,4 @@ Baca `manifest.json` dan `config/sumber.json` lebih dulu. Jangan mencari ulang t
 - Jangan menjadwalkan otomatis sebelum pengguna meminta.
 
 ## Metadata editorial (wajib untuk unggah WordPress)
-Setiap paket di manifest harus punya: `kategori` (politik, ekonomi, jelajah, viral, atau bola), `rubrik` (biar-paham, cuan-jatim, derbi-jatim, jelajah-jatim, suara-arek, atau wakil-kita), dan `tag` (minimal 3 tag topik spesifik dari isi berita). Wilayah dan kabupaten/kota ikut menjadi tag otomatis. Dapil dipetakan dari `kabkota` lewat `dapil_per_kabkota` di `config/wordpress.json` (atau field `dapil` per paket). Baris `Sumber:` tetap ada di berkas md untuk verifikasi, tetapi tidak ditayangkan.
+Setiap paket di manifest harus punya: `kategori` (politik, ekonomi, jelajah, viral, atau bola), `rubrik` (biar-paham, cuan-jatim, derbi-jatim, jelajah-jatim, suara-arek, atau wakil-kita), dan `tag` (minimal 3 tag topik spesifik dari isi berita). Wilayah dan kabupaten/kota ikut menjadi tag otomatis. Dapil dipetakan dari `kabkota` lewat `dapil_per_kabkota` di `config/wordpress.json` (atau field `dapil` per paket). Berkas md TIDAK memakai baris `Sumber:`; sumber hanya dicatat di manifest (`url_sumber`).
