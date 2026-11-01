@@ -15,5 +15,7 @@
     "Madura": "madura",
     "Pantura": "pantura"
   },
-  "dapil_per_kabkota": {}
+  "dapil_per_kabkota": {
+    "Kota Surabaya": "dapil-jatim-1"
+  }
 }
