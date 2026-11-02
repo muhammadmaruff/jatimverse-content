@@ -122,8 +122,8 @@
       "jumlah_kata": 227,
       "file_md": "artikel/2026-11-02_surabaya-raya_rumah-pompa.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -134,7 +134,14 @@
       ],
       "file_jpg": "foto/2026-11-02_surabaya-raya_rumah-pompa.jpg",
       "ukuran_kb": 95.1,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1772,
+      "wp_post_id": 1773,
+      "wp_url": "https://jatimverse.id/?p=1773",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:19:23+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T08:04+07:00"
     },
     {
       "id": "2026-11-02_surabaya-raya_miras-satpol-pp",
@@ -150,8 +157,8 @@
       "jumlah_kata": 213,
       "file_md": "artikel/2026-11-02_surabaya-raya_miras-satpol-pp.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -162,7 +169,14 @@
       ],
       "file_jpg": "foto/2026-11-02_surabaya-raya_miras-satpol-pp.jpg",
       "ukuran_kb": 95.9,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1774,
+      "wp_post_id": 1775,
+      "wp_url": "https://jatimverse.id/?p=1775",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:19:33+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T08:49+07:00"
     },
     {
       "id": "2026-11-02_surabaya-raya_parkir-parade-juang",
@@ -178,8 +192,8 @@
       "jumlah_kata": 223,
       "file_md": "artikel/2026-11-02_surabaya-raya_parkir-parade-juang.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -190,7 +204,14 @@
       ],
       "file_jpg": "foto/2026-11-02_surabaya-raya_parkir-parade-juang.jpg",
       "ukuran_kb": 96.9,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1776,
+      "wp_post_id": 1777,
+      "wp_url": "https://jatimverse.id/?p=1777",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:19:44+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T09:34+07:00"
     },
     {
       "id": "2026-11-02_surabaya-raya_suroboyo-wani",
@@ -206,8 +227,8 @@
       "jumlah_kata": 203,
       "file_md": "artikel/2026-11-02_surabaya-raya_suroboyo-wani.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -218,7 +239,14 @@
       ],
       "file_jpg": "foto/2026-11-02_surabaya-raya_suroboyo-wani.jpg",
       "ukuran_kb": 98.4,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1778,
+      "wp_post_id": 1779,
+      "wp_url": "https://jatimverse.id/?p=1779",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:19:55+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T10:19+07:00"
     },
     {
       "id": "2026-11-02_surabaya-raya_wilwatikta-mojokerto",
@@ -235,7 +263,7 @@
       "file_md": "artikel/2026-11-02_surabaya-raya_wilwatikta-mojokerto.md",
       "kredit_foto": "Pemkab Mojokerto",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -263,7 +291,7 @@
       "file_md": "artikel/2026-11-02_mataraman_pasar-murah-jombang.md",
       "kredit_foto": "Pemkab Jombang",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -292,7 +320,7 @@
       "file_md": "artikel/2026-11-02_mataraman_ranperda-tulungagung.md",
       "kredit_foto": "Diskominfo Tulungagung",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "politik",
       "rubrik": "wakil-kita",
       "tag": [
@@ -321,7 +349,7 @@
       "file_md": "artikel/2026-11-02_mataraman_rebana-madiun.md",
       "kredit_foto": "Pemkot Madiun",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -349,7 +377,7 @@
       "file_md": "artikel/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.md",
       "kredit_foto": "Pemkot Madiun",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -377,7 +405,7 @@
       "file_md": "artikel/2026-11-02_mataraman_duta-pemuda-blitar.md",
       "kredit_foto": "Pemkab Blitar",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -405,7 +433,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_lomba-dai-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -433,7 +461,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_esport-free-fire-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -462,7 +490,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_charity-cup-golf-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "butuh_gambar",
-      "catatan": "foto gagal: RuntimeError: tidak bisa ≤100 KB",
+      "catatan": "dapil tidak terpetakan; jpg hilang",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -487,7 +515,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -515,7 +543,7 @@
       "file_md": "artikel/2026-11-02_madura_patroli-balap-liar-sumenep.md",
       "kredit_foto": "Polresta Sumenep",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -543,7 +571,7 @@
       "file_md": "artikel/2026-11-02_madura_sidak-urine-bnnk-sumenep.md",
       "kredit_foto": "BNNK Sumenep",
       "status": "draf",
-      "catatan": "foto diproses, menunggu verifikasi",
+      "catatan": "dapil tidak terpetakan",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
