@@ -122,8 +122,8 @@
       "jumlah_kata": 227,
       "file_md": "artikel/2026-11-02_surabaya-raya_rumah-pompa.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -131,7 +131,10 @@
         "Banjir Surabaya",
         "Eri Cahyadi",
         "DSDABM"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_surabaya-raya_rumah-pompa.jpg",
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_surabaya-raya_miras-satpol-pp",
@@ -147,8 +150,8 @@
       "jumlah_kata": 213,
       "file_md": "artikel/2026-11-02_surabaya-raya_miras-satpol-pp.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -156,7 +159,10 @@
         "Satpol PP Surabaya",
         "Penyegelan",
         "Irna Pawanti"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_surabaya-raya_miras-satpol-pp.jpg",
+      "ukuran_kb": 95.9,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_surabaya-raya_parkir-parade-juang",
@@ -172,8 +178,8 @@
       "jumlah_kata": 223,
       "file_md": "artikel/2026-11-02_surabaya-raya_parkir-parade-juang.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -181,7 +187,10 @@
         "Dishub Surabaya",
         "Kantong Parkir",
         "Rekayasa Lalu Lintas"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_surabaya-raya_parkir-parade-juang.jpg",
+      "ukuran_kb": 96.9,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_surabaya-raya_suroboyo-wani",
@@ -197,8 +206,8 @@
       "jumlah_kata": 203,
       "file_md": "artikel/2026-11-02_surabaya-raya_suroboyo-wani.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -206,7 +215,10 @@
         "Suroboyo Wani",
         "Parade Juang",
         "Tugu Pahlawan"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_surabaya-raya_suroboyo-wani.jpg",
+      "ukuran_kb": 98.4,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_surabaya-raya_wilwatikta-mojokerto",
@@ -222,8 +234,8 @@
       "jumlah_kata": 216,
       "file_md": "artikel/2026-11-02_surabaya-raya_wilwatikta-mojokerto.md",
       "kredit_foto": "Pemkab Mojokerto",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin); kuota Malang Raya (3) dialihkan: situs resmi Malang Raya tidak terbaca/tanpa tanggal",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -231,7 +243,10 @@
         "Pemkab Mojokerto",
         "Desa Wisata",
         "Penghargaan Daerah"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_surabaya-raya_wilwatikta-mojokerto.jpg",
+      "ukuran_kb": 96.3,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_mataraman_pasar-murah-jombang",
@@ -247,8 +262,8 @@
       "jumlah_kata": 163,
       "file_md": "artikel/2026-11-02_mataraman_pasar-murah-jombang.md",
       "kredit_foto": "Pemkab Jombang",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin); kuota Pantura (3) dialihkan ke Mataraman: rilis resmi Tuban/Lamongan/Bojonegoro tidak terbaca atau di luar rentang. Artikel di bawah ambang kata karena sumber tanpa kutipan.",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -257,7 +272,10 @@
         "Inflasi",
         "UMKM",
         "Bupati Warsubi"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_mataraman_pasar-murah-jombang.jpg",
+      "ukuran_kb": 87.7,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_mataraman_ranperda-tulungagung",
@@ -273,8 +291,8 @@
       "jumlah_kata": 192,
       "file_md": "artikel/2026-11-02_mataraman_ranperda-tulungagung.md",
       "kredit_foto": "Diskominfo Tulungagung",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin); jam terbit 02.39 WIB 31 Okt, tepat di batas rentang",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "wakil-kita",
       "tag": [
@@ -283,7 +301,10 @@
         "Rapat Paripurna",
         "Ahmad Baharudin",
         "Penyandang Disabilitas"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_mataraman_ranperda-tulungagung.jpg",
+      "ukuran_kb": 96.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_mataraman_rebana-madiun",
@@ -299,8 +320,8 @@
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-02_mataraman_rebana-madiun.md",
       "kredit_foto": "Pemkot Madiun",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -308,7 +329,10 @@
         "Hari Santri",
         "Pendidikan Agama Islam",
         "Plt Wali Kota Madiun"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_mataraman_rebana-madiun.jpg",
+      "ukuran_kb": 98.3,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_mataraman_masjid-hubbul-jamal-madiun",
@@ -324,8 +348,8 @@
       "jumlah_kata": 180,
       "file_md": "artikel/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.md",
       "kredit_foto": "Pemkot Madiun",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin); artikel di bawah ambang kata bila terhitung kurang dari 200",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -333,7 +357,10 @@
         "Nambangan Lor",
         "Plt Wali Kota Madiun",
         "Wali Kota Bersama Rakyat"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.jpg",
+      "ukuran_kb": 98.4,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_mataraman_duta-pemuda-blitar",
@@ -349,8 +376,8 @@
       "jumlah_kata": 160,
       "file_md": "artikel/2026-11-02_mataraman_duta-pemuda-blitar.md",
       "kredit_foto": "Pemkab Blitar",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin); sumber tanpa kutipan langsung, mungkin di bawah ambang kata",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -358,7 +385,10 @@
         "Pemkab Blitar",
         "Sekda Blitar",
         "Khusna Lindarti"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_mataraman_duta-pemuda-blitar.jpg",
+      "ukuran_kb": 93.8,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_tapal-kuda_lomba-dai-pasuruan",
@@ -374,8 +404,8 @@
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-02_tapal-kuda_lomba-dai-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -383,7 +413,10 @@
         "Hari Santri",
         "Wakil Bupati Pasuruan",
         "Literasi Digital"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_tapal-kuda_lomba-dai-pasuruan.jpg",
+      "ukuran_kb": 95.3,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_tapal-kuda_esport-free-fire-pasuruan",
@@ -399,8 +432,8 @@
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-02_tapal-kuda_esport-free-fire-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -409,7 +442,10 @@
         "KORMI Pasuruan",
         "Bupati Cup",
         "FORPOV Jatim"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_tapal-kuda_esport-free-fire-pasuruan.jpg",
+      "ukuran_kb": 94.7,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_tapal-kuda_charity-cup-golf-pasuruan",
@@ -426,7 +462,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_charity-cup-golf-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "catatan": "foto gagal: RuntimeError: tidak bisa ≤100 KB",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -450,8 +486,8 @@
       "jumlah_kata": 192,
       "file_md": "artikel/2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -459,7 +495,10 @@
         "Hari Santri",
         "Kraton Pasuruan",
         "Sidogiri"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan.jpg",
+      "ukuran_kb": 97.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_madura_patroli-balap-liar-sumenep",
@@ -475,8 +514,8 @@
       "jumlah_kata": 182,
       "file_md": "artikel/2026-11-02_madura_patroli-balap-liar-sumenep.md",
       "kredit_foto": "Polresta Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -484,7 +523,10 @@
         "Balap Liar",
         "Polresta Sumenep",
         "Kamtibmas"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_madura_patroli-balap-liar-sumenep.jpg",
+      "ukuran_kb": 94.9,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_madura_sidak-urine-bnnk-sumenep",
@@ -500,8 +542,8 @@
       "jumlah_kata": 157,
       "file_md": "artikel/2026-11-02_madura_sidak-urine-bnnk-sumenep.md",
       "kredit_foto": "BNNK Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "rentang 48 jam (Senin)",
+      "status": "draf",
+      "catatan": "foto diproses, menunggu verifikasi",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -509,7 +551,10 @@
         "Tes Urine",
         "Narkoba",
         "Ferry Sandy Sitepu"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_madura_sidak-urine-bnnk-sumenep.jpg",
+      "ukuran_kb": 93.3,
+      "dimensi": "1280x720"
     }
   ]
 }
