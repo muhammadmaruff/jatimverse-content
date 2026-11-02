@@ -748,6 +748,110 @@
       "file_md": "artikel/2026-11-03_surabaya-raya_jalan-panjer-seduri-mojokerto.md",
       "status": "butuh_gambar",
       "catatan": "kata 189 < 200; Malang Raya (3) dan 1 kuota Surabaya Raya tidak terpenuhi: situs Malang/Batu/Gresik/Surabaya tidak terbaca, Sidoarjo 1 Nov di luar 24 jam"
+    },
+    {
+      "id": "2026-11-03_mataraman_kontingen-jombang-popda",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "judul": "Bupati Jombang Lepas 289 Atlet ke Popda, Peparpeda, dan FYBI",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/bupati-warsubi-lepas-289-atlet-kontingen-jombang-untuk-ajang-popda-peparpeda-dan-kejurnas-fybi-2026-24631"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/2b9c4242-aac8-4689-93e0-a9c11a29cdc6.jpg",
+      "tgl_terbit_sumber": "2026-11-02",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Popda XV Jatim 2026",
+        "Peparpeda III",
+        "Kejurnas FYBI",
+        "Disporapar Jombang",
+        "Bupati Warsubi"
+      ],
+      "tanda_48j": false,
+      "jumlah_kata": 233,
+      "file_md": "artikel/2026-11-03_mataraman_kontingen-jombang-popda.md",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+    },
+    {
+      "id": "2026-11-03_mataraman_kejurkab-bulutangkis-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "judul": "Wabup Blitar Buka Kejurkab Bulutangkis dan Lantik Pengurus PBSI",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/11/02/buka-kejurkab-2026-wabup-kaji-beky-bakar-semangat-atlet-dan-lantik-pengurus-baru-pbsi-blitar/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/pelantikan-pengurus-pbsi-2026.jpeg",
+      "tgl_terbit_sumber": "2026-11-02",
+      "kredit_foto": "Pemkab Blitar",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Bulutangkis",
+        "PBSI Blitar",
+        "Kejurkab 2026",
+        "Wabup Beky Herdihansah",
+        "Piala Bupati Blitar"
+      ],
+      "tanda_48j": false,
+      "jumlah_kata": 149,
+      "file_md": "artikel/2026-11-03_mataraman_kejurkab-bulutangkis-blitar.md",
+      "status": "butuh_gambar",
+      "catatan": "kata 149 < 200; sumber tidak memuat angka peserta; Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+    },
+    {
+      "id": "2026-11-03_mataraman_antikorupsi-smpn1-madiun",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Madiun",
+      "judul": "Plt Wali Kota Madiun Tanamkan Pendidikan Antikorupsi di SMPN 1",
+      "url_sumber": [
+        "https://madiunkota.go.id/berita/2026/11/02/bangun-generasi-berintegritas-pendidikan-antikorupsi-dan-kolaborasi-antarsekolah-diperluas"
+      ],
+      "url_foto_sumber": "https://madiunkota.go.id/menu/file/eyJpdiI6IlRNWUdidTlpVnlGWEVhZEtxTzlqVnc9PSIsInZhbHVlIjoic2lDR0EwNXZDaXB4YUh6cVpsakpodWNCbGdnb0liWm41QjlNMm40a3FzdWM5WjZwNmJjYUF6TExmRTkxZE1BTXJkZXZNWXEzNUlITlZsOGVrMXlyV0FhQWRrVE5OVU9wRms1Tk54NE5XdVF0ZnNTUXBKbmE4bU9hZjB1Zzk5WlMiLCJtYWMiOiI3ZDc3MGZlNWQwODMxMzM3NDc2NGZkYmJhOTZiYmRlYmRlYmEzNTg2YzEyMzhmOGQyYzMxNjYwMjRmMDQ0N2ZkIiwidGFnIjoiIn0%3D",
+      "tgl_terbit_sumber": "2026-11-02",
+      "kredit_foto": "Pemkot Madiun",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Pendidikan Antikorupsi",
+        "SMPN 1 Madiun",
+        "Bagus Panuntun",
+        "SMP Tara Salvia",
+        "Pramuka Jatim"
+      ],
+      "tanda_48j": false,
+      "jumlah_kata": 194,
+      "file_md": "artikel/2026-11-03_mataraman_antikorupsi-smpn1-madiun.md",
+      "status": "butuh_gambar",
+      "catatan": "kata 194 < 200; sumber tidak memuat angka peserta; Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+    },
+    {
+      "id": "2026-11-03_pantura_waspada-qris-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "judul": "Dinkominfo Bojonegoro Ingatkan Warga soal Penyalahgunaan QRIS",
+      "url_sumber": [
+        "https://dinkominfo.bojonegorokab.go.id/berita/dinkominfo-bojonegoro-ajak-warga-waspadai-penyalahgunaan-qris-untuk-transaksi-ilegal"
+      ],
+      "url_foto_sumber": "https://dinkominfo.bojonegorokab.go.id/storage/posts/2026-11-02/uvTNHN1XCMRPjo8j17ljBC88GT3D56vkFX9IbSMq.webp",
+      "tgl_terbit_sumber": "2026-11-02",
+      "kredit_foto": "Dinkominfo Bojonegoro",
+      "kategori": "ekonomi",
+      "rubrik": "biar-paham",
+      "tag": [
+        "QRIS",
+        "Judi Online",
+        "Penipuan Digital",
+        "Dinkominfo Bojonegoro",
+        "Literasi Digital"
+      ],
+      "tanda_48j": false,
+      "jumlah_kata": 206,
+      "file_md": "artikel/2026-11-03_pantura_waspada-qris-bojonegoro.md",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
     }
   ]
 }
