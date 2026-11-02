@@ -545,8 +545,8 @@
       "jumlah_kata": 162,
       "file_md": "artikel/2026-11-02_tapal-kuda_charity-cup-golf-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "jpg hilang",
+      "status": "lengkap",
+      "catatan": "kata 162 < 200 (tetap ditayangkan)",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -554,7 +554,10 @@
         "Golf",
         "Prigen",
         "Wisata Pasuruan"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-02_tapal-kuda_charity-cup-golf-pasuruan.jpg",
+      "ukuran_kb": 96.2,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan",
