@@ -41,6 +41,7 @@ def main():
     gagal_total = 0
     for p in m["paket"]:
         g = []
+        peringatan = []
         # metadata editorial wajib
         KAT = {"politik", "ekonomi", "jelajah", "viral", "bola"}
         RUB = {"biar-paham", "cuan-jatim", "derbi-jatim", "jelajah-jatim", "suara-arek", "wakil-kita"}
