@@ -262,8 +262,8 @@
       "jumlah_kata": 216,
       "file_md": "artikel/2026-11-02_surabaya-raya_wilwatikta-mojokerto.md",
       "kredit_foto": "Pemkab Mojokerto",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -274,7 +274,14 @@
       ],
       "file_jpg": "foto/2026-11-02_surabaya-raya_wilwatikta-mojokerto.jpg",
       "ukuran_kb": 96.3,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1781,
+      "wp_post_id": 1782,
+      "wp_url": "https://jatimverse.id/?p=1782",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:24:34+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T11:04+07:00"
     },
     {
       "id": "2026-11-02_mataraman_pasar-murah-jombang",
@@ -290,8 +297,8 @@
       "jumlah_kata": 163,
       "file_md": "artikel/2026-11-02_mataraman_pasar-murah-jombang.md",
       "kredit_foto": "Pemkab Jombang",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 163 < 200 (tetap ditayangkan)",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -303,7 +310,14 @@
       ],
       "file_jpg": "foto/2026-11-02_mataraman_pasar-murah-jombang.jpg",
       "ukuran_kb": 87.7,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1783,
+      "wp_post_id": 1784,
+      "wp_url": "https://jatimverse.id/?p=1784",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:24:43+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T11:49+07:00"
     },
     {
       "id": "2026-11-02_mataraman_ranperda-tulungagung",
@@ -319,8 +333,8 @@
       "jumlah_kata": 192,
       "file_md": "artikel/2026-11-02_mataraman_ranperda-tulungagung.md",
       "kredit_foto": "Diskominfo Tulungagung",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 192 < 200 (tetap ditayangkan)",
       "kategori": "politik",
       "rubrik": "wakil-kita",
       "tag": [
@@ -332,7 +346,14 @@
       ],
       "file_jpg": "foto/2026-11-02_mataraman_ranperda-tulungagung.jpg",
       "ukuran_kb": 96.1,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1785,
+      "wp_post_id": 1786,
+      "wp_url": "https://jatimverse.id/?p=1786",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:24:55+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T12:34+07:00"
     },
     {
       "id": "2026-11-02_mataraman_rebana-madiun",
@@ -348,8 +369,8 @@
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-02_mataraman_rebana-madiun.md",
       "kredit_foto": "Pemkot Madiun",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -360,7 +381,14 @@
       ],
       "file_jpg": "foto/2026-11-02_mataraman_rebana-madiun.jpg",
       "ukuran_kb": 98.3,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1787,
+      "wp_post_id": 1788,
+      "wp_url": "https://jatimverse.id/?p=1788",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:25:05+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T13:19+07:00"
     },
     {
       "id": "2026-11-02_mataraman_masjid-hubbul-jamal-madiun",
@@ -376,8 +404,8 @@
       "jumlah_kata": 180,
       "file_md": "artikel/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.md",
       "kredit_foto": "Pemkot Madiun",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 180 < 200 (tetap ditayangkan)",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -388,7 +416,14 @@
       ],
       "file_jpg": "foto/2026-11-02_mataraman_masjid-hubbul-jamal-madiun.jpg",
       "ukuran_kb": 98.4,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1789,
+      "wp_post_id": 1790,
+      "wp_url": "https://jatimverse.id/?p=1790",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:25:21+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T14:04+07:00"
     },
     {
       "id": "2026-11-02_mataraman_duta-pemuda-blitar",
@@ -404,8 +439,8 @@
       "jumlah_kata": 160,
       "file_md": "artikel/2026-11-02_mataraman_duta-pemuda-blitar.md",
       "kredit_foto": "Pemkab Blitar",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 160 < 200 (tetap ditayangkan)",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -416,7 +451,14 @@
       ],
       "file_jpg": "foto/2026-11-02_mataraman_duta-pemuda-blitar.jpg",
       "ukuran_kb": 93.8,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1791,
+      "wp_post_id": 1792,
+      "wp_url": "https://jatimverse.id/?p=1792",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:25:30+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T14:49+07:00"
     },
     {
       "id": "2026-11-02_tapal-kuda_lomba-dai-pasuruan",
@@ -432,8 +474,8 @@
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-02_tapal-kuda_lomba-dai-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -444,7 +486,14 @@
       ],
       "file_jpg": "foto/2026-11-02_tapal-kuda_lomba-dai-pasuruan.jpg",
       "ukuran_kb": 95.3,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1793,
+      "wp_post_id": 1794,
+      "wp_url": "https://jatimverse.id/?p=1794",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:25:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T15:34+07:00"
     },
     {
       "id": "2026-11-02_tapal-kuda_esport-free-fire-pasuruan",
@@ -460,8 +509,8 @@
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-02_tapal-kuda_esport-free-fire-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -473,7 +522,14 @@
       ],
       "file_jpg": "foto/2026-11-02_tapal-kuda_esport-free-fire-pasuruan.jpg",
       "ukuran_kb": 94.7,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1795,
+      "wp_post_id": 1796,
+      "wp_url": "https://jatimverse.id/?p=1796",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:25:52+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T16:19+07:00"
     },
     {
       "id": "2026-11-02_tapal-kuda_charity-cup-golf-pasuruan",
@@ -490,7 +546,7 @@
       "file_md": "artikel/2026-11-02_tapal-kuda_charity-cup-golf-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
       "status": "butuh_gambar",
-      "catatan": "dapil tidak terpetakan; jpg hilang",
+      "catatan": "jpg hilang",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
       "tag": [
@@ -514,8 +570,8 @@
       "jumlah_kata": 192,
       "file_md": "artikel/2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 192 < 200 (tetap ditayangkan)",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -526,7 +582,14 @@
       ],
       "file_jpg": "foto/2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan.jpg",
       "ukuran_kb": 97.1,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1797,
+      "wp_post_id": 1798,
+      "wp_url": "https://jatimverse.id/?p=1798",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:26:02+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T17:04+07:00"
     },
     {
       "id": "2026-11-02_madura_patroli-balap-liar-sumenep",
@@ -542,8 +605,8 @@
       "jumlah_kata": 182,
       "file_md": "artikel/2026-11-02_madura_patroli-balap-liar-sumenep.md",
       "kredit_foto": "Polresta Sumenep",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 182 < 200 (tetap ditayangkan)",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -554,7 +617,14 @@
       ],
       "file_jpg": "foto/2026-11-02_madura_patroli-balap-liar-sumenep.jpg",
       "ukuran_kb": 94.9,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1799,
+      "wp_post_id": 1800,
+      "wp_url": "https://jatimverse.id/?p=1800",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-02T07:26:12+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-02T17:49+07:00"
     },
     {
       "id": "2026-11-02_madura_sidak-urine-bnnk-sumenep",
@@ -570,8 +640,8 @@
       "jumlah_kata": 157,
       "file_md": "artikel/2026-11-02_madura_sidak-urine-bnnk-sumenep.md",
       "kredit_foto": "BNNK Sumenep",
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan",
+      "status": "lengkap",
+      "catatan": "kata 157 < 200 (tetap ditayangkan)",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
