@@ -36,12 +36,54 @@ def parse_md(path):
     return judul, paragraf
 
 
+SINGKATAN = {"dr", "drs", "ir", "prof", "h", "hj", "kh", "no", "rp", "kec", "kab", "jl", "dsb", "dll",
+             "dkk", "tn", "ny", "st", "mr", "sdr", "pt", "cv", "ud", "apt", "drg", "kol", "bpk", "ak",
+             "abd", "gg", "ds", "kel", "kota", "ps", "tgl", "hlm", "dst", "yth", "spd", "mpd", "se",
+             "msi", "sh", "mh", "st", "mt", "mm", "mag", "skom", "ssos", "sip", "ssi", "sag", "mhum"}
+BATAS_KALIMAT = re.compile(r'[.!?]+["\u201d)\]]*\s+(?=["\u201c(\[]?[A-Z0-9])')
+
+
+def pecah_kalimat(teks):
+    """Pecah paragraf menjadi kalimat; tidak memecah di dalam tanda kutip, singkatan, atau inisial."""
+    hasil, awal = [], 0
+    for mt in BATAS_KALIMAT.finditer(teks):
+        sebelum = teks[awal:mt.start()]
+        penutup = mt.group(0)
+        # status kutip pada titik tanda baca
+        buka_lengkung = teks[:mt.start()].count("\u201c") - teks[:mt.start()].count("\u201d")
+        lurus = teks[:mt.start()].count('"') % 2 == 1
+        menutup = ('"' in penutup) or ("\u201d" in penutup)
+        if (buka_lengkung > 0 or lurus) and not menutup:
+            continue
+        kata = re.search(r"(\S+)$", teks[:mt.start()])
+        kata = kata.group(1) if kata else ""
+        bersih = re.sub(r"[^A-Za-z.]", "", kata)
+        if penutup.startswith("."):
+            inti = bersih.rstrip(".").lower().replace(".", "")
+            if inti in SINGKATAN or (len(inti) == 1 and inti.isalpha()) or re.fullmatch(r"\d+", kata.strip("()\"\u201c\u201d")):
+                continue
+        hasil.append(teks[awal:mt.end()].strip())
+        awal = mt.end()
+    sisa = teks[awal:].strip()
+    if sisa:
+        hasil.append(sisa)
+    return hasil
+
+
 def ke_html(paragraf):
+    """Satu <p> berisi 1-2 kalimat; baris 'Sumber:' tidak ditayangkan."""
     out = []
     for p in paragraf:
         if p.startswith("Sumber:"):
-            continue  # baris sumber tidak ditayangkan
-        out.append(f"<p>{html.escape(p)}</p>")
+            continue
+        k = pecah_kalimat(p)
+        i = 0
+        while i < len(k):
+            potong = k[i:i + 2]
+            if len(potong) == 2 and len(potong[0]) + len(potong[1]) > 420:
+                potong = potong[:1]
+            out.append(f"<p>{html.escape(' '.join(potong))}</p>")
+            i += len(potong)
     return "\n".join(out)
 
 
@@ -149,8 +191,9 @@ def sinkron_meta(wp, cfg, p):
             lama = set(v.get(kunci, []))
             if lama | set(ids[kunci]) != lama:
                 upd[kunci] = sorted(lama | set(ids[kunci]))
-    if "Sumber:" in (v.get("content") or {}).get("raw", ""):
-        upd["content"] = ke_html(parse_md(ROOT / p["file_md"])[1])
+    isi_baru = ke_html(parse_md(ROOT / p["file_md"])[1])
+    if (v.get("content") or {}).get("raw", "") != isi_baru:
+        upd["content"] = isi_baru
     if upd:
         r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}", json=upd)
         if not r.ok:
