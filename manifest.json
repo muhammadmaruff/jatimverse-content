@@ -694,8 +694,18 @@
       "tanda_48j": false,
       "jumlah_kata": 223,
       "file_md": "artikel/2026-11-03_surabaya-raya_popda-sidoarjo.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-03_surabaya-raya_popda-sidoarjo.jpg",
+      "ukuran_kb": 97.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 1826,
+      "wp_post_id": 1827,
+      "wp_url": "https://jatimverse.id/?p=1827",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:43:26+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T10:28+07:00"
     },
     {
       "id": "2026-11-03_surabaya-raya_pppk-paruh-waktu-sidoarjo",
@@ -720,8 +730,18 @@
       "tanda_48j": false,
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-03_surabaya-raya_pppk-paruh-waktu-sidoarjo.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-03_surabaya-raya_pppk-paruh-waktu-sidoarjo.jpg",
+      "ukuran_kb": 96.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 1828,
+      "wp_post_id": 1829,
+      "wp_url": "https://jatimverse.id/?p=1829",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:43:38+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T11:13+07:00"
     },
     {
       "id": "2026-11-03_surabaya-raya_jalan-panjer-seduri-mojokerto",
@@ -746,8 +766,18 @@
       "tanda_48j": false,
       "jumlah_kata": 189,
       "file_md": "artikel/2026-11-03_surabaya-raya_jalan-panjer-seduri-mojokerto.md",
-      "status": "butuh_gambar",
-      "catatan": "kata 189 < 200; Malang Raya (3) dan 1 kuota Surabaya Raya tidak terpenuhi: situs Malang/Batu/Gresik/Surabaya tidak terbaca, Sidoarjo 1 Nov di luar 24 jam"
+      "status": "lengkap",
+      "catatan": "kata 189 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-03_surabaya-raya_jalan-panjer-seduri-mojokerto.jpg",
+      "ukuran_kb": 97.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 1830,
+      "wp_post_id": 1831,
+      "wp_url": "https://jatimverse.id/?p=1831",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:43:48+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T11:58+07:00"
     },
     {
       "id": "2026-11-03_mataraman_kontingen-jombang-popda",
@@ -772,8 +802,18 @@
       "tanda_48j": false,
       "jumlah_kata": 233,
       "file_md": "artikel/2026-11-03_mataraman_kontingen-jombang-popda.md",
-      "status": "butuh_gambar",
-      "catatan": "Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-03_mataraman_kontingen-jombang-popda.jpg",
+      "ukuran_kb": 93.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 1832,
+      "wp_post_id": 1833,
+      "wp_url": "https://jatimverse.id/?p=1833",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:43:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T12:43+07:00"
     },
     {
       "id": "2026-11-03_mataraman_kejurkab-bulutangkis-blitar",
@@ -798,8 +838,18 @@
       "tanda_48j": false,
       "jumlah_kata": 149,
       "file_md": "artikel/2026-11-03_mataraman_kejurkab-bulutangkis-blitar.md",
-      "status": "butuh_gambar",
-      "catatan": "kata 149 < 200; sumber tidak memuat angka peserta; Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+      "status": "lengkap",
+      "catatan": "kata 149 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-03_mataraman_kejurkab-bulutangkis-blitar.jpg",
+      "ukuran_kb": 97.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1834,
+      "wp_post_id": 1835,
+      "wp_url": "https://jatimverse.id/?p=1835",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:44:10+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T13:28+07:00"
     },
     {
       "id": "2026-11-03_mataraman_antikorupsi-smpn1-madiun",
@@ -824,8 +874,18 @@
       "tanda_48j": false,
       "jumlah_kata": 194,
       "file_md": "artikel/2026-11-03_mataraman_antikorupsi-smpn1-madiun.md",
-      "status": "butuh_gambar",
-      "catatan": "kata 194 < 200; sumber tidak memuat angka peserta; Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+      "status": "lengkap",
+      "catatan": "kata 194 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-03_mataraman_antikorupsi-smpn1-madiun.jpg",
+      "ukuran_kb": 95.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 1836,
+      "wp_post_id": 1837,
+      "wp_url": "https://jatimverse.id/?p=1837",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:44:20+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T14:13+07:00"
     },
     {
       "id": "2026-11-03_pantura_waspada-qris-bojonegoro",
@@ -850,8 +910,18 @@
       "tanda_48j": false,
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-03_pantura_waspada-qris-bojonegoro.md",
-      "status": "butuh_gambar",
-      "catatan": "Kuota Mataraman 4 dan Pantura 3 tidak terpenuhi: situs lain tidak terbaca/tanpa berita dalam 24 jam; sisa tidak dialihkan karena batch lain juga minim"
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-03_pantura_waspada-qris-bojonegoro.jpg",
+      "ukuran_kb": 99.8,
+      "dimensi": "1200x675",
+      "wp_media_id": 1838,
+      "wp_post_id": 1839,
+      "wp_url": "https://jatimverse.id/?p=1839",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:44:33+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T14:58+07:00"
     },
     {
       "id": "2026-11-03_tapal-kuda_pintu-air-bandaran-pasuruan",
@@ -876,8 +946,18 @@
       "tanda_48j": false,
       "jumlah_kata": 233,
       "file_md": "artikel/2026-11-03_tapal-kuda_pintu-air-bandaran-pasuruan.md",
-      "status": "butuh_gambar",
-      "catatan": "Kuota Tapal Kuda 4 dan Madura 2 tidak terpenuhi: Jember/Banyuwangi/Lumajang/Probolinggo/Situbondo/Bondowoso/Bangkalan/Sampang tidak terbaca atau tanpa berita dalam 24 jam, Pamekasan tanpa berita baru, Sumenep sisanya bertanggal 1 Nov"
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-03_tapal-kuda_pintu-air-bandaran-pasuruan.jpg",
+      "ukuran_kb": 96.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1840,
+      "wp_post_id": 1841,
+      "wp_url": "https://jatimverse.id/?p=1841",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:44:43+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T15:43+07:00"
     },
     {
       "id": "2026-11-03_tapal-kuda_pasuruan-bersholawat",
@@ -903,7 +983,7 @@
       "jumlah_kata": 222,
       "file_md": "artikel/2026-11-03_tapal-kuda_pasuruan-bersholawat.md",
       "status": "butuh_gambar",
-      "catatan": "Kuota Tapal Kuda 4 dan Madura 2 tidak terpenuhi: Jember/Banyuwangi/Lumajang/Probolinggo/Situbondo/Bondowoso/Bangkalan/Sampang tidak terbaca atau tanpa berita dalam 24 jam, Pamekasan tanpa berita baru, Sumenep sisanya bertanggal 1 Nov"
+      "catatan": "jpg hilang"
     },
     {
       "id": "2026-11-03_madura_cek-lalin-simpang-arya-wiraraja-sumenep",
@@ -927,8 +1007,18 @@
       "tanda_48j": false,
       "jumlah_kata": 124,
       "file_md": "artikel/2026-11-03_madura_cek-lalin-simpang-arya-wiraraja-sumenep.md",
-      "status": "butuh_gambar",
-      "catatan": "kata 124 < 200 (sumber hanya memuat satu kutipan); Kuota Tapal Kuda 4 dan Madura 2 tidak terpenuhi: Jember/Banyuwangi/Lumajang/Probolinggo/Situbondo/Bondowoso/Bangkalan/Sampang tidak terbaca atau tanpa berita dalam 24 jam, Pamekasan tanpa berita baru, Sumenep sisanya bertanggal 1 Nov"
+      "status": "lengkap",
+      "catatan": "kata 124 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-03_madura_cek-lalin-simpang-arya-wiraraja-sumenep.jpg",
+      "ukuran_kb": 96.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 1842,
+      "wp_post_id": 1843,
+      "wp_url": "https://jatimverse.id/?p=1843",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-03T09:44:53+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-03T16:28+07:00"
     }
   ]
 }
