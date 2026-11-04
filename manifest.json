@@ -1519,6 +1519,141 @@
       "tgl_upload": "2026-11-05T00:36:14+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-05T00:46+07:00"
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Wali Kota Eri Perintahkan Inspektorat Usut Dugaan Pungli Rekrutmen Dishub",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25898/wali-kota-eri-perintahkan-inspektorat-usut-dugaan-pungli-rekrutmen-pegawai-dishub"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25898/blob_1812_0.jpg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 242,
+      "file_md": "artikel/2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Pungli",
+        "Rekrutmen Pegawai",
+        "Dishub Surabaya",
+        "Inspektorat",
+        "Eri Cahyadi"
+      ]
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Perangkat Traffic Light Hilang, Pemkot Surabaya Siapkan Pengamanan Ekstra",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25890/antisipasi-pencurian-perangkat-traffic-light-pemkot-surabaya-siapkan-pengamanan-ekstra"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25890/blob_3393_0.jpg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 212,
+      "file_md": "artikel/2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Sumber memuat tanggal kutipan Kadishub '3/1/2026' yang tidak cocok; kutipan ditulis tanpa tanggal.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Traffic Light",
+        "Dishub Surabaya",
+        "SITS",
+        "Telkom",
+        "Jalan Mayjend Sungkono"
+      ]
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_satya-jkn-awards-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Kepatuhan JKN Capai 99 Persen, Surabaya Raih Satya JKN Awards 2026",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25889/kepatuhan-jkn-capai-99-persen-pemkot-surabaya-raih-satya-jkn-awards-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25889/blob_2716_0.jpg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 200,
+      "file_md": "artikel/2026-11-05_surabaya-raya_satya-jkn-awards-surabaya.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_satya-jkn-awards-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "JKN",
+        "BPJS Kesehatan",
+        "Satya JKN Awards",
+        "Disperinaker Surabaya",
+        "Universal Health Coverage"
+      ]
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Satpol PP Surabaya Perketat Pengawasan Diskotek, Pengelola Wajib Siapkan Fasilitas",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25888/pemkot-surabaya-perketat-pengawasan-diskotek-pengelola-wajib-sediakan-fasilitas-penanganan-pengunjung-mabuk"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25888/blob_2971_0.jpg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 227,
+      "file_md": "artikel/2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Satpol PP Surabaya",
+        "Diskotek",
+        "Minuman Keras",
+        "Anak di Bawah Umur",
+        "Irna Pawanti"
+      ]
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya dan MUI Susun Strategi Berantas Narkoba dan Miras",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25897/pemkot-surabaya-bersama-mui-siapkan-strategi-holistik-berantas-narkoba-dan-miras"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25897/blob_5229_0.jpg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 219,
+      "file_md": "artikel/2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Narkoba",
+        "Miras",
+        "MUI Surabaya",
+        "BNN Kota Surabaya",
+        "Jalan Kunti"
+      ]
     }
   ]
 }
