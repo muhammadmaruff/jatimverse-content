@@ -1029,6 +1029,58 @@
       "tgl_upload": "2026-11-03T09:44:53+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-03T16:28+07:00"
+    },
+    {
+      "id": "2026-11-04_surabaya-raya_job-fair-hybrid-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "judul": "Job Fair Hybrid Sidoarjo 2026 Tawarkan 4.246 Lowongan Kerja",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1793755283/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1793755283.jpeg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Kominfo Sidoarjo",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Job Fair Hybrid 2026",
+        "Lowongan Kerja",
+        "Disnaker Sidoarjo",
+        "Pengangguran",
+        "MPP Lingkar Timur"
+      ],
+      "file_md": "artikel/2026-11-04_surabaya-raya_job-fair-hybrid-sidoarjo.md",
+      "jumlah_kata": 253,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-04_surabaya-raya_bendahara-kdkmp-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "judul": "Bendahara KDKMP Sidoarjo Dilatih dan Disertifikasi Kompetensi",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1793755405/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1793755405.jpeg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Kominfo Sidoarjo",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "KDKMP",
+        "Koperasi Merah Putih",
+        "Dinas Koperasi Sidoarjo",
+        "Sertifikasi Kompetensi",
+        "Mochammad Hudori"
+      ],
+      "file_md": "artikel/2026-11-04_surabaya-raya_bendahara-kdkmp-sidoarjo.md",
+      "jumlah_kata": 157,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": "kata 157 < 200 (bahan sumber terbatas)"
     }
   ]
 }
