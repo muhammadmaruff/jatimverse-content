@@ -1535,7 +1535,7 @@
       "file_md": "artikel/2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya.md",
       "file_jpg": "foto/2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -1545,7 +1545,15 @@
         "Dishub Surabaya",
         "Inspektorat",
         "Eri Cahyadi"
-      ]
+      ],
+      "ukuran_kb": 94.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1898,
+      "wp_post_id": 1899,
+      "wp_url": "https://jatimverse.id/politik/wali-kota-eri-perintahkan-inspektorat-usut-dugaan-pungli-rekrutmen-dishub/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:02+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya",
@@ -1562,8 +1570,8 @@
       "file_md": "artikel/2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya.md",
       "file_jpg": "foto/2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Sumber memuat tanggal kutipan Kadishub '3/1/2026' yang tidak cocok; kutipan ditulis tanpa tanggal.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1572,7 +1580,15 @@
         "SITS",
         "Telkom",
         "Jalan Mayjend Sungkono"
-      ]
+      ],
+      "ukuran_kb": 95.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1900,
+      "wp_post_id": 1901,
+      "wp_url": "https://jatimverse.id/politik/perangkat-traffic-light-hilang-pemkot-surabaya-siapkan-pengamanan-ekstra/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:11+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_surabaya-raya_satya-jkn-awards-surabaya",
@@ -1589,7 +1605,7 @@
       "file_md": "artikel/2026-11-05_surabaya-raya_satya-jkn-awards-surabaya.md",
       "file_jpg": "foto/2026-11-05_surabaya-raya_satya-jkn-awards-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
@@ -1599,7 +1615,15 @@
         "Satya JKN Awards",
         "Disperinaker Surabaya",
         "Universal Health Coverage"
-      ]
+      ],
+      "ukuran_kb": 96.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1902,
+      "wp_post_id": 1903,
+      "wp_url": "https://jatimverse.id/politik/kepatuhan-jkn-capai-99-persen-surabaya-raih-satya-jkn-awards-2026/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:21+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya",
@@ -1616,8 +1640,8 @@
       "file_md": "artikel/2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya.md",
       "file_jpg": "foto/2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "",
+      "status": "draf",
+      "catatan": "judul > ~70 karakter",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1626,7 +1650,9 @@
         "Minuman Keras",
         "Anak di Bawah Umur",
         "Irna Pawanti"
-      ]
+      ],
+      "ukuran_kb": 98.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya",
@@ -1643,7 +1669,7 @@
       "file_md": "artikel/2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya.md",
       "file_jpg": "foto/2026-11-05_surabaya-raya_mui-narkoba-miras-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -1653,7 +1679,15 @@
         "MUI Surabaya",
         "BNN Kota Surabaya",
         "Jalan Kunti"
-      ]
+      ],
+      "ukuran_kb": 99.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1904,
+      "wp_post_id": 1905,
+      "wp_url": "https://jatimverse.id/politik/pemkot-surabaya-dan-mui-susun-strategi-berantas-narkoba-dan-miras/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:34+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_pantura_lasabo-sains-anak-bojonegoro",
@@ -1670,8 +1704,8 @@
       "file_md": "artikel/2026-11-05_pantura_lasabo-sains-anak-bojonegoro.md",
       "file_jpg": "foto/2026-11-05_pantura_lasabo-sains-anak-bojonegoro.jpg",
       "kredit_foto": "Pemkab Bojonegoro",
-      "status": "butuh_gambar",
-      "catatan": "Rentang 24 jam; Mataraman kosong dan Pantura hanya 1 paket lolos karena situs belum memuat berita baru.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "suara-arek",
       "tag": [
@@ -1680,7 +1714,15 @@
         "Lomba Sains Anak",
         "Nurul Azizah",
         "Inovasi Pelajar"
-      ]
+      ],
+      "ukuran_kb": 98.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1906,
+      "wp_post_id": 1907,
+      "wp_url": "https://jatimverse.id/jelajah/wabup-bojonegoro-buka-lasabo-2026-57-tim-pelajar-adu-inovasi-sains/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:44+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_madura_apel-siaga-bencana-sumenep",
@@ -1697,8 +1739,8 @@
       "file_md": "artikel/2026-11-05_madura_apel-siaga-bencana-sumenep.md",
       "file_jpg": "foto/2026-11-05_madura_apel-siaga-bencana-sumenep.jpg",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Kuota Tapal Kuda dialihkan ke Madura (situs Tapal Kuda tak memuat berita baru).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1707,7 +1749,15 @@
         "Musim Hujan",
         "BPBD Sumenep",
         "Cuaca Ekstrem"
-      ]
+      ],
+      "ukuran_kb": 99.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1908,
+      "wp_post_id": 1909,
+      "wp_url": "https://jatimverse.id/politik/tni-polri-dan-pemkab-sumenep-gelar-apel-siaga-bencana-musim-hujan/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:31:54+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_madura_kebun-produktif-raas-sumenep",
@@ -1724,8 +1774,8 @@
       "file_md": "artikel/2026-11-05_madura_kebun-produktif-raas-sumenep.md",
       "file_jpg": "foto/2026-11-05_madura_kebun-produktif-raas-sumenep.jpg",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Kalimat penutup paragraf terakhir 'tidak hanya dikenal sebagai pulau yang indah' diparafrasakan dari kutipan tanpa nama di sumber.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -1734,7 +1784,15 @@
         "Babinsa",
         "Kelompok Tani",
         "Lahan Tidur"
-      ]
+      ],
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1910,
+      "wp_post_id": 1911,
+      "wp_url": "https://jatimverse.id/ekonomi/babinsa-dan-warga-raas-ubah-lahan-tidur-jadi-kebun-sayur-dan-buah/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:32:03+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_madura_guru-min1-juara-nasional-sumenep",
@@ -1751,8 +1809,8 @@
       "file_md": "artikel/2026-11-05_madura_guru-min1-juara-nasional-sumenep.md",
       "file_jpg": "foto/2026-11-05_madura_guru-min1-juara-nasional-sumenep.jpg",
       "kredit_foto": "Kemenag Jatim",
-      "status": "butuh_gambar",
-      "catatan": "Sumber memuat hari tidak konsisten (Rabu/Selasa 04/11); tanggal acara tidak ditulis.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "suara-arek",
       "tag": [
@@ -1761,7 +1819,15 @@
         "Kemenag Jatim",
         "Eko Himawan",
         "Madrasah"
-      ]
+      ],
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1912,
+      "wp_post_id": 1913,
+      "wp_url": "https://jatimverse.id/jelajah/guru-min-1-sumenep-juara-1-nasional-inovasi-media-pembelajaran-it/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:32:13+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_madura_lomba-phbs-perkantoran-sumenep",
@@ -1778,8 +1844,8 @@
       "file_md": "artikel/2026-11-05_madura_lomba-phbs-perkantoran-sumenep.md",
       "file_jpg": "foto/2026-11-05_madura_lomba-phbs-perkantoran-sumenep.jpg",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Kuota Tapal Kuda dialihkan ke Madura (situs Tapal Kuda tak memuat berita baru).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
       "tag": [
@@ -1788,7 +1854,15 @@
         "ASN Sumenep",
         "Dinkes P2KB Sumenep",
         "Senam Peregangan"
-      ]
+      ],
+      "ukuran_kb": 98.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 1914,
+      "wp_post_id": 1915,
+      "wp_url": "https://jatimverse.id/politik/pemkab-sumenep-gelar-lomba-phbs-perkantoran-dan-senam-peregangan/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:32:24+07:00",
+      "catatan_wp": ""
     },
     {
       "id": "2026-11-05_madura_baksos-gigi-mulut-sumenep",
@@ -1805,8 +1879,8 @@
       "file_md": "artikel/2026-11-05_madura_baksos-gigi-mulut-sumenep.md",
       "file_jpg": "foto/2026-11-05_madura_baksos-gigi-mulut-sumenep.jpg",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Rentang 48 jam (terbit 3 Nov).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1815,7 +1889,15 @@
         "PDGI Jatim",
         "Hari Jadi Sumenep ke-757",
         "FKG Unej"
-      ]
+      ],
+      "ukuran_kb": 97.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 1916,
+      "wp_post_id": 1917,
+      "wp_url": "https://jatimverse.id/politik/sekda-sumenep-pimpin-rakor-bakti-sosial-kesehatan-gigi-dan-mulut/",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-05T06:32:34+07:00",
+      "catatan_wp": ""
     }
   ]
 }
