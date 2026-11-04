@@ -1518,7 +1518,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T00:36:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T01:21+07:00"
+      "tgl_tayang": "2026-11-05T01:21+07:00",
+      "tayang_segera": true
     }
   ]
 }

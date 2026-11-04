@@ -194,10 +194,18 @@ def sinkron_meta(wp, cfg, p):
     isi_baru = ke_html(parse_md(ROOT / p["file_md"])[1])
     if (v.get("content") or {}).get("raw", "") != isi_baru:
         upd["content"] = isi_baru
+    if p.get("tayang_segera") and v.get("status") == "future":
+        upd["status"] = "publish"
+        upd["date_gmt"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
     if upd:
         r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}", json=upd)
         if not r.ok:
             raise RuntimeError(f"update metadata HTTP {r.status_code}")
+        if "status" in upd:
+            if r.json().get("status") != "publish":
+                raise RuntimeError(f"tayang segera gagal: status {r.json().get('status')}")
+            p.update(status_wp="publish", tgl_tayang=datetime.now(WIB).isoformat(timespec="minutes"))
+            p.pop("tayang_segera", None)
     p["catatan_wp"] = ("metadata kurang: " + "; ".join(kurang)) if kurang else ""
     return f"diperbarui {sorted(upd)}" if upd else "metadata sudah sesuai"
 
