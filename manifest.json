@@ -1116,7 +1116,7 @@
       "url_sumber": [
         "https://kabar.tulungagung.go.id/monev-tmmd-ke-130-tulungagung-sejumlah-sasaran-fisik-hampir-rampung/"
       ],
-      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/20261103161551_IMG_7407-SAP-Decoration.png",
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/20261103161551_IMG_7407-SAP-Decoration-1024x681.jpg",
       "tgl_terbit_sumber": "2026-11-03",
       "kredit_foto": "Pemkab Tulungagung",
       "kategori": "politik",
@@ -1129,7 +1129,7 @@
         "Rabat Beton"
       ],
       "file_md": "artikel/2026-11-04_mataraman_monev-tmmd-tulungagung.md",
-      "catatan": "URL foto: versi 1024x681 ada di sumber (…IMG_7407-SAP-Decoration-1024x681.jpg); dipakai versi itu bila versi asli gagal.",
+      "catatan": "",
       "jumlah_kata": 243,
       "tanda_48j": false,
       "status": "butuh_gambar"
@@ -1211,6 +1211,162 @@
       "tanda_48j": false,
       "status": "butuh_gambar",
       "catatan": "kata 160 < 200 (bahan sumber terbatas)"
+    },
+    {
+      "id": "2026-11-04_tapal-kuda_jembatan-garuda-kepulungan-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Jembatan Garuda Merah Putih Diresmikan di Kepulungan, Gempol",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/pangdiv-2-kostrad-mayjen-tni-primadi-dan-wabup-pasuruan-gus-shobih-resmikan-jembatan-garuda-merah-putih-di-desa-kepulungan"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6InlQQ0NWM3FFZ2pZTzZIeXhWRDJaRUE9PSIsInZhbHVlIjoiSjB1SytsOUs0RnVULzlPU29GRExPUT09IiwibWFjIjoiYTU1NjE3YjRhZmMxMDkxNjdiZDg0ZDc3ZWM5Y2NjNmExYjdlMGEzZmFiY2FjMmQ1ZGU0YTY5OGMzMDc1NWIxNyIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Jembatan Garuda Merah Putih",
+        "Gempol",
+        "Kostrad",
+        "Gus Shobih",
+        "Infrastruktur Desa"
+      ],
+      "file_md": "artikel/2026-11-04_tapal-kuda_jembatan-garuda-kepulungan-pasuruan.md",
+      "catatan": "Sumber menyebut dimensi jembatan ambigu (lebar 12 m dan 4 m); tidak dimuat. kata 194 < 200 (bahan sumber terbatas)",
+      "jumlah_kata": 194,
+      "tanda_48j": false,
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-04_tapal-kuda_apbd-2027-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Pemkab Pasuruan Proyeksikan APBD 2027 Rp4,07 Triliun",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/pemkab-pasuruan-proyeksikan-apbd-2027-sebesar-rp-4-07-triliun"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-image/pemkab-pasuruan-proyeksikan-apbd-2027-sebesar-rp-4-07-triliun/posts/tumbnail",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "APBD 2027",
+        "Rusdi Sutejo",
+        "DPRD Pasuruan",
+        "Pinjaman Daerah",
+        "RSUD Purwodadi"
+      ],
+      "file_md": "artikel/2026-11-04_tapal-kuda_apbd-2027-pasuruan.md",
+      "jumlah_kata": 213,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Idda Coffee Tutur Pasuruan Produksi 100 Kilogram Kopi Organik per Hari",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/idda-coffee-kopi-nikmat-khas-kecamatan-tutur-sweet-spicy-and-caramel"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6IlhnSHVodGk4UmY4YjJjR2NUdENBS3c9PSIsInZhbHVlIjoiRU9lc3ZHZWVGOEtLLzRiZjdDYnhFQT09IiwibWFjIjoiYTg3YjE1YjhlMzA1ZDNhMjFmODZjMGY3NDAzZjgyZWY0ZDgzNTYwNTRjNmZiZTU2OGY3YWYzZDAxNWI4OGI3MCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Kopi Tutur",
+        "UMKM",
+        "Kopi Organik",
+        "Idda Kopi",
+        "Kabupaten Pasuruan"
+      ],
+      "file_md": "artikel/2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan.md",
+      "jumlah_kata": 216,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-04_madura_hari-jadi-496-pamekasan",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Pamekasan",
+      "judul": "Hari Jadi ke-496 Pamekasan: Upacara Berbahasa Madura dan Apresiasi Tokoh",
+      "url_sumber": [
+        "https://pamekasankab.go.id/berita/1632/upacara-hari-jadi-ke496-pemkab-pamekasan-apresiasi-tokoh-penggerak-pendidikan-hingga-santunan-kematian"
+      ],
+      "url_foto_sumber": "https://pamekasankab.go.id/img-berita/631793687430.jpg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Pamekasan",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Hari Jadi Pamekasan",
+        "Bahasa Madura",
+        "Kholilurrahman",
+        "Ronggosukowati",
+        "Santunan"
+      ],
+      "file_md": "artikel/2026-11-04_madura_hari-jadi-496-pamekasan.md",
+      "jumlah_kata": 159,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": "kata 159 < 200 (bahan sumber terbatas)"
+    },
+    {
+      "id": "2026-11-04_madura_operasi-patuh-semeru-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Satlantas Sumenep Bagikan Brosur Keselamatan di Operasi Patuh Semeru 2026",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/humanis-dan-edukatif-satlantas-polresta-sumenep-bagikan-brosur-keselamatan-di-operasi-patuh-semeru-2026"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/1dc5243c7053000513da3313616c0f0e0cae0ec9.jpg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Polresta Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Operasi Patuh Semeru 2026",
+        "Satlantas Polresta Sumenep",
+        "ETLE",
+        "Keselamatan Berlalu Lintas",
+        "Eko Aprianto"
+      ],
+      "file_md": "artikel/2026-11-04_madura_operasi-patuh-semeru-sumenep.md",
+      "jumlah_kata": 169,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": "kata 169 < 200 (bahan sumber terbatas)"
+    },
+    {
+      "id": "2026-11-04_madura_keuangan-puskesmas-batuan-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Dinkes Sumenep Evaluasi Pengelolaan Keuangan dan Aset Puskesmas Batuan",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/dinkes-p2kb-sumenep-perkuat-pengelolaan-keuangan-puskesmas-batuan"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/dbe4ee3ebb7d3c7d9825a9899d7ee0dac31e0173.jpg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Dinkes P2KB Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Puskesmas Batuan",
+        "Dinkes P2KB Sumenep",
+        "BLUD",
+        "Coretax",
+        "Ellya Fardasah"
+      ],
+      "file_md": "artikel/2026-11-04_madura_keuangan-puskesmas-batuan-sumenep.md",
+      "catatan": "Kuota Tapal Kuda 4 hanya terpenuhi 3 (situs Jember/lain tak ada berita baru terbaca); 1 dialihkan ke Madura (3 paket). Kegiatan 29/10, terbit 3/11. kata 176 < 200 (bahan sumber terbatas)",
+      "jumlah_kata": 176,
+      "tanda_48j": false,
+      "status": "butuh_gambar"
     }
   ]
 }
