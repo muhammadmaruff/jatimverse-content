@@ -1498,8 +1498,8 @@
       "ukuran_kb": 97.3,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi PKC PMII Jatim",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna (rilis LBH PKC PMII Jatim)",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1511,7 +1511,14 @@
         "Blitar",
         "Tulungagung",
         "Mojokerto"
-      ]
+      ],
+      "wp_media_id": 1895,
+      "wp_post_id": 1896,
+      "wp_url": "https://jatimverse.id/?p=1896",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-05T00:36:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-05T01:21+07:00"
     }
   ]
 }
