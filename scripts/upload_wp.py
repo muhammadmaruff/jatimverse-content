@@ -175,7 +175,7 @@ def id_meta(wp, cfg, p, wajib=False):
     return ids, kurang
 
 
-def sinkron_meta(wp, cfg, p):
+def sinkron_meta(wp, cfg, p, tayang=None):
     """Lengkapi metadata post buatan pipeline: kategori diganti, tag/wilayah/rubrik/dapil hanya ditambah,
     baris Sumber dibuang dari isi."""
     r = wp.req("GET", f"/wp/v2/posts/{p['wp_post_id']}", params={"context": "edit"})
@@ -197,11 +197,20 @@ def sinkron_meta(wp, cfg, p):
     if p.get("tayang_segera") and v.get("status") == "future":
         upd["status"] = "publish"
         upd["date_gmt"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S")
+    ulang = bool(p.get("jadwal_ulang") and tayang and v.get("status") == "publish")
+    if ulang:
+        upd["status"] = "future"
+        upd["date_gmt"] = tayang.strftime("%Y-%m-%dT%H:%M:%S")
     if upd:
         r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}", json=upd)
         if not r.ok:
             raise RuntimeError(f"update metadata HTTP {r.status_code}")
-        if "status" in upd:
+        if ulang:
+            if r.json().get("status") != "future":
+                raise RuntimeError(f"jadwal ulang gagal: status {r.json().get('status')}")
+            p.update(status_wp="future", tgl_tayang=tayang.astimezone(WIB).isoformat(timespec="minutes"))
+            p.pop("jadwal_ulang", None)
+        elif "status" in upd:
             if r.json().get("status") != "publish":
                 raise RuntimeError(f"tayang segera gagal: status {r.json().get('status')}")
             p.update(status_wp="publish", tgl_tayang=datetime.now(WIB).isoformat(timespec="minutes"))
@@ -335,10 +344,15 @@ def main():
         MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False))
         wp.jeda_ok()
     print(f"selesai: {ok}/{len(antrean)} berhasil")
+    slot_ulang, iv_ulang = slot_pertama(wp, cfg) if any(x.get("jadwal_ulang") for x in m["paket"]) else (None, None)
     for p in m["paket"]:
         if p.get("status") == "lengkap" and p.get("wp_post_id") and p.get("wp_media_id"):
             try:
-                print(f"{p['id']}: {sinkron_meta(wp, cfg, p)}")
+                ada_ulang = bool(p.get("jadwal_ulang"))
+                print(f"{p['id']}: {sinkron_meta(wp, cfg, p, slot_ulang)}")
+                if ada_ulang and not p.get("jadwal_ulang"):
+                    print(f"  dijadwalkan ulang: tayang {slot_ulang.astimezone(WIB):%d/%m %H:%M} WIB")
+                    slot_ulang += iv_ulang
             except Exception as e:  # noqa: BLE001
                 p["catatan_wp"] = f"{type(e).__name__}: {e}"[:300]
                 print(f"{p['id']}: GAGAL metadata {p['catatan_wp']}")
