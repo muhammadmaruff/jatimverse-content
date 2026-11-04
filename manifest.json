@@ -1482,6 +1482,36 @@
       "tgl_upload": "2026-11-04T10:27:40+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-04T19:19+07:00"
+    },
+    {
+      "id": "2026-11-05_surabaya-raya_somasi-lbh-pmii-esdm",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Tak Dijawab, LBH PMII Jatim Somasi Dinas ESDM soal Dugaan Tambang Ilegal",
+      "url_sumber": [],
+      "url_foto_sumber": null,
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 576,
+      "file_md": "artikel/2026-11-05_surabaya-raya_somasi-lbh-pmii-esdm.md",
+      "file_jpg": "foto/2026-11-05_surabaya-raya_somasi-lbh-pmii-esdm.jpg",
+      "ukuran_kb": 97.3,
+      "dimensi": "1280x720",
+      "kredit_foto": "Dokumentasi PKC PMII Jatim",
+      "status": "draf",
+      "catatan": "kiriman manual dari pengguna (rilis LBH PKC PMII Jatim)",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "LBH PMII Jatim",
+        "Dinas ESDM Jatim",
+        "Tambang Ilegal",
+        "Keterbukaan Informasi Publik",
+        "Somasi",
+        "Blitar",
+        "Tulungagung",
+        "Mojokerto"
+      ]
     }
   ]
 }
