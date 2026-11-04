@@ -1081,6 +1081,136 @@
       "tanda_48j": false,
       "status": "butuh_gambar",
       "catatan": "kata 157 < 200 (bahan sumber terbatas)"
+    },
+    {
+      "id": "2026-11-04_mataraman_atm-award-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "judul": "Jombang Raih ATM Award 2026 Nasional untuk Pengendalian AIDS, TBC, dan Malaria",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/komitmen-kendalikan-aids-tb-dan-malaria-pemkab-jombang-raih-penghargaan-atm-award-2026-tingkat-nasional-24643"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/64c7b32e-0008-438f-a190-cc9c02ef4f76.jpg",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "ATM Award 2026",
+        "TBC",
+        "ADINKES",
+        "Dinkes Jombang",
+        "Wabup Salmanudin"
+      ],
+      "file_md": "artikel/2026-11-04_mataraman_atm-award-jombang.md",
+      "jumlah_kata": 210,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-04_mataraman_monev-tmmd-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "judul": "Tim Wasev TNI AD Cek TMMD ke-130 di Campurdarat Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/monev-tmmd-ke-130-tulungagung-sejumlah-sasaran-fisik-hampir-rampung/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/20261103161551_IMG_7407-SAP-Decoration.png",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Tulungagung",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TMMD ke-130",
+        "Desa Pojok",
+        "Campurdarat",
+        "Kodim Tulungagung",
+        "Rabat Beton"
+      ],
+      "file_md": "artikel/2026-11-04_mataraman_monev-tmmd-tulungagung.md",
+      "catatan": "URL foto: versi 1024x681 ada di sumber (…IMG_7407-SAP-Decoration-1024x681.jpg); dipakai versi itu bila versi asli gagal.",
+      "jumlah_kata": 243,
+      "tanda_48j": false,
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-04_mataraman_rumah-lansia-sukosari-madiun",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Madiun",
+      "judul": "Pemkot Madiun Bersihkan Rumah Lansia Disabilitas di Sukosari",
+      "url_sumber": [
+        "https://madiunkota.go.id/berita/terkini/dd77871fb700ed86f9ed37c295dc6535/detail"
+      ],
+      "url_foto_sumber": "https://madiunkota.go.id/menu/file/eyJpdiI6Ino1NXhCdGRYVVZkSnJsaWlNTldrVHc9PSIsInZhbHVlIjoiNTltVmJrQmsyQ3paUDZqNnlwMGJPMEUxdG5oeGl1aHgxV0w0M21TcWcrUDdJRldlT1RXZkcwaDJDYVFaVENuci83NU9PRjJ5SFk2aUM5dGZtZzVtY1E9PSIsIm1hYyI6IjdhOGM2MjA3MTY5NmVmZGY3ODQwYzUwYTM3ZWY3NDAzZDNlOTczOWI2Y2I1ZjcyY2E0MTNiMzM4MWQ5ZjQxNzciLCJ0YWciOiIifQ==",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkot Madiun",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Walikota Bersama Rakyat",
+        "Kelurahan Sukosari",
+        "BPBD Madiun",
+        "Dinas Perkim",
+        "Lansia"
+      ],
+      "file_md": "artikel/2026-11-04_mataraman_rumah-lansia-sukosari-madiun.md",
+      "jumlah_kata": 117,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": "kata 117 < 200 (bahan sumber terbatas)"
+    },
+    {
+      "id": "2026-11-04_pantura_aiot-tambak-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Menkomdigi di Lamongan: Petani dan Petambak Mulai Beralih ke AIoT",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64299"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/4f456e781a0adc91c5efc40077dfaaa7.png",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "AIoT",
+        "Tambak",
+        "Labuhan Brondong",
+        "Menkomdigi",
+        "Panen Raya"
+      ],
+      "file_md": "artikel/2026-11-04_pantura_aiot-tambak-lamongan.md",
+      "jumlah_kata": 233,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-04_pantura_korpri-lamongan-dikukuhkan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Pengurus KORPRI Lamongan 2026–2031 Dikukuhkan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64300"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/069a0ae9f6a260eb6fa7d7e6750a323e.png",
+      "tgl_terbit_sumber": "2026-11-03",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "KORPRI Lamongan",
+        "Pengukuhan Pengurus",
+        "Yuhronur Efendi",
+        "ASN",
+        "Gedung Bhinneka"
+      ],
+      "file_md": "artikel/2026-11-04_pantura_korpri-lamongan-dikukuhkan.md",
+      "jumlah_kata": 160,
+      "tanda_48j": false,
+      "status": "butuh_gambar",
+      "catatan": "kata 160 < 200 (bahan sumber terbatas)"
     }
   ]
 }
