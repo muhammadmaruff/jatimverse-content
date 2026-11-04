@@ -1053,8 +1053,15 @@
       "file_md": "artikel/2026-11-04_surabaya-raya_job-fair-hybrid-sidoarjo.md",
       "jumlah_kata": 253,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-04_surabaya-raya_job-fair-hybrid-sidoarjo.jpg",
+      "ukuran_kb": 95.6,
+      "dimensi": "1280x720",
+      "wp_post_id": 1857,
+      "wp_url": "https://jatimverse.id/?p=1857",
+      "status_wp": "future",
+      "catatan_wp": "sudah ada di WordPress; dilewati"
     },
     {
       "id": "2026-11-04_surabaya-raya_bendahara-kdkmp-sidoarjo",
@@ -1079,8 +1086,15 @@
       "file_md": "artikel/2026-11-04_surabaya-raya_bendahara-kdkmp-sidoarjo.md",
       "jumlah_kata": 157,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": "kata 157 < 200 (bahan sumber terbatas)"
+      "status": "lengkap",
+      "catatan": "kata 157 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-04_surabaya-raya_bendahara-kdkmp-sidoarjo.jpg",
+      "ukuran_kb": 94.4,
+      "dimensi": "1280x720",
+      "wp_post_id": 1859,
+      "wp_url": "https://jatimverse.id/?p=1859",
+      "status_wp": "future",
+      "catatan_wp": "sudah ada di WordPress; dilewati"
     },
     {
       "id": "2026-11-04_mataraman_atm-award-jombang",
@@ -1105,8 +1119,11 @@
       "file_md": "artikel/2026-11-04_mataraman_atm-award-jombang.md",
       "jumlah_kata": 210,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "draf",
+      "catatan": "judul > ~70 karakter",
+      "file_jpg": "foto/2026-11-04_mataraman_atm-award-jombang.jpg",
+      "ukuran_kb": 86.4,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-04_mataraman_monev-tmmd-tulungagung",
@@ -1132,7 +1149,17 @@
       "catatan": "",
       "jumlah_kata": 243,
       "tanda_48j": false,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-04_mataraman_monev-tmmd-tulungagung.jpg",
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1866,
+      "wp_post_id": 1867,
+      "wp_url": "https://jatimverse.id/?p=1867",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:26:33+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T14:49+07:00"
     },
     {
       "id": "2026-11-04_mataraman_rumah-lansia-sukosari-madiun",
@@ -1157,8 +1184,15 @@
       "file_md": "artikel/2026-11-04_mataraman_rumah-lansia-sukosari-madiun.md",
       "jumlah_kata": 117,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": "kata 117 < 200 (bahan sumber terbatas)"
+      "status": "lengkap",
+      "catatan": "kata 117 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-04_mataraman_rumah-lansia-sukosari-madiun.jpg",
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720",
+      "wp_post_id": 1861,
+      "wp_url": "https://jatimverse.id/?p=1861",
+      "status_wp": "future",
+      "catatan_wp": "sudah ada di WordPress; dilewati"
     },
     {
       "id": "2026-11-04_pantura_aiot-tambak-lamongan",
@@ -1183,8 +1217,15 @@
       "file_md": "artikel/2026-11-04_pantura_aiot-tambak-lamongan.md",
       "jumlah_kata": 233,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-04_pantura_aiot-tambak-lamongan.jpg",
+      "ukuran_kb": 95.7,
+      "dimensi": "1280x720",
+      "wp_post_id": 1863,
+      "wp_url": "https://jatimverse.id/?p=1863",
+      "status_wp": "future",
+      "catatan_wp": "sudah ada di WordPress; dilewati"
     },
     {
       "id": "2026-11-04_pantura_korpri-lamongan-dikukuhkan",
@@ -1209,8 +1250,15 @@
       "file_md": "artikel/2026-11-04_pantura_korpri-lamongan-dikukuhkan.md",
       "jumlah_kata": 160,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": "kata 160 < 200 (bahan sumber terbatas)"
+      "status": "lengkap",
+      "catatan": "kata 160 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-04_pantura_korpri-lamongan-dikukuhkan.jpg",
+      "ukuran_kb": 99.1,
+      "dimensi": "1280x720",
+      "wp_post_id": 1865,
+      "wp_url": "https://jatimverse.id/?p=1865",
+      "status_wp": "future",
+      "catatan_wp": "sudah ada di WordPress; dilewati"
     },
     {
       "id": "2026-11-04_tapal-kuda_jembatan-garuda-kepulungan-pasuruan",
@@ -1233,10 +1281,20 @@
         "Infrastruktur Desa"
       ],
       "file_md": "artikel/2026-11-04_tapal-kuda_jembatan-garuda-kepulungan-pasuruan.md",
-      "catatan": "Sumber menyebut dimensi jembatan ambigu (lebar 12 m dan 4 m); tidak dimuat. kata 194 < 200 (bahan sumber terbatas)",
+      "catatan": "kata 194 < 200 (tetap ditayangkan)",
       "jumlah_kata": 194,
       "tanda_48j": false,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-04_tapal-kuda_jembatan-garuda-kepulungan-pasuruan.jpg",
+      "ukuran_kb": 96.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1868,
+      "wp_post_id": 1869,
+      "wp_url": "https://jatimverse.id/?p=1869",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:26:48+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T15:34+07:00"
     },
     {
       "id": "2026-11-04_tapal-kuda_apbd-2027-pasuruan",
@@ -1261,8 +1319,18 @@
       "file_md": "artikel/2026-11-04_tapal-kuda_apbd-2027-pasuruan.md",
       "jumlah_kata": 213,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-04_tapal-kuda_apbd-2027-pasuruan.jpg",
+      "ukuran_kb": 87.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1870,
+      "wp_post_id": 1871,
+      "wp_url": "https://jatimverse.id/?p=1871",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:26:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T16:19+07:00"
     },
     {
       "id": "2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan",
@@ -1287,8 +1355,18 @@
       "file_md": "artikel/2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan.md",
       "jumlah_kata": 216,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan.jpg",
+      "ukuran_kb": 98.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1872,
+      "wp_post_id": 1873,
+      "wp_url": "https://jatimverse.id/?p=1873",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:27:08+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T17:04+07:00"
     },
     {
       "id": "2026-11-04_madura_hari-jadi-496-pamekasan",
@@ -1313,8 +1391,18 @@
       "file_md": "artikel/2026-11-04_madura_hari-jadi-496-pamekasan.md",
       "jumlah_kata": 159,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": "kata 159 < 200 (bahan sumber terbatas)"
+      "status": "lengkap",
+      "catatan": "kata 159 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-04_madura_hari-jadi-496-pamekasan.jpg",
+      "ukuran_kb": 99.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1874,
+      "wp_post_id": 1875,
+      "wp_url": "https://jatimverse.id/?p=1875",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:27:19+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T17:49+07:00"
     },
     {
       "id": "2026-11-04_madura_operasi-patuh-semeru-sumenep",
@@ -1339,8 +1427,18 @@
       "file_md": "artikel/2026-11-04_madura_operasi-patuh-semeru-sumenep.md",
       "jumlah_kata": 169,
       "tanda_48j": false,
-      "status": "butuh_gambar",
-      "catatan": "kata 169 < 200 (bahan sumber terbatas)"
+      "status": "lengkap",
+      "catatan": "kata 169 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-04_madura_operasi-patuh-semeru-sumenep.jpg",
+      "ukuran_kb": 98.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 1876,
+      "wp_post_id": 1877,
+      "wp_url": "https://jatimverse.id/?p=1877",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:27:28+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T18:34+07:00"
     },
     {
       "id": "2026-11-04_madura_keuangan-puskesmas-batuan-sumenep",
@@ -1363,10 +1461,20 @@
         "Ellya Fardasah"
       ],
       "file_md": "artikel/2026-11-04_madura_keuangan-puskesmas-batuan-sumenep.md",
-      "catatan": "Kuota Tapal Kuda 4 hanya terpenuhi 3 (situs Jember/lain tak ada berita baru terbaca); 1 dialihkan ke Madura (3 paket). Kegiatan 29/10, terbit 3/11. kata 176 < 200 (bahan sumber terbatas)",
+      "catatan": "kata 176 < 200 (tetap ditayangkan)",
       "jumlah_kata": 176,
       "tanda_48j": false,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-04_madura_keuangan-puskesmas-batuan-sumenep.jpg",
+      "ukuran_kb": 99.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 1878,
+      "wp_post_id": 1879,
+      "wp_url": "https://jatimverse.id/?p=1879",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:27:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T19:19+07:00"
     }
   ]
 }
