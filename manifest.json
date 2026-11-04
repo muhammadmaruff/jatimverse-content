@@ -1119,11 +1119,18 @@
       "file_md": "artikel/2026-11-04_mataraman_atm-award-jombang.md",
       "jumlah_kata": 210,
       "tanda_48j": false,
-      "status": "draf",
-      "catatan": "judul > ~70 karakter",
+      "status": "lengkap",
+      "catatan": "",
       "file_jpg": "foto/2026-11-04_mataraman_atm-award-jombang.jpg",
       "ukuran_kb": 86.4,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1880,
+      "wp_post_id": 1881,
+      "wp_url": "https://jatimverse.id/?p=1881",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-04T10:32:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-04T20:04+07:00"
     },
     {
       "id": "2026-11-04_mataraman_monev-tmmd-tulungagung",
