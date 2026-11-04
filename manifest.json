@@ -1654,6 +1654,33 @@
         "BNN Kota Surabaya",
         "Jalan Kunti"
       ]
+    },
+    {
+      "id": "2026-11-05_pantura_lasabo-sains-anak-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "judul": "Wabup Bojonegoro Buka LASABO 2026, 57 Tim Pelajar Adu Inovasi Sains",
+      "url_sumber": [
+        "https://baghumas.bojonegorokab.go.id/berita/wabup-nurul-azizah-buka-lasabo-2026-gali-potensi-inovator-muda-menuju-generasi-emas-2045"
+      ],
+      "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-04/UPrzZWZlWJ92sfqueEc90ibNReV2KQWP7gkzvKAz.webp",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 262,
+      "file_md": "artikel/2026-11-05_pantura_lasabo-sains-anak-bojonegoro.md",
+      "file_jpg": "foto/2026-11-05_pantura_lasabo-sains-anak-bojonegoro.jpg",
+      "kredit_foto": "Pemkab Bojonegoro",
+      "status": "butuh_gambar",
+      "catatan": "Rentang 24 jam; Mataraman kosong dan Pantura hanya 1 paket lolos karena situs belum memuat berita baru.",
+      "kategori": "jelajah",
+      "rubrik": "suara-arek",
+      "tag": [
+        "LASABO 2026",
+        "BRIDA Bojonegoro",
+        "Lomba Sains Anak",
+        "Nurul Azizah",
+        "Inovasi Pelajar"
+      ]
     }
   ]
 }
