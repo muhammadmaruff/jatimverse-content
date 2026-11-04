@@ -1,4 +1,4 @@
-# Jombang Raih ATM Award 2026 Nasional untuk Pengendalian AIDS, TBC, dan Malaria
+# Jombang Raih ATM Award 2026 Nasional atas Pengendalian AIDS, TBC, Malaria
 
 BANDUNG – Pemerintah Kabupaten Jombang meraih ATM Award 2026 tingkat nasional dari Asosiasi Dinas Kesehatan Seluruh Indonesia (ADINKES). Penghargaan itu diberikan atas upaya percepatan pencegahan dan pengendalian AIDS, tuberkulosis (TBC), dan malaria.
 
