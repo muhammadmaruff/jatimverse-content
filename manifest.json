@@ -2043,6 +2043,87 @@
         "Wakil Bupati Sidoarjo",
         "Disporapar Sidoarjo"
       ]
+    },
+    {
+      "id": "2026-11-06_mataraman_kirab-akar-api-popda-ngawi",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Ngawi",
+      "judul": "Kirab Akar Api Buka POPDA ke-15 Jatim di Ngawi",
+      "url_sumber": [
+        "https://suara.ngawikab.go.id/2026/11/05/nyala-dari-akar-ngawi-kobarkan-semangat-prestasi-di-popda-ke-15/"
+      ],
+      "url_foto_sumber": "https://suara.ngawikab.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-05-at-11.08.08-2.jpeg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 220,
+      "file_md": "artikel/2026-11-06_mataraman_kirab-akar-api-popda-ngawi.md",
+      "file_jpg": "foto/2026-11-06_mataraman_kirab-akar-api-popda-ngawi.jpg",
+      "kredit_foto": "Pemkab Ngawi",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "POPDA XV Jatim",
+        "Kirab Akar Api",
+        "Ngawi Purba",
+        "Bupati Ony Anwar Harsono",
+        "PEPARPEDA III"
+      ]
+    },
+    {
+      "id": "2026-11-06_pantura_manajemen-talenta-asn-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "judul": "Bojonegoro Disiapkan Jadi Pilot Project Nasional Manajemen Talenta ASN",
+      "url_sumber": [
+        "https://baghumas.bojonegorokab.go.id/berita/transformasi-birokrasi-berbasis-hasil-bojonegoro-siap-jadi-pilot-project-manajemen-talenta-nasional"
+      ],
+      "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-05/un21vndYW9bRwJIlwKRWHGmbkkTLwakMqYIRTICF.webp",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 251,
+      "file_md": "artikel/2026-11-06_pantura_manajemen-talenta-asn-bojonegoro.md",
+      "file_jpg": "foto/2026-11-06_pantura_manajemen-talenta-asn-bojonegoro.jpg",
+      "kredit_foto": "Pemkab Bojonegoro",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Manajemen Talenta",
+        "ASN",
+        "BKN",
+        "Bupati Setyo Wahono",
+        "Nine-Box Talent Matrix"
+      ]
+    },
+    {
+      "id": "2026-11-06_pantura_apel-siaga-bencana-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Lamongan Gelar Apel Kesiapsiagaan Bencana Hidrometeorologi 2026–2027",
+      "url_sumber": [
+        "https://diskominfo.lamongankab.go.id/posting/64517"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/b5caf57a8973ee9285a9fd38572fdf2b.png",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 215,
+      "file_md": "artikel/2026-11-06_pantura_apel-siaga-bencana-lamongan.md",
+      "file_jpg": "foto/2026-11-06_pantura_apel-siaga-bencana-lamongan.jpg",
+      "kredit_foto": "Pemkab Lamongan",
+      "status": "butuh_gambar",
+      "catatan": "Sumber dibaca lewat diskominfo.lamongankab.go.id (mirror portal.lamongankab.go.id/posting/64517). Foto thumbnail portal; kualitas perlu dicek pipeline.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Apel Kesiapsiagaan Bencana",
+        "Hidrometeorologi",
+        "BPBD Lamongan",
+        "Bupati Yuhronur Efendi",
+        "Musim Hujan"
+      ]
     }
   ]
 }
