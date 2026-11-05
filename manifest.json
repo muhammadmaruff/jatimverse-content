@@ -2124,6 +2124,60 @@
         "Bupati Yuhronur Efendi",
         "Musim Hujan"
       ]
+    },
+    {
+      "id": "2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Mangga Putar Pasuruan Raih Juara II National Manggo Contest 2026",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/mangga-putar-pasuruan-juara-national-manggo-contest-2026"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6Ik9wNkRLbFN5RUFsVmVqY2dSYXJYOEE9PSIsInZhbHVlIjoiSzZoTW9QWFNrdHJHZmNuYnE4ZVRvZz09IiwibWFjIjoiNGRkYmE5ZWE1OWMzN2ZjNGFkOWNlMmJmMWYwNzliNDQ1NzYxNjI5ZTA0MWFhZWU0MDM4MTc0YzNlYjAwM2RlOSIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 215,
+      "file_md": "artikel/2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan.md",
+      "file_jpg": "foto/2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan.jpg",
+      "kredit_foto": "Pemkab Pasuruan",
+      "status": "butuh_gambar",
+      "catatan": "Judul sumber memakai \"Juara National\", isi menyebut Juara II; ditulis juara II sesuai isi.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Mangga Putar",
+        "Manggo Contest 2026",
+        "Petani Mangga",
+        "Sukorejo",
+        "Rembang Pasuruan"
+      ]
+    },
+    {
+      "id": "2026-11-06_madura_satu-data-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Pemkab Sumenep Finalisasi Portal Satu Data dan Draf Perbup",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/wujudkan-satu-data-sumenep-pemkab-finalisasi-portal-digital-dan-draft-perbup"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/4dda56bfed75d082cefab48d83f38c7e212c960b.jpg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 224,
+      "file_md": "artikel/2026-11-06_madura_satu-data-sumenep.md",
+      "file_jpg": "foto/2026-11-06_madura_satu-data-sumenep.jpg",
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Satu Data",
+        "Portal Satu Data Sumenep",
+        "Bappeda Sumenep",
+        "Diskominfo Sumenep",
+        "Universitas Indonesia"
+      ]
     }
   ]
 }
