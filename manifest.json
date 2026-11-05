@@ -1908,6 +1908,141 @@
       "tgl_upload": "2026-11-05T06:32:34+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-05T14:09+07:00"
+    },
+    {
+      "id": "2026-11-06_surabaya-raya_rupabumi-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Surabaya Bakukan 1.517 Nama Rupabumi pada 2026",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25901/pemkot-surabaya-bakukan-1-517-nama-rupabumi-pada-2026-penataan-identitas-wilayah-diperkuat"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25901/blob_2196_0.jpg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 243,
+      "file_md": "artikel/2026-11-06_surabaya-raya_rupabumi-surabaya.md",
+      "file_jpg": "foto/2026-11-06_surabaya-raya_rupabumi-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Angka dan tanggal mengikuti teks sumber; ketidakkonsistenan di sumber (hari kegiatan, jumlah kecamatan sejak 2020) tidak dimuat.",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Nama Rupabumi",
+        "Toponimi",
+        "Bapemkesra Surabaya",
+        "Tim Penilai Jatim",
+        "Surabaya"
+      ]
+    },
+    {
+      "id": "2026-11-06_surabaya-raya_kampung-pancasila-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Akademisi: Kampung Pancasila Surabaya Harus Jadi Perekat Warga",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25900/kampung-pancasila-jadi-instrumen-perekat-di-tengah-keberagaman-warga-kota-surabaya"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25900/blob_8901_0.jpg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 239,
+      "file_md": "artikel/2026-11-06_surabaya-raya_kampung-pancasila-surabaya.md",
+      "file_jpg": "foto/2026-11-06_surabaya-raya_kampung-pancasila-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Isi berupa pendapat narasumber akademisi yang dimuat situs Pemkot; ditulis sebagai pernyataan narasumber.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kampung Pancasila",
+        "Forum Pembauran Kebangsaan",
+        "Isa Ansori",
+        "Kerukunan Warga",
+        "Surabaya"
+      ]
+    },
+    {
+      "id": "2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "31 Kecamatan Surabaya Tampilkan Fragmen Suroboyoan soal Kesetaraan Gender",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25899/31-kecamatan-surabaya-angkat-isu-kesetaraan-gender-lewat-fragmen-suroboyoan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25899/blob_8758_0.jpg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": false,
+      "jumlah_kata": 218,
+      "file_md": "artikel/2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya.md",
+      "file_jpg": "foto/2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya.jpg",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Kegiatan 4 Nov, terbit di situs 5 Nov 2026.",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Fragmen Suroboyoan",
+        "Surabaya Gender Award",
+        "Kesetaraan Gender",
+        "DP3A-PPKB Surabaya",
+        "BG Junction"
+      ]
+    },
+    {
+      "id": "2026-11-06_surabaya-raya_slhs-sppg-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "judul": "142 Dapur SPPG di Sidoarjo Sudah Kantongi Sertifikat Laik Higiene",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1793841910/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1793841910.jpeg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 211,
+      "file_md": "artikel/2026-11-06_surabaya-raya_slhs-sppg-sidoarjo.md",
+      "file_jpg": "foto/2026-11-06_surabaya-raya_slhs-sppg-sidoarjo.jpg",
+      "kredit_foto": "Pemkab Sidoarjo",
+      "status": "butuh_gambar",
+      "catatan": "Tanggal terbit di halaman 4 Nov; unix ID unggahan 5 Nov 2026 08.25 WIB (masuk 24 jam). Sumber menulis hari \"Selasa (4/11)\" yang tidak cocok kalender; hari tidak dimuat.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "SPPG",
+        "SLHS",
+        "Makan Bergizi Gratis",
+        "Dinkes Sidoarjo",
+        "Bupati Subandi"
+      ]
+    },
+    {
+      "id": "2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "judul": "Wabup Sidoarjo: Kesejahteraan Lansia Harus Terus Diperkuat",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1793842275/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1793842275.jpeg",
+      "tgl_terbit_sumber": "2026-11-04",
+      "tanda_48j": false,
+      "jumlah_kata": 210,
+      "file_md": "artikel/2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo.md",
+      "file_jpg": "foto/2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo.jpg",
+      "kredit_foto": "Pemkab Sidoarjo",
+      "status": "butuh_gambar",
+      "catatan": "Tanggal terbit di halaman 4 Nov; unix ID unggahan 5 Nov 2026 08.31 WIB (masuk 24 jam).",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Lanjut Usia Nasional",
+        "Lansia",
+        "Mimik Idayana",
+        "Wakil Bupati Sidoarjo",
+        "Disporapar Sidoarjo"
+      ]
     }
   ]
 }
