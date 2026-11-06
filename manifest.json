@@ -1644,7 +1644,7 @@
       "file_jpg": "foto/2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
       "status": "draf",
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1924,8 +1924,8 @@
       "file_md": "artikel/2026-11-06_surabaya-raya_rupabumi-surabaya.md",
       "file_jpg": "foto/2026-11-06_surabaya-raya_rupabumi-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Angka dan tanggal mengikuti teks sumber; ketidakkonsistenan di sumber (hari kegiatan, jumlah kecamatan sejak 2020) tidak dimuat.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
       "tag": [
@@ -1934,7 +1934,16 @@
         "Bapemkesra Surabaya",
         "Tim Penilai Jatim",
         "Surabaya"
-      ]
+      ],
+      "ukuran_kb": 99.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1928,
+      "wp_post_id": 1929,
+      "wp_url": "https://jatimverse.id/?p=1929",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:27:21+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T11:12+07:00"
     },
     {
       "id": "2026-11-06_surabaya-raya_kampung-pancasila-surabaya",
@@ -1951,8 +1960,8 @@
       "file_md": "artikel/2026-11-06_surabaya-raya_kampung-pancasila-surabaya.md",
       "file_jpg": "foto/2026-11-06_surabaya-raya_kampung-pancasila-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Isi berupa pendapat narasumber akademisi yang dimuat situs Pemkot; ditulis sebagai pernyataan narasumber.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -1961,7 +1970,16 @@
         "Isa Ansori",
         "Kerukunan Warga",
         "Surabaya"
-      ]
+      ],
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1930,
+      "wp_post_id": 1931,
+      "wp_url": "https://jatimverse.id/?p=1931",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:27:30+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T11:57+07:00"
     },
     {
       "id": "2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya",
@@ -1978,8 +1996,8 @@
       "file_md": "artikel/2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya.md",
       "file_jpg": "foto/2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya.jpg",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Kegiatan 4 Nov, terbit di situs 5 Nov 2026.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -1988,7 +2006,16 @@
         "Kesetaraan Gender",
         "DP3A-PPKB Surabaya",
         "BG Junction"
-      ]
+      ],
+      "ukuran_kb": 98.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 1932,
+      "wp_post_id": 1933,
+      "wp_url": "https://jatimverse.id/?p=1933",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:27:39+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T12:42+07:00"
     },
     {
       "id": "2026-11-06_surabaya-raya_slhs-sppg-sidoarjo",
@@ -2005,8 +2032,8 @@
       "file_md": "artikel/2026-11-06_surabaya-raya_slhs-sppg-sidoarjo.md",
       "file_jpg": "foto/2026-11-06_surabaya-raya_slhs-sppg-sidoarjo.jpg",
       "kredit_foto": "Pemkab Sidoarjo",
-      "status": "butuh_gambar",
-      "catatan": "Tanggal terbit di halaman 4 Nov; unix ID unggahan 5 Nov 2026 08.25 WIB (masuk 24 jam). Sumber menulis hari \"Selasa (4/11)\" yang tidak cocok kalender; hari tidak dimuat.",
+      "status": "draf",
+      "catatan": "di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2015,7 +2042,9 @@
         "Makan Bergizi Gratis",
         "Dinkes Sidoarjo",
         "Bupati Subandi"
-      ]
+      ],
+      "ukuran_kb": 95.7,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo",
@@ -2032,8 +2061,8 @@
       "file_md": "artikel/2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo.md",
       "file_jpg": "foto/2026-11-06_surabaya-raya_hari-lanjut-usia-sidoarjo.jpg",
       "kredit_foto": "Pemkab Sidoarjo",
-      "status": "butuh_gambar",
-      "catatan": "Tanggal terbit di halaman 4 Nov; unix ID unggahan 5 Nov 2026 08.31 WIB (masuk 24 jam).",
+      "status": "draf",
+      "catatan": "di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2042,7 +2071,9 @@
         "Mimik Idayana",
         "Wakil Bupati Sidoarjo",
         "Disporapar Sidoarjo"
-      ]
+      ],
+      "ukuran_kb": 97.4,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-06_mataraman_kirab-akar-api-popda-ngawi",
@@ -2059,7 +2090,7 @@
       "file_md": "artikel/2026-11-06_mataraman_kirab-akar-api-popda-ngawi.md",
       "file_jpg": "foto/2026-11-06_mataraman_kirab-akar-api-popda-ngawi.jpg",
       "kredit_foto": "Pemkab Ngawi",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
@@ -2069,7 +2100,16 @@
         "Ngawi Purba",
         "Bupati Ony Anwar Harsono",
         "PEPARPEDA III"
-      ]
+      ],
+      "ukuran_kb": 98.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 1934,
+      "wp_post_id": 1935,
+      "wp_url": "https://jatimverse.id/?p=1935",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:27:48+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T13:27+07:00"
     },
     {
       "id": "2026-11-06_pantura_manajemen-talenta-asn-bojonegoro",
@@ -2086,7 +2126,7 @@
       "file_md": "artikel/2026-11-06_pantura_manajemen-talenta-asn-bojonegoro.md",
       "file_jpg": "foto/2026-11-06_pantura_manajemen-talenta-asn-bojonegoro.jpg",
       "kredit_foto": "Pemkab Bojonegoro",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
@@ -2096,7 +2136,16 @@
         "BKN",
         "Bupati Setyo Wahono",
         "Nine-Box Talent Matrix"
-      ]
+      ],
+      "ukuran_kb": 99.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1936,
+      "wp_post_id": 1937,
+      "wp_url": "https://jatimverse.id/?p=1937",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:27:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T14:12+07:00"
     },
     {
       "id": "2026-11-06_pantura_apel-siaga-bencana-lamongan",
@@ -2113,8 +2162,8 @@
       "file_md": "artikel/2026-11-06_pantura_apel-siaga-bencana-lamongan.md",
       "file_jpg": "foto/2026-11-06_pantura_apel-siaga-bencana-lamongan.jpg",
       "kredit_foto": "Pemkab Lamongan",
-      "status": "butuh_gambar",
-      "catatan": "Sumber dibaca lewat diskominfo.lamongankab.go.id (mirror portal.lamongankab.go.id/posting/64517). Foto thumbnail portal; kualitas perlu dicek pipeline.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2123,7 +2172,16 @@
         "BPBD Lamongan",
         "Bupati Yuhronur Efendi",
         "Musim Hujan"
-      ]
+      ],
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1938,
+      "wp_post_id": 1939,
+      "wp_url": "https://jatimverse.id/?p=1939",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:28:06+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T14:57+07:00"
     },
     {
       "id": "2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan",
@@ -2140,8 +2198,8 @@
       "file_md": "artikel/2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan.md",
       "file_jpg": "foto/2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan.jpg",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "Judul sumber memakai \"Juara National\", isi menyebut Juara II; ditulis juara II sesuai isi.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -2150,7 +2208,16 @@
         "Petani Mangga",
         "Sukorejo",
         "Rembang Pasuruan"
-      ]
+      ],
+      "ukuran_kb": 95.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1940,
+      "wp_post_id": 1941,
+      "wp_url": "https://jatimverse.id/?p=1941",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:28:16+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T15:42+07:00"
     },
     {
       "id": "2026-11-06_madura_satu-data-sumenep",
@@ -2167,7 +2234,7 @@
       "file_md": "artikel/2026-11-06_madura_satu-data-sumenep.md",
       "file_jpg": "foto/2026-11-06_madura_satu-data-sumenep.jpg",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
@@ -2177,7 +2244,16 @@
         "Bappeda Sumenep",
         "Diskominfo Sumenep",
         "Universitas Indonesia"
-      ]
+      ],
+      "ukuran_kb": 96.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 1942,
+      "wp_post_id": 1943,
+      "wp_url": "https://jatimverse.id/?p=1943",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-06T10:28:26+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-06T16:27+07:00"
     }
   ]
 }
