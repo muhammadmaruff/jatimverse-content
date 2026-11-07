@@ -2470,6 +2470,87 @@
       "file_jpg": "foto/2026-11-07_pantura_tk-kartika-lamongan.jpg",
       "jumlah_kata": 202,
       "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/pemkab-pasuruan-dan-bpjs-ketenagakerjaan-komitmen-capai-target-universal-coverage-jamsostek-2026"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6IldjVGJpNDc5T2JaOVBKZVRDanVRc1E9PSIsInZhbHVlIjoiOVhZalowZzlrVjluT2pzSFU4Q1lVdz09IiwibWFjIjoiN2VlYTgxZTk1MmUxNDUyNDcyMDJmZDhiZDI0ZmQ1NTI0NDcyNjIxOTJlM2EzMWNlOTJhYWIyZWI3YmNhYjQ0OCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Pemkab Pasuruan",
+      "catatan": "foto sumber berupa thumbnail OG; klaim '90 persen' di sumber tidak ditulis karena 30,78 dari 33,50 persen sekitar 91,9 persen",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "BPJS Ketenagakerjaan",
+        "Universal Coverage Jamsostek",
+        "Pekerja Rentan",
+        "DBHCHT Pasuruan",
+        "Bupati Rusdi Sutejo"
+      ],
+      "tanda_48j": false,
+      "judul": "Pasuruan Kejar Target Universal Coverage Jamsostek 2026",
+      "file_md": "artikel/2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan.md",
+      "file_jpg": "foto/2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan.jpg",
+      "jumlah_kata": 225,
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-07_madura_jumat-keliling-polresta-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/program-jumat-keliling-cara-kapolresta-sumenep-dengarkan-aspirasi-masyarakat"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/b83e2ace33f221e29a408824c586c0a46cc5774a.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Jumat Keliling",
+        "Polresta Sumenep",
+        "Kapolresta Ariek Indra Sentanu",
+        "Keamanan Lingkungan",
+        "Polisi Bersama Masyarakat"
+      ],
+      "tanda_48j": false,
+      "judul": "Kapolresta Sumenep Serap Aspirasi Warga lewat Jumat Keliling",
+      "file_md": "artikel/2026-11-07_madura_jumat-keliling-polresta-sumenep.md",
+      "file_jpg": "foto/2026-11-07_madura_jumat-keliling-polresta-sumenep.jpg",
+      "jumlah_kata": 202,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-07_madura_literasi-digital-smpn1-ambunten",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/bijak-bermedsos-babinsa-bekali-pelajar-smpn-1-ambunten-literasi-digital"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/567598b3b6d339aaf2a6f05da8e972a68a9eb48c.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Literasi Digital",
+        "Babinsa Ambunten",
+        "SMPN 1 Ambunten",
+        "Media Sosial",
+        "Koramil 0827/10"
+      ],
+      "tanda_48j": false,
+      "judul": "Babinsa Bekali Pelajar SMPN 1 Ambunten Literasi Digital",
+      "file_md": "artikel/2026-11-07_madura_literasi-digital-smpn1-ambunten.md",
+      "file_jpg": "foto/2026-11-07_madura_literasi-digital-smpn1-ambunten.jpg",
+      "jumlah_kata": 241,
+      "status": "butuh_gambar",
+      "catatan": ""
     }
   ]
 }
