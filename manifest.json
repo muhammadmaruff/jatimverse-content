@@ -2632,6 +2632,32 @@
       "tgl_upload": "2026-11-07T11:27:00+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-07T17:25+07:00"
+    },
+    {
+      "id": "2026-11-08_madura_tacb-cagar-budaya-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/tacb-sumenep-tetapkan-tiga-objek-cagar-budaya-sepanjang-2026-asta-tinggi-diproyeksikan-menuju-peringkat-nasional"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/e64785ec81c32a57c16fdd139e7d4eeff883b885.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Cagar Budaya",
+        "Asta Tinggi",
+        "TACB Sumenep",
+        "Babad Trunajaya",
+        "Museum Keraton Sumenep"
+      ],
+      "tanda_48j": true,
+      "judul": "TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Tingkat Nasional",
+      "file_md": "artikel/2026-11-08_madura_tacb-cagar-budaya-sumenep.md",
+      "jumlah_kata": 250,
+      "status": "butuh_gambar",
+      "catatan": "Dateline tidak menyebut tanggal kutipan Ibnu Hajar konsisten (sumber menulis 11/7/2026); dipakai tanggal terbit 7 Nov 2026."
     }
   ]
 }
