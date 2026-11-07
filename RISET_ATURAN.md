@@ -31,7 +31,7 @@ Hanya domain .go.id milik pemprov/dinas, pemkot/pemkab, DPRD, dan instansi verti
 - Metadata manifest: `kategori` (politik, ekonomi, jelajah, viral, bola) dan `rubrik` (biar-paham, cuan-jatim, derbi-jatim, jelajah-jatim, suara-arek, wakil-kita) dipilih yang paling sesuai tema (ekonomi/UMKM → ekonomi + cuan-jatim; olahraga → bola + derbi-jatim; wisata/budaya → jelajah + jelajah-jatim; DPRD/politik → politik + wakil-kita; pelayanan publik/warga → politik + suara-arek; penjelasan kebijakan → biar-paham). `tag`: 3–5 tag spesifik (tema, tokoh, instansi, lokasi). `dapil` boleh dikosongkan bila `config/wordpress.json` sudah memetakannya dari kabkota.
 
 ## Pembagian tugas pipeline
-Tugas riset berhenti setelah artikel dan manifest (status `butuh_gambar`, `url_foto_sumber` terisi) di-commit dan di-push. Foto, verifikasi, dan unggah WordPress dikerjakan otomatis oleh workflow GitHub `pipeline-harian` (11.00 WIB). Jangan menjalankan `proses-foto`, `verifikasi.py --tulis`, atau `upload_wp.py` dari tugas riset.
+Tugas riset berhenti setelah artikel dan manifest (status `butuh_gambar`, `url_foto_sumber` terisi) di-commit dan di-push. Foto, verifikasi, dan unggah WordPress dikerjakan otomatis oleh workflow GitHub `pipeline-harian` (08.00 WIB). Jangan menjalankan `proses-foto`, `verifikasi.py --tulis`, atau `upload_wp.py` dari tugas riset.
 
 ## Hal yang tidak boleh disentuh
 Paket berstatus `lengkap` atau yang punya `wp_post_id`, config/wordpress.json, scripts/, dan workflow. Hanya tambahkan paket baru ke manifest dan berkas baru di artikel/. Saat push: `git pull --rebase origin main` dulu; jika manifest bentrok, baca versi terbaru dan terapkan ulang HANYA tambahan sendiri, jangan menimpa isi lain.

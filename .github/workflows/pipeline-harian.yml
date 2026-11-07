@@ -2,9 +2,9 @@ name: pipeline-harian
 
 on:
   schedule:
-    - cron: "13 23 * * *"  # 06.13 WIB (23.13 UTC hari sebelumnya)
-    - cron: "43 23 * * *"  # cadangan 06.43 WIB (unggah idempoten, jalan beruntun)
-    - cron: "13 0 * * *"   # cadangan 07.13 WIB
+    - cron: "0 1 * * *"    # 08.00 WIB (01.00 UTC)
+    - cron: "30 1 * * *"   # cadangan 08.30 WIB (unggah idempoten, jalan beruntun)
+    - cron: "0 2 * * *"    # cadangan 09.00 WIB
   workflow_dispatch:
     inputs:
       mode:
