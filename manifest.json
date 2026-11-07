@@ -2315,10 +2315,17 @@
       "file_md": "artikel/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.md",
       "file_jpg": "foto/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.jpg",
       "jumlah_kata": 269,
-      "status": "draf",
-      "catatan": "jumlah_kata manifest 268 != 269",
+      "status": "lengkap",
+      "catatan": "",
       "ukuran_kb": 97.4,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1969,
+      "wp_post_id": 1970,
+      "wp_url": "https://jatimverse.id/?p=1970",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:39:12+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T18:10+07:00"
     },
     {
       "id": "2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung",
