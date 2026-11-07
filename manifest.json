@@ -2308,6 +2308,168 @@
       "jumlah_kata": 268,
       "status": "butuh_gambar",
       "catatan": ""
+    },
+    {
+      "id": "2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/hadapi-potensi-cuaca-ekstrem-pemkab-tulungagung-perkuat-kesiapsiagaan-bencana/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC09978-Ratnoeko-Utomo.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Diskominfo Tulungagung",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kesiapsiagaan Bencana",
+        "Cuaca Ekstrem",
+        "BPBD Tulungagung",
+        "Bencana Hidrometeorologi",
+        "Polres Tulungagung"
+      ],
+      "tanda_48j": false,
+      "judul": "Tulungagung Siagakan Personel Hadapi Cuaca Ekstrem",
+      "file_md": "artikel/2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung.md",
+      "file_jpg": "foto/2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung.jpg",
+      "jumlah_kata": 239,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-07_mataraman_deklarasi-damai-pilkades-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/11/06/pemkab-blitar-tanda-tangani-deklarasi-damai-pelaksanaan-pilkades-serentak-2026/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/deklarasi-damai-pilkades-2026.jpeg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Pemkab Blitar",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "Pilkades Serentak 2026",
+        "Deklarasi Damai",
+        "Bupati Blitar Rijanto",
+        "Pakta Integritas",
+        "Kabupaten Blitar"
+      ],
+      "tanda_48j": false,
+      "judul": "Pemkab Blitar Gelar Deklarasi Damai Pilkades Serentak 2026",
+      "file_md": "artikel/2026-11-07_mataraman_deklarasi-damai-pilkades-blitar.md",
+      "file_jpg": "foto/2026-11-07_mataraman_deklarasi-damai-pilkades-blitar.jpg",
+      "jumlah_kata": 202,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-07_mataraman_kontingen-popda-pacitan",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Pacitan",
+      "url_sumber": [
+        "https://pacitankab.go.id/popda-jatim-2026-82-atlet-pacitan-bawa-misi-prestasi-dan-harga-diri-daerah/"
+      ],
+      "url_foto_sumber": "https://wp1.pacitankab.go.id/wp-content/uploads/2026/11/SnapInsta.to_886527387_18385671445239048_5847072586297309355_n-1024x683.webp",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": true,
+      "kredit_foto": "Pemkab Pacitan",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "catatan": "rentang 48 jam karena kuota Mataraman kurang; foto sumber 1024x683",
+      "tag": [
+        "POPDA Jatim XV",
+        "Atlet Pelajar Pacitan",
+        "Bupati Pacitan",
+        "KONI Pacitan",
+        "Olahraga Pelajar"
+      ],
+      "judul": "Bupati Pacitan Lepas 82 Atlet Pelajar ke POPDA Jatim XV",
+      "file_md": "artikel/2026-11-07_mataraman_kontingen-popda-pacitan.md",
+      "file_jpg": "foto/2026-11-07_mataraman_kontingen-popda-pacitan.jpg",
+      "jumlah_kata": 215,
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-07_mataraman_iga-2026-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/bupati-tulungagung-paparkan-dua-inovasi-unggulan-dalam-penilaian-innovative-government-award-2026/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-6.54.25-PM-e1793845704634.jpeg",
+      "tgl_terbit_sumber": "2026-11-05",
+      "tanda_48j": true,
+      "kredit_foto": "Diskominfo Tulungagung",
+      "catatan": "rentang 48 jam karena kuota Mataraman kurang",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Innovative Government Award 2026",
+        "Mosskeling",
+        "SikarIsma",
+        "RSUD dr. Iskak",
+        "Inovasi Daerah"
+      ],
+      "judul": "Tulungagung Paparkan Dua Inovasi di Innovative Government Award 2026",
+      "file_md": "artikel/2026-11-07_mataraman_iga-2026-tulungagung.md",
+      "file_jpg": "foto/2026-11-07_mataraman_iga-2026-tulungagung.jpg",
+      "jumlah_kata": 247,
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-07_pantura_pasar-rakyat-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "url_sumber": [
+        "https://baghumas.bojonegorokab.go.id/berita/semarak-pasar-rakyat-bojonegoro-2026-sinergi-bangkitkan-ekonomi-lokal-dan-umkm"
+      ],
+      "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-07/zwOI9AO7uCSYX0xaE6cGA1HMu1quIWjxhH9iVMrb.webp",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkab Bojonegoro",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pasar Rakyat Bojonegoro 2026",
+        "UMKM Bojonegoro",
+        "Operasi Pasar Murah",
+        "Pass Isya",
+        "Setyo Wahono"
+      ],
+      "tanda_48j": false,
+      "judul": "Pasar Rakyat Bojonegoro 2026 Digelar Bergilir di Enam Kecamatan",
+      "file_md": "artikel/2026-11-07_pantura_pasar-rakyat-bojonegoro.md",
+      "file_jpg": "foto/2026-11-07_pantura_pasar-rakyat-bojonegoro.jpg",
+      "jumlah_kata": 226,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-07_pantura_tk-kartika-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://diskominfo.lamongankab.go.id/posting/64606"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/308b110aaced016d19cf42bd98c804f6.png",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Pemkab Lamongan",
+      "catatan": "foto sumber hanya thumbnail",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TK Kartika IV-46",
+        "Kodim 0812 Lamongan",
+        "Pendidikan Anak Usia Dini",
+        "Bupati Yuhronur Efendi",
+        "Lamongan"
+      ],
+      "tanda_48j": false,
+      "judul": "Bupati Lamongan Resmikan Gedung TK Kartika IV-46 yang Direnovasi",
+      "file_md": "artikel/2026-11-07_pantura_tk-kartika-lamongan.md",
+      "file_jpg": "foto/2026-11-07_pantura_tk-kartika-lamongan.jpg",
+      "jumlah_kata": 202,
+      "status": "butuh_gambar"
     }
   ]
 }
