@@ -2254,6 +2254,60 @@
       "tgl_upload": "2026-11-06T10:28:26+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-06T16:27+07:00"
+    },
+    {
+      "id": "2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25903/pemkot-surabaya-kebut-lima-rumah-pompa-dan-perkuat-sistem-drainase-jelang-musim-hujan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25903/blob_7019_0.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "tanda_48j": false,
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Rumah Pompa",
+        "Drainase Surabaya",
+        "Banjir Semolowaru",
+        "DSDABM Surabaya",
+        "Musim Hujan"
+      ],
+      "judul": "Pemkot Surabaya Kebut Lima Rumah Pompa Jelang Musim Hujan",
+      "file_md": "artikel/2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya.md",
+      "file_jpg": "foto/2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya.jpg",
+      "jumlah_kata": 349,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25902/tps-taman-ketampon-disulap-jadi-taman-pemkot-surabaya-siapkan-relokasi-penggeledek"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25902/blob_1332_0.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "tanda_48j": false,
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TPS Taman Ketampon",
+        "DLH Surabaya",
+        "Ruang Terbuka Hijau",
+        "Sampah Horeka",
+        "Tegalsari"
+      ],
+      "judul": "TPS Taman Ketampon Surabaya Akan Diubah Jadi Taman",
+      "file_md": "artikel/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.md",
+      "file_jpg": "foto/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.jpg",
+      "jumlah_kata": 268,
+      "status": "butuh_gambar",
+      "catatan": ""
     }
   ]
 }
