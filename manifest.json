@@ -2279,8 +2279,17 @@
       "file_md": "artikel/2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya.md",
       "file_jpg": "foto/2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya.jpg",
       "jumlah_kata": 349,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "ukuran_kb": 96.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 1953,
+      "wp_post_id": 1954,
+      "wp_url": "https://jatimverse.id/?p=1954",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:25:47+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T12:10+07:00"
     },
     {
       "id": "2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya",
@@ -2306,8 +2315,10 @@
       "file_md": "artikel/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.md",
       "file_jpg": "foto/2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya.jpg",
       "jumlah_kata": 268,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "draf",
+      "catatan": "jumlah_kata manifest 268 != 269",
+      "ukuran_kb": 97.4,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung",
@@ -2333,8 +2344,8 @@
       "file_md": "artikel/2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung.md",
       "file_jpg": "foto/2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung.jpg",
       "jumlah_kata": 239,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "draf",
+      "catatan": "jpg hilang"
     },
     {
       "id": "2026-11-07_mataraman_deklarasi-damai-pilkades-blitar",
@@ -2360,8 +2371,17 @@
       "file_md": "artikel/2026-11-07_mataraman_deklarasi-damai-pilkades-blitar.md",
       "file_jpg": "foto/2026-11-07_mataraman_deklarasi-damai-pilkades-blitar.jpg",
       "jumlah_kata": 202,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "ukuran_kb": 98.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1955,
+      "wp_post_id": 1956,
+      "wp_url": "https://jatimverse.id/?p=1956",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:25:57+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T12:55+07:00"
     },
     {
       "id": "2026-11-07_mataraman_kontingen-popda-pacitan",
@@ -2376,7 +2396,7 @@
       "kredit_foto": "Pemkab Pacitan",
       "kategori": "bola",
       "rubrik": "derbi-jatim",
-      "catatan": "rentang 48 jam karena kuota Mataraman kurang; foto sumber 1024x683",
+      "catatan": "",
       "tag": [
         "POPDA Jatim XV",
         "Atlet Pelajar Pacitan",
@@ -2388,7 +2408,16 @@
       "file_md": "artikel/2026-11-07_mataraman_kontingen-popda-pacitan.md",
       "file_jpg": "foto/2026-11-07_mataraman_kontingen-popda-pacitan.jpg",
       "jumlah_kata": 215,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "ukuran_kb": 96.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1957,
+      "wp_post_id": 1958,
+      "wp_url": "https://jatimverse.id/?p=1958",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:26:08+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T13:40+07:00"
     },
     {
       "id": "2026-11-07_mataraman_iga-2026-tulungagung",
@@ -2401,7 +2430,7 @@
       "tgl_terbit_sumber": "2026-11-05",
       "tanda_48j": true,
       "kredit_foto": "Diskominfo Tulungagung",
-      "catatan": "rentang 48 jam karena kuota Mataraman kurang",
+      "catatan": "jpg hilang",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2415,7 +2444,7 @@
       "file_md": "artikel/2026-11-07_mataraman_iga-2026-tulungagung.md",
       "file_jpg": "foto/2026-11-07_mataraman_iga-2026-tulungagung.jpg",
       "jumlah_kata": 247,
-      "status": "butuh_gambar"
+      "status": "draf"
     },
     {
       "id": "2026-11-07_pantura_pasar-rakyat-bojonegoro",
@@ -2441,8 +2470,17 @@
       "file_md": "artikel/2026-11-07_pantura_pasar-rakyat-bojonegoro.md",
       "file_jpg": "foto/2026-11-07_pantura_pasar-rakyat-bojonegoro.jpg",
       "jumlah_kata": 226,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "ukuran_kb": 99.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 1959,
+      "wp_post_id": 1960,
+      "wp_url": "https://jatimverse.id/?p=1960",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:26:19+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T14:25+07:00"
     },
     {
       "id": "2026-11-07_pantura_tk-kartika-lamongan",
@@ -2454,7 +2492,7 @@
       "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/308b110aaced016d19cf42bd98c804f6.png",
       "tgl_terbit_sumber": "2026-11-06",
       "kredit_foto": "Pemkab Lamongan",
-      "catatan": "foto sumber hanya thumbnail",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2469,7 +2507,16 @@
       "file_md": "artikel/2026-11-07_pantura_tk-kartika-lamongan.md",
       "file_jpg": "foto/2026-11-07_pantura_tk-kartika-lamongan.jpg",
       "jumlah_kata": 202,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "ukuran_kb": 98.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1961,
+      "wp_post_id": 1962,
+      "wp_url": "https://jatimverse.id/?p=1962",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:26:29+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T15:10+07:00"
     },
     {
       "id": "2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan",
@@ -2481,7 +2528,7 @@
       "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6IldjVGJpNDc5T2JaOVBKZVRDanVRc1E9PSIsInZhbHVlIjoiOVhZalowZzlrVjluT2pzSFU4Q1lVdz09IiwibWFjIjoiN2VlYTgxZTk1MmUxNDUyNDcyMDJmZDhiZDI0ZmQ1NTI0NDcyNjIxOTJlM2EzMWNlOTJhYWIyZWI3YmNhYjQ0OCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
       "tgl_terbit_sumber": "2026-11-06",
       "kredit_foto": "Pemkab Pasuruan",
-      "catatan": "foto sumber berupa thumbnail OG; klaim '90 persen' di sumber tidak ditulis karena 30,78 dari 33,50 persen sekitar 91,9 persen",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -2496,7 +2543,16 @@
       "file_md": "artikel/2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan.md",
       "file_jpg": "foto/2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan.jpg",
       "jumlah_kata": 225,
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "ukuran_kb": 92.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 1963,
+      "wp_post_id": 1964,
+      "wp_url": "https://jatimverse.id/?p=1964",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:26:39+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T15:55+07:00"
     },
     {
       "id": "2026-11-07_madura_jumat-keliling-polresta-sumenep",
@@ -2522,8 +2578,17 @@
       "file_md": "artikel/2026-11-07_madura_jumat-keliling-polresta-sumenep.md",
       "file_jpg": "foto/2026-11-07_madura_jumat-keliling-polresta-sumenep.jpg",
       "jumlah_kata": 202,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "ukuran_kb": 98.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 1965,
+      "wp_post_id": 1966,
+      "wp_url": "https://jatimverse.id/?p=1966",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:26:49+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T16:40+07:00"
     },
     {
       "id": "2026-11-07_madura_literasi-digital-smpn1-ambunten",
@@ -2549,8 +2614,17 @@
       "file_md": "artikel/2026-11-07_madura_literasi-digital-smpn1-ambunten.md",
       "file_jpg": "foto/2026-11-07_madura_literasi-digital-smpn1-ambunten.jpg",
       "jumlah_kata": 241,
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 1967,
+      "wp_post_id": 1968,
+      "wp_url": "https://jatimverse.id/?p=1968",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-07T11:27:00+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-07T17:25+07:00"
     }
   ]
 }
