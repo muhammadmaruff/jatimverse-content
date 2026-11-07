@@ -2658,6 +2658,82 @@
       "jumlah_kata": 250,
       "status": "butuh_gambar",
       "catatan": "Dateline tidak menyebut tanggal kutipan Ibnu Hajar konsisten (sumber menulis 11/7/2026); dipakai tanggal terbit 7 Nov 2026."
+    },
+    {
+      "id": "2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Jawa Timur",
+      "url_sumber": [
+        "https://www.bmkg.go.id/cuaca/potensi-hujan-sepekan/prakiraan-cuaca-indonesia-sepekan-periode-6-12-november-2026-waspada-peningkatan-potensi-hujan-di-tengah-el-nino-sangat-kuat-yang-masih-berlangsung"
+      ],
+      "url_foto_sumber": "https://i0.wp.com/content.bmkg.go.id/wp-content/uploads/Prospek-Cuaca-Mingguan-Youtube-YouTube-Thumbnail-2.webp?fit=1280%2C720&ssl=1",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "BMKG",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "BMKG",
+        "Cuaca Jawa Timur",
+        "Curah Hujan",
+        "El Niño",
+        "Prakiraan Sepekan"
+      ],
+      "tanda_48j": true,
+      "judul": "BMKG: Jawa Timur Catat Hujan 358 Milimeter per Hari, Hujan Sedang Mengintai 9–12 November",
+      "file_md": "artikel/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.md",
+      "jumlah_kata": 180,
+      "status": "butuh_gambar",
+      "catatan": "Sumber bukan situs pemda (BMKG, .go.id instansi vertikal); berita nasional dengan sudut Jatim. Foto utama berupa thumbnail umum BMKG. Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
+    },
+    {
+      "id": "2026-11-08_pantura_hoaks-wa-diskominfo-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://diskominfo.lamongankab.go.id/posting/64596"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/diskominfo/9c21ea5c9a89ccc64b3fffef2c2872eb.jpg",
+      "tgl_terbit_sumber": "2026-11-06",
+      "kredit_foto": "Diskominfo Lamongan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hoaks",
+        "Penipuan WhatsApp",
+        "Diskominfo Lamongan",
+        "Literasi Digital"
+      ],
+      "tanda_48j": true,
+      "judul": "Diskominfo Lamongan Peringatkan Pesan WhatsApp Palsu Atas Nama Instansinya",
+      "file_md": "artikel/2026-11-08_pantura_hoaks-wa-diskominfo-lamongan.md",
+      "jumlah_kata": 162,
+      "status": "butuh_gambar",
+      "catatan": "Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
+    },
+    {
+      "id": "2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/wujud-nyata-kemanunggalan-babinsa-pasongsongan-ikut-bantu-warga-bangun-rumah"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/ddee254fa3b6738028fa3f867984aa651bb31fc8.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Babinsa Pasongsongan",
+        "Koramil 0827/11",
+        "Gotong Royong",
+        "TNI dan Warga"
+      ],
+      "tanda_48j": true,
+      "judul": "Babinsa Pasongsongan Ikut Bantu Warga Membangun Rumah",
+      "file_md": "artikel/2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan.md",
+      "jumlah_kata": 133,
+      "status": "butuh_gambar",
+      "catatan": "Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
     }
   ]
 }
