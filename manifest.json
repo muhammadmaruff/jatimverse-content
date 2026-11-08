@@ -2352,7 +2352,7 @@
       "file_jpg": "foto/2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung.jpg",
       "jumlah_kata": 239,
       "status": "draf",
-      "catatan": "jpg hilang"
+      "catatan": "jpg hilang; di luar rentang waktu"
     },
     {
       "id": "2026-11-07_mataraman_deklarasi-damai-pilkades-blitar",
@@ -2437,7 +2437,7 @@
       "tgl_terbit_sumber": "2026-11-05",
       "tanda_48j": true,
       "kredit_foto": "Diskominfo Tulungagung",
-      "catatan": "jpg hilang",
+      "catatan": "jpg hilang; di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -2656,8 +2656,11 @@
       "judul": "TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Tingkat Nasional",
       "file_md": "artikel/2026-11-08_madura_tacb-cagar-budaya-sumenep.md",
       "jumlah_kata": 250,
-      "status": "butuh_gambar",
-      "catatan": "Dateline tidak menyebut tanggal kutipan Ibnu Hajar konsisten (sumber menulis 11/7/2026); dipakai tanggal terbit 7 Nov 2026."
+      "status": "draf",
+      "catatan": "jumlah_kata manifest 250 != 251; judul > ~70 karakter",
+      "file_jpg": "foto/2026-11-08_madura_tacb-cagar-budaya-sumenep.jpg",
+      "ukuran_kb": 97.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim",
@@ -2682,8 +2685,11 @@
       "judul": "BMKG: Jawa Timur Catat Hujan 358 Milimeter per Hari, Hujan Sedang Mengintai 9–12 November",
       "file_md": "artikel/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.md",
       "jumlah_kata": 180,
-      "status": "butuh_gambar",
-      "catatan": "Sumber bukan situs pemda (BMKG, .go.id instansi vertikal); berita nasional dengan sudut Jatim. Foto utama berupa thumbnail umum BMKG. Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
+      "status": "draf",
+      "catatan": "dapil tidak terpetakan; judul > ~70 karakter",
+      "file_jpg": "foto/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.jpg",
+      "ukuran_kb": 97.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-08_pantura_hoaks-wa-diskominfo-lamongan",
@@ -2707,8 +2713,18 @@
       "judul": "Diskominfo Lamongan Peringatkan Pesan WhatsApp Palsu Atas Nama Instansinya",
       "file_md": "artikel/2026-11-08_pantura_hoaks-wa-diskominfo-lamongan.md",
       "jumlah_kata": 162,
-      "status": "butuh_gambar",
-      "catatan": "Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
+      "status": "lengkap",
+      "catatan": "kata 162 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-08_pantura_hoaks-wa-diskominfo-lamongan.jpg",
+      "ukuran_kb": 97.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 1980,
+      "wp_post_id": 1981,
+      "wp_url": "https://jatimverse.id/?p=1981",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-08T13:58:41+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-08T14:43+07:00"
     },
     {
       "id": "2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan",
@@ -2732,8 +2748,18 @@
       "judul": "Babinsa Pasongsongan Ikut Bantu Warga Membangun Rumah",
       "file_md": "artikel/2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan.md",
       "jumlah_kata": 133,
-      "status": "butuh_gambar",
-      "catatan": "Di bawah ambang kata; ditulis seadaanya atas permintaan pengguna."
+      "status": "lengkap",
+      "catatan": "kata 133 < 200 (tetap ditayangkan)",
+      "file_jpg": "foto/2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan.jpg",
+      "ukuran_kb": 97.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 1982,
+      "wp_post_id": 1983,
+      "wp_url": "https://jatimverse.id/?p=1983",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-08T13:58:51+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-08T15:28+07:00"
     }
   ]
 }
