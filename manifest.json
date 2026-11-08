@@ -2656,11 +2656,18 @@
       "judul": "TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Nasional",
       "file_md": "artikel/2026-11-08_madura_tacb-cagar-budaya-sumenep.md",
       "jumlah_kata": 251,
-      "status": "draf",
-      "catatan": "jumlah_kata manifest 250 != 251; judul > ~70 karakter",
+      "status": "lengkap",
+      "catatan": "",
       "file_jpg": "foto/2026-11-08_madura_tacb-cagar-budaya-sumenep.jpg",
       "ukuran_kb": 97.5,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1984,
+      "wp_post_id": 1985,
+      "wp_url": "https://jatimverse.id/?p=1985",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-08T14:39:25+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-08T16:13+07:00"
     },
     {
       "id": "2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim",
@@ -2685,11 +2692,18 @@
       "judul": "BMKG: Jatim Catat Hujan 358 mm per Hari, Hujan Sedang Mengintai 9–12 Nov",
       "file_md": "artikel/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.md",
       "jumlah_kata": 180,
-      "status": "draf",
-      "catatan": "dapil tidak terpetakan; judul > ~70 karakter",
+      "status": "lengkap",
+      "catatan": "kata 180 < 200 (tetap ditayangkan)",
       "file_jpg": "foto/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.jpg",
       "ukuran_kb": 97.5,
-      "dimensi": "1280x720"
+      "dimensi": "1280x720",
+      "wp_media_id": 1986,
+      "wp_post_id": 1987,
+      "wp_url": "https://jatimverse.id/?p=1987",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-08T14:39:36+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-08T16:58+07:00"
     },
     {
       "id": "2026-11-08_pantura_hoaks-wa-diskominfo-lamongan",
