@@ -1,4 +1,4 @@
-# BMKG: Jawa Timur Catat Hujan 358 Milimeter per Hari, Hujan Sedang Mengintai 9–12 November
+# BMKG: Jatim Catat Hujan 358 mm per Hari, Hujan Sedang Mengintai 9–12 Nov
 
 JAKARTA – Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mencatat Jawa Timur sebagai wilayah dengan curah hujan harian tertinggi pada 1–4 November 2026, yakni 358 milimeter per hari. Data itu tercantum dalam prakiraan cuaca sepekan periode 6–12 November 2026 yang diterbitkan Direktorat Meteorologi Publik BMKG pada 6 November.
 

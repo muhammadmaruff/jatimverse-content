@@ -2653,9 +2653,9 @@
         "Museum Keraton Sumenep"
       ],
       "tanda_48j": true,
-      "judul": "TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Tingkat Nasional",
+      "judul": "TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Nasional",
       "file_md": "artikel/2026-11-08_madura_tacb-cagar-budaya-sumenep.md",
-      "jumlah_kata": 250,
+      "jumlah_kata": 251,
       "status": "draf",
       "catatan": "jumlah_kata manifest 250 != 251; judul > ~70 karakter",
       "file_jpg": "foto/2026-11-08_madura_tacb-cagar-budaya-sumenep.jpg",
@@ -2665,7 +2665,7 @@
     {
       "id": "2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim",
       "wilayah": "Surabaya Raya",
-      "kabkota": "Jawa Timur",
+      "kabkota": "Kota Surabaya",
       "url_sumber": [
         "https://www.bmkg.go.id/cuaca/potensi-hujan-sepekan/prakiraan-cuaca-indonesia-sepekan-periode-6-12-november-2026-waspada-peningkatan-potensi-hujan-di-tengah-el-nino-sangat-kuat-yang-masih-berlangsung"
       ],
@@ -2682,7 +2682,7 @@
         "Prakiraan Sepekan"
       ],
       "tanda_48j": true,
-      "judul": "BMKG: Jawa Timur Catat Hujan 358 Milimeter per Hari, Hujan Sedang Mengintai 9–12 November",
+      "judul": "BMKG: Jatim Catat Hujan 358 mm per Hari, Hujan Sedang Mengintai 9–12 Nov",
       "file_md": "artikel/2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim.md",
       "jumlah_kata": 180,
       "status": "draf",

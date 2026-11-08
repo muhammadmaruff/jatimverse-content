@@ -1,4 +1,4 @@
-# TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Tingkat Nasional
+# TACB Sumenep Tetapkan Tiga Cagar Budaya, Asta Tinggi Dibidik ke Nasional
 
 SUMENEP – Tim Ahli Cagar Budaya (TACB) Kabupaten Sumenep telah menetapkan tiga objek cagar budaya sepanjang 2026. Tim menargetkan tujuh Objek Diduga Cagar Budaya (ODCB) rampung dikaji dan ditetapkan pada tahun yang sama. Kompleks Asta Tinggi diproyeksikan naik ke peringkat nasional.
 
