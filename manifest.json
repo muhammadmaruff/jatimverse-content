@@ -3378,6 +3378,32 @@
       "jumlah_kata": 218,
       "status": "butuh_gambar",
       "catatan": "Rentang 48 jam (terbit 8 Nov). Sumber tidak konsisten soal pencetak gol; artikel hanya memakai klaim judul sumber (Gus Barra dua gol) dan tidak merinci adu gol."
+    },
+    {
+      "id": "2026-11-10_mataraman_kajati-jatim-kunjungi-ngawi",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Ngawi",
+      "url_sumber": [
+        "https://suara.ngawikab.go.id/2026/11/09/kawal-pembangunan-dan-aset-daerah-kajati-jatim-dorong-pemkab-ngawi-manfaatkan-layanan-kejaksaan/"
+      ],
+      "url_foto_sumber": "https://suara.ngawikab.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-09-at-14.43.38.jpeg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Ngawi",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kajati Jatim",
+        "Kejaksaan Negeri Ngawi",
+        "Pengamanan Pembangunan Strategis",
+        "Pemulihan Aset",
+        "Bupati Ony Anwar Harsono"
+      ],
+      "tanda_48j": false,
+      "judul": "Kajati Jatim Dorong Pemkab Ngawi Manfaatkan Layanan Kejaksaan",
+      "file_md": "artikel/2026-11-10_mataraman_kajati-jatim-kunjungi-ngawi.md",
+      "jumlah_kata": 205,
+      "status": "butuh_gambar",
+      "catatan": ""
     }
   ]
 }
