@@ -3196,6 +3196,188 @@
       "tgl_upload": "2026-11-09T14:44:53+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-09T22:57+07:00"
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_ekspor-kakao-jepang-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25918/pemkot-surabaya-dan-ecs-antar-ikm-tembus-pasar-jepang-ekspor-kakao-capai-rp-3-2-miliar"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25918/blob_3882_0.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Ekspor Kakao",
+        "IKM Surabaya",
+        "Pasar Jepang",
+        "Export Center Surabaya",
+        "Disperinaker Surabaya"
+      ],
+      "tanda_48j": false,
+      "judul": "IKM Surabaya Ekspor Produk Kakao ke Jepang Senilai Rp3,2 Miliar",
+      "file_md": "artikel/2026-11-10_surabaya-raya_ekspor-kakao-jepang-surabaya.md",
+      "jumlah_kata": 260,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_paud-disabilitas-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25920/surabaya-dirikan-paud-khusus-disabilitas-guru-dilatih-deteksi-dini-anak-berkebutuhan-khusus"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25920/blob_2884_0.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "PAUD Inklusif",
+        "Disabilitas",
+        "Sapa Inklusi",
+        "Unesa",
+        "Bunda PAUD Surabaya"
+      ],
+      "tanda_48j": false,
+      "judul": "Surabaya Buka PAUD Khusus Disabilitas, Guru Dilatih Deteksi Dini",
+      "file_md": "artikel/2026-11-10_surabaya-raya_paud-disabilitas-surabaya.md",
+      "jumlah_kata": 282,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_tutup-lima-tps-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25915/dlh-surabaya-tutup-5-tps-untuk-tata-kota-lebih-asri-dan-tekan-volume-sampah"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25915/blob_1208_0.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TPS Surabaya",
+        "DLH Surabaya",
+        "Pengurangan Sampah",
+        "Penggeledek",
+        "Hello Tingo"
+      ],
+      "tanda_48j": false,
+      "judul": "DLH Surabaya Tutup Lima TPS, Sampah Dialihkan ke TPS Terdekat",
+      "file_md": "artikel/2026-11-10_surabaya-raya_tutup-lima-tps-surabaya.md",
+      "jumlah_kata": 268,
+      "status": "butuh_gambar",
+      "catatan": "Sumber menyebut 5 TPS ditutup tetapi memuat 6 nama (Pegirian tanpa tujuan pengalihan); artikel mengikuti angka dan rincian sumber."
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_hening-cipta-hari-pahlawan-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25919/pemkot-surabaya-ajak-warga-semarakkan-hari-pahlawan-pakai-baju-pejuang-hingga-hening-cipta-serentak"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25919/blob_6622_0.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Pahlawan 2026",
+        "Hening Cipta",
+        "Surat Edaran Wali Kota",
+        "Sekda Surabaya",
+        "Lilik Arijanto"
+      ],
+      "tanda_48j": false,
+      "judul": "Surabaya Ajak Warga Peringati Hari Pahlawan dengan Hening Cipta",
+      "file_md": "artikel/2026-11-10_surabaya-raya_hening-cipta-hari-pahlawan-surabaya.md",
+      "jumlah_kata": 214,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_penghargaan-adhiwidya-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25921/entaskan-warga-putus-sekolah-lewat-kejar-paket-wali-kota-eri-cahyadi-sabet-penghargaan-adhiwidya"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25921/blob_3058_0.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Penghargaan Adhiwidya",
+        "Kejar Paket",
+        "Pendidikan Nonformal",
+        "FK PKBM Indonesia",
+        "Dispendik Surabaya"
+      ],
+      "tanda_48j": false,
+      "judul": "Wali Kota Eri Raih Adhiwidya atas Perhatian pada Pendidikan Nonformal",
+      "file_md": "artikel/2026-11-10_surabaya-raya_penghargaan-adhiwidya-surabaya.md",
+      "jumlah_kata": 207,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_bimtek-aparatur-desa-porong-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1794188219/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1794188219.jpeg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Sidoarjo",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Bimtek Aparatur Desa",
+        "Kecamatan Porong",
+        "Bupati Subandi",
+        "Bantuan Keuangan Khusus",
+        "PIWK"
+      ],
+      "tanda_48j": true,
+      "judul": "Bupati Subandi Minta Aparatur Desa dan Kelurahan Porong Harmonis",
+      "file_md": "artikel/2026-11-10_surabaya-raya_bimtek-aparatur-desa-porong-sidoarjo.md",
+      "jumlah_kata": 212,
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam (terbit 8 Nov). URL foto mengikuti pola adminweb/upload/post/{timestamp}.jpeg; halaman tidak menampilkan foto utama saat dibaca."
+    },
+    {
+      "id": "2026-11-10_surabaya-raya_laga-persahabatan-sidoarjo-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/detail/1794187735/0"
+      ],
+      "url_foto_sumber": "https://adminweb.sidoarjokab.go.id/upload/post/1794187735.jpeg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Sidoarjo",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Sepak Bola Persahabatan",
+        "Pemkab Sidoarjo",
+        "Pemkab Mojokerto",
+        "Gelora Delta",
+        "Bupati Subandi"
+      ],
+      "tanda_48j": true,
+      "judul": "Laga Persahabatan Pemkab Sidoarjo Lawan Mojokerto Berakhir 5-5",
+      "file_md": "artikel/2026-11-10_surabaya-raya_laga-persahabatan-sidoarjo-mojokerto.md",
+      "jumlah_kata": 218,
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam (terbit 8 Nov). Sumber tidak konsisten soal pencetak gol; artikel hanya memakai klaim judul sumber (Gus Barra dua gol) dan tidak merinci adu gol."
     }
   ]
 }
