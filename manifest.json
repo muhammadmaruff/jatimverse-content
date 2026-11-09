@@ -2774,6 +2774,136 @@
       "tgl_upload": "2026-11-08T13:58:51+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-08T15:28+07:00"
+    },
+    {
+      "id": "2026-11-09_surabaya-raya_414-titik-genangan-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25913/pemkot-surabaya-tuntaskan-414-titik-genangan-percepatan-infrastruktur-berlanjut-di-124-lokasi"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25913/blob_4841_0.jpg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Genangan Surabaya",
+        "Drainase",
+        "DSDABM Surabaya",
+        "Semolowaru",
+        "Rumah Pompa"
+      ],
+      "tanda_48j": true,
+      "judul": "Pemkot Surabaya Tuntaskan 414 Titik Genangan, 124 Tersisa",
+      "file_md": "artikel/2026-11-09_surabaya-raya_414-titik-genangan-surabaya.md",
+      "jumlah_kata": 236,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_surabaya-raya_solar-truk-sampah-dlh-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25914/dugaan-jual-beli-solar-truk-sampah-dlh-terbongkar-wali-kota-eri-minta-pegawai-terlibat-diproses-hukum"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25914/blob_8467_0.jpg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "DLH Surabaya",
+        "TPA Benowo",
+        "Solar Subsidi",
+        "Eri Cahyadi",
+        "Truk Sampah"
+      ],
+      "tanda_48j": true,
+      "judul": "Dugaan Penjualan Solar Truk Sampah DLH Surabaya Diusut",
+      "file_md": "artikel/2026-11-09_surabaya-raya_solar-truk-sampah-dlh-surabaya.md",
+      "jumlah_kata": 306,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_surabaya-raya_subec-ruang-kreatif-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25912/wali-kota-eri-jadikan-subec-rumah-kreativitas-anak-muda-surabaya-karya-bisa-dipamerkan-hingga-dijual"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25912/blob_3130_0.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "SUBEC",
+        "Ekonomi Kreatif",
+        "Surabaya Startup Festival",
+        "UMKM",
+        "Anak Muda"
+      ],
+      "tanda_48j": true,
+      "judul": "SUBEC Disiapkan Jadi Ruang Karya dan Jual Anak Muda Surabaya",
+      "file_md": "artikel/2026-11-09_surabaya-raya_subec-ruang-kreatif-surabaya.md",
+      "jumlah_kata": 287,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_surabaya-raya_kontingen-surabaya-popda-xv",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25911/surabaya-bidik-juara-umum-popda-xv-jatim-2026-509-atlet-siap-berburu-medali"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25911/blob_3840_0.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Popda XV Jatim 2026",
+        "Kontingen Surabaya",
+        "Disbudporapar Surabaya",
+        "Atlet Pelajar",
+        "Porprov Jatim"
+      ],
+      "tanda_48j": true,
+      "judul": "Surabaya Kirim 509 Atlet, Bidik Juara Umum Popda XV Jatim",
+      "file_md": "artikel/2026-11-09_surabaya-raya_kontingen-surabaya-popda-xv.md",
+      "jumlah_kata": 256,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_surabaya-raya_perwali-45-sanksi-sampah-liar-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25910/tegakkan-perwali-nomor-45-tahun-2026-dlh-surabaya-siapkan-tim-gabungan-yustisi-massal"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25910/blob_5118_0.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Perwali 45 Tahun 2026",
+        "Sampah Liar",
+        "DLH Surabaya",
+        "Yustisi",
+        "Denda"
+      ],
+      "tanda_48j": true,
+      "judul": "Sanksi Sampah Liar di Surabaya Naik, Denda hingga Rp3 Juta",
+      "file_md": "artikel/2026-11-09_surabaya-raya_perwali-45-sanksi-sampah-liar-surabaya.md",
+      "jumlah_kata": 239,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
     }
   ]
 }
