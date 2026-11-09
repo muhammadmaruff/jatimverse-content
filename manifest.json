@@ -3404,6 +3404,111 @@
       "jumlah_kata": 205,
       "status": "butuh_gambar",
       "catatan": ""
+    },
+    {
+      "id": "2026-11-10_tapal-kuda_pagak-training-centre-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/bupati-mas-rusdi-resmikan-pagak-training-centre-ptc"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6ImNHclB3U3dtZU4zL0RlWTM4akU5eXc9PSIsInZhbHVlIjoiUC9Gb0poRk1IQzlqaFhUeWZpUTRLdz09IiwibWFjIjoiYWE4ZGE0Yjk4ODA3OTE3YjVlMTRjOGMzM2Y5YzJhZjNiOWE0NzgzMjg4MjVlZjlhMjQ2MTE0NmRjNzc1MGMzZSIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Pagak Training Centre",
+        "Persekabpas Pasuruan",
+        "Pasuruan United",
+        "Bupati Rusdi Sutejo",
+        "Lapangan Sepak Bola"
+      ],
+      "tanda_48j": false,
+      "judul": "Bupati Pasuruan Resmikan Pagak Training Centre untuk Latihan Atlet",
+      "file_md": "artikel/2026-11-10_tapal-kuda_pagak-training-centre-pasuruan.md",
+      "jumlah_kata": 216,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_madura_dbd-meningkat-pragaan-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/waspada-dbd-enam-kasus-ditemukan-di-pragaan-begini-langkah-penanganannya",
+        "https://sumenepkab.go.id/berita/baca/kasus-dbd-mulai-meningkat-puskesmas-pragaan-sediakan-abate-gratis"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/f39e82aec2761579211a8a7c57d39849dc71cd56.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "DBD Pragaan",
+        "Puskesmas Pragaan",
+        "Fogging",
+        "Abate Gratis",
+        "Teknik Serangga Mandul"
+      ],
+      "tanda_48j": false,
+      "judul": "Enam Kasus DBD di Pragaan, Puskesmas Lakukan Fogging dan Beri Abate",
+      "file_md": "artikel/2026-11-10_madura_dbd-meningkat-pragaan-sumenep.md",
+      "jumlah_kata": 232,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_madura_asn-sehati-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/bupati-sumenep-aplikasi-asn-sehati-sebagai-basis-data-kesehatan-aparatur"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/9a64cecd36fee4ba09dc176cf24d872665afce5c.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "ASN SEHATI",
+        "BKPSDM Sumenep",
+        "Kesehatan ASN",
+        "Bupati Achmad Fauzi",
+        "Aplikasi Pemerintah"
+      ],
+      "tanda_48j": false,
+      "judul": "Pemkab Sumenep Luncurkan Aplikasi ASN SEHATI untuk Pantau Kesehatan Aparatur",
+      "file_md": "artikel/2026-11-10_madura_asn-sehati-sumenep.md",
+      "jumlah_kata": 236,
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-10_madura_paspor-nama-tunggal-uea-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/mau-ke-dubai-pemegang-paspor-nama-tunggal-wajib-perbarui-identitas"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/c90eb8ba067141bc9d8c09c52ecf6613344f68c8.jpg",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Paspor Nama Tunggal",
+        "KJRI Dubai",
+        "Uni Emirat Arab",
+        "Visa Transit",
+        "Imbauan Perjalanan"
+      ],
+      "tanda_48j": false,
+      "judul": "KJRI Dubai: Pemegang Paspor Nama Tunggal Wajib Perbarui Identitas",
+      "file_md": "artikel/2026-11-10_madura_paspor-nama-tunggal-uea-sumenep.md",
+      "jumlah_kata": 210,
+      "status": "butuh_gambar",
+      "catatan": "Rilis KJRI Dubai yang dimuat di sumenepkab.go.id; kuota Tapal Kuda yang tak terpenuhi dialihkan ke Madura."
     }
   ]
 }
