@@ -2904,6 +2904,84 @@
       "jumlah_kata": 239,
       "status": "butuh_gambar",
       "catatan": "rentang 48 jam (Senin); kuota Malang Raya dialihkan: situs resmi tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_mataraman_ponco-tuk-pakel-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/arak-tumpeng-ponco-tuk-bupati-warsubi-ajak-warga-pakel-jaga-sumber-mata-air-24684"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/d6882d59-268f-45d7-8109-fd9c5c015eed.jpg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Ponco Tuk",
+        "Desa Pakel",
+        "Desa Budaya 2026",
+        "Mata Air",
+        "Tradisi Jombang"
+      ],
+      "tanda_48j": true,
+      "judul": "Bupati Jombang Hadiri Arak Tumpeng Ponco Tuk di Desa Pakel",
+      "file_md": "artikel/2026-11-09_mataraman_ponco-tuk-pakel-jombang.md",
+      "jumlah_kata": 270,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Mataraman 4 tidak penuh, situs lain tanpa berita dalam rentang"
+    },
+    {
+      "id": "2026-11-09_mataraman_wisata-petik-jeruk-ngampungan-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/kunjungan-bupati-jombang-di-wisata-petik-jeruk-terintegrasi-frienda-farm-ngampungan-wujud-edukasi-ekonomi-kreatif-dan-solusi-lapangan-kerja-24683"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/8b44048a-4a2a-4811-9921-48e8770fc82d.jpg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Frienda Farm",
+        "Wisata Petik Jeruk",
+        "Desa Ngampungan",
+        "Ekonomi Kreatif",
+        "Lapangan Kerja"
+      ],
+      "tanda_48j": true,
+      "judul": "Bupati Jombang Tinjau Wisata Petik Jeruk Frienda Farm",
+      "file_md": "artikel/2026-11-09_mataraman_wisata-petik-jeruk-ngampungan-jombang.md",
+      "jumlah_kata": 270,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota Mataraman 4 tidak penuh, situs lain tanpa berita dalam rentang"
+    },
+    {
+      "id": "2026-11-09_pantura_udeng-semolo-gandring-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64615"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/54e523464cd2d78c6dbe6391c72148de.png",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Mendhak Sanggring",
+        "Udeng Semolo Gandring",
+        "Desa Tlemang",
+        "Warisan Budaya Takbenda",
+        "Ngimbang"
+      ],
+      "tanda_48j": true,
+      "judul": "Udeng Semolo Gandring Diluncurkan di Tlemang, Lamongan",
+      "file_md": "artikel/2026-11-09_pantura_udeng-semolo-gandring-lamongan.md",
+      "jumlah_kata": 222,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin)"
     }
   ]
 }
