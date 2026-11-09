@@ -2982,6 +2982,110 @@
       "jumlah_kata": 222,
       "status": "butuh_gambar",
       "catatan": "rentang 48 jam (Senin)"
+    },
+    {
+      "id": "2026-11-09_tapal-kuda_haul-masyayikh-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/ratusan-ulama-dan-jamaah-jatman-se-pasuruan-raya-ikuti-haul-masyayikh-dan-heroik-santri-tahun-2026"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6IlpyVG9aakE4MU1MWGtrUVU2VFZBNVE9PSIsInZhbHVlIjoiL0hJaGZWc2ROTnZKNDBQTlRETGxQdz09IiwibWFjIjoiNzYyNmQ2ODYyMmZjNWNhNzc1NTEzYzdmOTYwZDVjZDMyMjg2YTA3Nzg0Y2JiNzliZmVkMTA3YmE0YzYwNmFhYyIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Haul Masyayikh",
+        "Heroik Santri 2026",
+        "JATMAN Pasuruan Raya",
+        "Gus Shobih",
+        "Pendopo Pasuruan"
+      ],
+      "tanda_48j": true,
+      "judul": "Haul Masyayikh dan Heroik Santri 2026 Digelar di Pasuruan",
+      "file_md": "artikel/2026-11-09_tapal-kuda_haul-masyayikh-pasuruan.md",
+      "jumlah_kata": 233,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota tidak penuh: situs lain tanpa berita dalam rentang atau tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_tapal-kuda_kupang-kraton-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/nikmatnya-kupang-kraton-kuliner-legendaris-kabupaten-pasuruan"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-image/nikmatnya-kupang-kraton-kuliner-legendaris-kabupaten-pasuruan/posts/tumbnail",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Kupang Kraton",
+        "Kuliner Pasuruan",
+        "Desa Pulokerto",
+        "Warung Bu Nur",
+        "UMKM Kuliner"
+      ],
+      "tanda_48j": true,
+      "judul": "Kupang Kraton, Kuliner Legendaris yang Jadi Sumber Nafkah Warga",
+      "file_md": "artikel/2026-11-09_tapal-kuda_kupang-kraton-pasuruan.md",
+      "jumlah_kata": 227,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota tidak penuh: situs lain tanpa berita dalam rentang atau tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_madura_etika-medsos-brigade-penolong-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/tolong-dulu-rekam-kemudian-brigade-penolong-sumenep-dibekali-etika-bermedia-sosial-saat-bencana"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/242fb46967aba295595c69d0eddd1bc7fa7b0a4a.jpg",
+      "tgl_terbit_sumber": "2026-11-08",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Brigade Penolong 13.29",
+        "Pramuka Sumenep",
+        "Etika Media Sosial",
+        "Kebencanaan",
+        "Diskominfo Sumenep"
+      ],
+      "tanda_48j": true,
+      "judul": "Brigade Penolong Sumenep Dibekali Etika Medsos Saat Bencana",
+      "file_md": "artikel/2026-11-09_madura_etika-medsos-brigade-penolong-sumenep.md",
+      "jumlah_kata": 263,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota tidak penuh: situs lain tanpa berita dalam rentang atau tidak terbaca"
+    },
+    {
+      "id": "2026-11-09_madura_subuh-keliling-kapolresta-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/dinginnya-subuh-di-parsanga-hangatnya-obrolan-kapolresta-dengan-jamaah-masjid-at-taqwa"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/504849757d96b81608c72a37fc2cebcc32428382.jpg",
+      "tgl_terbit_sumber": "2026-11-07",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Subuh Keliling",
+        "Polresta Sumenep",
+        "Masjid At-Taqwa Parsanga",
+        "Polisi Bersama Masyarakat",
+        "Kamtibmas"
+      ],
+      "tanda_48j": true,
+      "judul": "Kapolresta Sumenep Salat Subuh dan Berdialog dengan Warga Parsanga",
+      "file_md": "artikel/2026-11-09_madura_subuh-keliling-kapolresta-sumenep.md",
+      "jumlah_kata": 242,
+      "status": "butuh_gambar",
+      "catatan": "rentang 48 jam (Senin); kuota tidak penuh: situs lain tanpa berita dalam rentang atau tidak terbaca"
     }
   ]
 }
