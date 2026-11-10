@@ -1,4 +1,4 @@
-# Pemkab Sumenep Luncurkan Aplikasi ASN SEHATI untuk Pantau Kesehatan Aparatur
+# Pemkab Sumenep Luncurkan Aplikasi ASN SEHATI Pantau Kesehatan Aparatur
 
 SUMENEP – Pemerintah Kabupaten (Pemkab) Sumenep meluncurkan Aplikasi ASN SEHATI, sistem informasi untuk memantau kesehatan aparatur sipil negara (ASN). Peluncuran berlangsung di Pendopo Agung Keraton Sumenep, Senin (9/11/2026), dihadiri Bupati Sumenep Achmad Fauzi Wongsojudo dan Kepala Badan Kepegawaian dan Pengembangan Sumber Daya Manusia (BKPSDM) Benny Irawan.
 
