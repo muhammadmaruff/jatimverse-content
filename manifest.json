@@ -3807,6 +3807,84 @@
       "file_md": "artikel/2026-11-11_pantura_hari-pahlawan-bojonegoro.md",
       "status": "butuh_gambar",
       "catatan": ""
+    },
+    {
+      "id": "2026-11-11_tapal-kuda_rehab-gor-sasana-krida-anoraga-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/rehab-gor-sasana-krida-anoraga-raci-capai-65"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6InpXd0ZPM095NzdyVHYyTU40SHdmK2c9PSIsInZhbHVlIjoiWlZCM1ZROXFCY1E3QVJKeWxVKzNJUT09IiwibWFjIjoiM2JmMjEyM2NlMjc1OTk2MmQ3M2NiYTljOWM4MWExNTEwZGQwMzhlYTUyNDRhYzRlYjJiZGRlZTg1NmZiZmVkOSIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-09",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "GOR Sasana Krida Anoraga",
+        "Rehabilitasi GOR",
+        "Dispora Pasuruan",
+        "Raci Bangil",
+        "Fasilitas Olahraga"
+      ],
+      "tanda_48j": true,
+      "catatan": "Rentang 48 jam; kuota Tapal Kuda hanya 1 dari 4 (Jember, Pasuruan lain, Probolinggo, Lumajang, Situbondo, Banyuwangi, Bondowoso tak ada rilis baru/tak terbaca). Teks di situs Pemkab merupakan repost RRI; ditulis ulang. URL foto perlu dicek workflow.",
+      "judul": "Rehabilitasi GOR Sasana Krida Anoraga Pasuruan Capai 65 Persen",
+      "jumlah_kata": 205,
+      "file_md": "artikel/2026-11-11_tapal-kuda_rehab-gor-sasana-krida-anoraga-pasuruan.md",
+      "status": "butuh_gambar"
+    },
+    {
+      "id": "2026-11-11_madura_paving-pelabuhan-raas-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/perbaiki-jalan-utama-pelabuhan-wujud-nyata-kemanunggalan-tni-dan-rakyat-di-kepulauan-raas"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/23206d170f5a1aeacfcebfe5b8d0019f5437540a.jpg",
+      "tgl_terbit_sumber": "2026-11-10",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Babinsa Raas",
+        "Paving Jalan Pelabuhan",
+        "Gotong Royong",
+        "Kepulauan Raas",
+        "Koramil 0827/21"
+      ],
+      "tanda_48j": false,
+      "judul": "Babinsa dan Warga Raas Bongkar Pasang Paving Jalan Pelabuhan",
+      "jumlah_kata": 206,
+      "file_md": "artikel/2026-11-11_madura_paving-pelabuhan-raas-sumenep.md",
+      "status": "butuh_gambar",
+      "catatan": ""
+    },
+    {
+      "id": "2026-11-11_madura_bupati-cup-bulutangkis-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/bupati-cup-bukan-sekadar-kompetisi-tetapi-wadah-cetak-atlet-berprestasi"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/075c93de31801ebfe16342401ab91ce856faf56e.jpg",
+      "tgl_terbit_sumber": "2026-11-10",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Bupati Cup",
+        "Bulutangkis",
+        "GOR Sumekar",
+        "Pembinaan Atlet",
+        "Achmad Fauzi Wongsojudo"
+      ],
+      "tanda_48j": false,
+      "judul": "339 Peserta Berebut Gelar Kejuaraan Bulutangkis Bupati Cup Sumenep",
+      "jumlah_kata": 209,
+      "file_md": "artikel/2026-11-11_madura_bupati-cup-bulutangkis-sumenep.md",
+      "status": "butuh_gambar",
+      "catatan": ""
     }
   ]
 }
