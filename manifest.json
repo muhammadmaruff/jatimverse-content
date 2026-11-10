@@ -3629,6 +3629,31 @@
       "tgl_upload": "2026-11-10T11:13:41+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-10T19:26+07:00"
+    },
+    {
+      "id": "2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25922/hari-pahlawan-di-surabaya-wali-kota-eri-ajak-warga-perangi-persoalan-sosial"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25922/blob_2933_0.jpg",
+      "tgl_terbit_sumber": "2026-11-10",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Pahlawan 2026",
+        "Eri Cahyadi",
+        "Balai Kota Surabaya",
+        "Sendratari Sang Pekik"
+      ],
+      "tanda_48j": false,
+      "catatan": "Batch 1 hanya 1 paket: Sidoarjo & Mojokerto Kab tanpa berita terbit setelah 10 Nov 02.39 WIB; Malang Raya/Gresik/Batu/Mojokerto Kota tidak terbaca (robots/client_error); artikel JTV-25 Mojokerto (9 Nov) bahan kurang dari 200 kata.",
+      "judul": "Hari Pahlawan, Wali Kota Eri Ajak Warga Perangi Kemiskinan dan Putus Sekolah",
+      "jumlah_kata": 215,
+      "file_md": "artikel/2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026.md",
+      "status": "butuh_gambar"
     }
   ]
 }
