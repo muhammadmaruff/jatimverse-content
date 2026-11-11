@@ -3717,8 +3717,18 @@
       "judul": "Tulungagung Luncurkan SIDEKA-NG untuk Digitalisasi Administrasi Desa",
       "jumlah_kata": 215,
       "file_md": "artikel/2026-11-11_mataraman_sideka-ng-tulungagung.md",
-      "status": "butuh_gambar",
-      "catatan": "jpg hilang"
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-11_mataraman_sideka-ng-tulungagung.jpg",
+      "ukuran_kb": 97.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2090,
+      "wp_post_id": 2091,
+      "wp_url": "https://jatimverse.id/?p=2091",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T10:06:22+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T15:47+07:00"
     },
     {
       "id": "2026-11-11_mataraman_penertiban-reklame-jombang",
@@ -4013,11 +4023,10 @@
       "ukuran_kb": 99.0,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi Jatimverse.ID",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
-      "tayang_segera": true,
       "tag": [
         "Perpusnas",
         "Naskah Kuno",
@@ -4026,7 +4035,14 @@
         "Pelestarian Naskah",
         "Abdul Wahid",
         "Blitar"
-      ]
+      ],
+      "wp_media_id": 2092,
+      "wp_post_id": 2093,
+      "wp_url": "https://jatimverse.id/?p=2093",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-11T10:06:31+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T10:15+07:00"
     }
   ]
 }
