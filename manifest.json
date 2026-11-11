@@ -4043,6 +4043,111 @@
       "tgl_upload": "2026-11-11T10:06:31+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-11T10:15+07:00"
+    },
+    {
+      "id": "2026-11-12_surabaya-raya_pasar-murah-gpm-bangkingan-lakarsantri-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya Perluas GPM dan Pasar Murah Jelang Nataru",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25927/jelang-akhir-tahun-pemkot-surabaya-perluas-gpm-dan-pasar-murah-untuk-jaga-harga-pangan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25927/blob_8504_0.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 249,
+      "file_md": "artikel/2026-11-12_surabaya-raya_pasar-murah-gpm-bangkingan-lakarsantri-surabaya.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pasar Murah",
+        "Gerakan Pangan Murah",
+        "Minyakita",
+        "Harga Pangan",
+        "Lakarsantri",
+        "Nataru"
+      ]
+    },
+    {
+      "id": "2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "APBD Surabaya 2027 Disahkan Rp12,9 Triliun, Bansos Jadi Prioritas",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25923/apbd-surabaya-2027-disahkan-rp-12-9-triliun-bansos-dan-penanganan-banjir-jadi-prioritas"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25923/blob_5819_0.jpg",
+      "tgl_terbit_sumber": "2026-11-10",
+      "tanda_48j": true,
+      "jumlah_kata": 234,
+      "file_md": "artikel/2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "APBD Surabaya 2027",
+        "DPRD Surabaya",
+        "Eri Cahyadi",
+        "Bantuan Sosial",
+        "Penanganan Banjir"
+      ]
+    },
+    {
+      "id": "2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "judul": "Mojokerto Perkuat Posyandu dan Kader untuk Tekan Stunting",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/perkuat-kelembagaan-posyandu-pemkab-mojokerto-dorong-pemberdayaan-kader-untuk-percepatan-penurunan-stunting-1794404249"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261111_203729.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 275,
+      "file_md": "artikel/2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto.md",
+      "kredit_foto": "Pemkab Mojokerto",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Posyandu",
+        "Stunting",
+        "Gus Barraa",
+        "Arumi Bachsin",
+        "Mojoanyar"
+      ]
+    },
+    {
+      "id": "2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "judul": "Bupati Mojokerto Dorong Industri Perluas Lapangan Kerja",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/bupati-mojokerto-dorong-penguatan-industri-untuk-perluas-kesempatan-kerja-dan-perkuat-ekonomi-daerah-1794404079"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261111_203438.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 211,
+      "file_md": "artikel/2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto.md",
+      "kredit_foto": "Pemkab Mojokerto",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Industri Mojokerto",
+        "Tenaga Kerja",
+        "BLK Mojokerto",
+        "Gus Barraa",
+        "Investasi"
+      ]
     }
   ]
 }
