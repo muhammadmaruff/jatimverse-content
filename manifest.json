@@ -4174,6 +4174,86 @@
         "PSDKU Universitas Brawijaya",
         "Pendidikan Bojonegoro"
       ]
+    },
+    {
+      "id": "2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "HKG PKK ke-54 di Pasuruan, Bupati Rusdi Soroti Peran Kader Desa",
+      "url_sumber": [
+        "https://pasuruankab.go.id/berita/pkk-kabupaten-pasuruan-gelar-peringatan-hkg-ke-54-bupati-rusdi-pkk-punya-peran-penting-dalam-peningkatan-ipm",
+        "https://pasuruankab.go.id/berita/peringatan-hkg-pkk-ke-54-di-purwosari-bupati-pasuruan-tekankan-sinergitas-dan-peran-penting-kader-desa"
+      ],
+      "url_foto_sumber": "https://pasuruankab.go.id/download-file/eyJpdiI6Im5MejNIbmxJYlZTdWFET0pHN0liRUE9PSIsInZhbHVlIjoiWkpWNlE3WVdxOHhZRVBWVkwvU3ZmZz09IiwibWFjIjoiYTM3NjYyMzgzYmE4OTBmMWNhZmNlZGYwY2Y5MmI2MjlhMzhhM2QyZDUzMTg3NjQ0M2NlNGVmNDMzNjgxYmRiZCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 254,
+      "file_md": "artikel/2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi.md",
+      "kredit_foto": "Pemkab Pasuruan",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "HKG PKK",
+        "TP PKK Pasuruan",
+        "Rusdi Sutejo",
+        "Stunting",
+        "IPM"
+      ]
+    },
+    {
+      "id": "2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Babinsa dan Warga Padamkan Titik Api di Batuputih Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/gerak-cepat-babinsa-dan-warga-titik-api-di-batuputih-berhasil-dipadamkan-sebelum-meluas"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/f80d1415d81c3119d5f59b998ad970c5b404a453.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 206,
+      "file_md": "artikel/2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep.md",
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kebakaran Lahan",
+        "Babinsa",
+        "Masyarakat Peduli Api",
+        "Batuputih",
+        "Sumenep"
+      ]
+    },
+    {
+      "id": "2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Anugerah Inovasi Daerah Sumenep 2026: 165 Inovasi Diajukan",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/lomba-inovasi-daerah-harus-lahirkan-gagasan-kreatif-dan-solusi-nyata",
+        "https://sumenepkab.go.id/berita/baca/selamat-diskominfo-sumenep-raih-penghargaan-anugerah-inovasi-daerah-2026"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/803b23d3d4d36cdd95b7e7b21dcab6953f279237.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 229,
+      "file_md": "artikel/2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid.md",
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Anugerah Inovasi Daerah",
+        "SIPINTAR PPID",
+        "Diskominfo Sumenep",
+        "BRIDA",
+        "Achmad Fauzi"
+      ]
     }
   ]
 }
