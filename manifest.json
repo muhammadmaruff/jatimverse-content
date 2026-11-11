@@ -3885,6 +3885,36 @@
       "file_md": "artikel/2026-11-11_madura_bupati-cup-bulutangkis-sumenep.md",
       "status": "butuh_gambar",
       "catatan": ""
+    },
+    {
+      "id": "2026-11-11_mataraman_perpusnas-naskah-kuno-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Blitar",
+      "judul": "Perpusnas Tawarkan Pendampingan dan Penitipan Naskah, Alih Media Buka Akses",
+      "url_sumber": [],
+      "url_foto_sumber": null,
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 355,
+      "file_md": "artikel/2026-11-11_mataraman_perpusnas-naskah-kuno-blitar.md",
+      "file_jpg": "foto/2026-11-11_mataraman_perpusnas-naskah-kuno-blitar.jpg",
+      "ukuran_kb": 99.4,
+      "dimensi": "1280x720",
+      "kredit_foto": "Dokumentasi Jatimverse.ID",
+      "status": "draf",
+      "catatan": "kiriman manual dari pengguna",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tayang_segera": true,
+      "tag": [
+        "Perpusnas",
+        "Naskah Kuno",
+        "Pelestarian Naskah",
+        "Alih Media",
+        "Filologi",
+        "Abdul Wahid",
+        "Blitar"
+      ]
     }
   ]
 }

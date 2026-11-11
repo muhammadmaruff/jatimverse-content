@@ -76,6 +76,9 @@ def ke_html(paragraf):
     for p in paragraf:
         if p.startswith("Sumber:"):
             continue
+        if p.startswith("## "):
+            out.append(f"<h2>{html.escape(p[3:].strip())}</h2>")
+            continue
         k = pecah_kalimat(p)
         i = 0
         while i < len(k):
