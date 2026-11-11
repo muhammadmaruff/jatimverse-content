@@ -3015,7 +3015,7 @@
       "file_md": "artikel/2026-11-09_mataraman_wisata-petik-jeruk-ngampungan-jombang.md",
       "jumlah_kata": 270,
       "status": "butuh_gambar",
-      "catatan": "jpg hilang"
+      "catatan": "jpg hilang; di luar rentang waktu"
     },
     {
       "id": "2026-11-09_pantura_udeng-semolo-gandring-lamongan",
@@ -3649,11 +3649,14 @@
         "Sendratari Sang Pekik"
       ],
       "tanda_48j": false,
-      "catatan": "Batch 1 hanya 1 paket: Sidoarjo & Mojokerto Kab tanpa berita terbit setelah 10 Nov 02.39 WIB; Malang Raya/Gresik/Batu/Mojokerto Kota tidak terbaca (robots/client_error); artikel JTV-25 Mojokerto (9 Nov) bahan kurang dari 200 kata.",
+      "catatan": "judul > ~70 karakter",
       "judul": "Hari Pahlawan, Wali Kota Eri Ajak Warga Perangi Kemiskinan dan Putus Sekolah",
       "jumlah_kata": 215,
       "file_md": "artikel/2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026.md",
-      "status": "butuh_gambar"
+      "status": "draf",
+      "file_jpg": "foto/2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026.jpg",
+      "ukuran_kb": 97.6,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-11_mataraman_lks-tripartit-jombang",
@@ -3678,8 +3681,18 @@
       "judul": "Bupati Jombang Dorong Hubungan Industrial Harmonis dan Iklim Investasi",
       "jumlah_kata": 229,
       "file_md": "artikel/2026-11-11_mataraman_lks-tripartit-jombang.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-11_mataraman_lks-tripartit-jombang.jpg",
+      "ukuran_kb": 94.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2073,
+      "wp_post_id": 2074,
+      "wp_url": "https://jatimverse.id/?p=2074",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:47:54+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T10:32+07:00"
     },
     {
       "id": "2026-11-11_mataraman_sideka-ng-tulungagung",
@@ -3705,7 +3718,7 @@
       "jumlah_kata": 215,
       "file_md": "artikel/2026-11-11_mataraman_sideka-ng-tulungagung.md",
       "status": "butuh_gambar",
-      "catatan": ""
+      "catatan": "jpg hilang"
     },
     {
       "id": "2026-11-11_mataraman_penertiban-reklame-jombang",
@@ -3726,11 +3739,21 @@
         "Baliho Ilegal"
       ],
       "tanda_48j": true,
-      "catatan": "Rentang diperluas ke 48 jam karena sumber 24 jam Mataraman terbatas.",
+      "catatan": "",
       "judul": "Petugas Gabungan Tertibkan Reklame Ilegal di Sejumlah Ruas Jalan Jombang",
       "jumlah_kata": 223,
       "file_md": "artikel/2026-11-11_mataraman_penertiban-reklame-jombang.md",
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-11_mataraman_penertiban-reklame-jombang.jpg",
+      "ukuran_kb": 95.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2075,
+      "wp_post_id": 2076,
+      "wp_url": "https://jatimverse.id/?p=2076",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:02+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T11:17+07:00"
     },
     {
       "id": "2026-11-11_mataraman_sidak-pasar-kanigoro-blitar",
@@ -3752,11 +3775,21 @@
         "PTSL"
       ],
       "tanda_48j": true,
-      "catatan": "Rentang diperluas ke 48 jam. Sumber tanpa kutipan langsung.",
+      "catatan": "",
       "judul": "Bupati Blitar Sidak Pasar dan Layanan Publik, Pastikan Pangan Aman",
       "jumlah_kata": 205,
       "file_md": "artikel/2026-11-11_mataraman_sidak-pasar-kanigoro-blitar.md",
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-11_mataraman_sidak-pasar-kanigoro-blitar.jpg",
+      "ukuran_kb": 96.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 2077,
+      "wp_post_id": 2078,
+      "wp_url": "https://jatimverse.id/?p=2078",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:12+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T12:02+07:00"
     },
     {
       "id": "2026-11-11_pantura_ranpur-marinir-hari-pahlawan-lamongan",
@@ -3777,11 +3810,21 @@
         "Alun-alun Lamongan"
       ],
       "tanda_48j": false,
-      "catatan": "Foto sumber berupa thumbnail kecil.",
+      "catatan": "",
       "judul": "Hari Pahlawan, Alun-alun Lamongan Pamerkan Dua Ranpur Marinir",
       "jumlah_kata": 220,
       "file_md": "artikel/2026-11-11_pantura_ranpur-marinir-hari-pahlawan-lamongan.md",
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-11_pantura_ranpur-marinir-hari-pahlawan-lamongan.jpg",
+      "ukuran_kb": 96.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2079,
+      "wp_post_id": 2080,
+      "wp_url": "https://jatimverse.id/?p=2080",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:24+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T12:47+07:00"
     },
     {
       "id": "2026-11-11_pantura_hari-pahlawan-bojonegoro",
@@ -3805,8 +3848,11 @@
       "judul": "Bojonegoro Peringati Hari Pahlawan, Veteran dan Janda Perintis Terima Tali Kasih",
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-11_pantura_hari-pahlawan-bojonegoro.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "draf",
+      "catatan": "judul > ~70 karakter",
+      "file_jpg": "foto/2026-11-11_pantura_hari-pahlawan-bojonegoro.jpg",
+      "ukuran_kb": 87.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-11_tapal-kuda_rehab-gor-sasana-krida-anoraga-pasuruan",
@@ -3828,11 +3874,21 @@
         "Fasilitas Olahraga"
       ],
       "tanda_48j": true,
-      "catatan": "Rentang 48 jam; kuota Tapal Kuda hanya 1 dari 4 (Jember, Pasuruan lain, Probolinggo, Lumajang, Situbondo, Banyuwangi, Bondowoso tak ada rilis baru/tak terbaca). Teks di situs Pemkab merupakan repost RRI; ditulis ulang. URL foto perlu dicek workflow.",
+      "catatan": "",
       "judul": "Rehabilitasi GOR Sasana Krida Anoraga Pasuruan Capai 65 Persen",
       "jumlah_kata": 205,
       "file_md": "artikel/2026-11-11_tapal-kuda_rehab-gor-sasana-krida-anoraga-pasuruan.md",
-      "status": "butuh_gambar"
+      "status": "lengkap",
+      "file_jpg": "foto/2026-11-11_tapal-kuda_rehab-gor-sasana-krida-anoraga-pasuruan.jpg",
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2081,
+      "wp_post_id": 2082,
+      "wp_url": "https://jatimverse.id/?p=2082",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:36+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T13:32+07:00"
     },
     {
       "id": "2026-11-11_madura_paving-pelabuhan-raas-sumenep",
@@ -3857,8 +3913,18 @@
       "judul": "Babinsa dan Warga Raas Bongkar Pasang Paving Jalan Pelabuhan",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-11_madura_paving-pelabuhan-raas-sumenep.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-11_madura_paving-pelabuhan-raas-sumenep.jpg",
+      "ukuran_kb": 97.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2083,
+      "wp_post_id": 2084,
+      "wp_url": "https://jatimverse.id/?p=2084",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:47+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T14:17+07:00"
     },
     {
       "id": "2026-11-11_madura_bupati-cup-bulutangkis-sumenep",
@@ -3883,8 +3949,18 @@
       "judul": "339 Peserta Berebut Gelar Kejuaraan Bulutangkis Bupati Cup Sumenep",
       "jumlah_kata": 209,
       "file_md": "artikel/2026-11-11_madura_bupati-cup-bulutangkis-sumenep.md",
-      "status": "butuh_gambar",
-      "catatan": ""
+      "status": "lengkap",
+      "catatan": "",
+      "file_jpg": "foto/2026-11-11_madura_bupati-cup-bulutangkis-sumenep.jpg",
+      "ukuran_kb": 99.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2085,
+      "wp_post_id": 2086,
+      "wp_url": "https://jatimverse.id/?p=2086",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-11T09:48:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T15:02+07:00"
     },
     {
       "id": "2026-11-11_mataraman_perpusnas-naskah-kuno-blitar",
@@ -3901,11 +3977,10 @@
       "ukuran_kb": 99.4,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi Jatimverse.ID",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
-      "tayang_segera": true,
       "tag": [
         "Perpusnas",
         "Naskah Kuno",
@@ -3914,7 +3989,14 @@
         "Filologi",
         "Abdul Wahid",
         "Blitar"
-      ]
+      ],
+      "wp_media_id": 2087,
+      "wp_post_id": 2088,
+      "wp_url": "https://jatimverse.id/?p=2088",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-11T09:49:09+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-11T09:58+07:00"
     }
   ]
 }
