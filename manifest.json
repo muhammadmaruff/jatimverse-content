@@ -3997,6 +3997,36 @@
       "tgl_upload": "2026-11-11T09:49:09+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-11T09:58+07:00"
+    },
+    {
+      "id": "2026-11-11_mataraman_perpusnas-kerusakan-naskah-kuno-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kota Blitar",
+      "judul": "Ngengat, Jamur, hingga Tinta: Perpusnas Ungkap Musuh Utama Naskah Kuno",
+      "url_sumber": [],
+      "url_foto_sumber": null,
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": false,
+      "jumlah_kata": 322,
+      "file_md": "artikel/2026-11-11_mataraman_perpusnas-kerusakan-naskah-kuno-blitar.md",
+      "file_jpg": "foto/2026-11-11_mataraman_perpusnas-kerusakan-naskah-kuno-blitar.jpg",
+      "ukuran_kb": 99.0,
+      "dimensi": "1280x720",
+      "kredit_foto": "Dokumentasi Jatimverse.ID",
+      "status": "draf",
+      "catatan": "kiriman manual dari pengguna",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tayang_segera": true,
+      "tag": [
+        "Perpusnas",
+        "Naskah Kuno",
+        "Kerusakan Naskah",
+        "Konservasi",
+        "Pelestarian Naskah",
+        "Abdul Wahid",
+        "Blitar"
+      ]
     }
   ]
 }
