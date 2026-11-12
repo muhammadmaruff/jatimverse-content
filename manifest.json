@@ -4424,7 +4424,7 @@
       "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25929/blob_8304_0.jpg",
       "tgl_terbit_sumber": "2026-11-12",
       "tanda_48j": false,
-      "jumlah_kata": 212,
+      "jumlah_kata": 205,
       "file_md": "artikel/2026-11-13_surabaya-raya_grand-job-fair-2026.md",
       "kredit_foto": "Pemkot Surabaya",
       "status": "butuh_gambar",
@@ -4489,6 +4489,188 @@
         "Bapemkesra Surabaya",
         "SIGIS",
         "Taman Harmoni"
+      ]
+    },
+    {
+      "id": "2026-11-13_mataraman_tmmd-130-jombang-plandaan",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "judul": "TMMD ke-130 di Jombang Rampung, Jalan Beton 1,3 Kilometer Terbangun",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/tmmd-ke-130-rampung-manunggalnya-pemkab-jombang-tni-dan-rakyat-akses-dusun-cepit-ke-waturupit-desa-pojok-klitih-lancar-24728"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/edbb149a-c6e4-4b7f-9b6d-5a67ce204828.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 225,
+      "file_md": "artikel/2026-11-13_mataraman_tmmd-130-jombang-plandaan.md",
+      "kredit_foto": "Pemkab Jombang",
+      "status": "butuh_gambar",
+      "catatan": "Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TMMD ke-130",
+        "Kodim 0814 Jombang",
+        "Plandaan",
+        "RTLH",
+        "Pojok Klitih"
+      ]
+    },
+    {
+      "id": "2026-11-13_mataraman_tpid-jombang-hlm-nataru",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "judul": "Jombang Gelar High Level Meeting TPID, Harga Pangan Jelang Nataru Dipantau",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/jaga-stabilitas-harga-dan-ketahanan-pangan-menjelang-akhir-tahun-pemkab-jombang-gelar-high-level-meeting-tpid-24720"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/3da16c88-5c3e-4949-9c2f-3077f9cbb51e.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": true,
+      "jumlah_kata": 219,
+      "file_md": "artikel/2026-11-13_mataraman_tpid-jombang-hlm-nataru.md",
+      "kredit_foto": "Pemkab Jombang",
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam: berita 24 jam tak cukup. Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "TPID Jombang",
+        "Inflasi",
+        "Harga Pangan",
+        "Nataru 2026",
+        "Bulog Mojokerto"
+      ]
+    },
+    {
+      "id": "2026-11-13_mataraman_tmmd-130-ngawi-karangjati",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Ngawi",
+      "judul": "TMMD ke-130 Ngawi Ditutup, Jembatan dan Jalan Beton Dusun Baron Rampung",
+      "url_sumber": [
+        "https://suara.ngawikab.go.id/2026/11/12/tmmd-ke-130-rampung-infrastruktur-desa-jadi-fokus-akselerasi-pembangunan-di-ngawi/"
+      ],
+      "url_foto_sumber": "https://suara.ngawikab.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-12-at-13.50.25.jpeg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 215,
+      "file_md": "artikel/2026-11-13_mataraman_tmmd-130-ngawi-karangjati.md",
+      "kredit_foto": "Pemkab Ngawi",
+      "status": "butuh_gambar",
+      "catatan": "Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TMMD ke-130",
+        "Kodim 0805 Ngawi",
+        "Karangjati",
+        "Jatipuro",
+        "Infrastruktur Desa"
+      ]
+    },
+    {
+      "id": "2026-11-13_pantura_ikm-umkm-digitalisasi-keuangan-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "judul": "Bojonegoro Latih 100 Pelaku IKM-UMKM soal Digitalisasi Keuangan",
+      "url_sumber": [
+        "https://baghumas.bojonegorokab.go.id/berita/sinergi-perkuat-daya-saing-lokal-disperinaker-dan-dekranasda-gelar-sosialisasi-digitalisasi-keuangan-serta-manajemen-risiko-bagi-pelaku-ikm-umkm"
+      ],
+      "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-12/0gh9nyagW7qY6pQnBJ7R8E9N5BRtiYMQXSTXMedA.webp",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 216,
+      "file_md": "artikel/2026-11-13_pantura_ikm-umkm-digitalisasi-keuangan-bojonegoro.md",
+      "kredit_foto": "Pemkab Bojonegoro",
+      "status": "butuh_gambar",
+      "catatan": "Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "IKM UMKM",
+        "Dekranasda Bojonegoro",
+        "Digitalisasi Keuangan",
+        "Manajemen Risiko",
+        "Disperinaker Bojonegoro"
+      ]
+    },
+    {
+      "id": "2026-11-13_pantura_gojes-karangasem-jenu",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "judul": "GOJES Hadir di Karangasem, Puskesmas Jenu Layani Warga dari Rumah ke Rumah",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/gojes-hadir-di-karangasem-warga-jenu-bisa-akses-layanan-kesehatan-lebih-dekat"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/gojez-1.png",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 224,
+      "file_md": "artikel/2026-11-13_pantura_gojes-karangasem-jenu.md",
+      "kredit_foto": "Pemkab Tuban",
+      "status": "butuh_gambar",
+      "catatan": "Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "GOJES",
+        "Puskesmas Jenu",
+        "Cek Kesehatan Gratis",
+        "HKN 2026",
+        "Karangasem Jenu"
+      ]
+    },
+    {
+      "id": "2026-11-13_pantura_hari-jadi-tuban-733-upacara",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "judul": "Hari Jadi ke-733 Tuban: Kemiskinan Turun ke 12,92 Persen",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/upacara-hari-jadi-ke-733-kabupaten-tuban-ini-pesan-mas-lindra"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/upacara-hjt-1.png",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 201,
+      "file_md": "artikel/2026-11-13_pantura_hari-jadi-tuban-733-upacara.md",
+      "kredit_foto": "Pemkab Tuban",
+      "status": "butuh_gambar",
+      "catatan": "Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Hari Jadi Tuban 733",
+        "Aditya Halindra",
+        "Angka Kemiskinan",
+        "IPM Tuban",
+        "SP4N-LAPOR"
+      ]
+    },
+    {
+      "id": "2026-11-13_pantura_ucapan-hari-jadi-tuban-tanaman-rth",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "judul": "Ucapan Hari Jadi Tuban Berupa Tanaman untuk Hijaukan RTH",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/ucapan-hari-jadi-ke-733-tuban-berupa-tanaman-bakal-menghijaukan-sejumlah-rth"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/tanaman-1.png",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": true,
+      "jumlah_kata": 209,
+      "file_md": "artikel/2026-11-13_pantura_ucapan-hari-jadi-tuban-tanaman-rth.md",
+      "kredit_foto": "Pemkab Tuban",
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam: berita 24 jam tak cukup. Mataraman 3 terisi dari situs terbaca; 1 kuota dialihkan ke Pantura (lebih ramai).",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Jadi Tuban 733",
+        "Ruang Terbuka Hijau",
+        "Penghijauan",
+        "Budi Wiyana",
+        "Guyub Rukun"
       ]
     }
   ]
