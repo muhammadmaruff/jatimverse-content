@@ -3649,7 +3649,7 @@
         "Sendratari Sang Pekik"
       ],
       "tanda_48j": false,
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "judul": "Hari Pahlawan, Wali Kota Eri Ajak Warga Perangi Kemiskinan dan Putus Sekolah",
       "jumlah_kata": 215,
       "file_md": "artikel/2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026.md",
@@ -3859,7 +3859,7 @@
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-11_pantura_hari-pahlawan-bojonegoro.md",
       "status": "draf",
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "file_jpg": "foto/2026-11-11_pantura_hari-pahlawan-bojonegoro.jpg",
       "ukuran_kb": 87.5,
       "dimensi": "1280x720"
@@ -4058,7 +4058,7 @@
       "jumlah_kata": 249,
       "file_md": "artikel/2026-11-12_surabaya-raya_pasar-murah-gpm-bangkingan-lakarsantri-surabaya.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
@@ -4069,7 +4069,17 @@
         "Harga Pangan",
         "Lakarsantri",
         "Nataru"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_surabaya-raya_pasar-murah-gpm-bangkingan-lakarsantri-surabaya.jpg",
+      "ukuran_kb": 98.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2103,
+      "wp_post_id": 2104,
+      "wp_url": "https://jatimverse.id/?p=2104",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:06+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T15:44+07:00"
     },
     {
       "id": "2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir",
@@ -4085,7 +4095,7 @@
       "jumlah_kata": 234,
       "file_md": "artikel/2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
@@ -4095,7 +4105,17 @@
         "Eri Cahyadi",
         "Bantuan Sosial",
         "Penanganan Banjir"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir.jpg",
+      "ukuran_kb": 95.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2105,
+      "wp_post_id": 2106,
+      "wp_url": "https://jatimverse.id/?p=2106",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T16:29+07:00"
     },
     {
       "id": "2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto",
@@ -4111,7 +4131,7 @@
       "jumlah_kata": 275,
       "file_md": "artikel/2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto.md",
       "kredit_foto": "Pemkab Mojokerto",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -4121,7 +4141,17 @@
         "Gus Barraa",
         "Arumi Bachsin",
         "Mojoanyar"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto.jpg",
+      "ukuran_kb": 95.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2107,
+      "wp_post_id": 2108,
+      "wp_url": "https://jatimverse.id/?p=2108",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:22+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T17:14+07:00"
     },
     {
       "id": "2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto",
@@ -4137,7 +4167,7 @@
       "jumlah_kata": 211,
       "file_md": "artikel/2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto.md",
       "kredit_foto": "Pemkab Mojokerto",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
@@ -4147,7 +4177,17 @@
         "BLK Mojokerto",
         "Gus Barraa",
         "Investasi"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto.jpg",
+      "ukuran_kb": 96.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2109,
+      "wp_post_id": 2110,
+      "wp_url": "https://jatimverse.id/?p=2110",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:31+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T17:59+07:00"
     },
     {
       "id": "2026-11-12_pantura_dies-natalis-sman-2-taruna-pamong-praja-bojonegoro",
@@ -4163,7 +4203,7 @@
       "jumlah_kata": 272,
       "file_md": "artikel/2026-11-12_pantura_dies-natalis-sman-2-taruna-pamong-praja-bojonegoro.md",
       "kredit_foto": "Pemkab Bojonegoro",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -4173,7 +4213,17 @@
         "Nurul Azizah",
         "PSDKU Universitas Brawijaya",
         "Pendidikan Bojonegoro"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_pantura_dies-natalis-sman-2-taruna-pamong-praja-bojonegoro.jpg",
+      "ukuran_kb": 98.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2111,
+      "wp_post_id": 2112,
+      "wp_url": "https://jatimverse.id/?p=2112",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:41+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T18:44+07:00"
     },
     {
       "id": "2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi",
@@ -4190,7 +4240,7 @@
       "jumlah_kata": 254,
       "file_md": "artikel/2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -4200,7 +4250,17 @@
         "Rusdi Sutejo",
         "Stunting",
         "IPM"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi.jpg",
+      "ukuran_kb": 93.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2113,
+      "wp_post_id": 2114,
+      "wp_url": "https://jatimverse.id/?p=2114",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:50+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T19:29+07:00"
     },
     {
       "id": "2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep",
@@ -4216,7 +4276,7 @@
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep.md",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -4226,7 +4286,17 @@
         "Masyarakat Peduli Api",
         "Batuputih",
         "Sumenep"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep.jpg",
+      "ukuran_kb": 96.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 2115,
+      "wp_post_id": 2116,
+      "wp_url": "https://jatimverse.id/?p=2116",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:00:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T20:14+07:00"
     },
     {
       "id": "2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid",
@@ -4243,7 +4313,7 @@
       "jumlah_kata": 229,
       "file_md": "artikel/2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid.md",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
@@ -4253,7 +4323,17 @@
         "Diskominfo Sumenep",
         "BRIDA",
         "Achmad Fauzi"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid.jpg",
+      "ukuran_kb": 97.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2117,
+      "wp_post_id": 2118,
+      "wp_url": "https://jatimverse.id/?p=2118",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-12T15:01:07+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-12T20:59+07:00"
     }
   ]
 }
