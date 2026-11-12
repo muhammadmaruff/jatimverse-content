@@ -4334,6 +4334,162 @@
       "tgl_upload": "2026-11-12T15:01:07+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-12T20:59+07:00"
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_popda-juara-umum",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Borong 80 Emas, Surabaya Pertahankan Juara Umum Popda Jatim 2026",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25932/borong-80-emas-surabaya-pertahankan-juara-umum-popda-jatim-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25932/blob_1080_0.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 245,
+      "file_md": "artikel/2026-11-13_surabaya-raya_popda-juara-umum.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Malang Raya/Surabaya Raya dialihkan ke Surabaya karena situs lain tak terbaca atau tak ada berita baru.",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Popda Jatim 2026",
+        "Juara Umum",
+        "Atlet Pelajar",
+        "Disbudporapar Surabaya",
+        "Peparpeda"
+      ]
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_kampung-pancasila-ksh",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Verifikasi Kampung Pancasila Surabaya, Kader KSH Disebut Mutiara Pancasila",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25931/ksh-disebut-mutiara-pancasila-pemkot-surabaya-dinilai-sukses-hidupkan-gotong-royong-di-kampung"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25931/blob_5064_0.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 210,
+      "file_md": "artikel/2026-11-13_surabaya-raya_kampung-pancasila-ksh.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Malang Raya/Surabaya Raya dialihkan ke Surabaya karena situs lain tak terbaca atau tak ada berita baru.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kampung Pancasila",
+        "Kader Surabaya Hebat",
+        "Gotong Royong",
+        "Verifikasi Kampung",
+        "M. Isa Ansori"
+      ]
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_adminduk-omnichannel",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Disdukcapil Surabaya Perluas Layanan Adminduk Omnichannel",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25930/pemkot-surabaya-perluas-layanan-omnichannel-urus-adminduk-bisa-dari-mana-saja"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25930/blob_1460_0.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 210,
+      "file_md": "artikel/2026-11-13_surabaya-raya_adminduk-omnichannel.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Malang Raya/Surabaya Raya dialihkan ke Surabaya karena situs lain tak terbaca atau tak ada berita baru.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Adminduk",
+        "Disdukcapil Surabaya",
+        "Layanan Omnichannel",
+        "BUNDA JELITA",
+        "Identitas Kependudukan Digital"
+      ]
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_grand-job-fair-2026",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Grand Job Fair Surabaya 17–19 November Tawarkan 3.013 Lowongan",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25929/ayo-arek-suroboyo-ikuti-grand-job-fair-3-013-lowongan-kerja-menanti"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25929/blob_8304_0.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": false,
+      "jumlah_kata": 212,
+      "file_md": "artikel/2026-11-13_surabaya-raya_grand-job-fair-2026.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Kuota Malang Raya/Surabaya Raya dialihkan ke Surabaya karena situs lain tak terbaca atau tak ada berita baru.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Grand Job Fair",
+        "Lowongan Kerja",
+        "Disperinaker Surabaya",
+        "Disabilitas",
+        "Aplikasi ASSiK"
+      ]
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_ksti-2026-welcome-dinner",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya Sambut Delegasi KSTI 2026 di Balai Kota",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25926/pemkot-surabaya-sambut-delegasi-ksti-2026-perkuat-sinergi-riset-dan-transformasi-ekonomi"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25926/blob_9868_0.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": true,
+      "jumlah_kata": 214,
+      "file_md": "artikel/2026-11-13_surabaya-raya_ksti-2026-welcome-dinner.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam: kuota 24 jam tak terpenuhi (Malang Raya tak terbaca, Sidoarjo/Mojokerto tak ada berita baru); kuota dialihkan ke Surabaya.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "KSTI 2026",
+        "ITS",
+        "Kemdiktisaintek",
+        "Balai Kota Surabaya",
+        "Transformasi Ekonomi"
+      ]
+    },
+    {
+      "id": "2026-11-13_surabaya-raya_nama-rupabumi-juara-1",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Surabaya Juara I Penyelenggaraan Nama Rupabumi se-Jatim",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25925/bertepatan-hari-pahlawan-pemkot-surabaya-raih-juara-i-penyelenggaraan-nama-rupabumi-se-jatim"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25925/blob_8005_0.jpg",
+      "tgl_terbit_sumber": "2026-11-11",
+      "tanda_48j": true,
+      "jumlah_kata": 253,
+      "file_md": "artikel/2026-11-13_surabaya-raya_nama-rupabumi-juara-1.md",
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "Rentang 48 jam: kuota 24 jam tak terpenuhi (Malang Raya tak terbaca, Sidoarjo/Mojokerto tak ada berita baru); kuota dialihkan ke Surabaya.",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Nama Rupabumi",
+        "Hari Pahlawan",
+        "Bapemkesra Surabaya",
+        "SIGIS",
+        "Taman Harmoni"
+      ]
     }
   ]
 }
