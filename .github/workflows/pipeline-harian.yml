@@ -5,6 +5,8 @@ on:
     - cron: "0 1 * * *"    # 08.00 WIB (01.00 UTC)
     - cron: "30 1 * * *"   # cadangan 08.30 WIB (unggah idempoten, jalan beruntun)
     - cron: "0 2 * * *"    # cadangan 09.00 WIB
+    - cron: "0 4 * * *"    # cadangan 11.00 WIB (jika jadwal pagi terlewat)
+    - cron: "0 7 * * *"    # cadangan 14.00 WIB
   workflow_dispatch:
     inputs:
       mode:
