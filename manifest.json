@@ -5131,6 +5131,109 @@
         "BNN Surabaya",
         "Disiplin ASN"
       ]
+    },
+    {
+      "id": "2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Empat Kampung Nelayan Merah Putih Dibangun di Lamongan, Progres 58–70 Persen",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64983"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/800ab230e29fd90440730ae77363061b.png",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 203,
+      "file_md": "artikel/2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan.md",
+      "kredit_foto": "Pemkab Lamongan",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Kampung Nelayan Merah Putih",
+        "KKP",
+        "Paciran",
+        "Brondong",
+        "Mini RAS"
+      ]
+    },
+    {
+      "id": "2026-11-14_mataraman_festival-kuliner-nusantara-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "judul": "Festival Kuliner Nusantara 2026 Dibuka di Titik 0 Km Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/festival-kuliner-nusantara-2026-resmi-dibuka-dorong-pertumbuhan-umkm-tulungagung/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC00174-Ratnoeko-Utomo-e1794537175804-1024x852.jpg",
+      "tgl_terbit_sumber": "2026-11-13",
+      "tanda_48j": false,
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-14_mataraman_festival-kuliner-nusantara-tulungagung.md",
+      "kredit_foto": "Pemkab Tulungagung",
+      "status": "butuh_gambar",
+      "catatan": "Batch 2: kuota Mataraman hanya terpenuhi 1 (situs lain tidak memuat berita 12-14 Nov); sisa dialihkan ke Pantura.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Festival Kuliner Nusantara",
+        "UMKM Tulungagung",
+        "Hari Jadi Tulungagung ke-821",
+        "Titik 0 Kilometer"
+      ]
+    },
+    {
+      "id": "2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Lamongan Daftarkan 58.000 Pekerja Rentan ke BPJS Ketenagakerjaan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64918"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/29ae6c38a34741190f7e6b8e68bb0331.png",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 203,
+      "file_md": "artikel/2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan.md",
+      "kredit_foto": "Pemkab Lamongan",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "BPJS Ketenagakerjaan",
+        "Pekerja Rentan",
+        "DBHCHT",
+        "Disnaker Lamongan",
+        "Jaminan Sosial"
+      ]
+    },
+    {
+      "id": "2026-11-14_pantura_laserku-ckg-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "judul": "Laserku Lamongan Jangkau 6.346 Keluarga, Cek Kesehatan Gratis Capai 110 Persen",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/64905"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/1d105138b292106c4b9e7a82914c95e8.png",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-14_pantura_laserku-ckg-lamongan.md",
+      "kredit_foto": "Pemkab Lamongan",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Laserku",
+        "Cek Kesehatan Gratis",
+        "Hari Kesehatan Nasional",
+        "Dinkes Lamongan",
+        "PBI BPJS"
+      ]
     }
   ]
 }
