@@ -1,8 +1,8 @@
-# Laserku Lamongan Jangkau 6.346 Keluarga, Cek Kesehatan Gratis Capai 110 Persen
+# Laserku Lamongan Jangkau 6.346 Keluarga, Cek Kesehatan Gratis 110 Persen
 
 LAMONGAN – Inovasi layanan kesehatan Laserku (Lamongan Sehat dengan Kunjungan Rumah) telah menjangkau 6.346 keluarga di Kabupaten Lamongan. Layanan ini mendatangi langsung rumah warga untuk memberikan layanan dan pendampingan kesehatan.
 
-Capaian tersebut disampaikan Bupati Lamongan Yuhronur Efendi, yang akrab disapa Pak Yes, saat peringatan Hari Kesehatan Nasional (HKN) ke-62 di halaman Kantor Dinas Kesehatan Lamongan, Kamis (12/11/2026). Laserku berjalan sejak 2021, dan capaian dihitung hingga 2026. Acara peringatan itu dihadiri jajaran Pemkab Lamongan di lingkungan Dinas Kesehatan.
+Capaian tersebut disampaikan Bupati Lamongan Yuhronur Efendi, yang akrab disapa Pak Yes, saat peringatan Hari Kesehatan Nasional (HKN) ke-62 di halaman Kantor Dinas Kesehatan Lamongan, Kamis (12/11/2026). Laserku berjalan sejak 2021, dan capaian dihitung hingga 2026. Acara peringatan itu digelar di lingkungan Kantor Dinas Kesehatan Lamongan.
 
 Pendekatan jemput bola berarti petugas mendatangi keluarga, bukan menunggu warga datang ke fasilitas kesehatan. Menurut Pemkab Lamongan, pendekatan itu bertujuan memperkuat perlindungan kesehatan masyarakat serta memperluas akses layanan hingga tingkat keluarga. Melalui Laserku, sebanyak 2.939 jiwa peserta Penerima Bantuan Iuran (PBI) BPJS mendapat perlindungan kesehatan.
 

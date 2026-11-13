@@ -5213,14 +5213,14 @@
       "id": "2026-11-14_pantura_laserku-ckg-lamongan",
       "wilayah": "Pantura",
       "kabkota": "Kabupaten Lamongan",
-      "judul": "Laserku Lamongan Jangkau 6.346 Keluarga, Cek Kesehatan Gratis Capai 110 Persen",
+      "judul": "Laserku Lamongan Jangkau 6.346 Keluarga, Cek Kesehatan Gratis 110 Persen",
       "url_sumber": [
         "https://portal.lamongankab.go.id/posting/64905"
       ],
       "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/1d105138b292106c4b9e7a82914c95e8.png",
       "tgl_terbit_sumber": "2026-11-12",
       "tanda_48j": true,
-      "jumlah_kata": 204,
+      "jumlah_kata": 203,
       "file_md": "artikel/2026-11-14_pantura_laserku-ckg-lamongan.md",
       "kredit_foto": "Pemkab Lamongan",
       "status": "butuh_gambar",
@@ -5233,6 +5233,136 @@
         "Hari Kesehatan Nasional",
         "Dinkes Lamongan",
         "PBI BPJS"
+      ]
+    },
+    {
+      "id": "2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Said Loyang di Kraton Pasuruan, 35 Tahun Produksi Cetakan Kue Aluminium",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/puluhan-tahun-berbisnis-said-loyang-buktikan-paling-sukses-produksi-aneka-cetakan-kue-sampai-ke-luar-negeri"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6Ii9FZTFJcGpwL0IrRzY0cTVVWkM4enc9PSIsInZhbHVlIjoiNytqM3JaaU84UUhBZTBUd2tpbnJkdz09IiwibWFjIjoiMDVmNDQzMTk5MGNjZmJhNzFkNWIzZGE4YjE2OWU3ZjkwY2ZhNDZlOTNmMzc2MTQ2ZTZkYmJlNGJmZWFlZDdhNCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-13",
+      "tanda_48j": false,
+      "jumlah_kata": 214,
+      "file_md": "artikel/2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan.md",
+      "kredit_foto": "Pemkab Pasuruan",
+      "status": "butuh_gambar",
+      "catatan": "Batch 3: URL foto salin dari halaman artikel (download-file). Judul sumber menyebut produk sampai ke luar negeri, tetapi isi tidak merinci; tidak ditulis di artikel. Kuota Tapal Kuda hanya 2 dari 4 terpenuhi.",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "UMKM Pasuruan",
+        "Said Loyang",
+        "Cetakan Kue",
+        "Kraton",
+        "Kerajinan Aluminium"
+      ]
+    },
+    {
+      "id": "2026-11-14_tapal-kuda_donor-darah-asn-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "judul": "Ratusan ASN Pemkab Pasuruan Donor Darah di HUT DWP dan KORPRI",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/ratusan-asn-pemkab-pasuruan-ikuti-donor-darah-peringatan-hut-ke-26-dwp-dan-hut-55-korpri"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6ImJ5SFFadXFsSkMybjVOUDJmQk45Z3c9PSIsInZhbHVlIjoiVkdKN3p5Ulp1OU1aeGZ2UE9mMmNXQT09IiwibWFjIjoiODlmMjljNjM5ZTExMmVjZTk2OTFjOWFlY2IxYmRhZjY0OGU2OWY4ZTViZjQ3Yzg3MGVjZDMzMGUyNGVkN2M1NCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 202,
+      "file_md": "artikel/2026-11-14_tapal-kuda_donor-darah-asn-pasuruan.md",
+      "kredit_foto": "Pemkab Pasuruan",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026. Judul sumber menyebut HUT ke-26 DWP, isi menyebut HUT ke-27; artikel tidak menyebut angka ke-.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Donor Darah",
+        "DWP Pasuruan",
+        "HUT KORPRI",
+        "PMI Pasuruan",
+        "Kantor Bupati Pasuruan"
+      ]
+    },
+    {
+      "id": "2026-11-14_madura_pramuka-santri-ma-arif-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "PCNU Sumenep Lepas Kontingen Pramuka Ma'arif ke Jelajah Situs Jatim",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/ketua-pcnu-sumenep-penting-pendidikan-karakter-santri-melalui-kepramukaan"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/137300ec94b590cbb950b726c022165789ac2060.jpg",
+      "tgl_terbit_sumber": "2026-11-13",
+      "tanda_48j": false,
+      "jumlah_kata": 202,
+      "file_md": "artikel/2026-11-14_madura_pramuka-santri-ma-arif-sumenep.md",
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "Batch 3: kuota Madura 2, diisi 3 (1 dialihkan dari Tapal Kuda yang kekurangan bahan). Berita dimuat di portal Pemkab Sumenep (Media Center).",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "PCNU Sumenep",
+        "Pramuka Ma'arif NU",
+        "Jelajah Situs Jawa Timur",
+        "Pendidikan Karakter",
+        "Santri"
+      ]
+    },
+    {
+      "id": "2026-11-14_madura_sipintar-ppid-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Bupati Sumenep Paparkan SIPINTAR PPID, KI Jatim Beri Apresiasi",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/bupati-sumenep-paparkan-inovasi-sipintar-ppid-ki-jatim-berikan-apresiasi-khusus"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/ad1fa81b71c6db0f32adfb09f125a9631a5c0dfc.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 214,
+      "file_md": "artikel/2026-11-14_madura_sipintar-ppid-sumenep.md",
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "SIPINTAR PPID",
+        "Keterbukaan Informasi Publik",
+        "Komisi Informasi Jatim",
+        "Diskominfo Sumenep",
+        "E-Monev"
+      ]
+    },
+    {
+      "id": "2026-11-14_madura_penutupan-tmmd-130-pamekasan",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Pamekasan",
+      "judul": "KSAD dan Gubernur Khofifah Hadiri Penutupan TMMD ke-130 di Pamekasan",
+      "url_sumber": [
+        "https://pamekasankab.go.id/berita/1633/ksad-dan-gubernur-jatim-hadiri-penutupan-tmmd-ke-130-di-pamekasan-"
+      ],
+      "url_foto_sumber": "https://pamekasankab.go.id/img-berita/881794462649.jpg",
+      "tgl_terbit_sumber": "2026-11-12",
+      "tanda_48j": true,
+      "jumlah_kata": 201,
+      "file_md": "artikel/2026-11-14_madura_penutupan-tmmd-130-pamekasan.md",
+      "kredit_foto": "Pemkab Pamekasan",
+      "status": "butuh_gambar",
+      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026. Dihitung seremonial. Artikel sumber tidak menyebut desa lokasi TMMD, panjang jalan, atau anggaran.",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "TMMD ke-130",
+        "Pamekasan",
+        "KSAD",
+        "Khofifah Indar Parawansa",
+        "TNI Manunggal Membangun Desa"
       ]
     }
   ]
