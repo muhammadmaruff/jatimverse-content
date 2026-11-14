@@ -5549,11 +5549,10 @@
       "ukuran_kb": 95.7,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi Jatimverse.ID",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
-      "tayang_segera": true,
       "tag": [
         "NU Peduli",
         "PCNU Blitar",
@@ -5562,7 +5561,14 @@
         "Warga Rentan",
         "Perahu Karet",
         "Blitar"
-      ]
+      ],
+      "wp_media_id": 2207,
+      "wp_post_id": 2208,
+      "wp_url": "https://jatimverse.id/?p=2208",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-14T10:16:13+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T10:29+07:00"
     }
   ]
 }
