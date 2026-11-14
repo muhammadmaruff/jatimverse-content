@@ -4386,7 +4386,7 @@
       "file_md": "artikel/2026-11-13_surabaya-raya_kampung-pancasila-ksh.md",
       "kredit_foto": "Pemkot Surabaya",
       "status": "draf",
-      "catatan": "foto ganda dengan 2026-11-10_surabaya-raya_tutup-lima-tps-surabaya",
+      "catatan": "foto ganda dengan 2026-11-10_surabaya-raya_tutup-lima-tps-surabaya; di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -4775,7 +4775,7 @@
       "file_md": "artikel/2026-11-13_pantura_ucapan-hari-jadi-tuban-tanaman-rth.md",
       "kredit_foto": "Pemkab Tuban",
       "status": "butuh_gambar",
-      "catatan": "jpg hilang",
+      "catatan": "jpg hilang; di luar rentang waktu",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5016,7 +5016,7 @@
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-14_surabaya-raya_segel-rusunawa-kos-benowo.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -5026,7 +5026,17 @@
         "Rumah Kos",
         "Benowo",
         "Perda Hunian Layak"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_surabaya-raya_segel-rusunawa-kos-benowo.jpg",
+      "ukuran_kb": 88.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2178,
+      "wp_post_id": 2179,
+      "wp_url": "https://jatimverse.id/?p=2179",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:53:21+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T10:38+07:00"
     },
     {
       "id": "2026-11-14_surabaya-raya_ayah-soth-mentor-rw",
@@ -5042,7 +5052,7 @@
       "jumlah_kata": 209,
       "file_md": "artikel/2026-11-14_surabaya-raya_ayah-soth-mentor-rw.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -5052,7 +5062,17 @@
         "Kampung Pancasila",
         "Kenakalan Remaja",
         "Eri Cahyadi"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_surabaya-raya_ayah-soth-mentor-rw.jpg",
+      "ukuran_kb": 98.6,
+      "dimensi": "1200x675",
+      "wp_media_id": 2180,
+      "wp_post_id": 2181,
+      "wp_url": "https://jatimverse.id/?p=2181",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:53:31+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T11:23+07:00"
     },
     {
       "id": "2026-11-14_surabaya-raya_truk-sampah-manukan-kulon",
@@ -5068,7 +5088,7 @@
       "jumlah_kata": 211,
       "file_md": "artikel/2026-11-14_surabaya-raya_truk-sampah-manukan-kulon.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -5078,7 +5098,17 @@
         "TPA Benowo",
         "Manukan Kulon",
         "Armada Tertutup"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_surabaya-raya_truk-sampah-manukan-kulon.jpg",
+      "ukuran_kb": 98.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 2182,
+      "wp_post_id": 2183,
+      "wp_url": "https://jatimverse.id/?p=2183",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:53:41+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T12:08+07:00"
     },
     {
       "id": "2026-11-14_surabaya-raya_dugaan-solar-dlh",
@@ -5094,8 +5124,8 @@
       "jumlah_kata": 222,
       "file_md": "artikel/2026-11-14_surabaya-raya_dugaan-solar-dlh.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Batch 1: kuota Malang Raya (3) tidak terbaca; 1 dialihkan ke Surabaya (paket kelima).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5104,7 +5134,17 @@
         "Kejaksaan Negeri Surabaya",
         "PPPK",
         "GPS Armada"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_surabaya-raya_dugaan-solar-dlh.jpg",
+      "ukuran_kb": 91.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2184,
+      "wp_post_id": 2185,
+      "wp_url": "https://jatimverse.id/?p=2185",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:53:50+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T12:53+07:00"
     },
     {
       "id": "2026-11-14_surabaya-raya_pegawai-pemkot-sabu-pungli",
@@ -5120,8 +5160,8 @@
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-14_surabaya-raya_pegawai-pemkot-sabu-pungli.md",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
-      "catatan": "Nama pegawai diinisialkan (A dan T); sumber menyebut nama lengkap. Artikel sumber tidak mengonfirmasi pemecatan sudah dilakukan.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5130,7 +5170,17 @@
         "Narkoba",
         "BNN Surabaya",
         "Disiplin ASN"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_surabaya-raya_pegawai-pemkot-sabu-pungli.jpg",
+      "ukuran_kb": 89.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2186,
+      "wp_post_id": 2187,
+      "wp_url": "https://jatimverse.id/?p=2187",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:02+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T13:38+07:00"
     },
     {
       "id": "2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan",
@@ -5146,8 +5196,8 @@
       "jumlah_kata": 203,
       "file_md": "artikel/2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan.md",
       "kredit_foto": "Pemkab Lamongan",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "status": "draf",
+      "catatan": "judul > ~70 karakter",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -5156,7 +5206,10 @@
         "Paciran",
         "Brondong",
         "Mini RAS"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan.jpg",
+      "ukuran_kb": 91.8,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-14_mataraman_festival-kuliner-nusantara-tulungagung",
@@ -5172,8 +5225,8 @@
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-14_mataraman_festival-kuliner-nusantara-tulungagung.md",
       "kredit_foto": "Pemkab Tulungagung",
-      "status": "butuh_gambar",
-      "catatan": "Batch 2: kuota Mataraman hanya terpenuhi 1 (situs lain tidak memuat berita 12-14 Nov); sisa dialihkan ke Pantura.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -5181,7 +5234,17 @@
         "UMKM Tulungagung",
         "Hari Jadi Tulungagung ke-821",
         "Titik 0 Kilometer"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_mataraman_festival-kuliner-nusantara-tulungagung.jpg",
+      "ukuran_kb": 96.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2188,
+      "wp_post_id": 2189,
+      "wp_url": "https://jatimverse.id/?p=2189",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:12+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T14:23+07:00"
     },
     {
       "id": "2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan",
@@ -5197,8 +5260,8 @@
       "jumlah_kata": 203,
       "file_md": "artikel/2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan.md",
       "kredit_foto": "Pemkab Lamongan",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -5207,7 +5270,17 @@
         "DBHCHT",
         "Disnaker Lamongan",
         "Jaminan Sosial"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan.jpg",
+      "ukuran_kb": 96.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2190,
+      "wp_post_id": 2191,
+      "wp_url": "https://jatimverse.id/?p=2191",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:22+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T15:08+07:00"
     },
     {
       "id": "2026-11-14_pantura_laserku-ckg-lamongan",
@@ -5223,8 +5296,8 @@
       "jumlah_kata": 203,
       "file_md": "artikel/2026-11-14_pantura_laserku-ckg-lamongan.md",
       "kredit_foto": "Pemkab Lamongan",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota Pantura tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5233,7 +5306,17 @@
         "Hari Kesehatan Nasional",
         "Dinkes Lamongan",
         "PBI BPJS"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_pantura_laserku-ckg-lamongan.jpg",
+      "ukuran_kb": 95.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2192,
+      "wp_post_id": 2193,
+      "wp_url": "https://jatimverse.id/?p=2193",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:33+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T15:53+07:00"
     },
     {
       "id": "2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan",
@@ -5249,8 +5332,8 @@
       "jumlah_kata": 214,
       "file_md": "artikel/2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "Batch 3: URL foto salin dari halaman artikel (download-file). Judul sumber menyebut produk sampai ke luar negeri, tetapi isi tidak merinci; tidak ditulis di artikel. Kuota Tapal Kuda hanya 2 dari 4 terpenuhi.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -5259,7 +5342,17 @@
         "Cetakan Kue",
         "Kraton",
         "Kerajinan Aluminium"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan.jpg",
+      "ukuran_kb": 98.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2194,
+      "wp_post_id": 2195,
+      "wp_url": "https://jatimverse.id/?p=2195",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:44+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T16:38+07:00"
     },
     {
       "id": "2026-11-14_tapal-kuda_donor-darah-asn-pasuruan",
@@ -5275,8 +5368,8 @@
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-14_tapal-kuda_donor-darah-asn-pasuruan.md",
       "kredit_foto": "Pemkab Pasuruan",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026. Judul sumber menyebut HUT ke-26 DWP, isi menyebut HUT ke-27; artikel tidak menyebut angka ke-.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5285,7 +5378,17 @@
         "HUT KORPRI",
         "PMI Pasuruan",
         "Kantor Bupati Pasuruan"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_tapal-kuda_donor-darah-asn-pasuruan.jpg",
+      "ukuran_kb": 94.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2196,
+      "wp_post_id": 2197,
+      "wp_url": "https://jatimverse.id/?p=2197",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:54:55+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T17:23+07:00"
     },
     {
       "id": "2026-11-14_madura_pramuka-santri-ma-arif-sumenep",
@@ -5301,8 +5404,8 @@
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-14_madura_pramuka-santri-ma-arif-sumenep.md",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Batch 3: kuota Madura 2, diisi 3 (1 dialihkan dari Tapal Kuda yang kekurangan bahan). Berita dimuat di portal Pemkab Sumenep (Media Center).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -5311,7 +5414,17 @@
         "Jelajah Situs Jawa Timur",
         "Pendidikan Karakter",
         "Santri"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_madura_pramuka-santri-ma-arif-sumenep.jpg",
+      "ukuran_kb": 98.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2198,
+      "wp_post_id": 2199,
+      "wp_url": "https://jatimverse.id/?p=2199",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:55:04+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T18:08+07:00"
     },
     {
       "id": "2026-11-14_madura_sipintar-ppid-sumenep",
@@ -5327,8 +5440,8 @@
       "jumlah_kata": 214,
       "file_md": "artikel/2026-11-14_madura_sipintar-ppid-sumenep.md",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "biar-paham",
       "tag": [
@@ -5337,7 +5450,17 @@
         "Komisi Informasi Jatim",
         "Diskominfo Sumenep",
         "E-Monev"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_madura_sipintar-ppid-sumenep.jpg",
+      "ukuran_kb": 97.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2200,
+      "wp_post_id": 2201,
+      "wp_url": "https://jatimverse.id/?p=2201",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:55:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T18:53+07:00"
     },
     {
       "id": "2026-11-14_madura_penutupan-tmmd-130-pamekasan",
@@ -5353,8 +5476,8 @@
       "jumlah_kata": 201,
       "file_md": "artikel/2026-11-14_madura_penutupan-tmmd-130-pamekasan.md",
       "kredit_foto": "Pemkab Pamekasan",
-      "status": "butuh_gambar",
-      "catatan": "Rentang diperluas ke 48 jam karena kuota tidak terpenuhi dari berita 24 jam; terbit 12 Nov 2026. Dihitung seremonial. Artikel sumber tidak menyebut desa lokasi TMMD, panjang jalan, atau anggaran.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
       "tag": [
@@ -5363,7 +5486,17 @@
         "KSAD",
         "Khofifah Indar Parawansa",
         "TNI Manunggal Membangun Desa"
-      ]
+      ],
+      "file_jpg": "foto/2026-11-14_madura_penutupan-tmmd-130-pamekasan.jpg",
+      "ukuran_kb": 99.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2202,
+      "wp_post_id": 2203,
+      "wp_url": "https://jatimverse.id/?p=2203",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-14T09:55:25+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T19:38+07:00"
     },
     {
       "id": "2026-11-14_mataraman_nu-peduli-fasilitator-ketangguhan-bencana-blitar",
@@ -5380,11 +5513,10 @@
       "ukuran_kb": 95.8,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi Jatimverse.ID",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
-      "tayang_segera": true,
       "tag": [
         "NU Peduli",
         "PCNU Blitar",
@@ -5393,7 +5525,14 @@
         "Mitigasi Bencana",
         "Banser",
         "Blitar"
-      ]
+      ],
+      "wp_media_id": 2204,
+      "wp_post_id": 2205,
+      "wp_url": "https://jatimverse.id/?p=2205",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-14T09:55:37+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-14T10:09+07:00"
     }
   ]
 }
