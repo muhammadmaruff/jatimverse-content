@@ -5533,6 +5533,36 @@
       "tgl_upload": "2026-11-14T09:55:37+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-14T10:09+07:00"
+    },
+    {
+      "id": "2026-11-14_mataraman_nu-peduli-data-warga-rentan-perahu-karet-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "judul": "NU Peduli Blitar Harus Punya Data Warga Rentan, Radio, dan Perahu Karet",
+      "url_sumber": [],
+      "url_foto_sumber": null,
+      "tgl_terbit_sumber": "2026-11-14",
+      "tanda_48j": false,
+      "jumlah_kata": 551,
+      "file_md": "artikel/2026-11-14_mataraman_nu-peduli-data-warga-rentan-perahu-karet-blitar.md",
+      "file_jpg": "foto/2026-11-14_mataraman_nu-peduli-data-warga-rentan-perahu-karet-blitar.jpg",
+      "ukuran_kb": 95.7,
+      "dimensi": "1280x720",
+      "kredit_foto": "Dokumentasi Jatimverse.ID",
+      "status": "draf",
+      "catatan": "kiriman manual dari pengguna",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tayang_segera": true,
+      "tag": [
+        "NU Peduli",
+        "PCNU Blitar",
+        "Akhsin Alfata",
+        "Kesiapsiagaan Bencana",
+        "Warga Rentan",
+        "Perahu Karet",
+        "Blitar"
+      ]
     }
   ]
 }
