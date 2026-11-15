@@ -5920,6 +5920,58 @@
       "status": "butuh_gambar",
       "tanda_48j": true,
       "judul": "Kick-Off Desa Budaya Nusantara di Trowulan, Mojokerto Bidik Ekonomi Kreatif"
+    },
+    {
+      "id": "2026-11-16_pantura_batik-fashion-carnival-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/tampil-memukau-batik-tuban-fashion-street-carnival-2026-tampilkan-50-karya-fesyen-dan-kostum-karnaval"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/1001565268.png",
+      "tgl_terbit_sumber": "2026-11-15",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Batik Tuban",
+        "Fashion Street Carnival",
+        "Hari Jadi Tuban",
+        "Aditya Halindra Faridzky",
+        "Melati Tedja"
+      ],
+      "catatan": "Rentang 48 jam (Senin). Sumber menyebut 50 karya, rincian kategori 26+16=42; artikel menulis keduanya sebagai klaim rilis. Foto sumber PNG. Kuota batch 2 tidak terpenuhi (situs lain tak punya berita 14-16 Nov atau tak terbaca).",
+      "jumlah_kata": 235,
+      "file_md": "artikel/2026-11-16_pantura_batik-fashion-carnival-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Batik Tuban Fashion Street Carnival Meriahkan Hari Jadi ke-733 Tuban"
+    },
+    {
+      "id": "2026-11-16_pantura_pushbike-bts-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/peserta-spongebob-race-vaganza-bts-2026-tembus-malaysia-343-anak-ramaikan-lintasan-pushbike-tuban"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/pushbike-1.png",
+      "tgl_terbit_sumber": "2026-11-15",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Pushbike",
+        "BTS Racing Team",
+        "KORMI Tuban",
+        "Hari Jadi Tuban",
+        "Olahraga anak"
+      ],
+      "catatan": "Rentang 48 jam (Senin). Foto sumber PNG.",
+      "jumlah_kata": 218,
+      "file_md": "artikel/2026-11-16_pantura_pushbike-bts-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "343 Pebalap Cilik Ikuti Kejuaraan Pushbike BTS 2026 di Tuban"
     }
   ]
 }
