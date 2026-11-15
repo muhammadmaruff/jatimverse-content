@@ -5699,6 +5699,58 @@
       "tanda_48j": true,
       "catatan": "Kuota Malang Raya (3) dialihkan ke Surabaya Raya: situs malangkota/malangkab/batukota tidak terbaca. Rentang 48 jam (Minggu).",
       "judul": "15.000 Jemblem Antarkan Kabupaten Mojokerto Raih Rekor MURI"
+    },
+    {
+      "id": "2026-11-15_mataraman_lt-iv-pramuka-jatim-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/tutup-lt-iv-pramuka-jatim-2026-di-jombang-arumi-bachsin-umumkan-regu-terbaik-menuju-tingkat-nasional-24757"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/2378f870-bafd-4d5d-ae8c-1541f4164a1f.jpg",
+      "tgl_terbit_sumber": "2026-11-14",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Pramuka Jatim",
+        "LT-IV Penggalang",
+        "Kwarda Jatim",
+        "Arumi Bachsin",
+        "Jombang"
+      ],
+      "catatan": "Kuota Mataraman hanya 1 terpenuhi (situs lain tak punya berita 13-15 Nov yang memadai/berfoto). Rentang 48 jam (Minggu).",
+      "jumlah_kata": 206,
+      "file_md": "artikel/2026-11-15_mataraman_lt-iv-pramuka-jatim-jombang.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "LT-IV Pramuka Jatim Ditutup di Jombang, Blitar dan Lumajang Terbaik"
+    },
+    {
+      "id": "2026-11-15_pantura_akreditasi-rsud-temayang-bojonegoro",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Bojonegoro",
+      "url_sumber": [
+        "https://baghumas.bojonegorokab.go.id/berita/selangkah-lagi-siap-beroperasi-rsud-temayang-jalani-penilaian-akreditasi-untuk-perluas-akses-kesehatan-masyarakat"
+      ],
+      "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-13/vCmSSMiDimUsAGhr4VT1A1lMTL2eS2DZhZhPffY3.webp",
+      "tgl_terbit_sumber": "2026-11-13",
+      "kredit_foto": "Pemkab Bojonegoro",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "RSUD Temayang",
+        "Akreditasi Rumah Sakit",
+        "LARS Darma Husada Paripurna",
+        "Nurul Azizah",
+        "BPJS Kesehatan"
+      ],
+      "jumlah_kata": 240,
+      "file_md": "artikel/2026-11-15_pantura_akreditasi-rsud-temayang-bojonegoro.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "catatan": "Kuota Pantura: 2 paket Tuban (Fashion Street Carnival, pushbike) dibatalkan karena sumber <200 kata; Mataraman kekurangan bahan berfoto. Rentang 48 jam (Minggu).",
+      "judul": "RSUD Temayang Bojonegoro Jalani Survei Akreditasi, Target Desember"
     }
   ]
 }
