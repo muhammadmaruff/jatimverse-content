@@ -5751,6 +5751,59 @@
       "tanda_48j": true,
       "catatan": "Kuota Pantura: 2 paket Tuban (Fashion Street Carnival, pushbike) dibatalkan karena sumber <200 kata; Mataraman kekurangan bahan berfoto. Rentang 48 jam (Minggu).",
       "judul": "RSUD Temayang Bojonegoro Jalani Survei Akreditasi, Target Desember"
+    },
+    {
+      "id": "2026-11-15_tapal-kuda_liga-nusantara-pasuruan-united-persekabpas",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/tampil-dominan-pasuruan-united-gulung-donggala-fc-skor-telak-4-1",
+        "https://www.pasuruankab.go.id/berita/laga-perdana-liga-nusantara-2026-2027-persekabpas-gilas-persinab-nabire-3-0"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6Ik1jUUxFWDM0SEdubDhOUmZ3M3c2Ymc9PSIsInZhbHVlIjoiU3I1TjVYc292OVVhUkI5L1ErbW5aQT09IiwibWFjIjoiYmIwMTY2MDExMGFkOWIzNDEyNzEzZjUxMGQ2N2VjYTMxZGNjYTJjOGIxYjVhNDg0MzM4NmJiYjVmYjhmMWE1YyIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-14",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Liga Nusantara 2026/2027",
+        "Persekabpas",
+        "Pasuruan United",
+        "Beto Goncalves",
+        "Gus Shobih"
+      ],
+      "catatan": "Kuota Tapal Kuda hanya 2 terpenuhi dan Madura 0: situs Jember/Probolinggo/Lumajang/Situbondo/Bondowoso/Banyuwangi/Pamekasan tak punya berita 13-15 Nov yang terbaca; Sumenep gagal dimuat atau bahan <200 kata. Rentang 48 jam (Minggu).",
+      "jumlah_kata": 225,
+      "file_md": "artikel/2026-11-15_tapal-kuda_liga-nusantara-pasuruan-united-persekabpas.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Persekabpas dan Pasuruan United Menang di Laga Perdana Liga Nusantara"
+    },
+    {
+      "id": "2026-11-15_tapal-kuda_house-of-pandawa-prigen",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/house-of-pandawa-breeding-growing-learning-center-di-lereng-gunung-arjuno-prigen"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6IjFFVTk1V01RN01GVlNRNnF6K0syRkE9PSIsInZhbHVlIjoiNnVnblo2RW9HWW8zL0V6OWx3MExyUT09IiwibWFjIjoiZDIxNGNjYmE5MTZjMWE2OWJiOWQyYzFhYjY4ZjU2ZDU4NjA3Y2I4YmI0MThlMTQyZWQ5MzNjZTFmNTdiNmNjZSIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-14",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "House of Pandawa",
+        "Edu-farm",
+        "Kambing Saanen",
+        "Prigen",
+        "Wisata Pasuruan"
+      ],
+      "catatan": "Kuota Tapal Kuda hanya 2 terpenuhi dan Madura 0: situs Jember/Probolinggo/Lumajang/Situbondo/Bondowoso/Banyuwangi/Pamekasan tak punya berita 13-15 Nov yang terbaca; Sumenep gagal dimuat atau bahan <200 kata. Rentang 48 jam (Minggu).",
+      "jumlah_kata": 228,
+      "file_md": "artikel/2026-11-15_tapal-kuda_house-of-pandawa-prigen.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "House of Pandawa di Prigen Kembangkan Kambing Boer dan Saanen"
     }
   ]
 }
