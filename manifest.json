@@ -5894,6 +5894,32 @@
       "tgl_upload": "2026-11-15T18:00:36+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-16T00:44+07:00"
+    },
+    {
+      "id": "2026-11-16_surabaya-raya_desa-budaya-nusantara-trowulan",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/desa-budaya-nusantara-jadi-peluang-baru-penguatan-ekonomi-kreatif-dan-umkm-mojokerto-1794650681"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261114_170441.jpg",
+      "tgl_terbit_sumber": "2026-11-14",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Desa Budaya Nusantara",
+        "Trowulan",
+        "Candi Brahu",
+        "Ekonomi kreatif",
+        "Hari Desa Nasional"
+      ],
+      "catatan": "Rentang 48 jam (Senin). Kuota batch 1 tidak terpenuhi: Surabaya dan Sidoarjo tanpa berita baru, Gresik/Malang Raya/Batu tidak terbaca.",
+      "jumlah_kata": 211,
+      "file_md": "artikel/2026-11-16_surabaya-raya_desa-budaya-nusantara-trowulan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Kick-Off Desa Budaya Nusantara di Trowulan, Mojokerto Bidik Ekonomi Kreatif"
     }
   ]
 }
