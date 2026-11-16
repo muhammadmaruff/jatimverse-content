@@ -6131,6 +6131,110 @@
       "status": "butuh_gambar",
       "tanda_48j": true,
       "judul": "HKN ke-62 di Taman Bungkul, Surabaya Ajak Warga Manfaatkan Cek Kesehatan Gratis"
+    },
+    {
+      "id": "2026-11-17_mataraman_purna-tugas-87-pegawai-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/sebanyak-87-pegawai-dilingkup-pemkab-jombang-memasuki-purna-tugas-24778"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/3b2e5b30-47d9-4ae5-909e-970776acd02e.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "ASN Jombang",
+        "Purna tugas",
+        "SK PNS",
+        "BKPSDM Jombang",
+        "Bupati Warsubi"
+      ],
+      "catatan": "",
+      "jumlah_kata": 206,
+      "file_md": "artikel/2026-11-17_mataraman_purna-tugas-87-pegawai-jombang.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "87 Pegawai Pemkab Jombang Memasuki Purna Tugas, SK CPNS dan PNS Diserahkan"
+    },
+    {
+      "id": "2026-11-17_mataraman_mageti-coffee-fest-2026",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Magetan",
+      "url_sumber": [
+        "https://magetan.go.id/mageti-coffee-fest-2026-momentum-strategis-angkat-potensi-kopi-lokal-magetan/"
+      ],
+      "url_foto_sumber": "https://magetan.go.id/wp-content/uploads/2026/11/1-12.webp",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Magetan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Mageti Coffee Fest 2026",
+        "Kopi lokal Magetan",
+        "UMKM kopi",
+        "Barista",
+        "Rumah Promosi"
+      ],
+      "catatan": "",
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-17_mataraman_mageti-coffee-fest-2026.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Mageti Coffee Fest 2026 Dorong Kopi Lokal Magetan Tembus Pasar Lebih Luas"
+    },
+    {
+      "id": "2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Magetan",
+      "url_sumber": [
+        "https://magetan.go.id/tanggapan-bupati-magetan-atas-kekosongan-jabatan-di-sejumlah-opd/"
+      ],
+      "url_foto_sumber": "https://magetan.go.id/wp-content/uploads/2026/10/3-36.webp",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Magetan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Bupati Magetan",
+        "Kekosongan jabatan OPD",
+        "Manajemen Talenta",
+        "Sistem merit",
+        "KALIS"
+      ],
+      "catatan": "",
+      "jumlah_kata": 201,
+      "file_md": "artikel/2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Bupati Magetan Tanggapi Kekosongan Jabatan OPD, Bantah Jual Beli Jabatan"
+    },
+    {
+      "id": "2026-11-17_mataraman_apel-pengamanan-pilkades-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/11/16/pemkab-blitar-gelar-apel-pasukan-pengamanan-pilkades-serentak-2026/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/apel-gelar-pasukan-pilkades-2026-.jpeg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Blitar",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Pilkades serentak 2026",
+        "Pemkab Blitar",
+        "Apel gelar pasukan",
+        "Deklarasi damai",
+        "Bupati Rijanto"
+      ],
+      "catatan": "",
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-17_mataraman_apel-pengamanan-pilkades-blitar.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkab Blitar Gelar Apel Pasukan Pengamanan Pilkades Serentak 2026"
     }
   ]
 }
