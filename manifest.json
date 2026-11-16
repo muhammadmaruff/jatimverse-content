@@ -6002,6 +6002,135 @@
       "tgl_upload": "2026-11-16T14:43:46+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-16T16:58+07:00"
+    },
+    {
+      "id": "2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/dorong-digitalisasi-pajak-pemkab-mojokerto-optimalkan-pendapatan-asli-daerah-1794823198"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261116_165958.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Jatim Tax",
+        "Pajak daerah",
+        "Bapenda Mojokerto",
+        "Bank Jatim",
+        "PAD"
+      ],
+      "catatan": "",
+      "jumlah_kata": 230,
+      "file_md": "artikel/2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkab Mojokerto Gencarkan Jatim Tax untuk Genjot PAD"
+    },
+    {
+      "id": "2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/sinergi-forkopimda-operasi-zebra-semeru-siap-dilaksanakan-di-kabupaten-mojokerto-1794812142"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261116_135542.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "viral",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Operasi Zebra Semeru 2026",
+        "Polres Mojokerto",
+        "Keselamatan lalu lintas",
+        "Forkopimda Mojokerto"
+      ],
+      "catatan": "",
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Operasi Zebra Semeru 2026 Dimulai di Mojokerto, Fokus Kendaraan Berat"
+    },
+    {
+      "id": "2026-11-17_surabaya-raya_grand-job-fair-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25946/buka-akses-kerja-inklusif-grand-job-fair-surabaya-digelar-17-19-november-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25946/blob_6505_0.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Grand Job Fair",
+        "Disperinaker Surabaya",
+        "Lowongan kerja",
+        "Disabilitas",
+        "ASSiK"
+      ],
+      "catatan": "",
+      "jumlah_kata": 212,
+      "file_md": "artikel/2026-11-17_surabaya-raya_grand-job-fair-surabaya.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Grand Job Fair Surabaya 17–19 November Sediakan 3.013 Lowongan"
+    },
+    {
+      "id": "2026-11-17_surabaya-raya_saluran-pohon-dlh-2027",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25945/normalisasi-saluran-dan-penghijauan-berjalan-beriringan-dlh-surabaya-siapkan-ribuan-pohon-pada-2027"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25945/blob_3830_0.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "DLH Surabaya",
+        "Normalisasi saluran",
+        "Peremajaan pohon",
+        "Jalan Raya Darmo",
+        "PLN"
+      ],
+      "catatan": "",
+      "jumlah_kata": 242,
+      "file_md": "artikel/2026-11-17_surabaya-raya_saluran-pohon-dlh-2027.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "DLH Surabaya: Pohon Terdampak Saluran Diganti, Ribuan Pohon Ditanam 2027"
+    },
+    {
+      "id": "2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25944/peringati-hkn-ke-62-surabaya-ajak-warga-cegah-penyakit-lewat-cek-kesehatan-gratis"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25944/blob_1442_0.jpg",
+      "tgl_terbit_sumber": "2026-11-15",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Kesehatan Nasional",
+        "Cek Kesehatan Gratis",
+        "Dinkes Surabaya",
+        "Germas",
+        "Taman Bungkul"
+      ],
+      "catatan": "",
+      "jumlah_kata": 222,
+      "file_md": "artikel/2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "HKN ke-62 di Taman Bungkul, Surabaya Ajak Warga Manfaatkan Cek Kesehatan Gratis"
     }
   ]
 }
