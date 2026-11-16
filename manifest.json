@@ -5914,12 +5914,22 @@
         "Ekonomi kreatif",
         "Hari Desa Nasional"
       ],
-      "catatan": "Rentang 48 jam (Senin). Kuota batch 1 tidak terpenuhi: Surabaya dan Sidoarjo tanpa berita baru, Gresik/Malang Raya/Batu tidak terbaca.",
+      "catatan": "",
       "jumlah_kata": 211,
       "file_md": "artikel/2026-11-16_surabaya-raya_desa-budaya-nusantara-trowulan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Kick-Off Desa Budaya Nusantara di Trowulan, Mojokerto Bidik Ekonomi Kreatif"
+      "judul": "Kick-Off Desa Budaya Nusantara di Trowulan, Mojokerto Bidik Ekonomi Kreatif",
+      "file_jpg": "foto/2026-11-16_surabaya-raya_desa-budaya-nusantara-trowulan.jpg",
+      "ukuran_kb": 98.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2250,
+      "wp_post_id": 2251,
+      "wp_url": "https://jatimverse.id/?p=2251",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-16T14:43:25+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-16T15:28+07:00"
     },
     {
       "id": "2026-11-16_pantura_batik-fashion-carnival-tuban",
@@ -5940,12 +5950,22 @@
         "Aditya Halindra Faridzky",
         "Melati Tedja"
       ],
-      "catatan": "Rentang 48 jam (Senin). Sumber menyebut 50 karya, rincian kategori 26+16=42; artikel menulis keduanya sebagai klaim rilis. Foto sumber PNG. Kuota batch 2 tidak terpenuhi (situs lain tak punya berita 14-16 Nov atau tak terbaca).",
+      "catatan": "",
       "jumlah_kata": 235,
       "file_md": "artikel/2026-11-16_pantura_batik-fashion-carnival-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Batik Tuban Fashion Street Carnival Meriahkan Hari Jadi ke-733 Tuban"
+      "judul": "Batik Tuban Fashion Street Carnival Meriahkan Hari Jadi ke-733 Tuban",
+      "file_jpg": "foto/2026-11-16_pantura_batik-fashion-carnival-tuban.jpg",
+      "ukuran_kb": 99.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2252,
+      "wp_post_id": 2253,
+      "wp_url": "https://jatimverse.id/?p=2253",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-16T14:43:36+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-16T16:13+07:00"
     },
     {
       "id": "2026-11-16_pantura_pushbike-bts-tuban",
@@ -5966,12 +5986,22 @@
         "Hari Jadi Tuban",
         "Olahraga anak"
       ],
-      "catatan": "Rentang 48 jam (Senin). Foto sumber PNG.",
+      "catatan": "",
       "jumlah_kata": 218,
       "file_md": "artikel/2026-11-16_pantura_pushbike-bts-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "343 Pebalap Cilik Ikuti Kejuaraan Pushbike BTS 2026 di Tuban"
+      "judul": "343 Pebalap Cilik Ikuti Kejuaraan Pushbike BTS 2026 di Tuban",
+      "file_jpg": "foto/2026-11-16_pantura_pushbike-bts-tuban.jpg",
+      "ukuran_kb": 98.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2254,
+      "wp_post_id": 2255,
+      "wp_url": "https://jatimverse.id/?p=2255",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-16T14:43:46+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-16T16:58+07:00"
     }
   ]
 }
