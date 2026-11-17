@@ -6563,6 +6563,110 @@
       "status": "butuh_gambar",
       "tanda_48j": false,
       "judul": "MTQ III Kabupaten Mojokerto Dibuka, Libatkan Kafilah 18 Kecamatan"
+    },
+    {
+      "id": "2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/plt-bupati-berangkatkan-kirab-pataka-hari-jadi-ke-821-kabupaten-tulungagung/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_9879-scaled.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Tulungagung",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Hari Jadi ke-821 Tulungagung",
+        "Kirab Pataka",
+        "Plt Bupati Ahmad Baharudin",
+        "Tradisi daerah",
+        "Seremonial"
+      ],
+      "catatan": "Seremonial. Kirab dimulai 16 Nov, rilis 17 Nov. Batch 2: Mataraman 3/4 (Kediri Kota tanpa URL artikel terbaca, situs lain gagal/robots; satu kandidat Blitar dibuang karena bahan <200 kata), Pantura 2/3 (Tuban tak ada berita 24-48 jam, Bojonegoro blokir robots).",
+      "jumlah_kata": 220,
+      "file_md": "artikel/2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Kirab Pataka Hari Jadi ke-821 Tulungagung Diberangkatkan Plt. Bupati"
+    },
+    {
+      "id": "2026-11-18_mataraman_goldfish-2026-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/diikuti-peserta-internasional-piala-bupati-tulungagung-goldfish-2026-jadi-ajang-pengembangan-ikan-hias/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/20261115034640_IMG_7759-SAP-Decoration-scaled.jpg",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Tulungagung",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Goldfish 2026",
+        "Mas koki",
+        "Ikan hias",
+        "GOR Lembu Peteng",
+        "Tulungagung"
+      ],
+      "catatan": "Rentang 48 jam (rilis 16 Nov).",
+      "jumlah_kata": 231,
+      "file_md": "artikel/2026-11-18_mataraman_goldfish-2026-tulungagung.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Kontes Mas Koki Tulungagung Diikuti 510 Peserta, Ada dari Vietnam dan Singapura"
+    },
+    {
+      "id": "2026-11-18_pantura_popda-xv-29-medali-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/65149"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/a9899d3989f760205210a4517e960cbd.png",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "POPDA XV Jatim 2026",
+        "Atlet pelajar Lamongan",
+        "Disbudporapar Lamongan",
+        "Gulat",
+        "Petanque"
+      ],
+      "catatan": "",
+      "jumlah_kata": 228,
+      "file_md": "artikel/2026-11-18_pantura_popda-xv-29-medali-lamongan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Kontingen Lamongan Bawa Pulang 29 Medali dari POPDA XV Jatim 2026"
+    },
+    {
+      "id": "2026-11-18_pantura_prioritas-anggaran-2027-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/65145"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/a09c093b582b8e2738b8ca50f9a4ce3a.png",
+      "tgl_terbit_sumber": "2026-11-16",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "APBD 2027 Lamongan",
+        "Propemperda 2027",
+        "DPRD Lamongan",
+        "Yuhronur Efendi",
+        "Kebijakan anggaran"
+      ],
+      "catatan": "Rentang 48 jam (rilis 16 Nov).",
+      "jumlah_kata": 221,
+      "file_md": "artikel/2026-11-18_pantura_prioritas-anggaran-2027-lamongan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Lamongan Tetapkan Tiga Prioritas Anggaran 2027, Belanja Daerah Rp2,9 Triliun"
     }
   ]
 }
