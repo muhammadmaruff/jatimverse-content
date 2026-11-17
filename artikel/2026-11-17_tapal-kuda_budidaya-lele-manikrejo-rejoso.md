@@ -1,4 +1,4 @@
-# Peternak Lele di Manikrejo Rejoso Pasuruan Produksi Lebih dari 1 Ton per Hari
+# Peternak Lele Manikrejo Pasuruan Produksi Lebih dari 1 Ton per Hari
 
 PASURUAN – Mutho'illah (39), warga Desa Manikrejo, Kecamatan Rejoso, Kabupaten Pasuruan, mengelola budidaya lele dengan merek "Pathile Pasoeroan" yang menurut Pemkab Pasuruan menghasilkan lebih dari 1 ton per hari. Informasi itu dihimpun dalam wawancara Senin (16/11/2026).
 

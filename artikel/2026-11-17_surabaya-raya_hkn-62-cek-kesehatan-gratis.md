@@ -1,4 +1,4 @@
-# HKN ke-62 di Taman Bungkul, Surabaya Ajak Warga Manfaatkan Cek Kesehatan Gratis
+# HKN ke-62 di Taman Bungkul, Warga Diajak Manfaatkan Cek Kesehatan Gratis
 
 SURABAYA – Dinas Kesehatan (Dinkes) Kota Surabaya memperingati Hari Kesehatan Nasional (HKN) ke-62 bersama Dinkes Provinsi Jawa Timur di kawasan Car Free Day Taman Bungkul, Minggu (15/11/2026) pukul 06.00–09.00 WIB. Kegiatan yang mengusung tema "Sehat untuk Semua" itu memadukan kampanye Gerakan Masyarakat Hidup Sehat (Germas), senam bersama, parade karnaval kesehatan, edukasi, dan Cek Kesehatan Gratis (CKG).
 

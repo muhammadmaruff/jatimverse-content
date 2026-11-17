@@ -1,4 +1,4 @@
-# DPRD dan Pemkab Pasuruan Sepakati Raperda Pinjaman Daerah untuk RSUD Wilayah Selatan
+# DPRD dan Pemkab Pasuruan Sepakati Raperda Pinjaman Daerah RSUD Selatan
 
 PASURUAN – DPRD dan Pemerintah Kabupaten Pasuruan menyepakati Rancangan Peraturan Daerah (Raperda) tentang Pinjaman Daerah untuk disahkan menjadi perda. Kesepakatan itu ditandai penandatanganan berita acara dalam Rapat Paripurna DPRD, Senin (16/11/2026), oleh Bupati Pasuruan Rusdi Sutejo, Ketua DPRD Samsul Hidayat, dan empat pimpinan DPRD lainnya.
 
