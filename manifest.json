@@ -6583,7 +6583,7 @@
         "Tradisi daerah",
         "Seremonial"
       ],
-      "catatan": "Seremonial. Kirab dimulai 16 Nov, rilis 17 Nov. Batch 2: Mataraman 3/4 (Kediri Kota tanpa URL artikel terbaca, situs lain gagal/robots; satu kandidat Blitar dibuang karena bahan <200 kata), Pantura 2/3 (Tuban tak ada berita 24-48 jam, Bojonegoro blokir robots).",
+      "catatan": "Seremonial. Kirab dimulai 16 Nov, rilis 17 Nov. Batch 2: Mataraman 2/4 (Kediri Kota tanpa URL artikel terbaca, situs lain gagal/robots, Blitar 16 Nov dibuang karena bahan kurang dari 200 kata), Pantura 2/3 (Tuban tanpa berita 24-48 jam, Bojonegoro blokir robots).",
       "jumlah_kata": 220,
       "file_md": "artikel/2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung.md",
       "status": "butuh_gambar",
@@ -6667,6 +6667,111 @@
       "status": "butuh_gambar",
       "tanda_48j": true,
       "judul": "Lamongan Tetapkan Tiga Prioritas Anggaran 2027, Belanja Daerah Rp2,9 Triliun"
+    },
+    {
+      "id": "2026-11-18_madura_posyandu-mawar-kepanjin-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/arumi-bachsin-apresiasi-layanan-menyeluruh-posyandu-mawar-sumenep",
+        "https://sumenepkab.go.id/berita/baca/nia-kurnia-fauzi-peningkatan-kapasitas-kader-posyandu-untuk-perkuat-pemberdayaan-keluarga"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/c33a2745131985001fb11c1d7437f26a530e1010.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Posyandu Mawar",
+        "TP PKK Jatim",
+        "Arumi Bachsin",
+        "Emil Dardak",
+        "Pencegahan stunting"
+      ],
+      "catatan": "Dua rilis resmi untuk satu peristiwa. Batch 3: Tapal Kuda 0/4 (Pasuruan hanya berita sudah terpakai, Jember terbaru 10 Nov, Banyuwangi/Lumajang/Situbondo/Probolinggo gagal dibaca, Bondowoso blokir); 2 kuota dialihkan ke Madura (Sumenep 17 Nov paling ramai), 2 kuota tak terpenuhi. Bangkalan/Sampang JS tak terbaca, Pamekasan terbaru 12 Nov.",
+      "jumlah_kata": 246,
+      "file_md": "artikel/2026-11-18_madura_posyandu-mawar-kepanjin-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Arumi Bachsin dan Emil Dardak Apresiasi Posyandu Mawar Sumenep"
+    },
+    {
+      "id": "2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/dukung-ketersediaan-air-bersih-babinsa-koramil-raas-bersama-warga-bangun-tandon-air"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/17b6bb1ce32d192f38ce74b973804dae9d61710c.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Air bersih",
+        "Tandon air",
+        "Desa Ketupat",
+        "Kecamatan Raas",
+        "Koramil 0827/21 Raas"
+      ],
+      "catatan": "",
+      "jumlah_kata": 226,
+      "file_md": "artikel/2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Babinsa dan Warga Bangun Tandon Air Bersih di Desa Ketupat, Raas"
+    },
+    {
+      "id": "2026-11-18_madura_workshop-public-speaking-mgmp-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/tingkatkan-kompetensi-mengajar-mgmp-bahasa-indonesia-smpmts-sumenep-gelar-workshop-public-speaking"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/d9b50d858128f1d26719c80f6115acf5587350be.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "MGMP Bahasa Indonesia",
+        "Public speaking",
+        "Kompetensi guru",
+        "SMPN 3 Sumenep",
+        "Pendidikan Sumenep"
+      ],
+      "catatan": "Kuota Tapal Kuda dialihkan ke Madura.",
+      "jumlah_kata": 238,
+      "file_md": "artikel/2026-11-18_madura_workshop-public-speaking-mgmp-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "MGMP Bahasa Indonesia Sumenep Gelar Workshop Public Speaking untuk Guru"
+    },
+    {
+      "id": "2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/kemenag-sumenep-lakukan-pembinaan-dan-sensus-bmn-di-kua-pragaan"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/76c8eefdc868f05330b0494051e64fd0a1a54e13.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kemenag Sumenep",
+        "Sensus BMN",
+        "KUA Pragaan",
+        "Arsip digital",
+        "Tata kelola"
+      ],
+      "catatan": "Kuota Tapal Kuda dialihkan ke Madura. Instansi vertikal, dimuat di situs Pemkab Sumenep.",
+      "jumlah_kata": 217,
+      "file_md": "artikel/2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Kemenag Sumenep Sensus BMN dan Dampingi Arsip Digital di KUA Pragaan"
     }
   ]
 }
