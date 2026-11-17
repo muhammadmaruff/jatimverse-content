@@ -6022,7 +6022,7 @@
         "Bank Jatim",
         "PAD"
       ],
-      "catatan": "",
+      "catatan": "jpg hilang",
       "jumlah_kata": 230,
       "file_md": "artikel/2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda.md",
       "status": "butuh_gambar",
@@ -6047,7 +6047,7 @@
         "Keselamatan lalu lintas",
         "Forkopimda Mojokerto"
       ],
-      "catatan": "",
+      "catatan": "jpg hilang",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto.md",
       "status": "butuh_gambar",
@@ -6076,9 +6076,19 @@
       "catatan": "",
       "jumlah_kata": 212,
       "file_md": "artikel/2026-11-17_surabaya-raya_grand-job-fair-surabaya.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Grand Job Fair Surabaya 17–19 November Sediakan 3.013 Lowongan"
+      "judul": "Grand Job Fair Surabaya 17–19 November Sediakan 3.013 Lowongan",
+      "file_jpg": "foto/2026-11-17_surabaya-raya_grand-job-fair-surabaya.jpg",
+      "ukuran_kb": 97.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2259,
+      "wp_post_id": 2260,
+      "wp_url": "https://jatimverse.id/?p=2260",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:23:26+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T16:08+07:00"
     },
     {
       "id": "2026-11-17_surabaya-raya_saluran-pohon-dlh-2027",
@@ -6102,9 +6112,19 @@
       "catatan": "",
       "jumlah_kata": 242,
       "file_md": "artikel/2026-11-17_surabaya-raya_saluran-pohon-dlh-2027.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "DLH Surabaya: Pohon Terdampak Saluran Diganti, Ribuan Pohon Ditanam 2027"
+      "judul": "DLH Surabaya: Pohon Terdampak Saluran Diganti, Ribuan Pohon Ditanam 2027",
+      "file_jpg": "foto/2026-11-17_surabaya-raya_saluran-pohon-dlh-2027.jpg",
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2261,
+      "wp_post_id": 2262,
+      "wp_url": "https://jatimverse.id/?p=2262",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:23:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T16:53+07:00"
     },
     {
       "id": "2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis",
@@ -6125,12 +6145,15 @@
         "Germas",
         "Taman Bungkul"
       ],
-      "catatan": "",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 222,
       "file_md": "artikel/2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": true,
-      "judul": "HKN ke-62 di Taman Bungkul, Surabaya Ajak Warga Manfaatkan Cek Kesehatan Gratis"
+      "judul": "HKN ke-62 di Taman Bungkul, Surabaya Ajak Warga Manfaatkan Cek Kesehatan Gratis",
+      "file_jpg": "foto/2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis.jpg",
+      "ukuran_kb": 97.7,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-17_mataraman_purna-tugas-87-pegawai-jombang",
@@ -6154,9 +6177,19 @@
       "catatan": "",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-17_mataraman_purna-tugas-87-pegawai-jombang.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "87 Pegawai Pemkab Jombang Memasuki Purna Tugas, SK CPNS dan PNS Diserahkan"
+      "judul": "87 Pegawai Pemkab Jombang Memasuki Purna Tugas, SK CPNS dan PNS Diserahkan",
+      "file_jpg": "foto/2026-11-17_mataraman_purna-tugas-87-pegawai-jombang.jpg",
+      "ukuran_kb": 96.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2263,
+      "wp_post_id": 2264,
+      "wp_url": "https://jatimverse.id/?p=2264",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:23:57+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T17:38+07:00"
     },
     {
       "id": "2026-11-17_mataraman_mageti-coffee-fest-2026",
@@ -6180,9 +6213,19 @@
       "catatan": "",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-17_mataraman_mageti-coffee-fest-2026.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Mageti Coffee Fest 2026 Dorong Kopi Lokal Magetan Tembus Pasar Lebih Luas"
+      "judul": "Mageti Coffee Fest 2026 Dorong Kopi Lokal Magetan Tembus Pasar Lebih Luas",
+      "file_jpg": "foto/2026-11-17_mataraman_mageti-coffee-fest-2026.jpg",
+      "ukuran_kb": 94.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2265,
+      "wp_post_id": 2266,
+      "wp_url": "https://jatimverse.id/?p=2266",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:24:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T18:23+07:00"
     },
     {
       "id": "2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd",
@@ -6206,9 +6249,19 @@
       "catatan": "",
       "jumlah_kata": 201,
       "file_md": "artikel/2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Bupati Magetan Tanggapi Kekosongan Jabatan OPD, Bantah Jual Beli Jabatan"
+      "judul": "Bupati Magetan Tanggapi Kekosongan Jabatan OPD, Bantah Jual Beli Jabatan",
+      "file_jpg": "foto/2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd.jpg",
+      "ukuran_kb": 91.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2267,
+      "wp_post_id": 2268,
+      "wp_url": "https://jatimverse.id/?p=2268",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:24:34+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T19:08+07:00"
     },
     {
       "id": "2026-11-17_mataraman_apel-pengamanan-pilkades-blitar",
@@ -6232,9 +6285,19 @@
       "catatan": "",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-17_mataraman_apel-pengamanan-pilkades-blitar.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Pemkab Blitar Gelar Apel Pasukan Pengamanan Pilkades Serentak 2026"
+      "judul": "Pemkab Blitar Gelar Apel Pasukan Pengamanan Pilkades Serentak 2026",
+      "file_jpg": "foto/2026-11-17_mataraman_apel-pengamanan-pilkades-blitar.jpg",
+      "ukuran_kb": 96.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 2269,
+      "wp_post_id": 2270,
+      "wp_url": "https://jatimverse.id/?p=2270",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:24:56+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T19:53+07:00"
     },
     {
       "id": "2026-11-17_tapal-kuda_raperda-pinjaman-daerah-rsud-selatan-pasuruan",
@@ -6255,12 +6318,15 @@
         "Purwodadi",
         "Bupati Rusdi Sutejo"
       ],
-      "catatan": "",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 215,
       "file_md": "artikel/2026-11-17_tapal-kuda_raperda-pinjaman-daerah-rsud-selatan-pasuruan.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "DPRD dan Pemkab Pasuruan Sepakati Raperda Pinjaman Daerah untuk RSUD Wilayah Selatan"
+      "judul": "DPRD dan Pemkab Pasuruan Sepakati Raperda Pinjaman Daerah untuk RSUD Wilayah Selatan",
+      "file_jpg": "foto/2026-11-17_tapal-kuda_raperda-pinjaman-daerah-rsud-selatan-pasuruan.jpg",
+      "ukuran_kb": 94.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-17_tapal-kuda_budidaya-lele-manikrejo-rejoso",
@@ -6281,12 +6347,15 @@
         "Rejoso",
         "UMKM Pasuruan"
       ],
-      "catatan": "Sumber menyebut produksi 'lebih dari 1 ton' (judul) dan 'hingga 1,5 ton' (isi); artikel memakai 'lebih dari 1 ton per hari'.",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 217,
       "file_md": "artikel/2026-11-17_tapal-kuda_budidaya-lele-manikrejo-rejoso.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Peternak Lele di Manikrejo Rejoso Pasuruan Produksi Lebih dari 1 Ton per Hari"
+      "judul": "Peternak Lele di Manikrejo Rejoso Pasuruan Produksi Lebih dari 1 Ton per Hari",
+      "file_jpg": "foto/2026-11-17_tapal-kuda_budidaya-lele-manikrejo-rejoso.jpg",
+      "ukuran_kb": 94.8,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-17_madura_komunitas-pusaka-griya-mapan-sumenep",
@@ -6310,9 +6379,19 @@
       "catatan": "",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-17_madura_komunitas-pusaka-griya-mapan-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Warga Griya Mapan Sumenep Bentuk Komunitas Pencinta Pusaka Padepokan Sugalu"
+      "judul": "Warga Griya Mapan Sumenep Bentuk Komunitas Pencinta Pusaka Padepokan Sugalu",
+      "file_jpg": "foto/2026-11-17_madura_komunitas-pusaka-griya-mapan-sumenep.jpg",
+      "ukuran_kb": 98.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2271,
+      "wp_post_id": 2272,
+      "wp_url": "https://jatimverse.id/?p=2272",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:25:09+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T20:38+07:00"
     },
     {
       "id": "2026-11-17_madura_apel-gabungan-daya-serap-sumenep",
@@ -6336,9 +6415,19 @@
       "catatan": "",
       "jumlah_kata": 216,
       "file_md": "artikel/2026-11-17_madura_apel-gabungan-daya-serap-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kadisdik Sumenep Minta OPD Percepat Serapan Anggaran Hingga 17 Desember"
+      "judul": "Kadisdik Sumenep Minta OPD Percepat Serapan Anggaran Hingga 17 Desember",
+      "file_jpg": "foto/2026-11-17_madura_apel-gabungan-daya-serap-sumenep.jpg",
+      "ukuran_kb": 99.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2273,
+      "wp_post_id": 2274,
+      "wp_url": "https://jatimverse.id/?p=2274",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:25:29+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T21:23+07:00"
     },
     {
       "id": "2026-11-17_madura_lomba-website-desa-nasional-2027-sumenep",
@@ -6362,9 +6451,19 @@
       "catatan": "",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-17_madura_lomba-website-desa-nasional-2027-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Lomba Website Desa Nasional 2027 Dibuka, Pendaftaran Hingga 18 November"
+      "judul": "Lomba Website Desa Nasional 2027 Dibuka, Pendaftaran Hingga 18 November",
+      "file_jpg": "foto/2026-11-17_madura_lomba-website-desa-nasional-2027-sumenep.jpg",
+      "ukuran_kb": 97.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2275,
+      "wp_post_id": 2276,
+      "wp_url": "https://jatimverse.id/?p=2276",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-17T15:25:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-17T22:08+07:00"
     }
   ]
 }
