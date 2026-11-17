@@ -6485,6 +6485,84 @@
       "tgl_upload": "2026-11-17T15:25:40+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-17T22:08+07:00"
+    },
+    {
+      "id": "2026-11-18_surabaya-raya_eceng-gondok-kali-perbatasan",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25947/antisipasi-banjir-surabaya-sidoarjo-wali-kota-eri-instruksikan-pembersihan-kali-perbatasan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25947/blob_8390_0.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kali Perbatasan",
+        "Eceng gondok",
+        "Banjir Rungkut Menanggal",
+        "DLH Surabaya",
+        "Eri Cahyadi"
+      ],
+      "catatan": "Batch 1 hanya 3 dari 7: Malang Raya (0/3, situs tidak terbaca) dan 1 kuota Surabaya Raya tidak terpenuhi (Sidoarjo hanya memuat rilis nasional Komdigi, Gresik gagal dibaca).",
+      "jumlah_kata": 283,
+      "file_md": "artikel/2026-11-18_surabaya-raya_eceng-gondok-kali-perbatasan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkot Surabaya Bersihkan Eceng Gondok Kali Perbatasan Cegah Banjir"
+    },
+    {
+      "id": "2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/tingkatkan-kompetensi-sdm-industri-pemkab-mojokerto-gelar-pelatihan-otomasi-industri-bagi-generasi-muda-1794912549"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261117_174909.jpg",
+      "tgl_terbit_sumber": "2026-11-17",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pelatihan otomasi industri",
+        "PLC",
+        "Disperindag Mojokerto",
+        "Tenaga kerja lokal",
+        "Pasar murah"
+      ],
+      "catatan": "",
+      "jumlah_kata": 269,
+      "file_md": "artikel/2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "160 Anak Muda Ikut Pelatihan Otomasi Industri PLC di Kabupaten Mojokerto"
+    },
+    {
+      "id": "2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/libatkan-18-kecamatan-mtq-iii-perluas-pembinaan-al-quran-di-kabupaten-mojokerto-1794939216"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261118_011336.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "MTQ III Mojokerto",
+        "LPTQ",
+        "MTQ Jatim 2027",
+        "Bupati Albarraa",
+        "Seremonial"
+      ],
+      "catatan": "Seremonial. Tanggal terbit situs 18 Nov, kegiatan 17 Nov malam.",
+      "jumlah_kata": 268,
+      "file_md": "artikel/2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "MTQ III Kabupaten Mojokerto Dibuka, Libatkan Kafilah 18 Kecamatan"
     }
   ]
 }
