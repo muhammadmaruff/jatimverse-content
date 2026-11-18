@@ -6022,7 +6022,7 @@
         "Bank Jatim",
         "PAD"
       ],
-      "catatan": "jpg hilang",
+      "catatan": "jpg hilang; di luar rentang waktu",
       "jumlah_kata": 230,
       "file_md": "artikel/2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda.md",
       "status": "butuh_gambar",
@@ -6047,7 +6047,7 @@
         "Keselamatan lalu lintas",
         "Forkopimda Mojokerto"
       ],
-      "catatan": "jpg hilang",
+      "catatan": "jpg hilang; di luar rentang waktu",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto.md",
       "status": "butuh_gambar",
@@ -6505,12 +6505,22 @@
         "DLH Surabaya",
         "Eri Cahyadi"
       ],
-      "catatan": "Batch 1 hanya 3 dari 7: Malang Raya (0/3, situs tidak terbaca) dan 1 kuota Surabaya Raya tidak terpenuhi (Sidoarjo hanya memuat rilis nasional Komdigi, Gresik gagal dibaca).",
+      "catatan": "",
       "jumlah_kata": 283,
       "file_md": "artikel/2026-11-18_surabaya-raya_eceng-gondok-kali-perbatasan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Pemkot Surabaya Bersihkan Eceng Gondok Kali Perbatasan Cegah Banjir"
+      "judul": "Pemkot Surabaya Bersihkan Eceng Gondok Kali Perbatasan Cegah Banjir",
+      "file_jpg": "foto/2026-11-18_surabaya-raya_eceng-gondok-kali-perbatasan.jpg",
+      "ukuran_kb": 96.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2296,
+      "wp_post_id": 2297,
+      "wp_url": "https://jatimverse.id/?p=2297",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:17:36+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T16:02+07:00"
     },
     {
       "id": "2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto",
@@ -6534,9 +6544,19 @@
       "catatan": "",
       "jumlah_kata": 269,
       "file_md": "artikel/2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "160 Anak Muda Ikut Pelatihan Otomasi Industri PLC di Kabupaten Mojokerto"
+      "judul": "160 Anak Muda Ikut Pelatihan Otomasi Industri PLC di Kabupaten Mojokerto",
+      "file_jpg": "foto/2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto.jpg",
+      "ukuran_kb": 98.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2298,
+      "wp_post_id": 2299,
+      "wp_url": "https://jatimverse.id/?p=2299",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:17:46+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T16:47+07:00"
     },
     {
       "id": "2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto",
@@ -6557,12 +6577,22 @@
         "Bupati Albarraa",
         "Seremonial"
       ],
-      "catatan": "Seremonial. Tanggal terbit situs 18 Nov, kegiatan 17 Nov malam.",
+      "catatan": "",
       "jumlah_kata": 268,
       "file_md": "artikel/2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "MTQ III Kabupaten Mojokerto Dibuka, Libatkan Kafilah 18 Kecamatan"
+      "judul": "MTQ III Kabupaten Mojokerto Dibuka, Libatkan Kafilah 18 Kecamatan",
+      "file_jpg": "foto/2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto.jpg",
+      "ukuran_kb": 90.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2300,
+      "wp_post_id": 2301,
+      "wp_url": "https://jatimverse.id/?p=2301",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:17:57+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T17:32+07:00"
     },
     {
       "id": "2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung",
@@ -6583,12 +6613,22 @@
         "Tradisi daerah",
         "Seremonial"
       ],
-      "catatan": "Seremonial. Kirab dimulai 16 Nov, rilis 17 Nov. Batch 2: Mataraman 2/4 (Kediri Kota tanpa URL artikel terbaca, situs lain gagal/robots, Blitar 16 Nov dibuang karena bahan kurang dari 200 kata), Pantura 2/3 (Tuban tanpa berita 24-48 jam, Bojonegoro blokir robots).",
+      "catatan": "",
       "jumlah_kata": 220,
       "file_md": "artikel/2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kirab Pataka Hari Jadi ke-821 Tulungagung Diberangkatkan Plt. Bupati"
+      "judul": "Kirab Pataka Hari Jadi ke-821 Tulungagung Diberangkatkan Plt. Bupati",
+      "file_jpg": "foto/2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung.jpg",
+      "ukuran_kb": 97.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2302,
+      "wp_post_id": 2303,
+      "wp_url": "https://jatimverse.id/?p=2303",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:18:09+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T18:17+07:00"
     },
     {
       "id": "2026-11-18_mataraman_goldfish-2026-tulungagung",
@@ -6609,12 +6649,15 @@
         "GOR Lembu Peteng",
         "Tulungagung"
       ],
-      "catatan": "Rentang 48 jam (rilis 16 Nov).",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 231,
       "file_md": "artikel/2026-11-18_mataraman_goldfish-2026-tulungagung.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": true,
-      "judul": "Kontes Mas Koki Tulungagung Diikuti 510 Peserta, Ada dari Vietnam dan Singapura"
+      "judul": "Kontes Mas Koki Tulungagung Diikuti 510 Peserta, Ada dari Vietnam dan Singapura",
+      "file_jpg": "foto/2026-11-18_mataraman_goldfish-2026-tulungagung.jpg",
+      "ukuran_kb": 98.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-18_pantura_popda-xv-29-medali-lamongan",
@@ -6638,9 +6681,19 @@
       "catatan": "",
       "jumlah_kata": 228,
       "file_md": "artikel/2026-11-18_pantura_popda-xv-29-medali-lamongan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kontingen Lamongan Bawa Pulang 29 Medali dari POPDA XV Jatim 2026"
+      "judul": "Kontingen Lamongan Bawa Pulang 29 Medali dari POPDA XV Jatim 2026",
+      "file_jpg": "foto/2026-11-18_pantura_popda-xv-29-medali-lamongan.jpg",
+      "ukuran_kb": 98.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2304,
+      "wp_post_id": 2305,
+      "wp_url": "https://jatimverse.id/?p=2305",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:18:19+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T19:02+07:00"
     },
     {
       "id": "2026-11-18_pantura_prioritas-anggaran-2027-lamongan",
@@ -6661,12 +6714,15 @@
         "Yuhronur Efendi",
         "Kebijakan anggaran"
       ],
-      "catatan": "Rentang 48 jam (rilis 16 Nov).",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 221,
       "file_md": "artikel/2026-11-18_pantura_prioritas-anggaran-2027-lamongan.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": true,
-      "judul": "Lamongan Tetapkan Tiga Prioritas Anggaran 2027, Belanja Daerah Rp2,9 Triliun"
+      "judul": "Lamongan Tetapkan Tiga Prioritas Anggaran 2027, Belanja Daerah Rp2,9 Triliun",
+      "file_jpg": "foto/2026-11-18_pantura_prioritas-anggaran-2027-lamongan.jpg",
+      "ukuran_kb": 96.9,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-18_madura_posyandu-mawar-kepanjin-sumenep",
@@ -6688,12 +6744,22 @@
         "Emil Dardak",
         "Pencegahan stunting"
       ],
-      "catatan": "Dua rilis resmi untuk satu peristiwa. Batch 3: Tapal Kuda 0/4 (Pasuruan hanya berita sudah terpakai, Jember terbaru 10 Nov, Banyuwangi/Lumajang/Situbondo/Probolinggo gagal dibaca, Bondowoso blokir); 2 kuota dialihkan ke Madura (Sumenep 17 Nov paling ramai), 2 kuota tak terpenuhi. Bangkalan/Sampang JS tak terbaca, Pamekasan terbaru 12 Nov.",
+      "catatan": "",
       "jumlah_kata": 246,
       "file_md": "artikel/2026-11-18_madura_posyandu-mawar-kepanjin-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Arumi Bachsin dan Emil Dardak Apresiasi Posyandu Mawar Sumenep"
+      "judul": "Arumi Bachsin dan Emil Dardak Apresiasi Posyandu Mawar Sumenep",
+      "file_jpg": "foto/2026-11-18_madura_posyandu-mawar-kepanjin-sumenep.jpg",
+      "ukuran_kb": 96.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2306,
+      "wp_post_id": 2307,
+      "wp_url": "https://jatimverse.id/?p=2307",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:18:29+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T19:47+07:00"
     },
     {
       "id": "2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep",
@@ -6717,9 +6783,19 @@
       "catatan": "",
       "jumlah_kata": 226,
       "file_md": "artikel/2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Babinsa dan Warga Bangun Tandon Air Bersih di Desa Ketupat, Raas"
+      "judul": "Babinsa dan Warga Bangun Tandon Air Bersih di Desa Ketupat, Raas",
+      "file_jpg": "foto/2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep.jpg",
+      "ukuran_kb": 99.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2308,
+      "wp_post_id": 2309,
+      "wp_url": "https://jatimverse.id/?p=2309",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:18:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T20:32+07:00"
     },
     {
       "id": "2026-11-18_madura_workshop-public-speaking-mgmp-sumenep",
@@ -6740,12 +6816,22 @@
         "SMPN 3 Sumenep",
         "Pendidikan Sumenep"
       ],
-      "catatan": "Kuota Tapal Kuda dialihkan ke Madura.",
+      "catatan": "",
       "jumlah_kata": 238,
       "file_md": "artikel/2026-11-18_madura_workshop-public-speaking-mgmp-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "MGMP Bahasa Indonesia Sumenep Gelar Workshop Public Speaking untuk Guru"
+      "judul": "MGMP Bahasa Indonesia Sumenep Gelar Workshop Public Speaking untuk Guru",
+      "file_jpg": "foto/2026-11-18_madura_workshop-public-speaking-mgmp-sumenep.jpg",
+      "ukuran_kb": 91.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2310,
+      "wp_post_id": 2311,
+      "wp_url": "https://jatimverse.id/?p=2311",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:18:52+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T21:17+07:00"
     },
     {
       "id": "2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep",
@@ -6766,12 +6852,22 @@
         "Arsip digital",
         "Tata kelola"
       ],
-      "catatan": "Kuota Tapal Kuda dialihkan ke Madura. Instansi vertikal, dimuat di situs Pemkab Sumenep.",
+      "catatan": "",
       "jumlah_kata": 217,
       "file_md": "artikel/2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kemenag Sumenep Sensus BMN dan Dampingi Arsip Digital di KUA Pragaan"
+      "judul": "Kemenag Sumenep Sensus BMN dan Dampingi Arsip Digital di KUA Pragaan",
+      "file_jpg": "foto/2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep.jpg",
+      "ukuran_kb": 94.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2312,
+      "wp_post_id": 2313,
+      "wp_url": "https://jatimverse.id/?p=2313",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-18T15:19:03+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-18T22:02+07:00"
     }
   ]
 }
