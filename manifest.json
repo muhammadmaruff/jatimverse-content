@@ -7103,6 +7103,85 @@
       "status": "butuh_gambar",
       "tanda_48j": false,
       "judul": "Forikan Bojonegoro Raih Penghargaan Terbaik di Harkannas Jatim 2026"
+    },
+    {
+      "id": "2026-11-19_madura_reses-dprd-sumenep-paripurna",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/dprd-sumenep-gelar-rapat-paripurna-tujuh-fraksi-laporkan-hasil-reses-i-2026"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/6b281717b80ab4c4a1f162afb71fee4868e9bbbb.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "DPRD Sumenep / Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "DPRD Sumenep",
+        "Reses I 2026",
+        "Rapat paripurna",
+        "Zainal Arifin",
+        "Aspirasi masyarakat"
+      ],
+      "catatan": "",
+      "jumlah_kata": 209,
+      "file_md": "artikel/2026-11-19_madura_reses-dprd-sumenep-paripurna.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Tujuh Fraksi DPRD Sumenep Laporkan Hasil Reses I Tahun 2026"
+    },
+    {
+      "id": "2026-11-19_madura_musker-pmi-sumenep-udd",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/ketua-pmi-sumenep-udd-terus-berinovasi-untuk-penuhi-kebutuhan-darah",
+        "https://sumenepkab.go.id/berita/baca/ketua-pmi-sumenep-dorong-program-kerja-inovatif-dan-pelayanan-kemanusiaan-berkelanjutan"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/6bc6a32755187c54eef0453e79030a4af09bf9c9.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "PMI Sumenep",
+        "Unit Donor Darah",
+        "Donor sukarela",
+        "Edi Rasiyadi",
+        "Musyawarah Kerja"
+      ],
+      "catatan": "",
+      "jumlah_kata": 221,
+      "file_md": "artikel/2026-11-19_madura_musker-pmi-sumenep-udd.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "PMI Sumenep Gelar Musker, UDD Cari Cara Baru Tambah Pendonor Sukarela"
+    },
+    {
+      "id": "2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/diskominfo-sumenep-gelar-rakor-teknis-pembuatan-tanda-tangan-elektronik"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/1b212dafbf560443cfb1322f21c63e2405c5c64a.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Tanda tangan elektronik",
+        "SPBE",
+        "Diskominfo Sumenep",
+        "Transformasi digital",
+        "Desa"
+      ],
+      "catatan": "",
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Diskominfo Sumenep Latih Pembuatan Tanda Tangan Elektronik untuk Kecamatan dan Desa"
     }
   ]
 }
