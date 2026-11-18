@@ -6868,6 +6868,58 @@
       "tgl_upload": "2026-11-18T15:19:03+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-18T22:02+07:00"
+    },
+    {
+      "id": "2026-11-19_surabaya-raya_pasar-murah-dlanggu-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/dorong-stabilitas-harga-dan-daya-beli-masyarakat-pemprov-pemkab-mojokerto-gelar-gerakan-pasar-murah-1795005668"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261118_194108.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Gerakan Pasar Murah",
+        "Stabilitas harga",
+        "Wabup Mojokerto",
+        "Dlanggu",
+        "Daya beli"
+      ],
+      "catatan": "Sumber tidak memuat angka/komoditas; judul dan isi dibatasi pada fakta sumber.",
+      "jumlah_kata": 208,
+      "file_md": "artikel/2026-11-19_surabaya-raya_pasar-murah-dlanggu-mojokerto.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemprov dan Pemkab Mojokerto Gelar Pasar Murah di Dlanggu"
+    },
+    {
+      "id": "2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "url_sumber": [
+        "https://mojokertokab.go.id/detail-berita/upaya-swasembada-daerah-wakil-bupati-mojokerto-serahkan-bantuan-untuk-peternak-ayam-petelur-1794998029"
+      ],
+      "url_foto_sumber": "https://mojokertokab.go.id/storage/pemkab/gambar/berita/20261118_173349.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Mojokerto",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Ayam petelur",
+        "Swasembada pangan",
+        "Dinas Pertanian Mojokerto",
+        "Peternak",
+        "Kementerian Pertanian"
+      ],
+      "catatan": "Sumber tidak konsisten soal nama Wabup (Albarraa/Rizal) dan rincian Rp200 juta pakan/obat; ditulis sesuai sumber, nama memakai Muhammad Rizal Octavian (sama dengan paket sebelumnya).",
+      "jumlah_kata": 204,
+      "file_md": "artikel/2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkab Mojokerto Serahkan Bantuan Rp2,2 Miliar untuk 60 Peternak Ayam Petelur"
     }
   ]
 }
