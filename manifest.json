@@ -6649,7 +6649,7 @@
         "GOR Lembu Peteng",
         "Tulungagung"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 231,
       "file_md": "artikel/2026-11-18_mataraman_goldfish-2026-tulungagung.md",
       "status": "draf",
@@ -6714,7 +6714,7 @@
         "Yuhronur Efendi",
         "Kebijakan anggaran"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 221,
       "file_md": "artikel/2026-11-18_pantura_prioritas-anggaran-2027-lamongan.md",
       "status": "draf",
@@ -6888,12 +6888,22 @@
         "Dlanggu",
         "Daya beli"
       ],
-      "catatan": "Sumber tidak memuat angka/komoditas; judul dan isi dibatasi pada fakta sumber.",
+      "catatan": "",
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-19_surabaya-raya_pasar-murah-dlanggu-mojokerto.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Pemprov dan Pemkab Mojokerto Gelar Pasar Murah di Dlanggu"
+      "judul": "Pemprov dan Pemkab Mojokerto Gelar Pasar Murah di Dlanggu",
+      "file_jpg": "foto/2026-11-19_surabaya-raya_pasar-murah-dlanggu-mojokerto.jpg",
+      "ukuran_kb": 98.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2323,
+      "wp_post_id": 2324,
+      "wp_url": "https://jatimverse.id/?p=2324",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-19T15:30:24+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-19T16:15+07:00"
     },
     {
       "id": "2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto",
@@ -6914,12 +6924,15 @@
         "Peternak",
         "Kementerian Pertanian"
       ],
-      "catatan": "Sumber tidak konsisten soal nama Wabup (Albarraa/Rizal) dan rincian Rp200 juta pakan/obat; ditulis sesuai sumber, nama memakai Muhammad Rizal Octavian (sama dengan paket sebelumnya).",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Pemkab Mojokerto Serahkan Bantuan Rp2,2 Miliar untuk 60 Peternak Ayam Petelur"
+      "judul": "Pemkab Mojokerto Serahkan Bantuan Rp2,2 Miliar untuk 60 Peternak Ayam Petelur",
+      "file_jpg": "foto/2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto.jpg",
+      "ukuran_kb": 95.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-19_mataraman_jaring-sampah-irigasi-tawangsari-jombang",
@@ -6944,9 +6957,19 @@
       "catatan": "",
       "jumlah_kata": 217,
       "file_md": "artikel/2026-11-19_mataraman_jaring-sampah-irigasi-tawangsari-jombang.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Dinas PUPR Jombang Pasang Jaring Sampah di Bendung Tawangsari"
+      "judul": "Dinas PUPR Jombang Pasang Jaring Sampah di Bendung Tawangsari",
+      "file_jpg": "foto/2026-11-19_mataraman_jaring-sampah-irigasi-tawangsari-jombang.jpg",
+      "ukuran_kb": 88.2,
+      "dimensi": "1280x720",
+      "wp_media_id": 2325,
+      "wp_post_id": 2326,
+      "wp_url": "https://jatimverse.id/?p=2326",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-19T15:30:35+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-19T17:00+07:00"
     },
     {
       "id": "2026-11-19_mataraman_bantuan-pangan-beras-jombang",
@@ -6967,12 +6990,15 @@
         "DTSEN",
         "Ngusikan"
       ],
-      "catatan": "",
+      "catatan": "di luar rentang waktu",
       "jumlah_kata": 207,
       "file_md": "artikel/2026-11-19_mataraman_bantuan-pangan-beras-jombang.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Pemkab Jombang Salurkan Bantuan Beras 30 Kg untuk 202.511 Penerima"
+      "judul": "Pemkab Jombang Salurkan Bantuan Beras 30 Kg untuk 202.511 Penerima",
+      "file_jpg": "foto/2026-11-19_mataraman_bantuan-pangan-beras-jombang.jpg",
+      "ukuran_kb": 94.0,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-19_mataraman_penghargaan-transaksi-digital-jombang",
@@ -6993,12 +7019,15 @@
         "Khofifah",
         "Kredit UMKM"
       ],
-      "catatan": "Seremonial penghargaan; peristiwa HLM TPID/TP2DD/TPAKD yang sama dengan penghargaan Bojonegoro tidak dibuat paket terpisah.",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-19_mataraman_penghargaan-transaksi-digital-jombang.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Jombang Raih Penghargaan Perlindungan Transaksi Digital Terinovatif Jatim 2026"
+      "judul": "Jombang Raih Penghargaan Perlindungan Transaksi Digital Terinovatif Jatim 2026",
+      "file_jpg": "foto/2026-11-19_mataraman_penghargaan-transaksi-digital-jombang.jpg",
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-19_mataraman_validasi-iga-tulungagung",
@@ -7019,7 +7048,7 @@
         "RSUD dr. Iskak",
         "Inovasi daerah"
       ],
-      "catatan": "Sumber tanpa kutipan langsung; ditulis tidak langsung. Peristiwa 17/11, terbit 18/11.",
+      "catatan": "jpg hilang",
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-19_mataraman_validasi-iga-tulungagung.md",
       "status": "butuh_gambar",
@@ -7045,12 +7074,15 @@
         "Netralitas",
         "BPJS Ketenagakerjaan"
       ],
-      "catatan": "",
+      "catatan": "di luar rentang waktu",
       "jumlah_kata": 207,
       "file_md": "artikel/2026-11-19_pantura_satlinmas-pilkades-bojonegoro.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Satlinmas dari 155 Desa di Bojonegoro Dibekali Jelang Pilkades 2027"
+      "judul": "Satlinmas dari 155 Desa di Bojonegoro Dibekali Jelang Pilkades 2027",
+      "file_jpg": "foto/2026-11-19_pantura_satlinmas-pilkades-bojonegoro.jpg",
+      "ukuran_kb": 95.8,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-19_pantura_iwapi-bojonegoro",
@@ -7071,12 +7103,15 @@
         "Setyo Wahono",
         "Bojonegoro"
       ],
-      "catatan": "Seremonial; batch ini memuat 3 topik berkesan seremonial (penghargaan Jombang, IWAPI, Forikan) karena bahan terbatas (Tuban/Lamongan tak terbaca).",
+      "catatan": "di luar rentang waktu",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-19_pantura_iwapi-bojonegoro.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Bupati Bojonegoro Kukuhkan Pengurus IWAPI 2026–2031, Dorong UMKM Naik Kelas"
+      "judul": "Bupati Bojonegoro Kukuhkan Pengurus IWAPI 2026–2031, Dorong UMKM Naik Kelas",
+      "file_jpg": "foto/2026-11-19_pantura_iwapi-bojonegoro.jpg",
+      "ukuran_kb": 97.1,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-19_pantura_forikan-bojonegoro",
@@ -7097,12 +7132,22 @@
         "Gemarikan",
         "Stunting"
       ],
-      "catatan": "Dateline Pasuruan (lokasi acara). Seremonial penghargaan.",
+      "catatan": "",
       "jumlah_kata": 208,
       "file_md": "artikel/2026-11-19_pantura_forikan-bojonegoro.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Forikan Bojonegoro Raih Penghargaan Terbaik di Harkannas Jatim 2026"
+      "judul": "Forikan Bojonegoro Raih Penghargaan Terbaik di Harkannas Jatim 2026",
+      "file_jpg": "foto/2026-11-19_pantura_forikan-bojonegoro.jpg",
+      "ukuran_kb": 95.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2327,
+      "wp_post_id": 2328,
+      "wp_url": "https://jatimverse.id/?p=2328",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-19T15:30:46+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-19T17:45+07:00"
     },
     {
       "id": "2026-11-19_madura_reses-dprd-sumenep-paripurna",
@@ -7126,9 +7171,19 @@
       "catatan": "",
       "jumlah_kata": 209,
       "file_md": "artikel/2026-11-19_madura_reses-dprd-sumenep-paripurna.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Tujuh Fraksi DPRD Sumenep Laporkan Hasil Reses I Tahun 2026"
+      "judul": "Tujuh Fraksi DPRD Sumenep Laporkan Hasil Reses I Tahun 2026",
+      "file_jpg": "foto/2026-11-19_madura_reses-dprd-sumenep-paripurna.jpg",
+      "ukuran_kb": 97.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2329,
+      "wp_post_id": 2330,
+      "wp_url": "https://jatimverse.id/?p=2330",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-19T15:30:57+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-19T18:30+07:00"
     },
     {
       "id": "2026-11-19_madura_musker-pmi-sumenep-udd",
@@ -7153,9 +7208,19 @@
       "catatan": "",
       "jumlah_kata": 221,
       "file_md": "artikel/2026-11-19_madura_musker-pmi-sumenep-udd.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "PMI Sumenep Gelar Musker, UDD Cari Cara Baru Tambah Pendonor Sukarela"
+      "judul": "PMI Sumenep Gelar Musker, UDD Cari Cara Baru Tambah Pendonor Sukarela",
+      "file_jpg": "foto/2026-11-19_madura_musker-pmi-sumenep-udd.jpg",
+      "ukuran_kb": 99.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2331,
+      "wp_post_id": 2332,
+      "wp_url": "https://jatimverse.id/?p=2332",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-19T15:31:07+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-19T19:15+07:00"
     },
     {
       "id": "2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep",
@@ -7176,12 +7241,15 @@
         "Transformasi digital",
         "Desa"
       ],
-      "catatan": "",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Diskominfo Sumenep Latih Pembuatan Tanda Tangan Elektronik untuk Kecamatan dan Desa"
+      "judul": "Diskominfo Sumenep Latih Pembuatan Tanda Tangan Elektronik untuk Kecamatan dan Desa",
+      "file_jpg": "foto/2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep.jpg",
+      "ukuran_kb": 94.5,
+      "dimensi": "1280x720"
     }
   ]
 }
