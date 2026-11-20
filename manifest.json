@@ -7613,6 +7613,58 @@
       "tgl_upload": "2026-11-20T15:12:31+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-20T21:55+07:00"
+    },
+    {
+      "id": "2026-11-21_surabaya-raya_penghargaan-kemenkes-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25952/dari-bijak-antibiotik-hingga-kesehatan-tradisional-surabaya-kantongi-dua-penghargaan-kemenkes"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25952/blob_9947_0.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Resistensi antimikroba",
+        "Kesehatan tradisional",
+        "Dinkes Surabaya",
+        "Penghargaan Kemenkes",
+        "Puskesmas"
+      ],
+      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "jumlah_kata": 247,
+      "file_md": "artikel/2026-11-21_surabaya-raya_penghargaan-kemenkes-surabaya.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Surabaya Kantongi Dua Penghargaan Kemenkes soal Antibiotik dan Jamu"
+    },
+    {
+      "id": "2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://surabaya.go.id/id/berita/25953/hari-anak-sedunia-2026-pemkot-surabaya-tanamkan-empati-antaranak-untuk-cegah-bullying"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25953/blob_2845_0.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Anak Sedunia",
+        "Bullying",
+        "DP3A-PPKB Surabaya",
+        "Kota Layak Anak",
+        "Rotary"
+      ],
+      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "jumlah_kata": 241,
+      "file_md": "artikel/2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Hari Anak Sedunia, Surabaya Ajarkan Empati untuk Cegah Bullying"
     }
   ]
 }
