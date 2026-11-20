@@ -7260,6 +7260,110 @@
       "file_jpg": "foto/2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep.jpg",
       "ukuran_kb": 94.5,
       "dimensi": "1280x720"
+    },
+    {
+      "id": "2026-11-20_surabaya-raya_penghargaan-inflasi-tpid-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25950/surabaya-raih-dua-penghargaan-pengendalian-inflasi-terbaik-di-jatim-perkuat-pasokan-pangan-lewat-kerja-sama-tujuh-daerah"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25950/blob_7573_0.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Inflasi",
+        "TPID",
+        "Kerja sama antardaerah",
+        "Pasokan pangan",
+        "PT Surya Kreasi Pangan"
+      ],
+      "catatan": "",
+      "jumlah_kata": 303,
+      "file_md": "artikel/2026-11-20_surabaya-raya_penghargaan-inflasi-tpid-surabaya.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Surabaya Raih Dua Penghargaan Pengendalian Inflasi Terbaik Jatim"
+    },
+    {
+      "id": "2026-11-20_surabaya-raya_harkannas-jatim-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25951/surabaya-raih-dua-penghargaan-di-puncak-hari-ikan-nasional-jatim-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25951/blob_7523_0.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Hari Ikan Nasional",
+        "FORIKAN",
+        "Konsumsi ikan",
+        "DKPP Surabaya",
+        "Senam Gemari"
+      ],
+      "catatan": "",
+      "jumlah_kata": 250,
+      "file_md": "artikel/2026-11-20_surabaya-raya_harkannas-jatim-surabaya.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Surabaya Raih Dua Penghargaan di Puncak Hari Ikan Nasional Jatim 2026"
+    },
+    {
+      "id": "2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25949/penuhi-undangan-pelajar-wali-kota-eri-cek-kelas-hingga-instruksikan-perbaikan-di-smpn-37-surabaya"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25949/blob_4027_0.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Eri Cahyadi",
+        "SMPN 37 Surabaya",
+        "Dispendik Surabaya",
+        "Perbaikan sekolah",
+        "Pelajar"
+      ],
+      "catatan": "tanggal kunjungan tidak disebut di sumber",
+      "jumlah_kata": 220,
+      "file_md": "artikel/2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Wali Kota Eri Penuhi Undangan Siswi, Cek Kelas SMPN 37 Surabaya"
+    },
+    {
+      "id": "2026-11-20_surabaya-raya_gema-desa-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "url_sumber": [
+        "https://www.sidoarjokab.go.id/berita/bupati-subandi-tegaskan-pengelolaan-dana-desa-harus-akuntabel-dan-bebas-gratifikasi"
+      ],
+      "url_foto_sumber": "https://www.sidoarjokab.go.id/storage/12681/gfse4LbVZBf6DULFajh4LoTlT7zmgGFVhb83ACQP.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Sidoarjo",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Dana desa",
+        "GEMA DESA 2026",
+        "Gratifikasi",
+        "Keuangan desa",
+        "BKK Desa"
+      ],
+      "catatan": "",
+      "jumlah_kata": 291,
+      "file_md": "artikel/2026-11-20_surabaya-raya_gema-desa-sidoarjo.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Evaluasi Keuangan 318 Desa di Sidoarjo: 40 Desa Belum Memadai"
     }
   ]
 }
