@@ -10,4 +10,4 @@ Bupati menyampaikan empat arahan prioritas. Pertama, akselerasi Sistem Pemerinta
 
 Rusdi mencontohkan layanan Command Center 112, tempat keluhan warga langsung tersambung dengan petugas. "Contohnya Command Center 112, tetap laksanakan kegiatan yang bermanfaat membantu masyarakat," katanya.
 
-Ia menyambut baik forum evaluasi tersebut dan berharap seluruh pegawai menyamakan semangat menghadapi tantangan tata kelola pemerintahan digital.
+Ia menyambut baik forum evaluasi tersebut dan berharap seluruh pegawai menyamakan semangat menghadapi tantangan tata kelola pemerintahan digital. Sumber tidak menyebut angka anggaran maupun jumlah pegawai yang mengikuti evaluasi tersebut. Kegiatan ini diikuti seluruh karyawan Diskominfo Kabupaten Pasuruan.

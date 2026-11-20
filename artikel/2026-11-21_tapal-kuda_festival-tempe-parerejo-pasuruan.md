@@ -10,4 +10,4 @@ Kepala Desa Parerejo Muhammad Maskur menyebut festival bertujuan meningkatkan ek
 
 Di Parerejo terdapat sekitar 230 pengrajin tempe. Produksi harian seluruh pengrajin mencapai 15 ton, yang dikirim ke hampir semua pasar di Pasuruan Raya serta kota lain seperti Malang, Blitar, Sidoarjo, dan Surabaya.
 
-Festival juga dikunjungi mahasiswa dari berbagai negara. Salah satunya Mufi (26) dari Sudan yang mengaku menyukai tempe. "Suka sekali dengan tempe, enak dan gurih," katanya.
+Festival juga dikunjungi mahasiswa dari berbagai negara. Salah satunya Mufi (26) dari Sudan yang mengaku menyukai tempe. "Suka sekali dengan tempe, enak dan gurih," katanya. Pemkab Pasuruan memuat kegiatan ini dalam pemberitaan resminya pada 19 November 2026.
