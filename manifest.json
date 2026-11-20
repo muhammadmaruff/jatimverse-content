@@ -6924,7 +6924,7 @@
         "Peternak",
         "Kementerian Pertanian"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto.md",
       "status": "draf",
@@ -7019,7 +7019,7 @@
         "Khofifah",
         "Kredit UMKM"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 202,
       "file_md": "artikel/2026-11-19_mataraman_penghargaan-transaksi-digital-jombang.md",
       "status": "draf",
@@ -7251,7 +7251,7 @@
         "Transformasi digital",
         "Desa"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep.md",
       "status": "draf",
@@ -7283,9 +7283,19 @@
       "catatan": "",
       "jumlah_kata": 303,
       "file_md": "artikel/2026-11-20_surabaya-raya_penghargaan-inflasi-tpid-surabaya.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Surabaya Raih Dua Penghargaan Pengendalian Inflasi Terbaik Jatim"
+      "judul": "Surabaya Raih Dua Penghargaan Pengendalian Inflasi Terbaik Jatim",
+      "file_jpg": "foto/2026-11-20_surabaya-raya_penghargaan-inflasi-tpid-surabaya.jpg",
+      "ukuran_kb": 95.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2341,
+      "wp_post_id": 2342,
+      "wp_url": "https://jatimverse.id/?p=2342",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:06+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T15:55+07:00"
     },
     {
       "id": "2026-11-20_surabaya-raya_harkannas-jatim-surabaya",
@@ -7309,9 +7319,19 @@
       "catatan": "",
       "jumlah_kata": 250,
       "file_md": "artikel/2026-11-20_surabaya-raya_harkannas-jatim-surabaya.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Surabaya Raih Dua Penghargaan di Puncak Hari Ikan Nasional Jatim 2026"
+      "judul": "Surabaya Raih Dua Penghargaan di Puncak Hari Ikan Nasional Jatim 2026",
+      "file_jpg": "foto/2026-11-20_surabaya-raya_harkannas-jatim-surabaya.jpg",
+      "ukuran_kb": 94.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2343,
+      "wp_post_id": 2344,
+      "wp_url": "https://jatimverse.id/?p=2344",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:15+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T16:40+07:00"
     },
     {
       "id": "2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37",
@@ -7332,12 +7352,22 @@
         "Perbaikan sekolah",
         "Pelajar"
       ],
-      "catatan": "tanggal kunjungan tidak disebut di sumber",
+      "catatan": "",
       "jumlah_kata": 220,
       "file_md": "artikel/2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Wali Kota Eri Penuhi Undangan Siswi, Cek Kelas SMPN 37 Surabaya"
+      "judul": "Wali Kota Eri Penuhi Undangan Siswi, Cek Kelas SMPN 37 Surabaya",
+      "file_jpg": "foto/2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37.jpg",
+      "ukuran_kb": 84.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2345,
+      "wp_post_id": 2346,
+      "wp_url": "https://jatimverse.id/?p=2346",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:25+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T17:25+07:00"
     },
     {
       "id": "2026-11-20_surabaya-raya_gema-desa-sidoarjo",
@@ -7361,9 +7391,19 @@
       "catatan": "",
       "jumlah_kata": 291,
       "file_md": "artikel/2026-11-20_surabaya-raya_gema-desa-sidoarjo.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Evaluasi Keuangan 318 Desa di Sidoarjo: 40 Desa Belum Memadai"
+      "judul": "Evaluasi Keuangan 318 Desa di Sidoarjo: 40 Desa Belum Memadai",
+      "file_jpg": "foto/2026-11-20_surabaya-raya_gema-desa-sidoarjo.jpg",
+      "ukuran_kb": 98.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2347,
+      "wp_post_id": 2348,
+      "wp_url": "https://jatimverse.id/?p=2348",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:35+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T18:10+07:00"
     },
     {
       "id": "2026-11-20_mataraman_forum-tjsl-jombang",
@@ -7387,9 +7427,19 @@
       "catatan": "",
       "jumlah_kata": 279,
       "file_md": "artikel/2026-11-20_mataraman_forum-tjsl-jombang.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Pemkab Jombang Ajak Perusahaan Selaraskan CSR dengan Prioritas Daerah"
+      "judul": "Pemkab Jombang Ajak Perusahaan Selaraskan CSR dengan Prioritas Daerah",
+      "file_jpg": "foto/2026-11-20_mataraman_forum-tjsl-jombang.jpg",
+      "ukuran_kb": 96.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2349,
+      "wp_post_id": 2350,
+      "wp_url": "https://jatimverse.id/?p=2350",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:47+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T18:55+07:00"
     },
     {
       "id": "2026-11-20_pantura_inovasi-iga-lamongan",
@@ -7410,12 +7460,22 @@
         "Puskesmas Kedungpring",
         "Stunting"
       ],
-      "catatan": "rentang 48 jam: kuota Pantura tak terpenuhi dari berita 19-20 Nov",
+      "catatan": "",
       "jumlah_kata": 240,
       "file_md": "artikel/2026-11-20_pantura_inovasi-iga-lamongan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Tim IGA Verifikasi Dua Inovasi Lamongan: SIMAS KDP dan Megpreneur"
+      "judul": "Tim IGA Verifikasi Dua Inovasi Lamongan: SIMAS KDP dan Megpreneur",
+      "file_jpg": "foto/2026-11-20_pantura_inovasi-iga-lamongan.jpg",
+      "ukuran_kb": 94.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2351,
+      "wp_post_id": 2352,
+      "wp_url": "https://jatimverse.id/?p=2352",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:11:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T19:40+07:00"
     },
     {
       "id": "2026-11-20_pantura_enam-raperda-tuban",
@@ -7436,12 +7496,22 @@
         "Sumber daya kelautan",
         "Minuman beralkohol"
       ],
-      "catatan": "rentang 48 jam: kuota Pantura tak terpenuhi dari berita 19-20 Nov",
+      "catatan": "",
       "jumlah_kata": 262,
       "file_md": "artikel/2026-11-20_pantura_enam-raperda-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "DPRD dan Pemkab Tuban Sepakati Enam Raperda, Termasuk Pilkades"
+      "judul": "DPRD dan Pemkab Tuban Sepakati Enam Raperda, Termasuk Pilkades",
+      "file_jpg": "foto/2026-11-20_pantura_enam-raperda-tuban.jpg",
+      "ukuran_kb": 95.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2353,
+      "wp_post_id": 2354,
+      "wp_url": "https://jatimverse.id/?p=2354",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:12:09+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T20:25+07:00"
     },
     {
       "id": "2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil",
@@ -7465,9 +7535,19 @@
       "catatan": "",
       "jumlah_kata": 225,
       "file_md": "artikel/2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "RSUD Bangil Padukan Vaksinasi Internasional dan Paspor Sehari Jadi"
+      "judul": "RSUD Bangil Padukan Vaksinasi Internasional dan Paspor Sehari Jadi",
+      "file_jpg": "foto/2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil.jpg",
+      "ukuran_kb": 99.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2355,
+      "wp_post_id": 2356,
+      "wp_url": "https://jatimverse.id/?p=2356",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:12:20+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T21:10+07:00"
     },
     {
       "id": "2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan",
@@ -7488,12 +7568,15 @@
         "DLH Pasuruan",
         "Wakil Bupati Pasuruan"
       ],
-      "catatan": "",
+      "catatan": "judul > ~70 karakter",
       "jumlah_kata": 275,
       "file_md": "artikel/2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Pemkab Pasuruan Luncurkan Platform TJSL dan PJLH untuk Pulihkan Lahan Kritis"
+      "judul": "Pemkab Pasuruan Luncurkan Platform TJSL dan PJLH untuk Pulihkan Lahan Kritis",
+      "file_jpg": "foto/2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan.jpg",
+      "ukuran_kb": 98.0,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-20_madura_silapor-112-sumenep",
@@ -7517,9 +7600,19 @@
       "catatan": "",
       "jumlah_kata": 205,
       "file_md": "artikel/2026-11-20_madura_silapor-112-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Diskominfo Sumenep Kenalkan Fitur Baru SiLaPoR 112 ke Instansi Mitra"
+      "judul": "Diskominfo Sumenep Kenalkan Fitur Baru SiLaPoR 112 ke Instansi Mitra",
+      "file_jpg": "foto/2026-11-20_madura_silapor-112-sumenep.jpg",
+      "ukuran_kb": 99.7,
+      "dimensi": "1280x720",
+      "wp_media_id": 2357,
+      "wp_post_id": 2358,
+      "wp_url": "https://jatimverse.id/?p=2358",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-20T15:12:31+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-20T21:55+07:00"
     }
   ]
 }
