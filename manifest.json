@@ -7442,6 +7442,84 @@
       "status": "butuh_gambar",
       "tanda_48j": true,
       "judul": "DPRD dan Pemkab Tuban Sepakati Enam Raperda, Termasuk Pilkades"
+    },
+    {
+      "id": "2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/layanan-vaksinasi-internasional-rsud-bangil-kini-terintegrasi-kepengurusan-paspor-sehari-jadi"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6IlJYZnJWQVVRa09mNHBpandHUFJ2L0E9PSIsInZhbHVlIjoiSXNYWU9LTlcyR2NKb2wxcTVKVDkvdz09IiwibWFjIjoiZjU0NGI5OGIyMjJiNjcyNmYyMDczMGJiZDNmZDkxM2RjZTA1MTlhZjY3NGE4NDNmMzZlNjk4MTZlYjUyOGEwZCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "RSUD Bangil",
+        "Vaksinasi internasional",
+        "Paspor",
+        "Imigrasi Pasuruan",
+        "Pelayanan publik"
+      ],
+      "catatan": "",
+      "jumlah_kata": 225,
+      "file_md": "artikel/2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "RSUD Bangil Padukan Vaksinasi Internasional dan Paspor Sehari Jadi"
+    },
+    {
+      "id": "2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/pemkab-pasuruan-launching-platform-tjsl-dan-pjlh"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-file/eyJpdiI6IjlSWjFKYjhVd0NXWEtweDhDdjZQZGc9PSIsInZhbHVlIjoiSjJBeVZPUlh5cE5YNTBnUnhSQTJCZz09IiwibWFjIjoiODI1ODNkN2I2ZTdjNjFkNDczN2EzMmIwM2NiYzVhZmYwZjYyOWQ3NzIwOWI5OTJlNDE0NTkyNjYxZDdjY2MxZCIsInRhZyI6IiJ9/posts/gambar_posts/berita",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "ekonomi",
+      "rubrik": "biar-paham",
+      "tag": [
+        "TJSL",
+        "PJLH",
+        "Lahan kritis",
+        "DLH Pasuruan",
+        "Wakil Bupati Pasuruan"
+      ],
+      "catatan": "",
+      "jumlah_kata": 275,
+      "file_md": "artikel/2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkab Pasuruan Luncurkan Platform TJSL dan PJLH untuk Pulihkan Lahan Kritis"
+    },
+    {
+      "id": "2026-11-20_madura_silapor-112-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://www.sumenepkab.go.id/berita/baca/diskominfo-sumenep-gelar-alih-pengetahuan-fitur-fitur-baru-silapor-112"
+      ],
+      "url_foto_sumber": "https://www.sumenepkab.go.id/uploads/images/news_news/bdff4baceb1aa1eee1d1546b8e2aa7d0b90abffc.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "SiLaPoR 112",
+        "Layanan darurat 112",
+        "Diskominfo Sumenep",
+        "Pengaduan masyarakat",
+        "Transformasi digital"
+      ],
+      "catatan": "",
+      "jumlah_kata": 205,
+      "file_md": "artikel/2026-11-20_madura_silapor-112-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Diskominfo Sumenep Kenalkan Fitur Baru SiLaPoR 112 ke Instansi Mitra"
     }
   ]
 }
