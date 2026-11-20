@@ -7364,6 +7364,84 @@
       "status": "butuh_gambar",
       "tanda_48j": false,
       "judul": "Evaluasi Keuangan 318 Desa di Sidoarjo: 40 Desa Belum Memadai"
+    },
+    {
+      "id": "2026-11-20_mataraman_forum-tjsl-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/gathering-forum-tjsl-2026-pemkab-jombang-ajak-perusahaan-selaraskan-csr-dengan-prioritas-pembangunan-daerah-24848"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/f377786e-55b5-4108-86db-c47d094fe911.jpg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "ekonomi",
+      "rubrik": "biar-paham",
+      "tag": [
+        "TJSL",
+        "CSR perusahaan",
+        "Forum TJSL Jombang",
+        "Stunting",
+        "Pembangunan daerah"
+      ],
+      "catatan": "",
+      "jumlah_kata": 279,
+      "file_md": "artikel/2026-11-20_mataraman_forum-tjsl-jombang.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Pemkab Jombang Ajak Perusahaan Selaraskan CSR dengan Prioritas Daerah"
+    },
+    {
+      "id": "2026-11-20_pantura_inovasi-iga-lamongan",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Lamongan",
+      "url_sumber": [
+        "https://portal.lamongankab.go.id/posting/65314"
+      ],
+      "url_foto_sumber": "https://lamongankab.go.id/beranda/images/article/thumbnail/portal/38b4618bd498631d2b58d7731fa14d19.png",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Lamongan",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Innovative Government Award",
+        "SIMAS KDP",
+        "Megpreneur",
+        "Puskesmas Kedungpring",
+        "Stunting"
+      ],
+      "catatan": "rentang 48 jam: kuota Pantura tak terpenuhi dari berita 19-20 Nov",
+      "jumlah_kata": 240,
+      "file_md": "artikel/2026-11-20_pantura_inovasi-iga-lamongan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Tim IGA Verifikasi Dua Inovasi Lamongan: SIMAS KDP dan Megpreneur"
+    },
+    {
+      "id": "2026-11-20_pantura_enam-raperda-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/slug-0690197d3c653f98b6183a6b74297b8d"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/1001570914.jpg",
+      "tgl_terbit_sumber": "2026-11-18",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "politik",
+      "rubrik": "wakil-kita",
+      "tag": [
+        "Raperda",
+        "DPRD Tuban",
+        "Pemilihan kepala desa",
+        "Sumber daya kelautan",
+        "Minuman beralkohol"
+      ],
+      "catatan": "rentang 48 jam: kuota Pantura tak terpenuhi dari berita 19-20 Nov",
+      "jumlah_kata": 262,
+      "file_md": "artikel/2026-11-20_pantura_enam-raperda-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "DPRD dan Pemkab Tuban Sepakati Enam Raperda, Termasuk Pilkades"
     }
   ]
 }
