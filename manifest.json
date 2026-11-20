@@ -7665,6 +7665,110 @@
       "status": "butuh_gambar",
       "tanda_48j": false,
       "judul": "Hari Anak Sedunia, Surabaya Ajarkan Empati untuk Cegah Bullying"
+    },
+    {
+      "id": "2026-11-21_pantura_bblr-gizi-buruk-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/kasus-bblr-dan-gizi-buruk-di-tuban-menurun-dinkes-terus-tingkatkan-mutu-kesehatan-ibu-anak"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/whatsapp-image-2026-11-20-at-8.20.38-pm.jpeg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "BBLR",
+        "Gizi buruk",
+        "Dinkes P2KB Tuban",
+        "Kesehatan ibu dan anak",
+        "Posyandu"
+      ],
+      "catatan": "Dibaca lewat agen web-fetch",
+      "jumlah_kata": 280,
+      "file_md": "artikel/2026-11-21_pantura_bblr-gizi-buruk-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Kasus BBLR dan Gizi Buruk di Tuban Menurun Tiga Tahun Terakhir"
+    },
+    {
+      "id": "2026-11-21_pantura_festival-100-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/festival-100-tuban-siapkan-ruang-promosi-bagi-184-pelaku-usaha-dan-ikm"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/tuban-100-1.png",
+      "tgl_terbit_sumber": "2026-11-20",
+      "kredit_foto": "fuad / Pemkab Tuban",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Festival 100% Tuban",
+        "UMKM",
+        "Hari Jadi ke-733 Tuban",
+        "IKM",
+        "Diskopumdag Tuban"
+      ],
+      "catatan": "Dibaca lewat agen web-fetch",
+      "jumlah_kata": 286,
+      "file_md": "artikel/2026-11-21_pantura_festival-100-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Festival 100% Tuban Beri Ruang Promosi bagi 184 Pelaku Usaha"
+    },
+    {
+      "id": "2026-11-21_pantura_sideka-ng-juara-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/tuban-raih-juara-iii-nasional-produktivitas-website-sideka-ng-dorong-digitalisasi-informasi-desa"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/1001575084.png",
+      "tgl_terbit_sumber": "2026-11-20",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "SIDEKA-NG",
+        "Diskominfo-SP Tuban",
+        "Digitalisasi desa",
+        "Forum Nasional Kota Cerdas",
+        "Penghargaan"
+      ],
+      "catatan": "Dibaca lewat agen web-fetch",
+      "jumlah_kata": 260,
+      "file_md": "artikel/2026-11-21_pantura_sideka-ng-juara-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false,
+      "judul": "Tuban Raih Juara III Nasional Produktivitas Website SIDEKA-NG"
+    },
+    {
+      "id": "2026-11-21_mataraman_visitasi-ghippa-magetan",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Magetan",
+      "url_sumber": [
+        "https://magetan.go.id/bupati-magetan-sambut-visitasi-ghippa-tirto-manunggal/"
+      ],
+      "url_foto_sumber": "https://magetan.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-20-at-09.38.02.jpeg",
+      "tgl_terbit_sumber": "2026-11-19",
+      "kredit_foto": "Pemkab Magetan",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "GHIPPA Tirto Manunggal",
+        "HIPPA",
+        "Irigasi",
+        "Petani Magetan",
+        "Visitasi tingkat provinsi"
+      ],
+      "catatan": "Rentang 48 jam (terbit 19/11). Nama bupati tidak ditulis karena sumber tidak konsisten (dua artikel menyebut nama berbeda). Dibaca lewat agen web-fetch",
+      "jumlah_kata": 242,
+      "file_md": "artikel/2026-11-21_mataraman_visitasi-ghippa-magetan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true,
+      "judul": "Magetan Disambangi Juri Visitasi GHIPPA Tirto Manunggal"
     }
   ]
 }
