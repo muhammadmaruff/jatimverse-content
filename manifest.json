@@ -7568,7 +7568,7 @@
         "DLH Pasuruan",
         "Wakil Bupati Pasuruan"
       ],
-      "catatan": "judul > ~70 karakter",
+      "catatan": "judul > ~70 karakter; di luar rentang waktu",
       "jumlah_kata": 275,
       "file_md": "artikel/2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan.md",
       "status": "draf",
@@ -7633,12 +7633,22 @@
         "Penghargaan Kemenkes",
         "Puskesmas"
       ],
-      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 247,
       "file_md": "artikel/2026-11-21_surabaya-raya_penghargaan-kemenkes-surabaya.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Surabaya Kantongi Dua Penghargaan Kemenkes soal Antibiotik dan Jamu"
+      "judul": "Surabaya Kantongi Dua Penghargaan Kemenkes soal Antibiotik dan Jamu",
+      "file_jpg": "foto/2026-11-21_surabaya-raya_penghargaan-kemenkes-surabaya.jpg",
+      "ukuran_kb": 98.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2368,
+      "wp_post_id": 2369,
+      "wp_url": "https://jatimverse.id/?p=2369",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:11+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T13:30+07:00"
     },
     {
       "id": "2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya",
@@ -7659,12 +7669,22 @@
         "Kota Layak Anak",
         "Rotary"
       ],
-      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 241,
       "file_md": "artikel/2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Hari Anak Sedunia, Surabaya Ajarkan Empati untuk Cegah Bullying"
+      "judul": "Hari Anak Sedunia, Surabaya Ajarkan Empati untuk Cegah Bullying",
+      "file_jpg": "foto/2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya.jpg",
+      "ukuran_kb": 98.4,
+      "dimensi": "1280x720",
+      "wp_media_id": 2370,
+      "wp_post_id": 2371,
+      "wp_url": "https://jatimverse.id/?p=2371",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:20+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T14:15+07:00"
     },
     {
       "id": "2026-11-21_pantura_bblr-gizi-buruk-tuban",
@@ -7685,12 +7705,22 @@
         "Kesehatan ibu dan anak",
         "Posyandu"
       ],
-      "catatan": "Dibaca lewat agen web-fetch",
+      "catatan": "",
       "jumlah_kata": 280,
       "file_md": "artikel/2026-11-21_pantura_bblr-gizi-buruk-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kasus BBLR dan Gizi Buruk di Tuban Menurun Tiga Tahun Terakhir"
+      "judul": "Kasus BBLR dan Gizi Buruk di Tuban Menurun Tiga Tahun Terakhir",
+      "file_jpg": "foto/2026-11-21_pantura_bblr-gizi-buruk-tuban.jpg",
+      "ukuran_kb": 97.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2372,
+      "wp_post_id": 2373,
+      "wp_url": "https://jatimverse.id/?p=2373",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:30+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T15:00+07:00"
     },
     {
       "id": "2026-11-21_pantura_festival-100-tuban",
@@ -7711,12 +7741,22 @@
         "IKM",
         "Diskopumdag Tuban"
       ],
-      "catatan": "Dibaca lewat agen web-fetch",
+      "catatan": "",
       "jumlah_kata": 286,
       "file_md": "artikel/2026-11-21_pantura_festival-100-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Festival 100% Tuban Beri Ruang Promosi bagi 184 Pelaku Usaha"
+      "judul": "Festival 100% Tuban Beri Ruang Promosi bagi 184 Pelaku Usaha",
+      "file_jpg": "foto/2026-11-21_pantura_festival-100-tuban.jpg",
+      "ukuran_kb": 98.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2374,
+      "wp_post_id": 2375,
+      "wp_url": "https://jatimverse.id/?p=2375",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T15:45+07:00"
     },
     {
       "id": "2026-11-21_pantura_sideka-ng-juara-tuban",
@@ -7737,12 +7777,22 @@
         "Forum Nasional Kota Cerdas",
         "Penghargaan"
       ],
-      "catatan": "Dibaca lewat agen web-fetch",
+      "catatan": "",
       "jumlah_kata": 260,
       "file_md": "artikel/2026-11-21_pantura_sideka-ng-juara-tuban.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Tuban Raih Juara III Nasional Produktivitas Website SIDEKA-NG"
+      "judul": "Tuban Raih Juara III Nasional Produktivitas Website SIDEKA-NG",
+      "file_jpg": "foto/2026-11-21_pantura_sideka-ng-juara-tuban.jpg",
+      "ukuran_kb": 94.8,
+      "dimensi": "1280x720",
+      "wp_media_id": 2376,
+      "wp_post_id": 2377,
+      "wp_url": "https://jatimverse.id/?p=2377",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:49+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T16:30+07:00"
     },
     {
       "id": "2026-11-21_mataraman_visitasi-ghippa-magetan",
@@ -7763,12 +7813,22 @@
         "Petani Magetan",
         "Visitasi tingkat provinsi"
       ],
-      "catatan": "Rentang 48 jam (terbit 19/11). Nama bupati tidak ditulis karena sumber tidak konsisten (dua artikel menyebut nama berbeda). Dibaca lewat agen web-fetch",
+      "catatan": "",
       "jumlah_kata": 242,
       "file_md": "artikel/2026-11-21_mataraman_visitasi-ghippa-magetan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Magetan Disambangi Juri Visitasi GHIPPA Tirto Manunggal"
+      "judul": "Magetan Disambangi Juri Visitasi GHIPPA Tirto Manunggal",
+      "file_jpg": "foto/2026-11-21_mataraman_visitasi-ghippa-magetan.jpg",
+      "ukuran_kb": 96.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2378,
+      "wp_post_id": 2379,
+      "wp_url": "https://jatimverse.id/?p=2379",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:45:57+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T17:15+07:00"
     },
     {
       "id": "2026-11-21_madura_polisi-sahabat-anak-zebra-sumenep",
@@ -7789,12 +7849,22 @@
         "Keselamatan lalu lintas",
         "Edukasi anak"
       ],
-      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-21_madura_polisi-sahabat-anak-zebra-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Satlantas Sumenep Gandeng Anak dalam Operasi Zebra Semeru 2026"
+      "judul": "Satlantas Sumenep Gandeng Anak dalam Operasi Zebra Semeru 2026",
+      "file_jpg": "foto/2026-11-21_madura_polisi-sahabat-anak-zebra-sumenep.jpg",
+      "ukuran_kb": 99.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2380,
+      "wp_post_id": 2381,
+      "wp_url": "https://jatimverse.id/?p=2381",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:46:05+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T18:00+07:00"
     },
     {
       "id": "2026-11-21_madura_madin-lapas-sumenep",
@@ -7815,12 +7885,22 @@
         "Pembinaan warga binaan",
         "Universitas Annuqayah"
       ],
-      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-21_madura_madin-lapas-sumenep.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Kemenag Sumenep Rancang Madrasah Diniyah di Lapas"
+      "judul": "Kemenag Sumenep Rancang Madrasah Diniyah di Lapas",
+      "file_jpg": "foto/2026-11-21_madura_madin-lapas-sumenep.jpg",
+      "ukuran_kb": 90.6,
+      "dimensi": "1280x720",
+      "wp_media_id": 2382,
+      "wp_post_id": 2383,
+      "wp_url": "https://jatimverse.id/?p=2383",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:46:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T18:45+07:00"
     },
     {
       "id": "2026-11-21_tapal-kuda_festival-tempe-parerejo-pasuruan",
@@ -7841,12 +7921,22 @@
         "Pengrajin tempe",
         "UMKM"
       ],
-      "catatan": "Rentang 48 jam (terbit 19/11); dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 211,
       "file_md": "artikel/2026-11-21_tapal-kuda_festival-tempe-parerejo-pasuruan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Festival Tempe Pertama di Parerejo Pasuruan Hadirkan Es Krim Tempe"
+      "judul": "Festival Tempe Pertama di Parerejo Pasuruan Hadirkan Es Krim Tempe",
+      "file_jpg": "foto/2026-11-21_tapal-kuda_festival-tempe-parerejo-pasuruan.jpg",
+      "ukuran_kb": 98.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2384,
+      "wp_post_id": 2385,
+      "wp_url": "https://jatimverse.id/?p=2385",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:46:23+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T19:30+07:00"
     },
     {
       "id": "2026-11-21_tapal-kuda_times-indonesia-awards-pasuruan",
@@ -7867,12 +7957,22 @@
         "SATRYA EMAS",
         "Wabup Shobih Asrori"
       ],
-      "catatan": "Rentang 48 jam (terbit 19/11); dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber; seremonial/penghargaan",
+      "catatan": "",
       "jumlah_kata": 214,
       "file_md": "artikel/2026-11-21_tapal-kuda_times-indonesia-awards-pasuruan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": true,
-      "judul": "Pemkab Pasuruan Raih Anugerah TIMES Indonesia 2026"
+      "judul": "Pemkab Pasuruan Raih Anugerah TIMES Indonesia 2026",
+      "file_jpg": "foto/2026-11-21_tapal-kuda_times-indonesia-awards-pasuruan.jpg",
+      "ukuran_kb": 90.5,
+      "dimensi": "1280x720",
+      "wp_media_id": 2386,
+      "wp_post_id": 2387,
+      "wp_url": "https://jatimverse.id/?p=2387",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:46:32+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T20:15+07:00"
     },
     {
       "id": "2026-11-21_tapal-kuda_evaluasi-diskominfo-pasuruan",
@@ -7893,12 +7993,22 @@
         "Command Center 112",
         "Evaluasi kinerja"
       ],
-      "catatan": "Dibaca lewat agen web-fetch; kredit foto tidak tercantum di sumber",
+      "catatan": "",
       "jumlah_kata": 206,
       "file_md": "artikel/2026-11-21_tapal-kuda_evaluasi-diskominfo-pasuruan.md",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "tanda_48j": false,
-      "judul": "Bupati Pasuruan: Diskominfo Urat Nadi dan Etalase Pemerintah"
+      "judul": "Bupati Pasuruan: Diskominfo Urat Nadi dan Etalase Pemerintah",
+      "file_jpg": "foto/2026-11-21_tapal-kuda_evaluasi-diskominfo-pasuruan.jpg",
+      "ukuran_kb": 95.3,
+      "dimensi": "1280x720",
+      "wp_media_id": 2388,
+      "wp_post_id": 2389,
+      "wp_url": "https://jatimverse.id/?p=2389",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-21T12:46:40+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T21:00+07:00"
     },
     {
       "id": "2026-11-21_mataraman_pmii-blitar-raya-bedah-perda-pesantren",
@@ -7915,11 +8025,10 @@
       "ukuran_kb": 94.0,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi PC PMII Blitar Raya",
-      "status": "draf",
-      "catatan": "kiriman manual dari pengguna",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "politik",
       "rubrik": "wakil-kita",
-      "tayang_segera": true,
       "tag": [
         "PMII",
         "PMII Blitar Raya",
@@ -7928,7 +8037,14 @@
         "Pesantren",
         "Mahasiswa",
         "Blitar"
-      ]
+      ],
+      "wp_media_id": 2390,
+      "wp_post_id": 2391,
+      "wp_url": "https://jatimverse.id/?p=2391",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-21T12:46:50+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-21T13:03+07:00"
     }
   ]
 }
