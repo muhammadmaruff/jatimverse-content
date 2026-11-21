@@ -8,4 +8,4 @@ Dalam sambutannya, Wakil Bupati juga menyinggung rencana pembangunan gedung Dekr
 
 Pada kesempatan yang sama, Wakil Bupati bersama Ketua Dekranasda Kabupaten Bojonegoro meluncurkan batik motif baru khas Bojonegoro bernama "Gejabaleng". Motif ini menggambarkan harmoni empat elemen utama alam dan energi yang membentuk jati diri serta menopang kemakmuran masyarakat. Peluncuran batik itu, menurut Wakil Bupati, dapat menambah nilai jual Bojonegoro.
 
-Nurul Azizah berharap festival ini menambah semangat membangun Bojonegoro yang lebih bahagia, makmur, dan membanggakan. Sumber tidak merinci susunan agenda festival maupun jumlah peserta.
+Nurul Azizah berharap festival ini menambah semangat membangun Bojonegoro yang lebih bahagia, makmur, dan membanggakan. Pembukaan berlangsung pada Kamis (19/11/2026) dan disampaikan Pemkab Bojonegoro sehari kemudian. Keterangan resmi tidak merinci susunan agenda festival maupun jumlah peserta.

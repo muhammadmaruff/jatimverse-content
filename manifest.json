@@ -8292,7 +8292,7 @@
       "url_foto_sumber": "https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-20/1ZTgJWTXTXGs8XeAlz3cZUQgnTBTqSr1SCd2hdDx.webp",
       "tgl_terbit_sumber": "2026-11-20",
       "tanda_48j": true,
-      "jumlah_kata": 199,
+      "jumlah_kata": 211,
       "file_md": "artikel/2026-11-22_pantura_festival-ekraf-bojonegoro.md",
       "file_jpg": null,
       "ukuran_kb": null,
@@ -8337,6 +8337,64 @@
         "Tongklek",
         "Disbudporapar Tuban",
         "Seni tradisional"
+      ]
+    },
+    {
+      "id": "2026-11-22_madura_baksos-kesehatan-gigi-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi dan Mulut",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/bupati-sumenep-apresiasi-bakti-sosial-kesehatan-gigi-dorong-masyarakat-hidup-sehat"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/f2f47608fc914e35b84c5d44a45801756d308718.jpg",
+      "tgl_terbit_sumber": "2026-11-21",
+      "tanda_48j": true,
+      "jumlah_kata": 257,
+      "file_md": "artikel/2026-11-22_madura_baksos-kesehatan-gigi-sumenep.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Bakti sosial gigi",
+        "PDGI Sumenep",
+        "Kesehatan gigi dan mulut",
+        "Bupati Achmad Fauzi",
+        "FKG Universitas Jember"
+      ]
+    },
+    {
+      "id": "2026-11-22_madura_outing-class-ra-yonif-931-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "judul": "Siswa RA di Sumenep Belajar Mengenal Prajurit di Markas Yonif TP 931/KJ",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/belajar-di-luar-kelas-siswa-ra-insan-qurani-al-alim-kenali-dunia-militer-di-mako-yonif-tp-931kj"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/9baf673fb19964a5a5354585a3172349c8142294.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "tanda_48j": true,
+      "jumlah_kata": 212,
+      "file_md": "artikel/2026-11-22_madura_outing-class-ra-yonif-931-sumenep.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkab Sumenep",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Outing class",
+        "Yonif TP 931/Ksatria Jokotole",
+        "RA Insan Qur'ani Al-Alim",
+        "Pendidikan anak usia dini",
+        "TNI"
       ]
     }
   ]
