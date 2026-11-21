@@ -8045,6 +8045,94 @@
       "tgl_upload": "2026-11-21T12:46:50+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-21T13:03+07:00"
+    },
+    {
+      "id": "2026-11-22_surabaya-raya_hak-asuh-aluna-kinar-surabaya",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "judul": "Pemkot Surabaya Kembalikan Aluna dan Kinar ke Ibunya Usai Putusan Hak Asuh",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25954/pemkot-surabaya-dampingi-aluna-dan-kinar-hingga-hak-asuh-resmi-jatuh-ke-ibu"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25954/blob_4108_0.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "tanda_48j": true,
+      "jumlah_kata": 369,
+      "file_md": "artikel/2026-11-22_surabaya-raya_hak-asuh-aluna-kinar-surabaya.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkot Surabaya",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hak asuh anak",
+        "DP3APPKB Surabaya",
+        "Rumah Aman",
+        "Eri Cahyadi",
+        "Perlindungan anak"
+      ]
+    },
+    {
+      "id": "2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Sidoarjo",
+      "judul": "Rumput Laut Jabon Tembus Pasar China Lewat Koperasi Petani",
+      "url_sumber": [
+        "https://sidoarjokab.go.id/berita/rumput-laut-jabon-tembus-pasar-china-koperasi-perkuat-ekonomi-petani"
+      ],
+      "url_foto_sumber": "https://www.sidoarjokab.go.id/storage/12697/o46luYb5lpOd2obWrBKmafdiYkmgHIscnbSr0dIS.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "tanda_48j": true,
+      "jumlah_kata": 322,
+      "file_md": "artikel/2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkab Sidoarjo",
+      "status": "butuh_gambar",
+      "catatan": "",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Rumput laut",
+        "Jabon",
+        "Koperasi Agar Sumber Makmur",
+        "Dinas Perikanan Sidoarjo",
+        "Ekspor China",
+        "Budidaya tambak"
+      ]
+    },
+    {
+      "id": "2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kabupaten Mojokerto",
+      "judul": "MTQ III Kabupaten Mojokerto Ditutup, Kecamatan Sooko Juara Umum",
+      "url_sumber": [
+        "https://diskominfo.mojokertokab.go.id/detail-berita/mtq-iii-tingkat-kabupaten-mojokerto-berakhir-kecamatan-sooko-raih-juara-umum-1795159623"
+      ],
+      "url_foto_sumber": "https://diskominfo.mojokertokab.go.id/storage/tenantdiskominfo/app/gambar/berita/mtq-iii-tingkat-kabupaten-mojokerto-berakhir-kecamatan-sooko-raih-juara-umum-20261120_142703.jpg",
+      "tgl_terbit_sumber": "2026-11-20",
+      "tanda_48j": true,
+      "jumlah_kata": 330,
+      "file_md": "artikel/2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto.md",
+      "file_jpg": null,
+      "ukuran_kb": null,
+      "dimensi": null,
+      "kredit_foto": "Pemkab Mojokerto",
+      "status": "butuh_gambar",
+      "catatan": "Penutupan MTQ III; pembukaan MTQ sudah ada paket 2026-11-18. Diperlakukan sebagai hasil/penutupan terpisah.",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "MTQ",
+        "Kecamatan Sooko",
+        "Bupati Mojokerto",
+        "LPTQ",
+        "MTQ Jatim 2027"
+      ]
     }
   ]
 }
