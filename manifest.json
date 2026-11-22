@@ -8731,6 +8731,59 @@
       "file_md": "artikel/2026-11-23_pantura_healthy-fun-night-ride-tuban.md",
       "status": "butuh_gambar",
       "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_tapal-kuda_santunan-anak-yatim-baznas-pasuruan",
+      "wilayah": "Tapal Kuda",
+      "kabkota": "Kabupaten Pasuruan",
+      "url_sumber": [
+        "https://www.pasuruankab.go.id/berita/baznas-dan-fawas-al-mirdad-foundation-santuni-ratusan-anak-yatim-di-kabupaten-pasuruan"
+      ],
+      "url_foto_sumber": "https://www.pasuruankab.go.id/download-image/baznas-dan-fawas-al-mirdad-foundation-santuni-ratusan-anak-yatim-di-kabupaten-pasuruan/posts/tumbnail",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Pasuruan",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Baznas Kabupaten Pasuruan",
+        "Santunan anak yatim",
+        "Fawaz Al Mirdad Foundation",
+        "Wabup Shobih Asrori",
+        "Zakat infak sedekah"
+      ],
+      "catatan": "Rentang 48 jam (Senin). Foto: og:image thumbnail; foto utama berupa tautan download-file bertoken (lihat halaman sumber). Kuota Tapal Kuda hanya 1 dari 4: Jember terbaru 20 Nov, Pamekasan 19 Nov, Pasuruan hanya 2 berita 21-23 Nov (satu sudah ada), Banyuwangi/Probolinggo/Lumajang/Situbondo/Bondowoso tidak terbaca.",
+      "judul": "Baznas Pasuruan dan Yayasan Fawaz Al Mirdad Santuni 100 Anak Yatim",
+      "jumlah_kata": 239,
+      "file_md": "artikel/2026-11-23_tapal-kuda_santunan-anak-yatim-baznas-pasuruan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_madura_grass-track-kerapan-kambing-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/dandim-0827-grass-track-championship-2026-meriahkan-hari-jadi-sumenep",
+        "https://sumenepkab.go.id/berita/baca/ratusan-kambing-beradu-cepat-di-sumenep-dandim-dukung-pelestarian-budaya-madura"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/a62d9443723d57efd7b261315af8d3d00e29bb28.jpg",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Hari Jadi Sumenep",
+        "Grass track",
+        "Kerapan kambing",
+        "Dandim 0827 Sumenep",
+        "Budaya Madura"
+      ],
+      "catatan": "Rentang 48 jam (Senin). Dua rilis Sumenep (grass track dan kerapan kambing) digabung jadi satu paket karena bahan masing-masing kurang dari 200 kata. Kuota Madura hanya 1 dari 2: Pamekasan terbaru 19 Nov, Bangkalan/Sampang tidak terbaca.",
+      "judul": "Akhir Pekan di Sumenep: Balap Grass Track dan Kerapan Kambing",
+      "jumlah_kata": 305,
+      "file_md": "artikel/2026-11-23_madura_grass-track-kerapan-kambing-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
     }
   ]
 }
