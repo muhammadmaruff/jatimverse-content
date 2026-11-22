@@ -6022,12 +6022,15 @@
         "Bank Jatim",
         "PAD"
       ],
-      "catatan": "jpg hilang; di luar rentang waktu",
+      "catatan": "di luar rentang waktu",
       "jumlah_kata": 230,
       "file_md": "artikel/2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Pemkab Mojokerto Gencarkan Jatim Tax untuk Genjot PAD"
+      "judul": "Pemkab Mojokerto Gencarkan Jatim Tax untuk Genjot PAD",
+      "file_jpg": "foto/2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda.jpg",
+      "ukuran_kb": 100.0,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto",
@@ -6047,12 +6050,15 @@
         "Keselamatan lalu lintas",
         "Forkopimda Mojokerto"
       ],
-      "catatan": "jpg hilang; di luar rentang waktu",
+      "catatan": "di luar rentang waktu",
       "jumlah_kata": 204,
       "file_md": "artikel/2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto.md",
-      "status": "butuh_gambar",
+      "status": "draf",
       "tanda_48j": false,
-      "judul": "Operasi Zebra Semeru 2026 Dimulai di Mojokerto, Fokus Kendaraan Berat"
+      "judul": "Operasi Zebra Semeru 2026 Dimulai di Mojokerto, Fokus Kendaraan Berat",
+      "file_jpg": "foto/2026-11-17_surabaya-raya_operasi-zebra-semeru-mojokerto.jpg",
+      "ukuran_kb": 97.8,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-17_surabaya-raya_grand-job-fair-surabaya",
@@ -8059,11 +8065,11 @@
       "tanda_48j": true,
       "jumlah_kata": 369,
       "file_md": "artikel/2026-11-22_surabaya-raya_hak-asuh-aluna-kinar-surabaya.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_surabaya-raya_hak-asuh-aluna-kinar-surabaya.jpg",
+      "ukuran_kb": 60.8,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkot Surabaya",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -8073,7 +8079,14 @@
         "Rumah Aman",
         "Eri Cahyadi",
         "Perlindungan anak"
-      ]
+      ],
+      "wp_media_id": 2404,
+      "wp_post_id": 2405,
+      "wp_url": "https://jatimverse.id/?p=2405",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:40:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T13:25+07:00"
     },
     {
       "id": "2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo",
@@ -8093,7 +8106,7 @@
       "dimensi": null,
       "kredit_foto": "Pemkab Sidoarjo",
       "status": "butuh_gambar",
-      "catatan": "",
+      "catatan": "jpg hilang",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -8118,12 +8131,12 @@
       "tanda_48j": true,
       "jumlah_kata": 330,
       "file_md": "artikel/2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto.jpg",
+      "ukuran_kb": 94.3,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Mojokerto",
-      "status": "butuh_gambar",
-      "catatan": "Penutupan MTQ III; pembukaan MTQ sudah ada paket 2026-11-18. Diperlakukan sebagai hasil/penutupan terpisah.",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
       "tag": [
@@ -8132,7 +8145,14 @@
         "Bupati Mojokerto",
         "LPTQ",
         "MTQ Jatim 2027"
-      ]
+      ],
+      "wp_media_id": 2406,
+      "wp_post_id": 2407,
+      "wp_url": "https://jatimverse.id/?p=2407",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:40:24+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T14:10+07:00"
     },
     {
       "id": "2026-11-22_mataraman_jombang-industrial-estate-kabuh",
@@ -8147,11 +8167,11 @@
       "tanda_48j": true,
       "jumlah_kata": 296,
       "file_md": "artikel/2026-11-22_mataraman_jombang-industrial-estate-kabuh.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_mataraman_jombang-industrial-estate-kabuh.jpg",
+      "ukuran_kb": 98.7,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Jombang",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
@@ -8162,7 +8182,14 @@
         "Kabuh",
         "Investasi",
         "Bupati Warsubi"
-      ]
+      ],
+      "wp_media_id": 2408,
+      "wp_post_id": 2409,
+      "wp_url": "https://jatimverse.id/?p=2409",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:40:34+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T14:55+07:00"
     },
     {
       "id": "2026-11-22_mataraman_lantik-25-pejabat-jombang",
@@ -8177,11 +8204,11 @@
       "tanda_48j": true,
       "jumlah_kata": 253,
       "file_md": "artikel/2026-11-22_mataraman_lantik-25-pejabat-jombang.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_mataraman_lantik-25-pejabat-jombang.jpg",
+      "ukuran_kb": 99.1,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Jombang",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -8191,7 +8218,14 @@
         "Pemkab Jombang",
         "Integritas ASN",
         "Ego sektoral"
-      ]
+      ],
+      "wp_media_id": 2410,
+      "wp_post_id": 2411,
+      "wp_url": "https://jatimverse.id/?p=2411",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:40:45+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T15:40+07:00"
     },
     {
       "id": "2026-11-22_mataraman_raperda-pajak-retribusi-blitar",
@@ -8206,11 +8240,11 @@
       "tanda_48j": true,
       "jumlah_kata": 239,
       "file_md": "artikel/2026-11-22_mataraman_raperda-pajak-retribusi-blitar.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_mataraman_raperda-pajak-retribusi-blitar.jpg",
+      "ukuran_kb": 96.8,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Blitar",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "wakil-kita",
@@ -8220,7 +8254,14 @@
         "DPRD Kabupaten Blitar",
         "PAD",
         "Kemandirian fiskal"
-      ]
+      ],
+      "wp_media_id": 2412,
+      "wp_post_id": 2413,
+      "wp_url": "https://jatimverse.id/?p=2413",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:40:54+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T16:25+07:00"
     },
     {
       "id": "2026-11-22_mataraman_apbd-2027-tulungagung",
@@ -8240,7 +8281,7 @@
       "dimensi": null,
       "kredit_foto": "Pemkab Tulungagung",
       "status": "butuh_gambar",
-      "catatan": "Paripurna 18/11; dipublikasikan 20/11 (masuk rentang 48 jam menurut tanggal terbit).",
+      "catatan": "jpg hilang",
       "kategori": "politik",
       "rubrik": "biar-paham",
       "tag": [
@@ -8264,11 +8305,11 @@
       "tanda_48j": true,
       "jumlah_kata": 315,
       "file_md": "artikel/2026-11-22_pantura_pass-isya-singa-mikro-bojonegoro.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_pantura_pass-isya-singa-mikro-bojonegoro.jpg",
+      "ukuran_kb": 97.8,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Bojonegoro",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
@@ -8279,7 +8320,14 @@
         "UMKM Bojonegoro",
         "BPR Bank Daerah Bojonegoro",
         "Baureno"
-      ]
+      ],
+      "wp_media_id": 2414,
+      "wp_post_id": 2415,
+      "wp_url": "https://jatimverse.id/?p=2415",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:41:04+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T17:10+07:00"
     },
     {
       "id": "2026-11-22_pantura_festival-ekraf-bojonegoro",
@@ -8294,12 +8342,12 @@
       "tanda_48j": true,
       "jumlah_kata": 211,
       "file_md": "artikel/2026-11-22_pantura_festival-ekraf-bojonegoro.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_pantura_festival-ekraf-bojonegoro.jpg",
+      "ukuran_kb": 90.0,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Bojonegoro",
-      "status": "butuh_gambar",
-      "catatan": "Artikel tidak merinci agenda; jumlah kata dipenuhi dari fakta sumber saja. Nama batik di sumber tertulis Gejabaleng (kutipan: Gejabale).",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -8308,7 +8356,14 @@
         "Dekranasda Bojonegoro",
         "Ekonomi kreatif",
         "Taman Rajekwesi"
-      ]
+      ],
+      "wp_media_id": 2416,
+      "wp_post_id": 2417,
+      "wp_url": "https://jatimverse.id/?p=2417",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:41:14+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T17:55+07:00"
     },
     {
       "id": "2026-11-22_pantura_pekan-kebudayaan-tuban-ditutup",
@@ -8323,11 +8378,11 @@
       "tanda_48j": true,
       "jumlah_kata": 286,
       "file_md": "artikel/2026-11-22_pantura_pekan-kebudayaan-tuban-ditutup.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_pantura_pekan-kebudayaan-tuban-ditutup.jpg",
+      "ukuran_kb": 98.7,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Tuban",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
@@ -8337,7 +8392,14 @@
         "Tongklek",
         "Disbudporapar Tuban",
         "Seni tradisional"
-      ]
+      ],
+      "wp_media_id": 2418,
+      "wp_post_id": 2419,
+      "wp_url": "https://jatimverse.id/?p=2419",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:41:24+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T18:40+07:00"
     },
     {
       "id": "2026-11-22_madura_baksos-kesehatan-gigi-sumenep",
@@ -8352,11 +8414,11 @@
       "tanda_48j": true,
       "jumlah_kata": 257,
       "file_md": "artikel/2026-11-22_madura_baksos-kesehatan-gigi-sumenep.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_madura_baksos-kesehatan-gigi-sumenep.jpg",
+      "ukuran_kb": 100.0,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "politik",
       "rubrik": "suara-arek",
@@ -8366,7 +8428,14 @@
         "Kesehatan gigi dan mulut",
         "Bupati Achmad Fauzi",
         "FKG Universitas Jember"
-      ]
+      ],
+      "wp_media_id": 2420,
+      "wp_post_id": 2421,
+      "wp_url": "https://jatimverse.id/?p=2421",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:41:33+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T19:25+07:00"
     },
     {
       "id": "2026-11-22_madura_outing-class-ra-yonif-931-sumenep",
@@ -8381,11 +8450,11 @@
       "tanda_48j": true,
       "jumlah_kata": 212,
       "file_md": "artikel/2026-11-22_madura_outing-class-ra-yonif-931-sumenep.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_madura_outing-class-ra-yonif-931-sumenep.jpg",
+      "ukuran_kb": 98.9,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Sumenep",
-      "status": "butuh_gambar",
+      "status": "lengkap",
       "catatan": "",
       "kategori": "jelajah",
       "rubrik": "jelajah-jatim",
@@ -8395,7 +8464,14 @@
         "RA Insan Qur'ani Al-Alim",
         "Pendidikan anak usia dini",
         "TNI"
-      ]
+      ],
+      "wp_media_id": 2422,
+      "wp_post_id": 2423,
+      "wp_url": "https://jatimverse.id/?p=2423",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T12:41:45+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T20:10+07:00"
     },
     {
       "id": "2026-11-22_mataraman_opini-pilkades-delapan-tahun-seratus-ribu-blitar",
@@ -8412,12 +8488,11 @@
       "ukuran_kb": 81.6,
       "dimensi": "1280x720",
       "kredit_foto": "Dokumentasi penulis",
-      "status": "draf",
-      "catatan": "opini kiriman penulis",
+      "status": "lengkap",
+      "catatan": "",
       "opini": true,
       "kategori": "politik",
       "rubrik": "suara-arek",
-      "tayang_segera": true,
       "tag": [
         "Opini",
         "Pilkades",
@@ -8426,7 +8501,14 @@
         "Politik Uang",
         "Kepala Desa",
         "Bahrul Ulum"
-      ]
+      ],
+      "wp_media_id": 2424,
+      "wp_post_id": 2425,
+      "wp_url": "https://jatimverse.id/?p=2425",
+      "status_wp": "publish",
+      "tgl_upload": "2026-11-22T12:41:54+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T13:01+07:00"
     }
   ]
 }
