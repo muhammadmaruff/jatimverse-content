@@ -80,7 +80,7 @@ def main():
                 g.append(f"jumlah_kata manifest {p.get('jumlah_kata')} != {n}")
             if n < aturan["ambang_kata"]:
                 peringatan.append(f"kata {n} < {aturan['ambang_kata']} (tetap ditayangkan)")
-            if not re.match(r"^[A-Z ,.'/-]+ – ", isi[0]):
+            if not p.get("opini") and not re.match(r"^[A-Z ,.'/-]+ – ", isi[0]):
                 g.append("dateline")
             if len(baris[0].lstrip("# ")) > 75:
                 g.append("judul > ~70 karakter")

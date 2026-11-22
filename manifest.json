@@ -8396,6 +8396,37 @@
         "Pendidikan anak usia dini",
         "TNI"
       ]
+    },
+    {
+      "id": "2026-11-22_mataraman_opini-pilkades-delapan-tahun-seratus-ribu-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "judul": "Delapan Tahun Tidak Setara dengan Seratus Ribu Rupiah",
+      "url_sumber": [],
+      "url_foto_sumber": null,
+      "tgl_terbit_sumber": "2026-11-22",
+      "tanda_48j": false,
+      "jumlah_kata": 617,
+      "file_md": "artikel/2026-11-22_mataraman_opini-pilkades-delapan-tahun-seratus-ribu-blitar.md",
+      "file_jpg": "foto/2026-11-22_mataraman_opini-pilkades-delapan-tahun-seratus-ribu-blitar.jpg",
+      "ukuran_kb": 81.6,
+      "dimensi": "1280x720",
+      "kredit_foto": "Dokumentasi penulis",
+      "status": "draf",
+      "catatan": "opini kiriman penulis",
+      "opini": true,
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tayang_segera": true,
+      "tag": [
+        "Opini",
+        "Pilkades",
+        "Pilkades Serentak",
+        "Kabupaten Blitar",
+        "Politik Uang",
+        "Kepala Desa",
+        "Bahrul Ulum"
+      ]
     }
   ]
 }

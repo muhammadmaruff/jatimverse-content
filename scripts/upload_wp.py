@@ -91,7 +91,7 @@ def ke_html(paragraf):
 
 
 def ringkas(paragraf, n=160):
-    teks = next((p for p in paragraf if not p.startswith("Sumber:")), "")
+    teks = next((p for p in paragraf if not p.startswith(("Sumber:", "Oleh:", "## ")) and len(p) > 60), "")
     if len(teks) <= n:
         return teks
     return teks[:n].rsplit(" ", 1)[0].rstrip(",.;:") + "…"
