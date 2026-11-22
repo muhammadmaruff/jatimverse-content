@@ -8101,12 +8101,12 @@
       "tanda_48j": true,
       "jumlah_kata": 322,
       "file_md": "artikel/2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo.md",
-      "file_jpg": null,
-      "ukuran_kb": null,
-      "dimensi": null,
+      "file_jpg": "foto/2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo.jpg",
+      "ukuran_kb": 97.1,
+      "dimensi": "1280x720",
       "kredit_foto": "Pemkab Sidoarjo",
-      "status": "butuh_gambar",
-      "catatan": "jpg hilang",
+      "status": "lengkap",
+      "catatan": "",
       "kategori": "ekonomi",
       "rubrik": "cuan-jatim",
       "tag": [
@@ -8116,7 +8116,14 @@
         "Dinas Perikanan Sidoarjo",
         "Ekspor China",
         "Budidaya tambak"
-      ]
+      ],
+      "wp_media_id": 2429,
+      "wp_post_id": 2430,
+      "wp_url": "https://jatimverse.id/?p=2430",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-22T14:51:16+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-22T20:55+07:00"
     },
     {
       "id": "2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto",
