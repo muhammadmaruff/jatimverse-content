@@ -8549,6 +8549,188 @@
       "file_md": "artikel/2026-11-23_surabaya-raya_smart-city-forum-jambi-surabaya.md",
       "status": "butuh_gambar",
       "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_mataraman_dialog-kinerja-2027-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/plt-bupati-tulungagung-pimpin-dialog-kinerja-perkuat-sinkronisasi-dan-akselerasi-pembangunan-2027/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_3346-scaled.jpg",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Tulungagung",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "APBD 2027",
+        "Dialog Kinerja",
+        "Pemkab Tulungagung",
+        "Ahmad Baharudin",
+        "Kinerja perangkat daerah"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Plt. Bupati Tulungagung Minta Target Kinerja 2027 Terukur dan Realistis",
+      "jumlah_kata": 280,
+      "file_md": "artikel/2026-11-23_mataraman_dialog-kinerja-2027-tulungagung.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_mataraman_gebyar-undian-pajak-tulungagung",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Tulungagung",
+      "url_sumber": [
+        "https://kabar.tulungagung.go.id/gebyar-undian-pajak-daerah-2026-pemkab-tulungagung-apresiasi-wajib-pajak-yang-taat/"
+      ],
+      "url_foto_sumber": "https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/1-e1795339299414.jpeg",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Tulungagung",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Pajak daerah",
+        "Bapenda Tulungagung",
+        "Tapping box",
+        "Opsen PKB",
+        "Undian pajak"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Pemkab Tulungagung Undi Hadiah untuk Wajib Pajak Daerah yang Taat",
+      "jumlah_kata": 333,
+      "file_md": "artikel/2026-11-23_mataraman_gebyar-undian-pajak-tulungagung.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_mataraman_wilwatikta-acarita-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/jombang-sukses-jadi-tuan-rumah-wilwatikta-acarita-2026-wabup-salmanudin-ajak-generasi-muda-rawat-warisan-majapahit-24875"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/9af7e45b-2e2b-4f96-b723-2a20060c88b4.jpg",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "jelajah",
+      "rubrik": "jelajah-jatim",
+      "tag": [
+        "Wilwatikta Acarita",
+        "Majapahit",
+        "Wabup Salmanudin",
+        "Stadion Merdeka",
+        "Budaya Jombang"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Wilwatikta Acarita 2026 di Jombang Ditutup, Wabup Ajak Anak Muda Rawat Warisan Majapahit",
+      "jumlah_kata": 222,
+      "file_md": "artikel/2026-11-23_mataraman_wilwatikta-acarita-jombang.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_mataraman_pelantikan-pd-km-dmi-jombang",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/pd-km-dmi-jombang-resmi-dilantik-siap-makmurkan-masjid-serta-dampingi-perempuan-dan-anak-hingga-ke-desa-24876"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/923e9a0e-0167-4181-8e3c-2ef3c54c699a.jpg",
+      "tgl_terbit_sumber": "2026-11-21",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "KM-DMI",
+        "Dewan Masjid Indonesia",
+        "Muballighah",
+        "Pelantikan pengurus",
+        "Kota Santri"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Pimpinan Daerah KM-DMI Jombang 2026–2031 Dilantik di Pendopo Kabupaten",
+      "jumlah_kata": 222,
+      "file_md": "artikel/2026-11-23_mataraman_pelantikan-pd-km-dmi-jombang.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_pantura_ipsi-tuban-kejurprov-piala-gubernur",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/ipsi-tuban-bawa-pulang-tujuh-medali-dari-kejurprov-piala-gubernur-jawa-timur-2026"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/ipsi-1.png",
+      "tgl_terbit_sumber": "2026-11-21",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "bola",
+      "rubrik": "derbi-jatim",
+      "tag": [
+        "Pencak silat",
+        "IPSI Tuban",
+        "Kejurprov Piala Gubernur Jatim",
+        "GOR Delta Sidoarjo",
+        "Sugeng Widodo"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "IPSI Tuban Bawa Pulang Tujuh Medali dari Kejurprov Piala Gubernur Jatim",
+      "jumlah_kata": 203,
+      "file_md": "artikel/2026-11-23_pantura_ipsi-tuban-kejurprov-piala-gubernur.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_pantura_si-penting-kenduruan-tuban-jawara",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/cegah-anemia-dan-stunting-sejak-remaja-inovasi-puskesmas-kenduruan-raih-jawara-2026"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/si-penting-1.png",
+      "tgl_terbit_sumber": "2026-11-21",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "politik",
+      "rubrik": "biar-paham",
+      "tag": [
+        "JAWARA 2026",
+        "Si Penting",
+        "Puskesmas Kenduruan",
+        "Anemia remaja putri",
+        "Pencegahan stunting"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Aplikasi Tablet Tambah Darah Puskesmas Kenduruan Raih JAWARA 2026",
+      "jumlah_kata": 280,
+      "file_md": "artikel/2026-11-23_pantura_si-penting-kenduruan-tuban-jawara.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-23_pantura_healthy-fun-night-ride-tuban",
+      "wilayah": "Pantura",
+      "kabkota": "Kabupaten Tuban",
+      "url_sumber": [
+        "https://tubankab.go.id/entry/5-000-pesepeda-meriahkan-healthy-fun-night-ride-kawan-bike-mas-lindra-di-tuban"
+      ],
+      "url_foto_sumber": "https://tubankab.go.id/files/2026-11/kawan-bike-2.png",
+      "tgl_terbit_sumber": "2026-11-22",
+      "kredit_foto": "Pemkab Tuban",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Kawan Bike Mas Lindra",
+        "HKN ke-62",
+        "Hari Jadi Tuban",
+        "Gowes",
+        "Aditya Halindra Faridzky"
+      ],
+      "catatan": "Rentang 48 jam (Senin).",
+      "judul": "Lima Ribu Pesepeda Ikuti Healthy Fun Night Ride di Tuban",
+      "jumlah_kata": 233,
+      "file_md": "artikel/2026-11-23_pantura_healthy-fun-night-ride-tuban.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
     }
   ]
 }
