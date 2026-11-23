@@ -8579,12 +8579,15 @@
         "Ahmad Baharudin",
         "Kinerja perangkat daerah"
       ],
-      "catatan": "jpg hilang",
+      "catatan": "",
       "judul": "Plt. Bupati Tulungagung Minta Target Kinerja 2027 Terukur dan Realistis",
       "jumlah_kata": 280,
       "file_md": "artikel/2026-11-23_mataraman_dialog-kinerja-2027-tulungagung.md",
-      "status": "butuh_gambar",
-      "tanda_48j": true
+      "status": "lengkap",
+      "tanda_48j": true,
+      "file_jpg": "foto/2026-11-23_mataraman_dialog-kinerja-2027-tulungagung.jpg",
+      "ukuran_kb": 95.7,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-23_mataraman_gebyar-undian-pajak-tulungagung",
@@ -8605,12 +8608,15 @@
         "Opsen PKB",
         "Undian pajak"
       ],
-      "catatan": "jpg hilang",
+      "catatan": "",
       "judul": "Pemkab Tulungagung Undi Hadiah untuk Wajib Pajak Daerah yang Taat",
       "jumlah_kata": 333,
       "file_md": "artikel/2026-11-23_mataraman_gebyar-undian-pajak-tulungagung.md",
-      "status": "butuh_gambar",
-      "tanda_48j": true
+      "status": "lengkap",
+      "tanda_48j": true,
+      "file_jpg": "foto/2026-11-23_mataraman_gebyar-undian-pajak-tulungagung.jpg",
+      "ukuran_kb": 97.5,
+      "dimensi": "1280x720"
     },
     {
       "id": "2026-11-23_mataraman_wilwatikta-acarita-jombang",
