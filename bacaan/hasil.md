@@ -1,208 +1,588 @@
-## DAFTAR https://www.blitarkab.go.id/
+## https://www.blitarkab.go.id/2026/11/23/pemkab-blitar-gerak-cepat-tangani-banjir-bandang-di-desa-serang-salurkan-bantuan-dan-siapkan-dapur-umum/
 STATUS 200
-- Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum | https://www.blitarkab.go.id/2026/11/23/pemkab-blitar-gerak-cepat-tangani-banjir-bandang-di-desa-serang-salurkan-bantuan-dan-siapkan-dapur-umum/ | Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum Pemkab Blitar – Pemerintah Kabupaten Blitar bergerak cepat dalam menangani banjir bandang yang melanda Desa Serang,
-- Pemkab Blitar Pantau Pelaksanaan Pilkades Serentak Tahun 2026 | https://www.blitarkab.go.id/2026/11/23/pemkab-blitar-pantau-pelaksanaan-pilkades-serentak-tahun-2026/ | 
-- Pemkab Blitar dan DPRD Sepakati Raperda Pajak Daerah dan Retribusi, Perkuat Kemandirian Fiskal | https://www.blitarkab.go.id/2026/11/21/pemkab-blitar-dan-dprd-sepakati-raperda-pajak-daerah-dan-retribusi-perkuat-kemandirian-fiskal/ | 
-- HIMBAUAN FORUM KERUKUNAN UMAT BERAGAMA (FKUB) KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/11/06/himbauan-forum-kerukunan-umat-beragama-fkub-kabupaten-blitar/ | 
-- PENGUMUMAN PERPANJANGAN SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/30/pengumuman-perpanjangan-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
-- PENGUMUMAN TENTANG SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/23/pengumuman-tentang-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
-- PENGUMUMAN HASIL UJIAN WAWANCARA DEWAN PENGAWAS LPPL RADIO PERSADA FM MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/07/27/pengumuman-hasil-ujian-wawancara-dewan-pengawas-lppl-radio-persada-fm-masa-bakti-2022-2027/ | 
-- PENGUMUMAN LOLOS SELEKSI ADMINISTRASI DEWAN PENGAWAS LPPL RADIO PERSADA FM KABUPATEN BLITAR MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/07/22/pengumuman-lolos-seleksi-administrasi-dewan-pengawas-lppl-radio-persada-fm-kabupaten-blitar-masa-bakti-2022-2027/ | 
-- Selamat Hari Raya Idul Adha 2025 | https://saberpungli.blitarkab.go.id/selamat-hari-raya-idul-adha-2025/ | 
-- Selamat Memperingati Hari Kenaikan Yesus Kristus | https://saberpungli.blitarkab.go.id/selamat-memperingati-hari-kenaikan-yesus-kristus/ | 
-- Tim UPP Kabupaten Blitar Mengucapkan Selamat Hari Raya Waisak | https://saberpungli.blitarkab.go.id/tim-upp-kabupaten-blitar-mengucapkan-selamat-hari-raya-waisak/ | 
-- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446-2/ | 
-- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446/ | 
-- Selamat Hari Raya Idul Fitri 1446H/2025 M | https://saberpungli.blitarkab.go.id/selamat-hari-raya-nyepi-tahun-baru-saka-1947/ | 
-- Pemantauan Arus Mudik di Stasiun Garum | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-garum/ | 
-- Pemantauan arus mudik di stasiun Wlingi | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-wlingi/ | 
+JUDUL: Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum
+TGL_META: 
+OG_IMAGE: https://i1.wp.com/www.blitarkab.go.id/wp-content/uploads/2026/11/IMG-20261123-WA0028.jpg?w=625&ssl=1
+GAMBAR: https://www.blitarkab.go.id/assets/files/header_pemkab.jpg | https://www.blitarkab.go.id/wp-content/uploads/2026/11/IMG-20261123-WA0028.jpg | https://www.blitarkab.go.id/wp-content/uploads/2026/11/IMG-20261123-WA0026.jpg | https://www.blitarkab.go.id/wp-content/uploads/2026/11/IMG-20261123-WA0029-1024x682.jpg | https://www.blitarkab.go.id/assets/files/logo-kab.png
+ISI:
+Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum
+Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum
+Upload by Web Admin - Senin, 23 November 2026
+Pemkab Blitar
+ – Pemerintah Kabupaten Blitar bergerak cepat dalam menangani banjir bandang yang melanda Desa Serang, Kecamatan Panggungrejo, Senin (23/11/2026).
+Bupati Blitar Drs. Rijanto., MM menyampaikan bahwa banjir terjadi setelah hujan deras mengguyur wilayah tersebut sejak Senin dini hari. Debit air terus meningkat hingga memasuki permukiman warga sekitar pukul 03.00–04.00 WIB. Menurutnya, 130 kepala keluarga (KK) atau kurang lebih 600 jiwa terdampak akibat peristiwa tersebut.
+Menindaklanjuti kejadian tersebut, Pemkab Blitar langsung mengerahkan personel gabungan, termasuk Badan Penanggulangan Bencana Daerah (BPBD), untuk melakukan penanganan di lokasi serta membantu masyarakat terdampak.
+“Bantuan juga langsung kami turunkan, termasuk penyediaan dapur umum. Karena tidak mungkin warga yang terdampak ini harus memasak sendiri. Ini langkah pertama yang menurut kami mendesak sebelum nantinya bantuan-bantuan lain menyusul,” jelas Rijanto.
+Pemerintah Kabupaten Blitar terus melakukan upaya penanganan dan koordinasi bersama seluruh unsur terkait. Keselamatan warga serta pemenuhan kebutuhan masyarakat terdampak menjadi prioritas dalam penanganan bencana banjir.
+Berita Lainnya
+Pemkab Blitar Gerak Cepat Tangani Banjir Bandang di Desa Serang, Salurkan Bantuan dan Siapkan Dapur Umum
+Pemkab Blitar Pantau Pelaksanaan Pilkades Serentak Tahun 2026
+Pemkab Blitar dan DPRD Sepakati Raperda Pajak Daerah dan Retribusi, Perkuat Kemandirian Fiskal
+Pemkab Blitar Borong 3 Penghargaan dalam High Level Meeting TPID Jatim
+Bupati Blitar Buka Turnamen Bulutangkis Dalam Rangka HUT Korpri dam HUT PGRI 2026
 
-## DAFTAR https://www.jombangkab.go.id/berita
+## https://www.jombangkab.go.id/berita/pemkab-jombang-raih-peringkat-ii-nasional-implementasi-industri-hijau-terbaik-2026-24897
 STATUS 200
-- Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 | https://www.jombangkab.go.id/berita/pemkab-jombang-raih-peringkat-ii-nasional-implementasi-industri-hijau-terbaik-2026-24897 | 23 November 2026 Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 Pemerintah Kabupaten (Pemkab) Jombang kembali menorehkan prestasi di tingkat nasional dengan meraih Peringkat II Kategor
-- Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 | https://www.jombangkab.go.id/berita/potensi-peternakan-jombang-meningkat-wabup-salmanudin-buka-kontes-kambing-pe-kaligesing-dan-domba-piala-bupati-2026-24891 | 22 November 2026 Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 Upaya memajukan sektor peternakan lokal terus dilakukan Pemerintah Kabupaten Jombang. 
-- Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit | https://www.jombangkab.go.id/berita/jombang-sukses-jadi-tuan-rumah-wilwatikta-acarita-2026-wabup-salmanudin-ajak-generasi-muda-rawat-warisan-majapahit-24875 | 22 November 2026 Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit Malam puncak perhelatan akbar budaya bertajuk Wilwatikta Acarita 2026 berlangsung meria
-- PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa | https://www.jombangkab.go.id/berita/pd-km-dmi-jombang-resmi-dilantik-siap-makmurkan-masjid-serta-dampingi-perempuan-dan-anak-hingga-ke-desa-24876 | 21 November 2026 PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa Pimpinan Daerah (PD) Korps Muballighah Dewan Masjid Indonesia (KM-DMI) Kabupaten Jombang masa khid
-- Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru | https://www.jombangkab.go.id/berita/pembangunan-jombang-industrial-estate-resmi-dimulai-siap-jadi-pusat-pertumbuhan-ekonomi-baru-24874 | 20 November 2026 Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru Kabupaten Jombang resmi memasuki babak baru pengembangan ekonomi daerah. PT Java Fortis Corporindo memulai pe
-- Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral | https://www.jombangkab.go.id/berita/bupati-jombang-lantik-25-pejabat-administrator-dan-pengawas-tekankan-integritas-dan-hindari-ego-sektoral-24873 | 20 November 2026 Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral Bupati Jombang Warsubi, S.H., M.Si. melantik dan mengambil sumpah/janji pejabat administrator, pe
-- Pemkab Jombang Gelar Upacara Peringatan HUT ke-55 KORPRI, ke-81 PGRI, dan HKN ke-62, Tegaskan Integritas, Adaptasi AI, dan Layanan Kesehatan | https://www.jombangkab.go.id/berita/pemkab-jombang-gelar-upacara-peringatan-hut-ke-55-korpri-ke-81-pgri-dan-hkn-ke-62-tegaskan-integritas-adaptasi-ai-dan-layanan-kesehatan-merata-24867 | 20 November 2026 Pemkab Jombang Gelar Upacara Peringatan HUT ke-55 KORPRI, ke-81 PGRI, dan HKN ke-62, Tegaskan Integritas, Adaptasi AI, dan Layanan Kesehatan Merata Pemerintah Kabupaten (Pemkab) Jombang menggelar upacara
-- Gathering Forum TJSL 2026: Pemkab Jombang Ajak Perusahaan Selaraskan CSR dengan Prioritas Pembangunan Daerah | https://www.jombangkab.go.id/berita/gathering-forum-tjsl-2026-pemkab-jombang-ajak-perusahaan-selaraskan-csr-dengan-prioritas-pembangunan-daerah-24848 | 19 November 2026 Gathering Forum TJSL 2026: Pemkab Jombang Ajak Perusahaan Selaraskan CSR dengan Prioritas Pembangunan Daerah Program tanggung jawab sosial perusahaan atau Corporate Social Responsibility (CSR) di Kabupat
-- Jombang Raih FORIKAN Jatim Award 2026, Diapresiasi atas Upaya Peningkatan Gizi Balita | https://www.jombangkab.go.id/berita/jombang-raih-forikan-jatim-award-2026-diapresiasi-atas-upaya-peningkatan-gizi-balita-24846 | 18 November 2026 Jombang Raih FORIKAN Jatim Award 2026, Diapresiasi atas Upaya Peningkatan Gizi Balita Komitmen Kabupaten Jombang dalam meningkatkan kualitas gizi balita melalui pemanfaatan sumber daya hasil perikanan ke
+JUDUL: Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 - Pemerintah Kabupaten Jombang
+TGL_META: 
+OG_IMAGE: https://resources.jombangkab.go.id/berita/uploads/2026/11/ba94ccb4-40e7-41ec-9efb-1f611cc258fa.jpg
+GAMBAR: https://www.jombangkab.go.id/kabupaten/assets/images/logo-white.png | https://resources.jombangkab.go.id/berita/uploads/2026/11/ba94ccb4-40e7-41ec-9efb-1f611cc258fa.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/145a96c6-d0af-4f4c-a1eb-a209cb83d9ff.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/e2ae9b5f-98e6-4fdf-939a-9df8c4bc05cf.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/e8f487fa-00be-48f0-bb08-eae65ef0a923.jpg | https://www.jombangkab.go.id/kabupaten/assets/images/logo-kabupaten.png
+ISI:
+Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 - Pemerintah Kabupaten Jombang
+Beranda
+/
+Berita
+/
+Detail
+Detail Berita
+Informasi resmi seputar kegiatan pemerintah, pembangunan, layanan publik, dan dinamika Kabupaten Jombang.
+ Kembali ke daftar berita
+Kabupaten
+Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026
+Pemerintah Kabupaten (Pemkab) Jombang kembali menorehkan prestasi di tingkat nasional dengan meraih Peringkat II Kategori Pemerintah Daerah dengan Implementasi Industri Hijau Terbaik (Tingkat Kabupaten/Kota) dalam ajang Penghargaan Industri Hijau 2026 yang digelar ruang Garuda lantai 2, Kementerian Perindustrian (Kemenperin) RI di Jakarta, Senin (23/11/2026).
+ 23 November 2026
+ Pemerintah Kabupaten Jombang
+ 64 views
+#Penghargaan Industri Hijau 2026
+#Jombang Peringkat II Nasional Kategori Pemerintah Daerah
+#Kementerian Perindustrian (Kemenperin) RI
+#Jombang Maju dan Sejahtera Untuk Semua
+JOMBANGKAB – Pemerintah Kabupaten (Pemkab) Jombang kembali menorehkan prestasi di tingkat nasional dengan meraih Peringkat II Kategori Pemerintah Daerah dengan Implementasi Industri Hijau Terbaik (Tingkat Kabupaten/Kota) dalam ajang Penghargaan Industri Hijau 2026 yang digelar ruang Garuda lantai 2, Kementerian Perindustrian (Kemenperin) RI di Jakarta, Senin (23/11/2026). 
+Penghargaan bergengsi tersebut diterima langsung oleh Wakil Bupati Jombang, Salmanudin, S.Ag., M.Pd., yang hadir mewakili Pemerintah Kabupaten Jombang dalam seremoni penganugerahan yang dibuka oleh Menteri Perindustrian RI, Muhammad Sarmuji. 
+Dalam sambutannya saat membuka acara, Menteri Perindustrian Muhammad Sarmuji menegaskan bahwa penerapan prinsip industri hijau kini bukan lagi sekadar pilihan, melainkan keharusan strategis agar industri nasional tetap kompetitif dan tidak kehilangan pasar global. 
+"Kesadaran masyarakat dunia terhadap isu lingkungan hidup semakin besar. Industri harus mulai menyesuaikan diri karena jika tidak, justru akan terancam pasarnya," ujar Menperin Muhammad Sarmuji 
+Lebih lanjut, Menperin memaparkan bahwa transformasi industri hijau terbukti memberikan dampak ekonomi yang nyata, di antaranya melalui efisiensi energi sebesar 1.755 gigawatt per tahun senilai Rp1,75 triliun serta penghematan penggunaan air mencapai 960 ribu meter kubik per tahun dengan nilai ekonomi Rp8,6 miliar. Capaian ini sejalan dengan komitmen nasional dalam menurunkan emisi karbon serta mendorong target emisi nol bersih (net zero emission) sektor industri pada 2050. 
+Sementara itu, Wakil Bupati Jombang Salmanudin, S.Ag., M.Pd., menyampaikan bahwa capaian peringkat kedua tingkat nasional ini merupakan wujud komitmen Pemkab Jombang dalam mendorong tata kelola industri daerah yang ramah lingkungan, efisien, dan berkelanjutan. “Alhamdulillah Kabupaten Jombang Peringkat II Nasional, capaian ini merupakan hasil sinergi antara pemerintah Kabupaten Jombang pelaku industri, serta seluruh elemen masyarakat di Kabupaten Jombang dalam mewujudkan ekosistem industri yang berdaya saing sekaligus menjaga kelestarian lingkungan," tutur Wabup Salmanudin. 
+Ke depan, Pemkab Jombang berkomitmen untuk terus memperkuat dukungan kebijakan, pembinaan bagi pelaku Industri Kecil dan Menengah (IKM), serta fasilitasi transisi energi dan pengelolaan limbah industri agar selaras dengan standar industri hijau nasional.
+↑
 
-## DAFTAR https://pacitankab.go.id/category/pacitan-hari-ini
+## https://www.jombangkab.go.id/berita/potensi-peternakan-jombang-meningkat-wabup-salmanudin-buka-kontes-kambing-pe-kaligesing-dan-domba-piala-bupati-2026-24891
 STATUS 200
-- Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim | https://pacitankab.go.id/kabupaten-pacitan-raih-penghargaan-terbaik-kinerja-pembiayaan-umkm-prima-2026-dari-gubernur-jatim/ | 19 November 2026 Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim Pemerintah Kabupaten Pacitan meraih penghargaan Terbaik dengan kategori Kinerja Pembiayaan UMKM Prima Tah
-- Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako | https://pacitankab.go.id/gelar-bakti-sosial-akademi-tni-dan-akpol-bagikan-5000-sembako/ | 9 November 2026 Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako Mewakili Bupati Pacitan, Sekretaris Daerah (Sekda) Pacitan Heru Wiwoho hadir dalam acara bakti sosial dalam rangka latihan napak tilas rute ge
-- POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah | https://pacitankab.go.id/popda-jatim-2026-82-atlet-pacitan-bawa-misi-prestasi-dan-harga-diri-daerah/ | 5 November 2026 POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah PACITAN– Sebanyak 82 atlet pelajar Kabupaten Pacitan resmi berangkat menuju Pekan Olahraga Pelajar Daerah (POPDA) Jawa Timur XV 
-- Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir | https://pacitankab.go.id/nyaman-jiwo-beachrun-pacitan-2026-bidik-1-000-pelari-hadirkan-pengalaman-berlari-di-jalur-pesisir/ | 27 Oktober 2026 Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir PACITAN – Kabupaten Pacitan bersiap menjadi tuan rumah ajang lari trail bertaraf nasional melalui Nyaman 
-- Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu | https://pacitankab.go.id/jelang-revalidasi-unesco-2027-tiga-wilayah-perkuat-kolaborasi-pengelolaan-geopark-gunung-sewu/ | 24 Oktober 2026 Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu PACITAN – Pemerintah Kabupaten Pacitan bersama Kabupaten Wonogiri dan Kabupaten Gunungkidul memperkuat koordi
-- Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos | https://pacitankab.go.id/kunker-di-pacitan-gubernur-jatim-gelar-sapa-bansos/ | 22 Oktober 2026 Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos Pacitan-Dalam rangka Hari Jadi ke-81 Provinsi Jawa Timur dan Hari Santri 2026 pemerintah Provinsi Jawa Timur menggelar Sapa Bansos di Kabupaten Pacitan. 
-- Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas | https://pacitankab.go.id/4507-2/ | 22 Oktober 2026 Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas Pacitan-Peringatan Hari Santri tingkat Provinsi Jawa Timur tahun 2026 digelar di Kabupaten Pacitan. Gubernur Jawa Timur 
-- Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur | https://pacitankab.go.id/mengawali-kunker-di-pacitan-gubernur-jatim-resmikan-proyek-infrastruktur/ | 21 Oktober 2026 Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur Pacitan-Dalam rangkaian kunjungan kerja di Kabupaten Pacitan, Gubernur Jawa Timur Khofifah Indar Parawansa meresmikan sejumlah infr
-- Doa Bersama Untuk Keselamatan Bangsa Dan Negara | https://pacitankab.go.id/doa-bersama-untuk-keselamatan-bangsa-dan-negara/ | 20 Oktober 2026 Doa Bersama Untuk Keselamatan Bangsa Dan Negara Pacitan-Bupati Pacitan Indrata Nur Bayuaji menghadiri acara doa bersama yang digelar Kepolisian Resor (Polres) Pacitan di pendopo kabupaten. Kegiatan yang d
+JUDUL: Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 - Pemerintah Kabupaten Jombang
+TGL_META: 
+OG_IMAGE: https://resources.jombangkab.go.id/berita/uploads/2026/11/727d1494-8640-431b-a781-8dfa372c6e04.jpg
+GAMBAR: https://www.jombangkab.go.id/kabupaten/assets/images/logo-white.png | https://resources.jombangkab.go.id/berita/uploads/2026/11/727d1494-8640-431b-a781-8dfa372c6e04.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/4ceb6247-e926-4a12-8261-9fe153c15f9b.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/867d7d1a-8207-4f62-8da3-c3af17c089f5.jpg | https://www.jombangkab.go.id/kabupaten/assets/images/logo-kabupaten.png
+ISI:
+Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 - Pemerintah Kabupaten Jombang
+Beranda
+/
+Berita
+/
+Detail
+Detail Berita
+Informasi resmi seputar kegiatan pemerintah, pembangunan, layanan publik, dan dinamika Kabupaten Jombang.
+ Kembali ke daftar berita
+Kabupaten
+Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026
+Upaya memajukan sektor peternakan lokal terus dilakukan Pemerintah Kabupaten Jombang. Wakil Bupati Jombang, Salmanudin, S.Ag., M.Pd., secara resmi membuka Kontes Lokal Kambing Peranakan Ettawa (PE) Ras Kaligesing dan Domba Piala Bupati Jombang Tahun 2026 pada Minggu (22/11/2026) di Kandang 58 (Mapan), Desa Bangsri, Kecamatan Plandaan.
+ 22 November 2026
+ Pemerintah Kabupaten Jombang
+ 58 views
+#Kontes Lokal Kambing Peranakan Ettawa (PE) Ras Kaligesing da...
+#Dinas Peternakan Kabupaten Jombang
+#Himpunan Peternak Domba Kambing Indonesia
+#Kelompok Ternak Kambing Mapan
+#Jombang Majudan Sejahtera Untuk Semua
+JOMBANGKAB – Upaya memajukan sektor peternakan lokal terus dilakukan Pemerintah Kabupaten Jombang. Wakil Bupati Jombang, Salmanudin, S.Ag., M.Pd., secara resmi membuka Kontes Lokal Kambing Peranakan Ettawa (PE) Ras Kaligesing dan Domba Piala Bupati Jombang Tahun 2026 pada Minggu (22/11/2026) di Kandang 58 (Mapan), Desa Bangsri, Kecamatan Plandaan.
+Ajang yang mempertandingkan 10 kategori kelas ini menjadi langkah nyata dalam mendorong peningkatan kualitas bibit ternak sekaligus memperkuat ekonomi masyarakat pedesaan. Acara ini terselenggara berkat kerja sama antara Dinas Peternakan Kabupaten Jombang, Himpunan Peternak Domba Kambing Indonesia (HPDKI), serta Kelompok Ternak Kambing Mapan selaku tuan rumah.
+Dalam sambutannya, Wakil Bupati Salmanudin menyampaikan apresiasi kepada seluruh pihak yang terlibat serta menyoroti besarnya potensi peternakan di Kabupaten Jombang, khususnya budidaya kambing PE Kaligesing yang berkembang di berbagai wilayah, mulai dari Kecamatan Wonosalam hingga Kecamatan Plandaan.
+"Para peternak kita juga telah menunjukkan kemampuan dalam menghasilkan bibit-bibit unggul yang mampu berprestasi di tingkat regional maupun nasional. Potensi ini harus terus kita kembangkan. Kualitas bibit perlu ditingkatkan, pengetahuan dan keterampilan peternak harus terus diperkuat, dan pengelolaan usaha peternakan perlu semakin baik agar memberikan hasil ekonomi yang lebih besar," ujar Wabup Salmanudin.
+Lebih dari sekadar kompetisi, ia berharap kontes ini menjadi ruang edukasi, promosi, serta sarana bertukar pengalaman antarpeternak. Pemerintah Kabupaten Jombang juga menaruh perhatian pada regenerasi peternak dengan mendorong keterlibatan kaum muda.
+"Kita juga perlu mendorong semakin banyak generasi muda untuk tertarik menekuni usaha peternakan. Karena apabila dikelola dengan baik dan menggunakan teknologi yang tepat, peternakan dapat menjadi peluang usaha yang menjanjikan," tambahnya.
+Kepada para peserta, Wabup Salmanudin berpesan agar menjunjung tinggi sportivitas dan menjadikan kontes ini sebagai sarana belajar. Bagi peternak yang meraih juara, prestasi tersebut diharapkan menjadi motivasi untuk terus berkembang. Sementara bagi yang belum berhasil, ajang ini dapat dimanfaatkan untuk melihat keunggulan ternak lain sebagai bahan perbaikan pembibitan ke depan.
+"Saya juga berharap para peternak senantiasa menjaga kekompakan dan memperkuat kerja sama. Sebab, kemajuan peternakan Jombang membutuhkan keterlibatan semua pihak, mulai dari peternak, kelompok ternak, organisasi profesi, hingga pemerintah daerah," tegasnya, sembari berpesan agar dewan juri menjalankan tugas penilaian secara objektif, adil, dan profesional.
+Turut hadir dalam pembukaan acara tersebut Ketua DPRD Jombang Hadi Atmaji, S.Ag, Staf Ahli, Drs. Mochamad Saleh, M.Si. Kepala Dinas Peternakan Kabupaten Jombang bersama para Kepala OPD terkait, Forkopimcam Plandaan, Pemerintah Desa Bangsri, pengurus HPDKI, serta para peternak dan masyarakat.
+Dengan dibukanya kontes ini oleh Wakil Bupati Salmanudin, sektor peternakan di Kabupaten Jombang diharapkan semakin berdaya saing dan memberikan manfaat nyata bagi peningkatan kesejahteraan para peternak lokal.
+↑
 
-## DAFTAR https://kabar.tulungagung.go.id/
+## https://pacitankab.go.id/nyaman-jiwo-beachrun-pacitan-2026-bidik-1-000-pelari-hadirkan-pengalaman-berlari-di-jalur-pesisir/
 STATUS 200
-- Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung | https://kabar.tulungagung.go.id/sirajapatni-gayatri-terpilih-sebagai-ikon-baru-tulungagung/ | 
-- Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-pimpin-dialog-kinerja-perkuat-sinkronisasi-dan-akselerasi-pembangunan-2027/ | 
-- Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat | https://kabar.tulungagung.go.id/gebyar-undian-pajak-daerah-2026-pemkab-tulungagung-apresiasi-wajib-pajak-yang-taat/ | 
-- Pemkab dan DPRD Tulungagung Sepakati APBD Tahun 2027, Sejumlah Program Pemerintah Siap Digeber | https://kabar.tulungagung.go.id/pemkab-dan-dprd-tulungagung-sepakati-apbd-tahun-2027-sejumlah-program-pemerintah-siap-digeber/ | 
-- Hari Jadi ke-821, Tulungagung Teguhkan Semangat Gumregah, Nyawiji lan Ngabekti, Ekonomi Tumbuh 5,75 Persen dan Kemiskinan Menurun | https://kabar.tulungagung.go.id/hari-jadi-ke-821-tulungagung-teguhkan-semangat-gumregah-nyawiji-lan-ngabekti-ekonomi-tumbuh-575-persen-dan-kemiskinan-menurun/ | 
-- Tim Penilai IGA Validasi Dua Inovasi Unggulan Kabupaten Tulungagung | https://kabar.tulungagung.go.id/tim-penilai-iga-validasi-dua-inovasi-unggulan-kabupaten-tulungagung/ | 
-- Pemkab Tulungagung Dukung Sensus Ekonomi 2026, 1.145 Petugas Sisir 143 Ribu Lebih Usaha di Tulungagung | https://kabar.tulungagung.go.id/pemkab-tulungagung-dukung-sensus-ekonomi-2026-1-145-petugas-sisir-143-ribu-lebih-usaha-di-tulungagung/ | 
-- TULUNGAGUNG PERCEPAT DIGITALISASI KEUANGAN DAERAH – SOSIALISASI ELEKTRONIFIKASI KEUANGAN DAERAH (EPTD) 2025 TINJAU IMPLEMENTASI NON-TUNAI | https://kabar.tulungagung.go.id/tulungagung-percepat-digitalisasi-keuangan-daerah-sosialisasi-elektronifikasi-keuangan-daerah-eptd-2025-tinjau-implementasi-non-tunai/ | 
-- GELAR KARYA UMKM 2025 : SEMANGAT EKONOMI KREATIF RAYAKAN HARI JADI KE-820 TULUNGAGUNG | https://kabar.tulungagung.go.id/gelar-karya-umkm-2025-semangat-ekonomi-kreatif-rayakan-hari-jadi-ke-820-tulungagung/ | 
-- RAPAT PARIPURNA DPRD TULUNGAGUNG SAHKAN APBD 2026 DAN UMUMKAN PROPEMDA | https://kabar.tulungagung.go.id/rapat-paripurna-dprd-tulungagung-sahkan-apbd-2026-dan-umumkan-propemda/ | 
-- DANA CUKAI MEMBERI NAPAS SEGAR : DBHCHT TULUNGAGUNG 2025 DIPRIORITASKAN UNTUK KESEJAHTERAAN, KESEHATAN, DAN PEMBANGUNAN MASYARAKAT | https://kabar.tulungagung.go.id/dana-cukai-memberi-napas-segar-dbhcht-tulungagung-2025-diprioritaskan-untuk-kesejahteraan-kesehatan-dan-pembangunan-masyarakat/ | 
-- Pemerintah Kabupaten Tulungagung Kucurkan Reward Bagi 230 Atlet Berprestasi di Peringatan Haornas ke-43 | https://kabar.tulungagung.go.id/pemerintah-kabupaten-tulungagung-kucurkan-reward-bagi-230-atlet-berprestasi-di-peringatan-haornas-ke-43/ | 
-- Pameran Museum Tulungagung 2026 Resmi Dibuka, Jadi Ruang Kenalkan Jejak Sejarah dan Budaya | https://kabar.tulungagung.go.id/pameran-museum-tulungagung-2026-resmi-dibuka-jadi-ruang-kenalkan-jejak-sejarah-dan-budaya/ | 
-- Semarak MTQ XXXII Tulungagung, 470 Peserta dari 19 Kecamatan Berpartisipasi | https://kabar.tulungagung.go.id/semarak-mtq-xxxii-tulungagung-470-peserta-dari-19-kecamatan-berpartisipasi/ | 
-- 40 Pramuka Terbaik Tulungagung Siap Berlaga di Jambore Nasional XII 2026 | https://kabar.tulungagung.go.id/40-pramuka-terbaik-tulungagung-siap-berlaga-di-jambore-nasional-xii-2026/ | 
-- Plt. Bupati Tulungagung Buka Tantingan Calon Paskibraka Tahun 2026 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-tantingan-calon-paskibraka-tahun-2026/ | 
+JUDUL: Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir
+TGL_META: 2026-10-27T01:23:57.000Z
+OG_IMAGE: https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_862340441_18383971549239048_7275797814682319479_n-1024x683.webp
+GAMBAR: https://pacitankab.go.id/_next/image/?url=%2Fimages%2Flogo-dark.webp&w=1080&q=75 | https://pacitankab.go.id/_next/image/?url=%2Fimages%2Flogo-light.webp&w=1080&q=75 | https://pacitankab.go.id/_next/image/?url=https%3A%2F%2Fwp1.pacitankab.go.id%2Fwp-content%2Fuploads%2F2026%2F10%2FSnapInsta.to_862340441_18383971549239048_7275797814682319479_n-1024x683.webp&w=3840&q=75 | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_866901460_18383971642239048_3079582812990837550_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_868290380_18383971573239048_951778508136653214_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_866158604_18383971537239048_2026297170803764931_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_869372630_18383971702239048_2504445005428827366_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_866525933_18383971672239048_5409839678119060777_n.webp
+ISI:
+Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir — Pemerintah Kabupaten Pacitan
+Lompat ke konten utama
+PACITAN
+ – Kabupaten Pacitan bersiap menjadi tuan rumah ajang lari trail bertaraf nasional melalui Nyaman Jiwo Beachrun Pacitan 2026. Digelar pada 20 Desember 2026, event ini menargetkan partisipasi 1.000 pelari dengan menawarkan pengalaman berlari menyusuri lanskap pesisir dan destinasi wisata unggulan Pacitan.
+Mengusung konsep 
+coastal running experience
+, Nyaman Jiwo Beachrun memadukan olahraga lari dengan eksplorasi keindahan alam pesisir. Peserta tidak hanya ditantang menaklukkan lintasan, tetapi juga diajak menikmati karakter pantai, jalur berpasir, kawasan permukiman masyarakat, serta panorama alam yang menjadi daya tarik Pacitan.
+Peluncuran Nyaman Jiwo Beachrun Pacitan 2026 berlangsung di Pendopo Kabupaten Pacitan, Senin (26/10/2026). Kegiatan tersebut dihadiri Bupati Pacitan Indrata Nur Bayuaji, unsur Forum Koordinasi Pimpinan Daerah (Forkopimda), Sekretaris Daerah Pacitan, serta komunitas pelari.
+Event Director Nyaman Jiwo Beachrun, Ingga Swardana, mengatakan ajang ini dirancang untuk memperkenalkan potensi wisata Pacitan melalui perspektif olahraga lari.
+“Meskipun trail running, Nyaman Jiwo Beachrun berbeda. Kami ingin mengenalkan Pacitan, khususnya wisata, dari sudut pandang olahraga lari,” terang Ingga seusai peluncuran.
+Empat Kategori, dari Pelari Trail hingga Keluarga
+Nyaman Jiwo Beachrun Pacitan 2026 menghadirkan empat kategori yang dirancang untuk menjangkau peserta dengan kebutuhan dan pengalaman berlari berbeda.
+Berikut empat kategori yang disiapkan panitia:
+21K:
+ Mengambil titik start di Pantai Nyawiji.
+12K:
+ Dimulai dari Pantai Karangbolong.
+7K:
+ Start dan finis di kawasan Race Central, Pantai Srau.
+Family Run 2K:
+ Kategori baru yang dirancang untuk pengalaman berlari bersama keluarga.
+Kehadiran kategori Family Run 2K menjadi salah satu pembeda dalam penyelenggaraan tahun ini. Jika kategori jarak jauh menitikberatkan tantangan fisik dan ketahanan pelari, kategori keluarga lebih mengedepankan kebersamaan dan partisipasi lintas generasi.
+Race Director Nyaman Jiwo Beachrun, Aditya Aji Armanta, menjelaskan bahwa Family Run 2K menggunakan konsep 
+pairing
+ antara orang tua dan anak.
+“Berbeda dengan format trail run pada umumnya, Family Run 2K dirancang khusus sebagai pengalaman berlari bersama keluarga dengan konsep pairing antara orang tua dan anak,” ungkap Aditya.
+Konsep tersebut membuka kesempatan bagi keluarga untuk menikmati kegiatan olahraga bersama. Dengan demikian, event ini tidak hanya menyasar komunitas pelari berpengalaman, tetapi juga masyarakat yang ingin merasakan aktivitas olahraga rekreatif.
+Pacitan Kembangkan Potensi Sport Tourism
+Penyelenggaraan Nyaman Jiwo Beachrun menjadi bagian dari pengembangan 
+sport tourism
+ atau pariwisata berbasis olahraga di Kabupaten Pacitan.
+Konsep ini menggabungkan aktivitas olahraga dengan potensi destinasi wisata. Pantai dan lanskap pesisir menjadi bagian dari pengalaman peserta selama mengikuti perlombaan.
+Pacitan memiliki karakter alam pesisir yang dapat dikembangkan untuk berbagai kegiatan luar ruang. Melalui event lari, destinasi wisata dapat diperkenalkan kepada peserta dari berbagai daerah dengan cara yang berbeda dari kunjungan wisata konvensional.
+Target 1.000 pelari juga membuka peluang bagi pergerakan ekonomi lokal. Kehadiran peserta dan pendamping berpotensi meningkatkan kebutuhan akomodasi, konsumsi, transportasi, serta layanan pendukung wisata selama kegiatan berlangsung.
+Namun, manfaat tersebut perlu didukung kesiapan penyelenggaraan, pengelolaan lingkungan, keamanan lintasan, serta keterlibatan masyarakat di sekitar kawasan yang dilalui peserta.
+Dengan perencanaan yang baik, kegiatan olahraga berbasis alam dapat menjadi salah satu alternatif untuk memperluas daya tarik wisata Pacitan sekaligus mendorong aktivitas ekonomi masyarakat.
+Atlet Ultra Trail Indonesia Tertarik dengan Panorama Pacitan
+Daya tarik lanskap Pacitan turut menjadi alasan bagi atlet lari jarak jauh untuk mengikuti ajang ini. Salah satunya Rahmat Septianto, atlet ultra trail runner Indonesia yang dikenal dengan julukan “Monster of Endurance” atau Mas Jon.
+Rahmat memastikan diri akan ambil bagian dalam Nyaman Jiwo Beachrun Pacitan 2026. Ia mengaku tertarik dengan panorama alam yang ditawarkan kawasan pesisir Pacitan.
+“Dengan view yang luar biasa membuat saya ingin bergabung di event ini,” ungkap Rahmat.
+Kehadiran atlet tersebut diharapkan menambah daya tarik kompetisi sekaligus memperkuat perhatian komunitas lari terhadap potensi lintasan alam di Pacitan.
+Bagi pelari, karakter jalur pesisir menawarkan pengalaman berbeda dibandingkan lintasan jalan raya. Perpaduan medan, pemandangan pantai, dan suasana alam menjadi bagian dari tantangan sekaligus daya tarik tersendiri.
+Peluncuran Jersey Tandai Dimulainya Promosi Event
+Peluncuran Nyaman Jiwo Beachrun Pacitan 2026 ditandai dengan peluncuran jersey untuk masing-masing kategori. Jersey tersebut menjadi bagian dari identitas visual event sekaligus memperkenalkan karakter setiap kategori kepada calon peserta.
+Dengan target 1.000 pelari dan empat pilihan kategori, Nyaman Jiwo Beachrun diharapkan dapat menjangkau komunitas lari, atlet, keluarga, serta masyarakat yang tertarik pada olahraga dan wisata alam.
+Penyelenggaraan pada 20 Desember 2026 akan menjadi momentum untuk mempertemukan olahraga, pariwisata, dan pengalaman menikmati lanskap pesisir Pacitan.
+Lebih dari sekadar perlombaan, Nyaman Jiwo Beachrun membawa gagasan bahwa destinasi wisata dapat dikenalkan melalui aktivitas yang mengajak pengunjung berinteraksi langsung dengan alam.
+Tantangan berikutnya adalah memastikan pengalaman tersebut berlangsung aman, nyaman, dan tetap memperhatikan kelestarian lingkungan. Dengan begitu, pengembangan sport tourism dapat memberikan manfaat bagi peserta, destinasi wisata, dan masyarakat setempat. 
+(Pemkabpacitan)
+Bagikan:
+WhatsApp
+Facebook
+X
+Berita Terkait
+berita
+19 November 2026
+Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim
+Pemerintah Kabupaten Pacitan meraih penghargaan Terbaik dengan kategori Kinerja Pembiayaan UMKM Prima Tahun 2026. Penghargaan diberikan Gubernur Jawa Timur Khofifah Indar…
+berita
+9 November 2026
+Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako
+Mewakili Bupati Pacitan, Sekretaris Daerah (Sekda) Pacitan Heru Wiwoho hadir dalam acara bakti sosial dalam rangka latihan napak tilas rute gerilya Panglima Besar Jenderal…
+berita
+5 November 2026
+POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah
+PACITAN– Sebanyak 82 atlet pelajar Kabupaten Pacitan resmi berangkat menuju Pekan Olahraga Pelajar Daerah (POPDA) Jawa Timur XV Tahun 2026. Bupati Pacitan, Kanjeng Raden…
+Sarana aksesibilitas
+Pengaduan masyarakat
+Akses cepat layanan publik
 
-## DAFTAR https://pasuruankab.go.id/berita
+## https://pacitankab.go.id/jelang-revalidasi-unesco-2027-tiga-wilayah-perkuat-kolaborasi-pengelolaan-geopark-gunung-sewu/
 STATUS 200
-- Pemerintahan Lantik Ratusan Guru Penugasan Sebagai Kepala Sekol... Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima sura... | https://pasuruankab.go.id/berita/lantik-ratusan-guru-penugasan-sebagai-kepala-sekolah-mas-rusdi-kalau-ada-persoalan-sampaikan-langsung-bisa-ke-dispendik-command-center-112-atau-langsung-ke-saya | 
-- Olahraga Pimpin Klasemen Grup C. Persekabpas Tundukkan Pers... Tim sepakbola kebanggaan Kabupaten Pasuruan, Persekabpas terus memperl... 22  | https://pasuruankab.go.id/berita/pimpin-klasemen-grup-c-persekabpas-tundukkan-persipani-paniai-2-1 | 
-- Pemerintahan Kecamatan Gondangwetan Juara MTQ ke 32 Kabupaten P... Mutsabaqoh Tilawatil Qur'an (MTQ) ke 32 tingkat Kabupaten Pasuruan tah... | https://pasuruankab.go.id/berita/kecamatan-gondangwetan-juara-mtq-ke-32-kabupaten-pasuruan | 
-- Pelayanan Publik Baznas dan Fawaz Al Mirdad Foundation Santuni Ratu... Badan Amil Zakat Nasional (Baznas) Kabupaten Pasuruan bersama Fawaz A | https://pasuruankab.go.id/berita/baznas-dan-fawas-al-mirdad-foundation-santuni-ratusan-anak-yatim-di-kabupaten-pasuruan | 
-- Pemerintahan Bupati Mas Rusdi : Kominfo itu Urat Nadi, Otak dan... Bupati Pasuruan, Rusdi Sutejo menegaskan bahwa Dinas Komunikasi dan In... | https://pasuruankab.go.id/berita/bupati-mas-rusdi-kominfo-itu-urat-nadi-otak-dan-etalase-pemerintah-kabupaten-pasuruan | 
-- Pemerintahan MTQ Kabupaten Pasuruan ke 32, Dimulai Musabaqah Tilawatil Qur’an (MTQ) ke-32 Tingkat Kabupaten Pasuruan, r... 20 November 2026  | https://pasuruankab.go.id/berita/mtq-kabupaten-pasuruan-ke-32-dimulai | 
-- Pemerintahan Pemkab Pasuruan Raih Penghargaan Times Indonesia A... Pemerintah Kabupaten Pasuruan kembali menorehkan prestasi di tin... 19 No | https://pasuruankab.go.id/berita/pemkab-pasuruan-raih-penghargaan-times-indonesia-awards-2026 | 
-- Ekonomi Festival Tempe Parerejo, Istimewa. Mulai Tempe Gor... Desa Pararejo, Kecamatan Purwodadi, Kabupaten Pasuruan menggelar Festi... 19 N | https://pasuruankab.go.id/berita/festival-tempe-parerejo-istimewa-mulai-tempe-goreng-sampai-es-krim-tempe | 
-- Pelayanan Publik Layanan Vaksinasi Internasional RSUD Bangil Kini T... Layanan vaksinasi internasional RSUD Bangil kini terintegrasi dengan  | https://pasuruankab.go.id/berita/layanan-vaksinasi-internasional-rsud-bangil-kini-terintegrasi-kepengurusan-paspor-sehari-jadi | 
-- Pelayanan Publik Pemkab Pasuruan Launching Platform TJSL dan PJLH Pemerintah Kabupaten Pasuruan melaunching Platform TJSL (Tanggung Jawa...  | https://pasuruankab.go.id/berita/pemkab-pasuruan-launching-platform-tjsl-dan-pjlh | 
-- Pariwisata Banyu Biru, Oase Kesejukan Wisata Pemandian Alam d... Siapa yang tidak kenal dengan keelokan panorama dan kesegaran pemandi... 19 | https://pasuruankab.go.id/berita/banyu-biru-oase-kesejukan-wisata-pemandian-alam-di-kabupaten-pasuruan | 
-- Olahraga Derby Saudara. Persekabpas Menang Tipis 1-0 Versus... Bertarung melawan "saudara" sendiri, Tim Sepakbola kebanggaan masyarak... 18  | https://pasuruankab.go.id/berita/derby-saudara-persekabpas-menang-tipis-1-0-versus-pasuruan-united | 
-- Sejarah Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/sejarah-singkat-kab-pasuruan | 
-- Gambaran Umum Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/gambaran-umum-kabupaten-pasuruan-2025 | 
-- Transportasi dan Perhubungan | https://pasuruankab.go.id/layanan/transportasi | 
-- Lingkungan Hidup & Persampahan | https://pasuruankab.go.id/layanan/lingkungan | 
+JUDUL: Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu
+TGL_META: 2026-10-24T07:41:37.000Z
+OG_IMAGE: https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_863413686_18383558680239048_1757526573216129080_n-1024x713.webp
+GAMBAR: https://pacitankab.go.id/_next/image/?url=%2Fimages%2Flogo-dark.webp&w=1080&q=75 | https://pacitankab.go.id/_next/image/?url=%2Fimages%2Flogo-light.webp&w=1080&q=75 | https://pacitankab.go.id/_next/image/?url=https%3A%2F%2Fwp1.pacitankab.go.id%2Fwp-content%2Fuploads%2F2026%2F10%2FSnapInsta.to_863413686_18383558680239048_1757526573216129080_n-1024x713.webp&w=3840&q=75 | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_862434071_18383558803239048_6178204937061732353_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_862882742_18383558728239048_7248585269098389111_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_864436013_18383558689239048_6186394371988894680_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_864661638_18383558779239048_5828739452115121937_n.webp | https://wp1.pacitankab.go.id/wp-content/uploads/2026/10/SnapInsta.to_862340440_18383558755239048_4207279680871068231_n.webp
+ISI:
+Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu — Pemerintah Kabupaten Pacitan
+Lompat ke konten utama
+PACITAN – Pemerintah Kabupaten Pacitan bersama Kabupaten Wonogiri dan Kabupaten Gunungkidul memperkuat koordinasi pengelolaan Gunung Sewu UNESCO Global Geopark menjelang proses Revalidasi III UNESCO pada 2027.
+Langkah tersebut dibahas dalam rapat koordinasi monitoring dan evaluasi pelaksanaan kerja sama Pacitan–Wonogiri–Wonosari (Pawonsari) serta pengelolaan Gunung Sewu UNESCO Global Geopark. Kegiatan berlangsung di halaman belakang (halking) Rumah Dinas Bupati Pacitan, Sabtu (24/10/2026).
+Sekretaris Daerah Kabupaten Pacitan Heru Wiwoho mewakili Bupati Pacitan Indrata Nur Bayuaji untuk membuka rapat koordinasi tersebut. Pertemuan ini dihadiri perwakilan tiga wilayah, ahli geologi, asesor UNESCO, serta sejumlah pemangku kepentingan terkait pengelolaan geopark.
+Dalam sambutan Bupati Pacitan yang dibacakannya, Heru menegaskan bahwa keberadaan Gunung Sewu UNESCO Global Geopark memiliki nilai strategis bagi pengembangan pariwisata daerah.
+“Bagi Kabupaten Pacitan, keberadaan Gunung Sewu UNESCO Global Geopark merupakan kekuatan strategis dalam mendorong perkembangan pariwisata,” kata Heru Wiwoho.
+Namun, potensi tersebut membutuhkan pengelolaan yang terintegrasi. Menurutnya, pengembangan geopark tidak dapat dilakukan secara terpisah oleh masing-masing daerah, melainkan memerlukan kolaborasi antara pemerintah daerah, pengelola geopark, dan masyarakat.
+Persiapan Menuju Revalidasi III UNESCO
+Revalidasi UNESCO menjadi momentum penting untuk mengevaluasi pengelolaan dan perkembangan Gunung Sewu UNESCO Global Geopark. Proses ini juga menjadi kesempatan bagi para pemangku kepentingan untuk memperkuat upaya pelestarian warisan geologi, pengembangan pariwisata berkelanjutan, serta pemberdayaan masyarakat.
+Rapat koordinasi Pawonsari diarahkan untuk memonitor dan mengevaluasi pelaksanaan kerja sama antardaerah sekaligus membahas kesiapan pengelolaan geopark menjelang revalidasi pada 2027.
+Koordinasi lintas wilayah menjadi penting karena kawasan Gunung Sewu mencakup wilayah yang memiliki karakteristik geologi dan potensi wisata yang saling berkaitan. Pengelolaannya membutuhkan kesamaan visi agar pelestarian alam dan pengembangan ekonomi masyarakat dapat berjalan beriringan.
+Selain aspek pariwisata, pengelolaan geopark juga memerlukan perhatian terhadap perlindungan warisan geologi, edukasi kebumian, serta keterlibatan masyarakat di sekitar situs geologi atau geosite.
+Libatkan Bappenas dan Asesor UNESCO
+Rapat koordinasi tersebut turut dihadiri Togu Pardede, Direktur Sumber Daya Energi, Mineral dan Pertambangan Kementerian PPN/Bappenas, beserta jajaran.
+Hadir pula asesor UNESCO, Emeritus Dato’ dan Ibrahim Komoo, serta Sekretaris Daerah Kabupaten Gunungkidul yang menjabat sebagai Ketua Badan Pengelola Gunung Sewu UNESCO Global Geopark.
+Sejumlah kepala perangkat daerah dari Jawa Timur dan para pengelola geosite juga mengikuti pertemuan tersebut.
+Kehadiran berbagai unsur itu memperlihatkan bahwa persiapan revalidasi membutuhkan koordinasi lintas sektor dan lintas wilayah. Pemerintah daerah, badan pengelola, ahli, serta pemangku kepentingan lainnya memiliki peran dalam menjaga keberlanjutan pengelolaan geopark.
+Kolaborasi Jadi Kunci Keberlanjutan Geopark
+Bagi Pacitan, Gunung Sewu UNESCO Global Geopark tidak hanya berkaitan dengan pengakuan internasional terhadap kekayaan geologi. Kawasan ini juga menyimpan potensi untuk memperkuat daya tarik wisata, pendidikan, dan aktivitas ekonomi masyarakat.
+Karena itu, kerja sama Pawonsari menjadi salah satu ruang koordinasi untuk menyelaraskan pengelolaan kawasan yang melintasi batas administratif daerah.
+Menjelang Revalidasi III UNESCO pada 2027, tantangannya tidak berhenti pada pemenuhan aspek penilaian. Keberlanjutan pengelolaan juga bergantung pada konsistensi pelestarian, kualitas tata kelola, serta manfaat nyata yang dirasakan masyarakat.
+Melalui koordinasi dan evaluasi bersama, ketiga wilayah diharapkan dapat memperkuat sinergi dalam menjaga warisan geologi Gunung Sewu sekaligus mengembangkan pariwisata yang berkelanjutan. 
+(Pemkabpacitan)
+Bagikan:
+WhatsApp
+Facebook
+X
+Berita Terkait
+berita
+19 November 2026
+Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim
+Pemerintah Kabupaten Pacitan meraih penghargaan Terbaik dengan kategori Kinerja Pembiayaan UMKM Prima Tahun 2026. Penghargaan diberikan Gubernur Jawa Timur Khofifah Indar…
+berita
+9 November 2026
+Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako
+Mewakili Bupati Pacitan, Sekretaris Daerah (Sekda) Pacitan Heru Wiwoho hadir dalam acara bakti sosial dalam rangka latihan napak tilas rute gerilya Panglima Besar Jenderal…
+berita
+5 November 2026
+POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah
+PACITAN– Sebanyak 82 atlet pelajar Kabupaten Pacitan resmi berangkat menuju Pekan Olahraga Pelajar Daerah (POPDA) Jawa Timur XV Tahun 2026. Bupati Pacitan, Kanjeng Raden…
+Sarana aksesibilitas
+Pengaduan masyarakat
+Akses cepat layanan publik
 
-## DAFTAR https://pamekasankab.go.id/berita
-STATUS 200
-- Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat | https://pamekasankab.go.id/berita/1637/luncurkan-nutri-level-upaya-pemkab-pamekasan-tingkatkan-literasi-gizi-masyarakat | Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat Selasa, 24 November 2026 17 Pemkab Pamekasan- Dinas Kesehatan (Dinkes) Kabupaten Pamekasan, Madura, Jawa Timur meluncurkan program Nutri L
-- Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim | https://pamekasankab.go.id/berita/1636/pamekasan-sukses-jadi-tuan-rumah-hut-ke81-pgri-sejatim | Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim Senin, 23 November 2026 127 Pemkab Pamekasan- Perayaan hari ulang tahun (HUT) ke 81 Persatuan Guru Republik Indonesia (PGRI) se Jawa Timur yang berlokasi di Kabupa
-- Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan | https://pamekasankab.go.id/berita/1635/jaga-kondusivitas-daerah-wabup-sukriyanto-minta-kolaborasi-pemkab-dan-lapas-pamekasan-ditingkatkan | Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan Kamis, 19 November 2026 186 Pamekasan – Wakil Bupati Pamekasan, Sukriyanto, mendorong penguatan kerja sama lintas instan
-- HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan | https://pamekasankab.go.id/berita/1634/hkn-2026-bupati-pamekasan--mantapkan-komitmen-membangun-sektor-kesehatan | HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan Kamis, 19 November 2026 164 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggelar upacara Hari Kesehatan Nasion
-- KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan | https://pamekasankab.go.id/berita/1633/ksad-dan-gubernur-jatim-hadiri-penutupan-tmmd-ke-130-di-pamekasan- | KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan Kamis, 12 November 2026 689 Pemkab Pamekasan- Penutupan TNI Manunggal Membangun Desa (TMMD) ke 130 yang berlangsung di Lapangan Nagara Bhakti Mandhapa Agh
-- Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian | https://pamekasankab.go.id/berita/1632/upacara-hari-jadi-ke496-pemkab-pamekasan-apresiasi-tokoh-penggerak-pendidikan-hingga-santunan-kematian | Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian Selasa, 03 November 2026 536 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggela
-- Wow! Malam Kemilau Madura Berlangsung Spektakuler | https://pamekasankab.go.id/berita/1631/wow-malam-kemilau-madura-berlangsung-spektakuler | Wow! Malam Kemilau Madura Berlangsung Spektakuler Selasa, 03 November 2026 459 Pemkab Pamekasan- Event Malam Kemilau Madura yang bertempat di alun alun Monumen Arek Lancor Kabupaten Pamekasan, Jawa Timur berlangsung spek
-- Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja | https://pamekasankab.go.id/berita/1629/ayo-daftar-pamekasan-sediakan-1491-lapangan-kerja | Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja Kamis, 29 Oktober 2026 564 Pemkab Pamekasan- Dinas Koperasi Usaha Kecil Menengah dan Tenaga Kerja (Diskop UKM dan Naker) Kabupaten Pamekasan, Madura, Jawa Timur menggel
-- Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura | https://pamekasankab.go.id/berita/1628/pemkab-pamekasan-apresiasi-sarasehan-budaya-dan-temu-tokoh-madura | Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura Kamis, 29 Oktober 2026 490 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Jawa Timur mengapresiasi pagelaran sarasehan budaya dan temu tokoh M
-- Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya | https://pamekasankab.go.id/berita/1627/gelar-lomba-pencak-silat-upaya-pemkab-pamekasan-dorong-kemajuan-olahraga-dan-budaya | Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya Selasa, 27 Oktober 2026 421 Pemkab Pamekasan- Dinas Pendidikan dan Kebudayaan (Disdikbud) Pamekasan, Madura, Jawa Timur menggelar lomba
+## https://kabar.tulungagung.go.id/pemkab-tulungagung-dukung-sensus-ekonomi-2026-1-145-petugas-sisir-143-ribu-lebih-usaha-di-tulungagung/
+STATUS 0 GAGAL: ConnectTimeout: HTTPSConnectionPool(host='kabar.tulungagung.go.id', port=443): Max retries exceeded with url: /pemkab-tulungagung-dukung-sensus-ekonomi-2026-1-145-petugas-sisir-143-ribu-lebih-u
 
-## DAFTAR https://sumenepkab.go.id/berita
+## https://baghumas.bojonegorokab.go.id/berita/bojonegoro-raih-penghargaan-kabupatenkota-percontohan-ktr-setyo-wahono-komitmen-wujudkan-lingkungan-sehat
 STATUS 200
-- SMKN 1 Kalianget Gelar UKK 2026–2027, Libatkan Penguji Eksternal dari Instansi dan Industri | https://sumenepkab.go.id/berita/baca/smkn-1-kalianget-gelar-ukk-20262027-libatkan-penguji-eksternal-dari-instansi-dan-industri | SMKN 1 Kalianget Gelar UKK 2026–2027, Libatkan Penguji Eksternal dari Instansi dan Industri 23-11-2026 107 kali Media Center, Senin ( 23/11 ) SMK Negeri 1 Kalianget Kabupaten Sumenep membuka pelaksanaan Uji Kompetensi Ke
-- Masjid Rahmatullah Kolor Bersama BAZNAS Sumenep Hadirkan Program Microfinance Masjid | https://sumenepkab.go.id/berita/baca/masjid-rahmatullah-kolor-bersama-baznas-sumenep-hadirkan-program-microfinance-masjid | Masjid Rahmatullah Kolor Bersama BAZNAS Sumenep Hadirkan Program Microfinance Masjid 23-11-2026 166 kali ​Media Center, Senin ( 23/11 ) Upaya menghidupkan fungsi sosial dan ekonomi rumah ibadah terus diperkuat melalui ko
-- Pokjawas PAI Sumenep Dorong Pengawas Kawal Sekolah Berkarakter 2027 | https://sumenepkab.go.id/berita/baca/pokjawas-pai-sumenep-dorong-pengawas-kawal-sekolah-berkarakter-2027 | Pokjawas PAI Sumenep Dorong Pengawas Kawal Sekolah Berkarakter 2027 23-11-2026 101 kali Media Center, Senin (23/11) Kelompok Kerja Pengawas (Pokjawas) Pendidikan Agama Islam (PAI) Kementerian Agama Kabupaten Sumenep meng
-- Kapolresta Sumenep Pimpin Upacara Sertijab Wakapolresta, Tekankan Soliditas dan Pelayanan Publik | https://sumenepkab.go.id/berita/baca/kapolresta-sumenep-pimpin-upacara-sertijab-wakapolresta-tekankan-soliditas-dan-pelayanan-publik | Kapolresta Sumenep Pimpin Upacara Sertijab Wakapolresta, Tekankan Soliditas dan Pelayanan Publik 23-11-2026 126 kali Media Center, Senin ( 23/11 ) Kapolresta Sumenep Ariek Indra Sentanu, memimpin langsung upacara Serah T
-- Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas | https://sumenepkab.go.id/berita/baca/bupati-sumenep-calon-kepala-sekolah-harus-miliki-kompetensi-kepemimpinan-dan-integritas | Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas 23-11-2026 631 kali Media Center, Senin ( 23/11 ) Peserta Bakal Calon Kepala Sekolah (BCKS) penting meningkatkan kompetensi dan kua
-- Nia Kurnia Fauzi: Peningkatan Kapasitas Kader Posyandu untuk Perkuat Pemberdayaan Keluarga | https://sumenepkab.go.id/berita/baca/nia-kurnia-fauzi-peningkatan-kapasitas-kader-posyandu-untuk-perkuat-pemberdayaan-keluarga | 17-11-2026 Nia Kurnia Fauzi: Peningkatan Kapasitas Kader Posyandu untuk Perkuat Pemberdayaan Keluarga
-- Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat | https://sumenepkab.go.id/berita/baca/bupati-sumenep-apresiasi-bakti-sosial-kesehatan-gigi-dorong-masyarakat-hidup-sehat | 21-11-2026 Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat
-- Arumi Bachsin Apresiasi Layanan Menyeluruh Posyandu Mawar Sumenep | https://sumenepkab.go.id/berita/baca/arumi-bachsin-apresiasi-layanan-menyeluruh-posyandu-mawar-sumenep | 17-11-2026 Arumi Bachsin Apresiasi Layanan Menyeluruh Posyandu Mawar Sumenep
-- DPRD Sumenep Gelar Rapat Paripurna, Tujuh Fraksi Laporkan Hasil Reses I 2026 | https://sumenepkab.go.id/berita/baca/dprd-sumenep-gelar-rapat-paripurna-tujuh-fraksi-laporkan-hasil-reses-i-2026 | 18-11-2026 DPRD Sumenep Gelar Rapat Paripurna, Tujuh Fraksi Laporkan Hasil Reses I 2026
+JUDUL: Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat - Bagian Protokol dan Komunikasi Pimpinan
+TGL_META: 2026-11-24T00:00:00+07:00
+OG_IMAGE: https://baghumas.bojonegorokab.go.id/og/berita/bojonegoro-raih-penghargaan-kabupatenkota-percontohan-ktr-setyo-wahono-komitmen-wujudkan-lingkungan-sehat.jpg
+GAMBAR: https://baghumas.bojonegorokab.go.id/logo-kab.png | https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-24/qbcdNILqgPZ8rJyptbiXVjS14mlwJHcW48hOekD7.webp | https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-22/3JLRGooZ7Kg9POJ3tEmfvotA7CJVwcicmy4qECjU.webp | https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-21/aVmcEFMqsMRX0LNYHNzyZOyq5sVtXmfOa6qMrl9y.webp | https://baghumas.bojonegorokab.go.id/storage/posts/2026-11-20/1ZTgJWTXTXGs8XeAlz3cZUQgnTBTqSr1SCd2hdDx.webp | https://baghumas.bojonegorokab.go.id/logo-kab.png
+ISI:
+Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat - Bagian Protokol dan Komunikasi Pimpinan
+ Berita
+ Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat
+Kembali ke Berita
+ Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat
+Bagian Protokol dan Komunikasi Pimpinan
+Tim Publikasi Informasi Publik
+ 24 November 2026
+ 2 min baca
+ 18 kali
+ Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat
+Bojonegoro– Komitmen Pemerintah Kabupaten Bojonegoro dalam mewujudkan lingkungan sehat dan melindungi masyarakat dari paparan asap rokok mendapat apresiasi. Kabupaten Bojonegoro menerima penghargaan sebagai Kabupaten/Kota Percontohan Kawasan Tanpa Rokok (KTR) kategori Dampak Paling Nyata pada Pengendalian Prevalensi Rokok.
+Penghargaan tersebut diterima langsung oleh Bupati Bojonegoro Setyo Wahono di Hotel Mercure Ancol Jakarta pada Senin (23/11). Penghargaan ini menjadi bentuk apresiasi atas upaya dan komitmen Pemkab Bojonegoro dalam mendorong penerapan kawasan tanpa rokok serta membangun kesadaran masyarakat akan pentingnya lingkungan yang sehat.
+Usai menerima penghargaan, Bupati Setyo Wahono juga diundang dalam sesi talkshow bertajuk “Berbagi Praktik Baik Perwakilan Daerah Penerima Penghargaan”. Dalam kesempatan tersebut, ia berbagi pengalaman mengenai dinamika dan tantangan penerapan kebijakan KTR di Kabupaten Bojonegoro.
+Bupati Setyo Wahono menyampaikan, Bojonegoro memiliki kondisi yang cukup unik. Di satu sisi, Bojonegoro merupakan daerah penghasil tembakau. Namun, di sisi lain, terdapat industri rokok padat karya yang turut memberikan kontribusi terhadap penyerapan tenaga kerja di daerah.
+“Di satu sisi, Bojonegoro sebagai penghasil tembakau. Di sisi lain, ada industri padat karya yang hari ini juga terus tumbuh di Kabupaten Bojonegoro. Tantangan kami adalah harus memahamkan kepada masyarakat bahwa rokok itu tidak baik untuk lingkungan, juga tidak baik untuk kesehatan masyarakat dan generasi ke depan,” ungkap Setyo Wahono.
+Menurut Bupati Bojonegoro, penerapan KTR bukan tanpa tantangan. Berbagai dinamika dan protes menjadi bagian dari proses yang harus dihadapi pemerintah daerah. Meski demikian, komitmen untuk melindungi kesehatan masyarakat tetap menjadi perhatian utama.
+“Saya kira tantangan yang kami alami mungkin tidak sebesar di daerah-daerah yang lain. Penetapan kawasan tanpa rokok ini menjadi dinamika yang kami alami selama prosesnya. Kami berkomitmen untuk segera mengesahkan kawasan tanpa rokok dengan beberapa aturan yang cukup ketat, khususnya di kawasan pendidikan, kawasan kesehatan, kawasan ibadah, serta kawasan-kawasan umum atau kawasan yang memang dikecualikan,” jelasnya.
+Setyo Wahono menegaskan, penerapan Kawasan Tanpa Rokok merupakan bagian dari tanggung jawab pemerintah daerah untuk menghadirkan lingkungan yang lebih sehat sekaligus melindungi masyarakat, terutama kelompok rentan, dari paparan asap rokok. “Jadi, ini salah satu sinergi kami, komitmen kami untuk sama-sama tumbuh, walaupun hari ini kami mencoba untuk menekan orang yang merokok,” ungkap Setyo Wahono.
+Komitmen tersebut diperkuat melalui Peraturan Daerah Kabupaten Bojonegoro Nomor 15 Tahun 2025 tentang Kawasan Tanpa Rokok. Perda ini menjadi landasan dalam mengatur kawasan yang harus terbebas dari asap rokok, sekaligus melindungi hak masyarakat untuk mendapatkan udara bersih dan lingkungan yang sehat.
+Melalui penerapan kebijakan ini, Pemkab Bojonegoro berharap kesadaran masyarakat terhadap bahaya paparan asap rokok semakin meningkat. Upaya tersebut bukan semata membatasi kebiasaan merokok, tetapi juga membangun kepedulian bersama agar setiap orang dapat beraktivitas di lingkungan yang lebih sehat, aman, dan nyaman, demi kesehatan generasi sekarang maupun masa depan.
+Bagikan:
+Kembali ke Semua Berita
+Memuat...
 
-## DAFTAR https://banyuwangikab.go.id/berita
+## https://portal.lamongankab.go.id/posting/65617
 STATUS 200
-- Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan | https://banyuwangikab.go.id/berita/kemendagri-tetapkan-banyuwangi-terbaik-iii-nasional-dalam-pelayanan-administrasi-kependudukan | Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Berawal dari Bibit K
-- Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan | https://banyuwangikab.go.id/berita/masuk-kandidat-lima-besar-desa-wisata-nasional-2026-desa-bangsring-banyuwangi-jalani-verifikasi-lapangan | Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Berawal dari Bibit K
-- Berawal dari Bibit Kecil, Mbah Wagirin Sukses Kembangkan Kebun Tanaman Hias Selama 17 Tahun | https://banyuwangikab.go.id/berita/berawal-dari-bibit-kecil-mbah-wagirin-sukses-kembangkan-kebun-tanaman-hias-selama-17-tahun | Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Berawal dari Bibit K
-- Marak Atraksi Seni Budaya di Banyuwangi, Produksi Alat Musik Tradisional Banjir Pesanan Hingga Luar Negeri | https://banyuwangikab.go.id/berita/marak-atraksi-seni-budaya-di-banyuwangi-produksi-alat-musik-tradisional-banjir-pesanan-hingga-luar-negeri | Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Berawal dari Bibit K
-- 42 Ribu Pekerja Banyuwangi Terlindungi BPJS Ketenagakerjaan, Ipuk Serahkan Santunan Rp168 Juta untuk Ahli Waris | https://banyuwangikab.go.id/berita/42-ribu-pekerja-banyuwangi-terlindungi-bpjs-ketenagakerjaan-ipuk-serahkan-santunan-rp168-juta-untuk-ahli-waris | Kemendagri Tetapkan Banyuwangi Terbaik III Nasional dalam Pelayanan Administrasi Kependudukan Masuk Kandidat Lima Besar Desa Wisata Nasional 2026, Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Berawal dari Bibit K
-- Banyuwangi Jadi Pilot Project Tahapan Penyaluran Bansos Digi... 5 hari yang lalu | https://banyuwangikab.go.id/berita/banyuwangi-jadi-pilot-project-tahapan-penyaluran-bansos-digital-satu-rekening-untuk-semua-bantuan | Banyuwangi Jadi Pilot Project Tahapan Penyaluran Bansos Digi... 5 hari yang lalu 15 Ton Sampah Diangkut Dari Kalimati, Pemkab Banyuwangi Perc... 3 minggu yang lalu Lantik 73 Pejabat Pengawas, Bupati Ipuk: Berikan Pelayan
-- 15 Ton Sampah Diangkut Dari Kalimati, Pemkab Banyuwangi Perc... 3 minggu yang lalu | https://banyuwangikab.go.id/berita/15-ton-sampah-diangkut-dari-kalimati-pemkab-banyuwangi-percepat-penanganan-hingga-muara | Banyuwangi Jadi Pilot Project Tahapan Penyaluran Bansos Digi... 5 hari yang lalu 15 Ton Sampah Diangkut Dari Kalimati, Pemkab Banyuwangi Perc... 3 minggu yang lalu Lantik 73 Pejabat Pengawas, Bupati Ipuk: Berikan Pelayan
-- Lantik 73 Pejabat Pengawas, Bupati Ipuk: Berikan Pelayanan T... 3 minggu yang lalu | https://banyuwangikab.go.id/berita/lantik-73-pejabat-pengawas-bupati-ipuk-berikan-pelayanan-terbaik-bagi-masyarakat | Banyuwangi Jadi Pilot Project Tahapan Penyaluran Bansos Digi... 5 hari yang lalu 15 Ton Sampah Diangkut Dari Kalimati, Pemkab Banyuwangi Perc... 3 minggu yang lalu Lantik 73 Pejabat Pengawas, Bupati Ipuk: Berikan Pelayan
-- Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 | https://banyuwangikab.go.id/berita/ratusan-pelari-berbagai-daerah-ramaikan-banyuwangi-ijen-green-trail-run-2026 | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor | https://banyuwangikab.go.id/berita/seleksi-porprov-jatim-2027-banyuwangi-gelar-porkab-diikuti-3200-atlet-dari-54-cabor | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 2 hari yang lalu Antisipasi Kepadatan Pelabuhan Ketapang saat Nataru, Delaying System Diterapkan Sejak Probolinggo | https://banyuwangikab.go.id/berita/antisipasi-kepadatan-pelabuhan-ketapang-saat-nataru-delaying-system-diterapkan-sejak-probolinggo | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 2 hari yang lalu Menko Pangan Zulkifli Hasan Salurkan 6.000 Ton Beras untuk 212 Ribu Warga Banyuwangi | https://banyuwangikab.go.id/berita/menko-pangan-zulkifli-hasan-salurkan-6000-ton-beras-untuk-212-ribu-warga-banyuwangi | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 4 hari yang lalu Banyuwangi Raih Juara I Smart Society di Ajang Smart City Forum Kemen Komdigi | https://banyuwangikab.go.id/berita/banyuwangi-raih-juara-i-smart-society-di-ajang-smart-city-forum-kemen-komdigi | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 4 hari yang lalu Banyuwangi Dilirik Investasi Pengolahan Sampah Jadi Energi Listrik 15 Mega Watt | https://banyuwangikab.go.id/berita/banyuwangi-dilirik-investasi-pengolahan-sampah-jadi-energi-listrik-15-mega-watt | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 4 hari yang lalu Ngantor di Desa, Bupati Ipuk Salurkan Insentif 13.392 Guru Ngaji | https://banyuwangikab.go.id/berita/ngantor-di-desa-bupati-ipuk-salurkan-insentif-13392-guru-ngaji | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 4 hari yang lalu Bunga Desa, Bupati Ipuk Dekatkan Layanan Dokter Spesialis hingga Pemeriksaan Gigi ke Warga | https://banyuwangikab.go.id/berita/bunga-desa-bupati-ipuk-dekatkan-layanan-dokter-spesialis-hingga-pemeriksaan-gigi-ke-warga | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 5 hari yang lalu Gali dan Serap Aspirasi Petani, Bupati Ipuk Dialog Langsung saat Bunga Desa di Sukonatar | https://banyuwangikab.go.id/berita/gali-dan-serap-aspirasi-petani-bupati-ipuk-dialog-langsung-saat-bunga-desa-di-sukonatar | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 5 hari yang lalu Ngantor di Desa Gladag, Bupati Ipuk Serahkan 300 Sertifikat Tanah kepada Warga | https://banyuwangikab.go.id/berita/ngantor-di-desa-gladag-bupati-ipuk-serahkan-300-sertifikat-tanah-kepada-warga | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 5 hari yang lalu Berkat Inovasi Pengendalian Inflasi, Banyuwangi Raih Dua Penghargaan TPID Jawa Timur | https://banyuwangikab.go.id/berita/berkat-inovasi-pengendalian-inflasi-banyuwangi-raih-dua-penghargaan-tpid-jawa-timur | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 5 hari yang lalu Antisipasi Kepadatan Nataru, Kemenhub Siapkan Pelabuhan Alternatif dan Posko Bersama di Ketapang | https://banyuwangikab.go.id/berita/antisipasi-kepadatan-nataru-kemenhub-siapkan-pelabuhan-alternatif-dan-posko-bersama-di-ketapang | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 6 hari yang lalu Optimalkan Upaya Penanganan Kemiskinan, Banyuwangi Lakukan Pemutakhiran DTSEN | https://banyuwangikab.go.id/berita/optimalkan-upaya-penanganan-kemiskinan-banyuwangi-lakukan-pemutakhiran-dtsen | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 6 hari yang lalu Saat Bupati Ipuk dan Bupati Rio Saling Lempar Pujian | https://banyuwangikab.go.id/berita/saat-bupati-ipuk-dan-bupati-rio-saling-lempar-pujian | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 1 minggu yang lalu Pisah Sambut Dandim Banyuwangi, Bupati Ipuk: Kesinambungan Program Harus Terjaga | https://banyuwangikab.go.id/berita/pisah-sambut-dandim-banyuwangi-bupati-ipuk-kesinambungan-program-harus-terjaga | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 1 minggu yang lalu Dinilai Berhasil Bangun City Branding, Banyuwangi Jadi Rujukan Pemkab Garut | https://banyuwangikab.go.id/berita/dinilai-berhasil-bangun-city-branding-banyuwangi-jadi-rujukan-pemkab-garut | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 1 minggu yang lalu Dukung Pengentasan Kemiskinan Banyuwangi, Baznas Beri Bantuan Modal Usaha Penerima Zakat | https://banyuwangikab.go.id/berita/dukung-pengentasan-kemiskinan-banyuwangi-baznas-beri-bantuan-modal-usaha-penerima-zakat | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Pendidikan 1 minggu yang lalu Luncurkan SPMB SMAN Taruna Jatim di Banyuwangi, Gubernur Khofifah Tekankan Seleksi Bebas Intervensi | https://banyuwangikab.go.id/berita/luncurkan-spmb-sman-taruna-jatim-di-banyuwangi-gubernur-khofifah-tekankan-seleksi-bebas-intervensi | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
-- Umum 1 minggu yang lalu Bupati Ipuk Ajak Warga Olah Sampah Organik Lewat Teba, Lima RTH Banyuwangi Sudah Dilengkapi Fasilitas | https://banyuwangikab.go.id/berita/bupati-ipuk-ajak-warga-olah-sampah-organik-lewat-teba-lima-rth-banyuwangi-sudah-dilengkapi-fasilitas | Olahraga 1 hari yang lalu Ratusan Pelari Berbagai Daerah Ramaikan Banyuwangi Ijen Green Trail Run 2026 Olahraga 2 hari yang lalu Seleksi Porprov Jatim 2027, Banyuwangi Gelar Porkab Diikuti 3.200 Atlet dari 54 Cabor Umum 
+JUDUL: Tidur Nyenyak Tanpa Takut Bocor Lagi! | Portal Berita Pemerintah Kabupaten Lamongan
+TGL_META: 
+OG_IMAGE: https://lamongankab.go.id/beranda/images/article/thumbnail/portal/b162f714bc4bb7a03fd0a40b37a34d8f.png
+GAMBAR: https://portal.lamongankab.go.id/assets/img/logo/logo-pemkab-lamongan-116x166.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/b162f714bc4bb7a03fd0a40b37a34d8f.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/0f15b224083d85636173078b3cc2a399.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/c8902c2728284691b9e72c1cda014279.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/9d2598f0cc5b5a75ed3b0cdae9a289da.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/de0a89c7006fde9ad5c1fd7fc41ddac9.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/bd253f1ed98452843f5152071b249a0e.png | https://lamongankab.go.id/beranda/images/article/thumbnail/portal/e71e3f848282dd7486d5f91a9f5b617e.png
+ISI:
+Tidur Nyenyak Tanpa Takut Bocor Lagi! | Portal Berita Pemerintah Kabupaten Lamongan
+ Tidur Nyenyak Tanpa Takut Bocor Lagi! 
+berita
+Selasa, 24 November 2026
+24x dilihat
+30 tahunan tinggal bersama keluarganya di sepetak rumah di Desa Sendangharjo Kecamatan Brondong yang dapat dikategorikan dalam Rumah Tidak Layak Huni (Rutilahu), Raji (50) yang setiap harinya bekerja sebagai petani mengaku alasannya bertahan dengan keadaan rumah yang rusak dan bocor, adalah karena tidak memiliki kemampuan melakukan renovasi secara mandiri. Pasalnya merenovasi rumah membutuhkan dana yang cukup besar, sedang penghasilannya hanya cukup untuk memenuhi kebutuhan sehari-hari.
+Ia menjelaskan bahwa selama ini atap rumahnya (genteng, usuk, reng) rusak dan sering bocor jika hujan. Memperoleh informasi dari pihak desa terkait Program Renovasi 220 Rutilahu di Gresik dan Lamongan sinergi TNI AL dan Pemprov Jatim, ia mengaku sangat senang dan berharap rumahnya dapat direnovasi.
+"Genteng, usuk, reng rusak semua, kalau hujan kehujanan. Belum bisa renovasi. Ada info dari pihak desa, rumah disurvei, senang. Asalnya rusak jadi baik itu senang, asalnya bocor jadi gini. Semoga ke depan lebih maju, terima kasih Bapak TNI, Bu Gubernur, Pak Bupati atas Rutilahu ini," ucapnya.
+Tentara Nasional Indonesia Angkatan Laut (TNI AL) melalui Kodaeral V bersinergi dengan Pemerintah Provinsi Jawa Timur, pada Selasa (24/11) menggelar pembukaan Program Karya Bakti TNI AL, berupa renovasi Rumah Tidak Layak Huni (Rutilahu) di Kecamatan Brondong. Program ini menyasar sebanyak 220 rumah yang tersebar di dua wilayah, yakni Kabupaten Gresik sebanyak 70 unit rumah dan Kabupaten Lamongan sebanyak 150 unit rumah.
+Diungkapkan Komandan Kodaeral V Laksda TNI Ali Triswanto, bahwa program ini merupakan bentuk keoedulian TNI AL bersama Pemerintah Provinsi Jawa Timur dalam membantu masyarakat memperoleh tempat tinggal yang lebih layak, sehat, dan aman. Selain itu juga bagian dari pengabdian TNI AL yang tidak hanya menjaga kedaulatan dan keamanan wilayah laut saja, tetapi juga berperan aktif membantu mengatasi kesulitan rakyat di wilayah binaan.
+"Ini komitmen kami untuk terus hadir di tengah masyarakat, memperkuat kemanunggalan TNI dengan rakyat serta memberikan kontribusi nyata bagi pembangunan daerah. Program ini sekaligus menjadi wujud semangat TNI AL yang tidak hanya tangguh dalam menjaga laut Nusantara, tetapi juga peduli terhadap kesejahteraan masyarakat," ucapnya.
+Hadir dalam kesempatan tersebut, Bupati Lamongan Yuhronur Efendi beserta jajaran.
+ Topik Terkait: 
+ Infrastruktur 
+ Perumahan dan Kawasan Permukiman 
+ Rumah Tidak Layak Huni 
+ Bagikan Posting Ini 
+Sebarkan informasi ini melalui platform:
+Posting Lainnya
+ Berita • 22 November 2026 
+Tradisi Menguatkan Ekonomi, Perlindungan Menguatkan Nelayan
+ Berita • 22 November 2026 
+Menjadi Wisudawan Membawa Manfaat
+ Berita • 20 November 2026 
+Kenalan dengan Rovino, Atlet Berprestasi PBSI Lamongan
+ Berita • 20 November 2026 
+Semakin Hijau dan Manis, Pesona Tabebuya
+ Berita • 18 November 2026 
+Kolaborasi Erat Wujudkan Pembangunan Kuat
+ Berita • 18 November 2026 
+Bukan Sekadar Tumbuh, Ekonomi Lamongan Semakin Tangguh
+ Berita • 18 November 2026 
+Tak Perlu Takut Memulai Usaha
+ Berita • 18 November 2026 
+Bukan Sekadar Wacana, Inovasi Lamongan Bawa Perubahan Nyata
+ Berita • 17 November 2026 
+Satu Langkah Dua Manfaat, Cegah Banjir dan Jaga Ketersediaan Air
+ Berita • 17 November 2026 
+Mengintip Warisan Masa Lampau dari Beragam Penjuru Jawa Timur
+ Berita • 17 November 2026 
+Hukum sebagai Pedoman, Bukan Beban
+ Berita • 17 November 2026 
+29 Medali, Hasil Juang Atlet Muda Lamongan
+LAPOR!
+Kategori Publikasi
+Agenda 
+Berita 
+Informasi 
+Pengumuman 
+Siaran Pers 
+PEMERINTAH KABUPATEN LAMONGAN
+ Jl. Basuki Rahmad No. 1, Kecamatan Lamongan, Kabupaten Lamongan, Provinsi Jawa Timur, Kode Pos 62214 
+ diskominfo@lamongankab.go.id 
+ +628113021708 
+ © 2026 Pemerintah Kabupaten Lamongan
 
-## DAFTAR https://lumajangkab.go.id/
+## https://tubankab.go.id/entry/dinkes-tuban-gelar-workshop-tata-laksana-balita-bermasalah-gizi-dengan-terapi-pdk-dan-pkmk-ini-tujuannya
 STATUS 200
-- Membersihkan kayu yang menyumbat Baca | https://lumajangkab.go.id/berita-opd/detail/15846 | 23 November 2026 | DPUTR Membersihkan kayu yang menyumbat Baca
-- Perkuat Kesiapsiagaan Satuan Pendidikan, BBGTK Jatim dan Dindikbud Lumajang Gelar Workshop Sekolah Tangguh Bencana Baca | https://lumajangkab.go.id/berita-opd/detail/15845 | 21 November 2026 | DINDIKBUD Perkuat Kesiapsiagaan Satuan Pendidikan, BBGTK Jatim dan Dindikbud Lumajang Gelar Workshop Sekolah Tangguh Bencana Baca
-- Semangat Jumat Bersih, DPMPTSP Kabupaten Lumajang Gelar Kerja Bakti Lingkungan Baca | https://lumajangkab.go.id/berita-opd/detail/15849 | 20 November 2026 | DPMPTSP Semangat Jumat Bersih, DPMPTSP Kabupaten Lumajang Gelar Kerja Bakti Lingkungan Baca
-- Agam Abdillah, Pembalap Cilik Lumajang yang Menginspirasi dan Menjaga Etika Berkendara 13 Maret 2025 Lainnya | https://e-gallery.lumajangkab.go.id/main/detail_foto/5227/agam-abdillah-pembalap-cilik-lumajang-yang-menginspirasi-dan-menjaga-etika-berkendara | 
+JUDUL: Dinkes Tuban Gelar Workshop Tata Laksana Balita Bermasalah Gizi dengan Terapi PDK dan PKMK, Ini Tujuannya  | Situs Resmi Pemerintah Kabupaten Tuban
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://tubankab.go.id/files/site-config/tubankab.gif | https://tubankab.go.id/theme/newtubankab/assets/images/spin.svg?1b31c63725 | https://tubankab.go.id/files/2024-08/instansi.png | https://tubankab.go.id/files/2024-08/kecamatan.png | https://tubankab.go.id/files/2024-08/desa-digital.png | https://tubankab.go.id/files/2024-08/puskesmas.png | https://tubankab.go.id/theme/newtubankab/assets/images/Logo-02.png?946485995e | https://tubankab.go.id/files/2026-11/workshop-tatalaksana-gizi-1.png
+ISI:
+Dinkes Tuban Gelar Workshop Tata Laksana Balita Bermasalah Gizi dengan Terapi PDK dan PKMK, Ini Tujuannya | Situs Resmi Pemerintah Kabupaten Tuban
+(0356) 321020, 8832697
+info@tubankab.go.id
+Beranda
+Profil
+Profil Tuban
+Profil Pimpinan Daerah
+Visi Misi
+Struktur Organisasi
+Tupoksi Pemerintah Kabupaten
+Penghargaan
+Geografi
+Demografi
+Lambang Daerah
+Produk Unggulan dan Wisata Kuliner
+Pesona Pariwisata
+Redaksi
+Publikasi
+LPSE
+JDIH
+Transparansi Anggaran
+Sakip Kab. Tuban
+Agenda
+Pengumuman
+Galeri Foto
+Galeri Video
+e-Announcement LHKPN
+PPID
+Pengaduan Masyarakat
+Berita
+IPSI Tuban Bawa Pulang …
+Kepala MA Sains Bina …
+Tingkatkan Kapasitas …
+Dinkes Tuban Gelar …
+5.000 Pesepeda Meriahkan …
+Bupati Tuban Ajak Alumni …
+Kategori Berita
+Kegiatan Bupati dan Wakil Bupati
+Kegiatan Pemerintahan
+Umum
+Produk Unggulan
+Pesona Pariwisata
+Berita Nasional
+Porprov VIII 2023
+Porprov 2019
+MTQ 2020
+Dinkes Tuban Gelar Workshop Tata Laksana Balita Bermasalah Gizi dengan Terapi PDK dan PKMK, Ini Tujuannya
+Beranda
+Berita
+Dinkes Tuban Gelar Workshop Tata Laksana Balita Bermasalah Gizi dengan Terapi PDK dan PKMK, Ini Tujuannya
+Peserta mengikuti Workshop Tata Laksana Balita Bermasalah Gizi yang diselenggarakan Dinkes P2KB Kabupaten Tuban di Aula Aster. (ist)
+Dinkes Tuban Gelar Workshop Tata Laksana Balita Bermasalah Gizi dengan Terapi PDK dan PKMK, Ini Tujuannya
+ 24 November 2026 15:19
+ Yavid
+Kegiatan Pemerintahan
+, 
+ 18
+Tubankab 
+– Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana (Dinkes P2KB) Kabupaten Tuban menyelenggarakan Workshop Tata Laksana Balita Bermasalah Gizi pada Selasa (24/11/2026) di Aula Aster dinas setempat. Kegiatan ini digelar untuk meningkatkan kapasitas tenaga kesehatan dalam menangani kasus balita bermasalah gizi, khususnya stunting dan gizi buruk.
+Workshop tersebut diikuti Tenaga Pelaksana Gizi Puskesmas, Dokter Umum Puskesmas, Ahli Gizi Rumah Sakit, serta jajaran Dinkes P2KB Tuban. Untuk memberikan pendalaman materi klinis, panitia menghadirkan dokter spesialis anak sebagai narasumber utama.
+Plt. Kepala Bidang Kesehatan Masyarakat, Kefarmasian, Alat Kesehatan, serta Tenaga Kesehatan Dinkes P2KB Tuban, Rani Yunitasari, S.Farm., Apt., hadir mewakili Plt. Kepala Dinkes P2KB Tuban, drg. Heni Purnomo Wati. Dalam sambutannya, Rani menekankan pentingnya ketepatan penanganan kasus gizi di lapangan.
+"Penanganan balita bermasalah gizi membutuhkan ketelitian klinis dan kolaborasi yang solid. Melalui workshop ini, kami berharap seluruh tenaga kesehatan di Puskesmas maupun Rumah Sakit memiliki pemahaman yang seragam dalam memberikan terapi gizi yang tepat sasaran, sehingga angka stunting dan gizi buruk di Tuban dapat terus ditekan," ujarnya.
+Adapun fokus utama workshop ini adalah pemberian terapi Pangan Diet Khusus (PDK) dan Pangan Olahan untuk Keperluan Medis Khusus (PKMK). Para peserta dibekali pemahaman mengenai cara mengidentifikasi, menilai kondisi klinis, serta melakukan tata laksana balita bermasalah gizi secara tepat sesuai indikasi medis dan standar pelayanan yang berlaku.
+Selain materi teknis, forum ini juga membahas pemanfaatan PDK dan PKMK sebagai bagian dari terapi gizi untuk mempercepat pemulihan kondisi kesehatan balita.
+Melalui kegiatan ini, Dinkes P2KB Kabupaten Tuban menargetkan terciptanya kesamaan persepsi dan peningkatan kompetensi di kalangan tenaga kesehatan. Workshop ini juga diharapkan dapat meningkatkan koordinasi lintas fasilitas kesehatan, mulai dari Puskesmas, Rumah Sakit, hingga Dinkes P2KB, guna menghadirkan pelayanan gizi yang komprehensif dan berkelanjutan demi mewujudkan generasi Kabupaten Tuban yang sehat dan berkualitas. 
+(aris/yav)
+ -
+comments powered by 
+Disqus
+Berita Populer
+GENTONG 2026 Semarakkan Hari Jadi ke-733 Tuban, 21 Kelompok Tongklek Unjuk Kreasi
+ 08 November 2026 01:39
+ 1109
+Atlet Tuban Tambah Medali POPDA XV Jatim 2026, Kini Koleksi 2 Emas, 1 Perak, dan 3 Perunggu
+ 03 November 2026 23:27
+ 1028
+Bushido Ajie Saputra Sumbang Dua Medali Perak untuk Tuban di POPDA XV Jatim 2026
+ 09 November 2026 22:01
+ 953
+Ucapan Hari Jadi ke-733 Tuban Berupa Tanaman, Bakal Menghijaukan Sejumlah RTH
+ 11 November 2026 20:30
+ 916
+Usung Konsep “Kekayaan Pesisir”, Sentra IKM Bulujowo Binaan Disnakerin Tuban Sabet Juara 1 BUMEX 2026
+ 02 November 2026 18:47
+ 878
+Agenda
+ Agenda hari ini dan kedepan belum ada
+Pengumuman
+Pengumuman Hasil Akhir Seleksi Calon Direktur PDAM Tirta Lestari Kabupaten Tuban
+Pengumuman Hasil Akhir Seleksi Calon Komisaris PT Ronggolawe Sukses Mandiri (PERSERODA)
+Pengumuman Hasil Akhir Seleksi Calon Direktur PT Ronggolawe Sukses Mandiri (PERSERODA)
+TELEPON PENTING
+IRD RSUD dr. R. Koesma
+ 321010
+PMI
+ 321089
+PEMADAM
+ (0356) 321016
+UGD RS NU
+ 328299
+UGD RS Muhammadiyah
+ 321334
+POLRES Tuban
+ 321290
+KODIM 0811 Tuban
+ 321200
+TELKOM
+ 108
+PLN
+ 123
+PDAM Tirta Lestari Tuban
+ (0356) 321478
+IGD RS. MEDIKA MULIA
+ (0356) 321222 / 0858 005 719 94
+Apotik Jaga
+ Apotek jaga hari ini dan kedepan belum ada
+Galeri Video
+Desa Digital : Menuju Tuban Smart City
+UPACARA PENGIBARAN BENDERA HUT KE-79 RI DI GOR RANGGA JAYA ANORAGA TUBAN
+MAS LINDRA KUKUHKAN PASKIBRAKA KABUPATEN TUBAN 2024
+PESONA TUBAN
+Launcing Si Mas Ganteng
+Pengunjung
 
-## DAFTAR https://baghumas.bojonegorokab.go.id/
+## https://tubankab.go.id/entry/indeks-pembangunan-statistik-tuban-naik-menjadi-2-86-tata-kelola-statistik-sektoral-raih-predikat-baik
 STATUS 200
-- Sorotan Utama Selasa, 24 November 2026 • 18 dilihat Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujud | https://baghumas.bojonegorokab.go.id/berita/bojonegoro-raih-penghargaan-kabupatenkota-percontohan-ktr-setyo-wahono-komitmen-wujudkan-lingkungan-sehat | Sorotan Utama Selasa, 24 November 2026 • 18 dilihat Bojonegoro Raih Penghargaan Kabupaten/Kota Percontohan KTR, Setyo Wahono: Komitmen Wujudkan Lingkungan Sehat Bojonegoro– Komitmen Pemerintah Kabupaten Bojonegoro dalam 
-- Sorotan 22 Nov 2026 Wakil Bupati Nurul Azizah Bincang Santai di Momen Car Free Day Baca warta | https://baghumas.bojonegorokab.go.id/berita/wakil-bupati-nurul-azizah-bincang-santai-di-momen-car-free-day | 
-- Sorotan 21 Nov 2026 SINGA MIKRO Hadirkan Akses Modal Tanpa Bunga, UMKM Bojonegoro Didorong Naik Kelas Baca warta | https://baghumas.bojonegorokab.go.id/berita/singa-mikro-hadirkan-akses-modal-tanpa-bunga-umkm-bojonegoro-didorong-naik-kelas | 
-- 20 Nov 2026 Dari Semangat Geni Sampai Lengo, Wabup Buka Festival Ekonomi Kreatif Bojonegoro Baca warta | https://baghumas.bojonegorokab.go.id/berita/dari-semangat-geni-sampai-lengo-wabup-buka-festival-ekonomi-kreatif-bojonegoro | 
-- 18 November 2026 Raih Penghargaan Terbaik di Harkannas Jatim 2026, Forikan Bojonegoro Kian Optimistis Tingkatkan Konsumsi Ikan Masyarakat Pa | https://baghumas.bojonegorokab.go.id/berita/raih-penghargaan-terbaik-di-harkannas-jatim-2026-forikan-bojonegoro-kian-optimistis-tingkatkan-konsumsi-ikan-masyarakat | 18 November 2026 Raih Penghargaan Terbaik di Harkannas Jatim 2026, Forikan Bojonegoro Kian Optimistis Tingkatkan Konsumsi Ikan Masyarakat Pasuruan – Pemerintah Kabupaten Bojonegoro menorehkan prestasi membanggakan dalam 
-- 18 November 2026 Borong Tiga Penghargaan di HLM Jatim 2026, Pemkab Bojonegoro Perkuat Kesiapan Hadapi Nataru Surabaya - Pemerintah Kabupaten | https://baghumas.bojonegorokab.go.id/berita/borong-tiga-penghargaan-di-hlm-jatim-2026-pemkab-bojonegoro-perkuat-kesiapan-hadapi-nataru | 18 November 2026 Borong Tiga Penghargaan di HLM Jatim 2026, Pemkab Bojonegoro Perkuat Kesiapan Hadapi Nataru Surabaya - Pemerintah Kabupaten Bojonegoro menorehkan prestasi membanggakan di tingkat provinsi deng... Baca Se
-
-## DAFTAR https://portal.lamongankab.go.id/
-STATUS 200
-- Tidur Nyenyak Tanpa Takut Bocor Lagi! | https://portal.lamongankab.go.id/posting/65617 | Tidur Nyenyak Tanpa Takut Bocor Lagi! Selasa, 24 November 2026
-- Tradisi Menguatkan Ekonomi, Perlindungan Menguatkan Nelayan | https://portal.lamongankab.go.id/posting/65448 | Tradisi Menguatkan Ekonomi, Perlindungan Menguatkan Nelayan Minggu, 22 November 2026
-- Menjadi Wisudawan Membawa Manfaat | https://portal.lamongankab.go.id/posting/65447 | Menjadi Wisudawan Membawa Manfaat Minggu, 22 November 2026
-- Kenalan dengan Rovino, Atlet Berprestasi PBSI Lamongan | https://portal.lamongankab.go.id/posting/65446 | Kenalan dengan Rovino, Atlet Berprestasi PBSI Lamongan Jumat, 20 November 2026
-- Semakin Hijau dan Manis, Pesona Tabebuya | https://portal.lamongankab.go.id/posting/65445 | Jumat, 20 November 2026 Semakin Hijau dan Manis, Pesona Tabebuya
-- Kolaborasi Erat Wujudkan Pembangunan Kuat | https://portal.lamongankab.go.id/posting/65360 | Rabu, 18 November 2026 Kolaborasi Erat Wujudkan Pembangunan Kuat
-- Bukan Sekadar Tumbuh, Ekonomi Lamongan Semakin Tangguh | https://portal.lamongankab.go.id/posting/65316 | Rabu, 18 November 2026 Bukan Sekadar Tumbuh, Ekonomi Lamongan Semakin Tangguh
-- Tak Perlu Takut Memulai Usaha | https://portal.lamongankab.go.id/posting/65315 | Rabu, 18 November 2026 Tak Perlu Takut Memulai Usaha
-- Bukan Sekadar Wacana, Inovasi Lamongan Bawa Perubahan Nyata | https://portal.lamongankab.go.id/posting/65314 | Rabu, 18 November 2026 Bukan Sekadar Wacana, Inovasi Lamongan Bawa Perubahan Nyata
-- Satu Langkah Dua Manfaat, Cegah Banjir dan Jaga Ketersediaan Air | https://portal.lamongankab.go.id/posting/65252 | Selasa, 17 November 2026 Satu Langkah Dua Manfaat, Cegah Banjir dan Jaga Ketersediaan Air
-- KAMPUNG KERAPU LABUHAN, OPTIMIS MENDUNIA | https://portal.lamongankab.go.id/posting/62381 | 
-- LAMONGAN TUAN RUMAH EXTRANAS KE-8 TAHUN 2026 | https://portal.lamongankab.go.id/posting/62379 | 
-- JALAN SEMAKIN MANTAP, JAMULA RAIH PENGHARGAAN DARI IJTI | https://portal.lamongankab.go.id/posting/62375 | 
-- PARADE KEBANGSAAN, GAMBARAN KEHARMONISAN ANTAR ETNIS DI LAMONGAN | https://portal.lamongankab.go.id/posting/62373 | 
-- PERUBAHAN APBD 2026 FOKUS KEBUTUHAN PRIORITAS | https://portal.lamongankab.go.id/posting/62369 | 
-- Edukasi Publik Pelindungan Anak: Tumbuh Aman di Ruang Digital | https://portal.lamongankab.go.id/posting/63047 | 
-- [LIVE] Peringatan Hari Kesatuan Gerak (HKG) ke-54 TP PKK Kabupaten Lamongan Tahun 2026 | https://portal.lamongankab.go.id/posting/63105 | 
-- [LIVE] UPACARA PERINGATAN DETIK DETIK PROKLAMASI HUT KE-81 RI | KABUPATEN LAMONGAN | https://portal.lamongankab.go.id/posting/59675 | 
-- [LIVE ] UPACARA PENURUNAN BENDERA MERAH PUTIH HUT KE-81 | https://portal.lamongankab.go.id/posting/59667 | 
-- [LIVE] Pengukuhan Hafidz Hafidzah | https://portal.lamongankab.go.id/posting/54785 | 
-- Keputusan Bupati Kabupaten Lamongan tentang Tim Pengelola Web Perangkat Daerah Kabupaten Lamongan | https://portal.lamongankab.go.id/posting/56120 | 
-- Keputusan Bupati Kabupaten Lamongan tentang Tim Pengelolaan Pengaduan Pelayanan Publik | https://portal.lamongankab.go.id/posting/54997 | 
-- Pengumuman Resmi Logo Hari Jadi Lamongan (HJL) ke-457 Tahun 2026 | https://portal.lamongankab.go.id/posting/49273 | 
-- Peringatan Keamanan Siber: Domain Spoofing yang Mengatasnamakan Organisasi Perangkat Daerah Pemerintah Kabupaten Lamongan | https://portal.lamongankab.go.id/posting/39839 | 
-- Pengumuman Seleksi Penerimaan Calon Anggota Komisaris PT BPR Bank Daerah Lamongan (Perseroda) Periode Tahun 2025-2030 | https://portal.lamongankab.go.id/posting/37288 | 
-
-## DAFTAR https://tubankab.go.id/home
-STATUS 200
-- Tupoksi Pemerintah Kabupaten | https://tubankab.go.id/page/tupoksi-pemerintah-kabupaten | 
-- Produk Unggulan dan Wisata Kuliner | https://tubankab.go.id/page/produk-unggulan | 
-- 5.000 Pesepeda Meriahkan … | https://tubankab.go.id/entry/5-000-pesepeda-meriahkan-healthy-fun-night-ride-kawan-bike-mas-lindra-di-tuban | 
-- Bupati Tuban Ajak Alumni … | https://tubankab.go.id/entry/bupati-tuban-ajak-alumni-ika-unair-berikan-kontribusi-nyata-bagi-pembangunan-dan-masyarakat | 
-- Kegiatan Bupati dan Wakil Bupati | https://tubankab.go.id/categories/kegiatan-bupati-dan-wakil-bupati | 
-- Dinkes Tuban Gelar Workshop … | https://tubankab.go.id/entry/dinkes-tuban-gelar-workshop-tata-laksana-balita-bermasalah-gizi-dengan-terapi-pdk-dan-pkmk-ini-tujuannya | Kegiatan Pemerintahan Dinkes Tuban Gelar Workshop … 24 November 2026 15:19 Yavid
-- Indeks Pembangunan Statistik … | https://tubankab.go.id/entry/indeks-pembangunan-statistik-tuban-naik-menjadi-2-86-tata-kelola-statistik-sektoral-raih-predikat-baik | Kegiatan Pemerintahan Indeks Pembangunan Statistik … 23 November 2026 14:45 Yavid
-- IPSI Tuban Bawa Pulang Tujuh … | https://tubankab.go.id/entry/ipsi-tuban-bawa-pulang-tujuh-medali-dari-kejurprov-piala-gubernur-jawa-timur-2026 | Umum IPSI Tuban Bawa Pulang Tujuh … 21 November 2026 10:44 Yavid
-- Gubernur Jatim Tekankan Sinergi TPID dan TP2DD, Bupati Tuban Siap Perkuat Pengendalian Inflasi dan Digitalisasi | https://tubankab.go.id/entry/gubernur-jatim-tekankan-sinergi-tpid-dan-tp2dd-bupati-tuban-siap-perkuat-pengendalian-inflasi-dan-digitalisasi | Gubernur Jatim Tekankan Sinergi TPID dan TP2DD, Bupati Tuban Siap Perkuat Pengendalian Inflasi dan Digitalisasi 26 February 2026 17:56 Yavid Tubankab - Gubernur Jawa Timur Khofifah Indar Parawansa memimpin High Level Mee
-- Cegah Risiko Keamanan Pangan, … | https://tubankab.go.id/entry/cegah-risiko-keamanan-pangan-pemkab-tuban-dorong-seluruh-sppg-penuhi-standar-operasional-program-makan-bergizi-gratis | Cegah Risiko Keamanan Pangan, … 19 November 2026 12:08 Yavid
-- Tingkatkan Kapasitas Pengelola Informasi, Diskominfo SP Dorong Pengaduan Responsif dan Informasi Terbuka | https://tubankab.go.id/entry/tingkatkan-kapasitas-pengelola-informasi-diskominfo-sp-dorong-pengaduan-responsif-dan-informasi-terbuka | Tingkatkan Kapasitas Pengelola Informasi, Diskominfo SP Dorong Pengaduan Responsif dan Informasi Terbuka 24 November 2026 15:25 Yavid Tubankab – Setiap pengaduan masyarakat harus mendapat kepastian penanganan, bukan seka
-- Pekan Kebudayaan Daerah Tuban 2026 Ditutup dengan Penyerahan Hadiah GENTONG dan Pengukuhan PST | https://tubankab.go.id/entry/pekan-kebudayaan-daerah-tuban-2026-ditutup-dengan-penyerahan-hadiah-gentong-dan-pengukuhan-pst | Pekan Kebudayaan Daerah Tuban 2026 Ditutup dengan Penyerahan Hadiah GENTONG dan Pengukuhan PST 21 November 2026 10:40 Yavid Tubankab – Selama sepekan terakhir, Pekan Kebudayaan Daerah (PKD) Kabupaten Tuban menghadirkan b
-- KADO INDAH PADA HARI JADI TUBAN 732 | https://tubankab.go.id/gallery/kado-indah-pada-hari-jadi-tuban-732 | KADO INDAH PADA HARI JADI TUBAN 732 13 November 2025 09:32
-- HARI JADI 732 KABUPATEN TUBAN | https://tubankab.go.id/gallery/hari-jadi-732-kabupaten-tuban | HARI JADI 732 KABUPATEN TUBAN 13 November 2025 09:16
-- PERINGATAN HARI PAHLAWAN 2025 | https://tubankab.go.id/gallery/peringatan-hari-pahlawan-2025 | PERINGATAN HARI PAHLAWAN 2025 11 November 2025 08:54
-- GENTONG 2026 Semarakkan Hari Jadi ke-733 Tuban, 21 Kelompok Tongklek Unjuk Kreasi | https://tubankab.go.id/entry/gentong-2026-semarakkan-hari-jadi-ke-733-tuban-21-kelompok-tongklek-unjuk-kreasi | GENTONG 2026 Semarakkan Hari Jadi ke-733 Tuban, 21 Kelompok Tongklek Unjuk Kreasi 08 November 2026 01:39 1109
-- Atlet Tuban Tambah Medali POPDA XV Jatim 2026, Kini Koleksi 2 Emas, 1 Perak, dan 3 Perunggu | https://tubankab.go.id/entry/atlet-tuban-tambah-medali-popda-xv-jatim-2026-kini-koleksi-2-emas-1-perak-dan-3-perunggu | Atlet Tuban Tambah Medali POPDA XV Jatim 2026, Kini Koleksi 2 Emas, 1 Perak, dan 3 Perunggu 03 November 2026 23:27 1028
-- Bushido Ajie Saputra Sumbang Dua Medali Perak untuk Tuban di POPDA XV Jatim 2026 | https://tubankab.go.id/entry/bushido-ajie-saputra-sumbang-dua-medali-perak-untuk-tuban-di-popda-xv-jatim-2026 | Bushido Ajie Saputra Sumbang Dua Medali Perak untuk Tuban di POPDA XV Jatim 2026 09 November 2026 22:01 953
-- Ucapan Hari Jadi ke-733 Tuban Berupa Tanaman, Bakal Menghijaukan Sejumlah RTH | https://tubankab.go.id/entry/ucapan-hari-jadi-ke-733-tuban-berupa-tanaman-bakal-menghijaukan-sejumlah-rth | Ucapan Hari Jadi ke-733 Tuban Berupa Tanaman, Bakal Menghijaukan Sejumlah RTH 11 November 2026 20:30 916
-- Usung Konsep “Kekayaan Pesisir”, Sentra IKM Bulujowo Binaan Disnakerin Tuban Sabet Juara 1 BUMEX 2026 | https://tubankab.go.id/entry/usung-konsep-kekayaan-pesisir-sentra-ikm-bulujowo-binaan-disnakerin-tuban-sabet-juara-1-bumex-2026 | Usung Konsep “Kekayaan Pesisir”, Sentra IKM Bulujowo Binaan Disnakerin Tuban Sabet Juara 1 BUMEX 2026 02 November 2026 18:47 878
-- Pengumuman Hasil Akhir Seleksi Calon Direktur PDAM Tirta Lestari Kabupaten Tuban | https://tubankab.go.id/announcement/pengumuman-hasil-akhir-seleksi-calon-direktur-pdam-tirta-lestari-kabupaten-tuban | 
-- Pengumuman Hasil Akhir Seleksi Calon Komisaris PT Ronggolawe Sukses Mandiri (PERSERODA) | https://tubankab.go.id/announcement/pengumuman-hasil-akhir-seleksi-calon-komisaris-pt-ronggolawe-sukses-mandiri-perseroda | 
-- Pengumuman Hasil Akhir Seleksi Calon Direktur PT Ronggolawe Sukses Mandiri (PERSERODA) | https://tubankab.go.id/announcement/pengumuman-hasil-akhir-seleksi-calon-direktur-pt-ronggolawe-sukses-mandiri-perseroda | 
-- Desa Digital : Menuju Tuban Smart City | https://tubankab.go.id/video/desa-digital-menuju-tuban-smart-city | 
-- UPACARA PENGIBARAN BENDERA HUT KE-79 RI DI GOR RANGGA JAYA ANORAGA TUBAN | https://tubankab.go.id/video/upacara-pengibaran-bendera-hut-ke-79-ri-di-gor-rangga-jaya-anoraga-tuban | 
-- MAS LINDRA KUKUHKAN PASKIBRAKA KABUPATEN TUBAN 2024 | https://tubankab.go.id/video/mas-lindra-kukuhkan-paskibraka-kabupaten-tuban-2024 | 
+JUDUL: Indeks Pembangunan Statistik Tuban Naik Menjadi 2,86, Tata Kelola Statistik Sektoral Raih Predikat Baik  | Situs Resmi Pemerintah Kabupaten Tuban
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://tubankab.go.id/files/site-config/tubankab.gif | https://tubankab.go.id/theme/newtubankab/assets/images/spin.svg?1b31c63725 | https://tubankab.go.id/files/2024-08/instansi.png | https://tubankab.go.id/files/2024-08/kecamatan.png | https://tubankab.go.id/files/2024-08/desa-digital.png | https://tubankab.go.id/files/2024-08/puskesmas.png | https://tubankab.go.id/theme/newtubankab/assets/images/Logo-02.png?946485995e | https://tubankab.go.id/files/2026-11/dkisp-1.png
+ISI:
+Indeks Pembangunan Statistik Tuban Naik Menjadi 2,86, Tata Kelola Statistik Sektoral Raih Predikat Baik | Situs Resmi Pemerintah Kabupaten Tuban
+(0356) 321020, 8832697
+info@tubankab.go.id
+Beranda
+Profil
+Profil Tuban
+Profil Pimpinan Daerah
+Visi Misi
+Struktur Organisasi
+Tupoksi Pemerintah Kabupaten
+Penghargaan
+Geografi
+Demografi
+Lambang Daerah
+Produk Unggulan dan Wisata Kuliner
+Pesona Pariwisata
+Redaksi
+Publikasi
+LPSE
+JDIH
+Transparansi Anggaran
+Sakip Kab. Tuban
+Agenda
+Pengumuman
+Galeri Foto
+Galeri Video
+e-Announcement LHKPN
+PPID
+Pengaduan Masyarakat
+Berita
+IPSI Tuban Bawa Pulang …
+Kepala MA Sains Bina …
+Tingkatkan Kapasitas …
+Dinkes Tuban Gelar …
+5.000 Pesepeda Meriahkan …
+Bupati Tuban Ajak Alumni …
+Kategori Berita
+Kegiatan Bupati dan Wakil Bupati
+Kegiatan Pemerintahan
+Umum
+Produk Unggulan
+Pesona Pariwisata
+Berita Nasional
+Porprov VIII 2023
+Porprov 2019
+MTQ 2020
+Indeks Pembangunan Statistik Tuban Naik Menjadi 2,86, Tata Kelola Statistik Sektoral Raih Predikat Baik
+Beranda
+Berita
+Indeks Pembangunan Statistik Tuban Naik Menjadi 2,86, Tata Kelola Statistik Sektoral Raih Predikat Baik
+Kepala Diskominfo SP Kabupaten Tuban, Arif Handoyo. (yavid)
+Indeks Pembangunan Statistik Tuban Naik Menjadi 2,86, Tata Kelola Statistik Sektoral Raih Predikat Baik
+ 23 November 2026 14:45
+ Yavid
+Kegiatan Pemerintahan
+, 
+ 97
+Tubankab 
+– Pemerintah Kabupaten Tuban mencatat peningkatan nilai Indeks Pembangunan Statistik (IPS) dalam Evaluasi Penyelenggaraan Statistik Sektoral (EPSS) Tahun 2026. Nilai IPS yang sebelumnya 2,25 pada 2024 kini meningkat menjadi 2,86 dengan predikat Baik. Capaian tersebut menunjukkan perkembangan penyelenggaraan statistik sektoral di lingkungan pemerintah daerah.
+Adapun, hasil evaluasi tersebut ditetapkan melalui Keputusan Kepala Badan Pusat Statistik (BPS) Nomor 1009 Tahun 2026 tentang Hasil Evaluasi Penyelenggaraan Statistik Sektoral pada Instansi Pusat dan Pemerintah Daerah Tahun 2026. Penilaian EPSS dilaksanakan setiap dua tahun sekali, sehingga evaluasi berikutnya akan berlangsung pada 2028.
+Terkait capaian di bidang statistik tersebut, Kepala Dinas Komunikasi dan Informatika, Statistik dan Persandian Kabupaten Tuban, Arif Handoyo, S.H., M.H., menjelaskan bahwa peningkatan nilai tersebut tidak terlepas dari pembinaan statistik sektoral yang dilakukan secara intensif kepada organisasi perangkat daerah (OPD) lokus penilaian. Kegiatan pembinaan dilaksanakan sejak awal tahun dengan melibatkan BPS sebagai pembina data statistik.
+Dalam pelaksanaannya, pembinaan tersebut diarahkan untuk membantu OPD memenuhi standar penyelenggaraan statistik sektoral, mulai dari tata kelola data hingga kelengkapan bukti dukung dalam proses evaluasi. Dengan pendampingan tersebut, perangkat daerah diharapkan mampu menghasilkan data yang berkualitas dan dapat dipertanggungjawabkan.
+Tidak hanya melalui pembinaan, Pemkab Tuban juga rutin melakukan evaluasi penyelenggaraan statistik sektoral bersama Badan Perencanaan Pembangunan, Riset dan Inovasi Daerah (Bapperida), OPD selaku produsen data, serta BPS sebagai pembina data. Koordinasi lintas lembaga ini menjadi bagian dari upaya memastikan pengelolaan statistik berjalan sesuai prinsip Satu Data Indonesia.
+Dikatakan Arif, upaya tersebut sejalan dengan arahan Bupati Tuban Aditya Halindra Faridzky, agar pemerintah daerah terus meningkatkan kualitas data sebagai dasar pengambilan keputusan dan perumusan kebijakan pembangunan. Data yang akurat, mutakhir, terpadu, dan dapat dipertanggungjawabkan diperlukan agar kebijakan yang diambil sesuai dengan kondisi serta kebutuhan masyarakat. Dengan demikian, perencanaan program dan penentuan prioritas pembangunan dapat dilakukan secara lebih tepat sasaran.
+“Peningkatan nilai IPS ini merupakan hasil dari proses pembinaan dan evaluasi yang dilakukan secara berkelanjutan. Kami bersama BPS, Bapperida, dan seluruh OPD terus mendorong agar penyelenggaraan statistik sektoral berjalan sesuai standar, sehingga data yang dihasilkan semakin berkualitas dan dapat dimanfaatkan untuk mendukung pembangunan daerah,” jelas Arif.
+Lebih lanjut, Arif menambahkan bahwa data hasil pendampingan statistik sektoral juga dapat diakses oleh masyarakat umum. Keterbukaan tersebut menjadi bagian dari upaya menyediakan informasi yang dapat dimanfaatkan publik sekaligus mendorong transparansi penyelenggaraan pemerintahan.
+“Data yang dihasilkan pemerintah tidak hanya untuk kebutuhan internal perangkat daerah. Masyarakat juga dapat mengaksesnya sebagai bentuk keterbukaan informasi. Harapannya, data tersebut dapat menjadi sumber informasi yang bermanfaat sekaligus mendukung partisipasi masyarakat dalam pembangunan,” imbuhnya.
+Dengan capaian tersebut, peningkatan nilai IPS Kabupaten Tuban dari 2,25 menjadi 2,86 menjadi capaian yang perlu dijaga melalui konsistensi pembinaan dan evaluasi. Ke depan, penyelenggaraan statistik sektoral diharapkan semakin merata di seluruh perangkat daerah, sehingga data yang akurat, terpadu, dan dapat dipertanggungjawabkan dapat menjadi landasan dalam merumuskan kebijakan pembangunan yang lebih tepat sasaran. 
+(yav)
+ -
+comments powered by 
+Disqus
+Berita Populer
+GENTONG 2026 Semarakkan Hari Jadi ke-733 Tuban, 21 Kelompok Tongklek Unjuk Kreasi
+ 08 November 2026 01:39
+ 1109
+Atlet Tuban Tambah Medali POPDA XV Jatim 2026, Kini Koleksi 2 Emas, 1 Perak, dan 3 Perunggu
+ 03 November 2026 23:27
+ 1028
+Bushido Ajie Saputra Sumbang Dua Medali Perak untuk Tuban di POPDA XV Jatim 2026
+ 09 November 2026 22:01
+ 953
+Ucapan Hari Jadi ke-733 Tuban Berupa Tanaman, Bakal Menghijaukan Sejumlah RTH
+ 11 November 2026 20:30
+ 916
+Usung Konsep “Kekayaan Pesisir”, Sentra IKM Bulujowo Binaan Disnakerin Tuban Sabet Juara 1 BUMEX 2026
+ 02 November 2026 18:47
+ 878
+Agenda
+ Agenda hari ini dan kedepan belum ada
+Pengumuman
+Pengumuman Hasil Akhir Seleksi Calon Direktur PDAM Tirta Lestari Kabupaten Tuban
+Pengumuman Hasil Akhir Seleksi Calon Komisaris PT Ronggolawe Sukses Mandiri (PERSERODA)
+Pengumuman Hasil Akhir Seleksi Calon Direktur PT Ronggolawe Sukses Mandiri (PERSERODA)
+TELEPON PENTING
+IRD RSUD dr. R. Koesma
+ 321010
+PMI
+ 321089
+PEMADAM
+ (0356) 321016
+UGD RS NU
+ 328299
+UGD RS Muhammadiyah
+ 321334
+POLRES Tuban
+ 321290
+KODIM 0811 Tuban
+ 321200
+TELKOM
+ 108
+PLN
+ 123
+PDAM Tirta Lestari Tuban
+ (0356) 321478
+IGD RS. MEDIKA MULIA
+ (0356) 321222 / 0858 005 719 94
+Apotik Jaga
+ Apotek jaga hari ini dan kedepan belum ada
+Galeri Video
+Desa Digital : Menuju Tuban Smart City
+UPACARA PENGIBARAN BENDERA HUT KE-79 RI DI GOR RANGGA JAYA ANORAGA TUBAN
+MAS LINDRA KUKUHKAN PASKIBRAKA KABUPATEN TUBAN 2024
+PESONA TUBAN
+Launcing Si Mas Ganteng
+Pengunjung
