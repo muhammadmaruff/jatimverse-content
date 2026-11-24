@@ -1,0 +1,43 @@
+name: baca-halaman
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "daftar (semua halaman daftar sumber.json) | daftar-url | artikel"
+        required: true
+        default: "daftar"
+      urls:
+        description: "URL dipisah spasi (untuk mode daftar-url / artikel)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: baca-halaman
+  cancel-in-progress: false
+
+jobs:
+  baca:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - name: Baca
+        env:
+          MODE: ${{ inputs.mode }}
+          URLS: ${{ inputs.urls }}
+        run: python scripts/baca_halaman.py "$MODE" $URLS
+      - name: Simpan hasil
+        run: |
+          git config user.name "jatimverse-bot"
+          git config user.email "bot@jatimverse.id"
+          git add -f bacaan/hasil.md
+          git diff --cached --quiet || git commit -m "baca halaman otomatis"
+          git pull --rebase origin main
+          git push
