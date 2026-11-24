@@ -8,4 +8,4 @@ Eri menyebut, berdasarkan data Kemenaker, standar kebutuhan hidup layak di Surab
 
 Ia meminta pengertian serikat pekerja terhadap angka final tersebut agar kenaikan upah tidak memberatkan pelaku industri. "Serikat Pekerja harus sejahtera, tapi pengusaha juga tidak boleh menanggung beban berat sehingga mereka harus pindah dari Kota Surabaya," ujarnya.
 
-Eri menegaskan kenaikan UMK harus memberi kesejahteraan bagi serikat pekerja, tetapi tidak boleh mengabaikan beban yang ditanggung pelaku industri dan pengusaha. "Saya berharap ada pengertian, koordinasi, antara pengusaha dan buruh sehingga ketemu titik temunya," ujarnya. Usulan UMK Surabaya 2027 itu telah dikirim ke Pemprov Jatim.
+Eri menegaskan kenaikan UMK harus memberi kesejahteraan bagi serikat pekerja, tetapi tidak boleh mengabaikan beban yang ditanggung pelaku industri dan pengusaha. "Saya berharap ada pengertian, koordinasi, antara pengusaha dan buruh sehingga ketemu titik temunya," ujarnya. Usulan UMK Surabaya 2027 itu, menurut keterangan Pemkot, telah dikirim ke Pemerintah Provinsi Jawa Timur.
