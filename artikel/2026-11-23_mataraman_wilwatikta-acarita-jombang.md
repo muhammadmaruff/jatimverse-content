@@ -1,4 +1,4 @@
-# Wilwatikta Acarita 2026 di Jombang Ditutup, Wabup Ajak Anak Muda Rawat Warisan Majapahit
+# Wilwatikta Acarita Jombang Ditutup, Anak Muda Diajak Rawat Warisan Majapahit
 
 JOMBANG – Malam puncak Wilwatikta Acarita 2026 digelar di Stadion Merdeka, Jombang, Sabtu (21/11/2026) malam. Acara bertema "Sandhyakala Wilwatikta: Jejak Perubahan, Warisan Peradaban, Masa Depan Kebudayaan" itu menjadi momen merefleksikan sejarah Majapahit.
 
