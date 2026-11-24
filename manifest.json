@@ -9601,6 +9601,84 @@
       "tgl_upload": "2026-11-24T17:39:21+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-25T06:21+07:00"
+    },
+    {
+      "id": "2026-11-25_mataraman_tata-kelola-kdkmp-ngawi",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Ngawi",
+      "url_sumber": [
+        "https://suara.ngawikab.go.id/2026/11/23/sosialisasi-tata-kelola-kdkmp-ngawi-optimalkan-peran-pengawas-dan-manajer/"
+      ],
+      "url_foto_sumber": "https://suara.ngawikab.go.id/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-23.36.04.jpeg",
+      "tgl_terbit_sumber": "2026-11-23",
+      "kredit_foto": "Pemkab Ngawi",
+      "kategori": "ekonomi",
+      "rubrik": "biar-paham",
+      "tag": [
+        "KDKMP",
+        "Koperasi Merah Putih",
+        "Perpres 82/2026",
+        "Dinas Koperasi dan UMKM Ngawi",
+        "Agrinas"
+      ],
+      "catatan": "Rentang 48 jam (rilis 23 Nov). Narasumber \"Antok\" tanpa jabatan di sumber.",
+      "judul": "Ngawi Sosialisasikan Tata Kelola Koperasi Merah Putih, 12 KDKMP Beroperasi",
+      "jumlah_kata": 225,
+      "file_md": "artikel/2026-11-25_mataraman_tata-kelola-kdkmp-ngawi.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-25_madura_microfinance-masjid-kolor-sumenep",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Sumenep",
+      "url_sumber": [
+        "https://sumenepkab.go.id/berita/baca/masjid-rahmatullah-kolor-bersama-baznas-sumenep-hadirkan-program-microfinance-masjid"
+      ],
+      "url_foto_sumber": "https://sumenepkab.go.id/uploads/images/news_news/7f14d4c55e29c641da5bedf2736649074800df47.jpg",
+      "tgl_terbit_sumber": "2026-11-23",
+      "kredit_foto": "Pemkab Sumenep",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Microfinance Masjid",
+        "Baznas Sumenep",
+        "UMKM",
+        "Desa Kolor",
+        "Dana bergulir"
+      ],
+      "catatan": "Rentang 48 jam (rilis 23 Nov). Kecamatan tidak disebut di sumber.",
+      "judul": "Masjid Rahmatullah Kolor dan Baznas Sumenep Luncurkan Microfinance Masjid",
+      "jumlah_kata": 210,
+      "file_md": "artikel/2026-11-25_madura_microfinance-masjid-kolor-sumenep.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-25_madura_hut-pgri-jatim-pamekasan",
+      "wilayah": "Madura",
+      "kabkota": "Kabupaten Pamekasan",
+      "url_sumber": [
+        "https://pamekasankab.go.id/berita/1636/pamekasan-sukses-jadi-tuan-rumah-hut-ke81-pgri-sejatim"
+      ],
+      "url_foto_sumber": "https://pamekasankab.go.id/img-berita/51795415926.jpg",
+      "tgl_terbit_sumber": "2026-11-23",
+      "kredit_foto": "Pemkab Pamekasan",
+      "kategori": "viral",
+      "rubrik": "suara-arek",
+      "tag": [
+        "HUT PGRI",
+        "Guru",
+        "Pamekasan",
+        "Emil Dardak",
+        "Baca Al-Qur'an"
+      ],
+      "catatan": "Rentang 48 jam: acara Sabtu 21 Nov, rilis 23 Nov. Lokasi acara tidak disebut di sumber.",
+      "judul": "Pamekasan Jadi Tuan Rumah HUT ke-81 PGRI Jatim, 27 Ribu Guru Hadir",
+      "jumlah_kata": 230,
+      "file_md": "artikel/2026-11-25_madura_hut-pgri-jatim-pamekasan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
     }
   ]
 }
