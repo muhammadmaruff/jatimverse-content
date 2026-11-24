@@ -1,4 +1,4 @@
-# Banyuwangi Terbaik III Nasional Layanan Administrasi Kependudukan Versi Kemendagri
+# Banyuwangi Terbaik III Nasional Layanan Adminduk Versi Kemendagri
 
 BANYUWANGI – Kementerian Dalam Negeri (Kemendagri) menetapkan Kabupaten Banyuwangi sebagai Terbaik III kategori Penyelenggaraan Administrasi Kependudukan dan Pencatatan Sipil tingkat kabupaten. Penetapan itu berlangsung dalam ajang Apresiasi Pemerintah Daerah Berprestasi 2026 Batch III Regional Jawa dan Bali.
 

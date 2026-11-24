@@ -1,4 +1,4 @@
-# Desa Bangsring Banyuwangi Jalani Verifikasi Lapangan Lomba Desa Wisata Nusantara
+# Desa Bangsring Jalani Verifikasi Lapangan Lomba Desa Wisata Nusantara
 
 BANYUWANGI – Desa Bangsring, Kecamatan Wongsorejo, Banyuwangi, masuk 15 besar Lomba Desa Wisata Nusantara (LDWN) 2026 yang digelar Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT). Desa wisata berbasis konservasi laut dan pemberdayaan masyarakat itu kini dinilai untuk menjadi lima besar terbaik nasional.
 

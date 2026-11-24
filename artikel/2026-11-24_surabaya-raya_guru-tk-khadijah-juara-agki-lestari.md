@@ -1,4 +1,4 @@
-# Guru TK Khadijah Surabaya Juara 1 AGKI Jatim dan Nasional Lewat Inovasi LESTARI
+# Guru TK Khadijah Surabaya Juara 1 AGKI Jatim dan Nasional Lewat LESTARI
 
 SURABAYA – Pemerintah Kota (Pemkot) Surabaya mengapresiasi capaian Vivin Enerlis, guru TK Khadijah Surabaya, yang meraih Juara 1 Anugerah Guru Kreatif dan Inovatif (AGKI) di tingkat Jawa Timur dan nasional. Prestasi itu diraih lewat inovasi pembelajaran bernama LESTARI.
 
