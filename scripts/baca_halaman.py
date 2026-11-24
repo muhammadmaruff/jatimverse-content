@@ -73,9 +73,18 @@ def daftar(url):
         baris.append(f"- {t[:140]} | {h} | {konteks if konteks != t else ''}")
     return f"## DAFTAR {url}\nSTATUS {kode}\n" + "\n".join(baris[:45]) + "\n"
 
+def jalan(fn, urls, batas=150):
+    """Jalankan paralel dengan batas total waktu; yang belum selesai dicatat TIMEOUT."""
+    from concurrent.futures import wait
+    ex = ThreadPoolExecutor(8)
+    fs = [ex.submit(fn, u) for u in urls]
+    wait(fs, timeout=batas)
+    hasil = [f.result() if f.done() else f"## {u}\nTIMEOUT (> {batas} dtk)\n" for f, u in zip(fs, urls)]
+    ex.shutdown(wait=False, cancel_futures=True)
+    return hasil
+
 def main():
     mode, args = sys.argv[1], sys.argv[2:]
-    parts = []
     if mode == "daftar":
         cfg = json.load(open("config/sumber.json"))["situs"]
         urls = [v["daftar"] for v in cfg.values()
@@ -83,15 +92,13 @@ def main():
         urls += ["https://www.surabaya.go.id/", "https://sidoarjokab.go.id/", "https://www.malangkota.go.id/",
                  "https://www.gresikkab.go.id/", "https://www.lamongankab.go.id/", "https://www.bojonegorokab.go.id/",
                  "https://www.banyuwangikab.go.id/", "https://www.ponorogo.go.id/"]
-        with ThreadPoolExecutor(8) as ex:
-            parts = list(ex.map(daftar, dict.fromkeys(urls)))
+        parts = jalan(daftar, list(dict.fromkeys(urls)))
     elif mode == "daftar-url":
-        with ThreadPoolExecutor(8) as ex:
-            parts = list(ex.map(daftar, args))
+        parts = jalan(daftar, args)
     else:
-        with ThreadPoolExecutor(8) as ex:
-            parts = list(ex.map(artikel, args))
+        parts = jalan(artikel, args)
     (OUT / "hasil.md").write_text("\n".join(parts), encoding="utf-8")
-    print("selesai", len(parts))
+    print("selesai", len(parts), flush=True)
+    import os; os._exit(0)
 
 main()
