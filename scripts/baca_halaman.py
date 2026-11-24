@@ -7,6 +7,7 @@ Dijalankan oleh workflow baca-halaman di GitHub. Hasil: bacaan/hasil.md
   python scripts/baca_halaman.py daftar-url URL [URL...]   # halaman daftar tertentu
 """
 import json, re, sys, pathlib, urllib3
+from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
@@ -18,7 +19,7 @@ MAX_ART = 7000
 
 def ambil(url):
     try:
-        r = requests.get(url, headers=UA, timeout=40, verify=False, allow_redirects=True)
+        r = requests.get(url, headers=UA, timeout=(10, 20), verify=False, allow_redirects=True)
         r.encoding = r.apparent_encoding if r.encoding in (None, "ISO-8859-1") else r.encoding
         return r.status_code, r.text
     except Exception as e:
@@ -82,12 +83,14 @@ def main():
         urls += ["https://www.surabaya.go.id/", "https://sidoarjokab.go.id/", "https://www.malangkota.go.id/",
                  "https://www.gresikkab.go.id/", "https://www.lamongankab.go.id/", "https://www.bojonegorokab.go.id/",
                  "https://www.banyuwangikab.go.id/", "https://www.ponorogo.go.id/"]
-        for u in dict.fromkeys(urls):
-            parts.append(daftar(u))
+        with ThreadPoolExecutor(8) as ex:
+            parts = list(ex.map(daftar, dict.fromkeys(urls)))
     elif mode == "daftar-url":
-        parts = [daftar(u) for u in args]
+        with ThreadPoolExecutor(8) as ex:
+            parts = list(ex.map(daftar, args))
     else:
-        parts = [artikel(u) for u in args]
+        with ThreadPoolExecutor(8) as ex:
+            parts = list(ex.map(artikel, args))
     (OUT / "hasil.md").write_text("\n".join(parts), encoding="utf-8")
     print("selesai", len(parts))
 
