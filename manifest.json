@@ -9813,6 +9813,84 @@
       "file_md": "artikel/2026-11-26_surabaya-raya_hut-50-pam-surya-sembada.md",
       "status": "butuh_gambar",
       "tanda_48j": true
+    },
+    {
+      "id": "2026-11-26_mataraman_bantuan-benih-banjir-serang-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/11/25/pemkab-blitar-salurkan-bantuan-benih-pertanian-di-serang/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/penyaluran-bantuan-serang.jpeg",
+      "tgl_terbit_sumber": "2026-11-25",
+      "kredit_foto": "Pemkab Blitar",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Banjir bandang",
+        "Serang",
+        "Bantuan pertanian",
+        "Rijanto",
+        "Dinas Ketahanan Pangan dan Pertanian"
+      ],
+      "catatan": "",
+      "judul": "Pemkab Blitar Serahkan Benih Padi dan Alsintan untuk Korban Banjir Serang",
+      "jumlah_kata": 232,
+      "file_md": "artikel/2026-11-26_mataraman_bantuan-benih-banjir-serang-blitar.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false
+    },
+    {
+      "id": "2026-11-26_mataraman_obat-herbal-lumbrionsel-tapakrejo-blitar",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Blitar",
+      "url_sumber": [
+        "https://www.blitarkab.go.id/2026/11/25/bupati-blitar-resmikan-produksi-obat-herbal-di-desa-tapakrejo/"
+      ],
+      "url_foto_sumber": "https://www.blitarkab.go.id/wp-content/uploads/2026/11/peresmian-Produksi-Obat-Herbal.jpeg",
+      "tgl_terbit_sumber": "2026-11-25",
+      "kredit_foto": "Pemkab Blitar",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "Obat herbal",
+        "Lumbrionsel",
+        "UMKM",
+        "Tapakrejo",
+        "Kesamben"
+      ],
+      "catatan": "",
+      "judul": "Bupati Blitar Resmikan Tempat Produksi Obat Herbal Lumbrionsel di Kesamben",
+      "jumlah_kata": 200,
+      "file_md": "artikel/2026-11-26_mataraman_obat-herbal-lumbrionsel-tapakrejo-blitar.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false
+    },
+    {
+      "id": "2026-11-26_mataraman_apel-hgn-2026-jombang-muhammadiyah",
+      "wilayah": "Mataraman",
+      "kabkota": "Kabupaten Jombang",
+      "url_sumber": [
+        "https://www.jombangkab.go.id/berita/pimpin-apel-hgn-2026-di-jmc-wakil-bupati-jombang-tekankan-penguatan-karakter-dan-sinergi-pendidikan-24940"
+      ],
+      "url_foto_sumber": "https://resources.jombangkab.go.id/berita/uploads/2026/11/2457586a-7543-4da9-b95d-dd9b8f3404c3.jpg",
+      "tgl_terbit_sumber": "2026-11-25",
+      "kredit_foto": "Pemkab Jombang",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Hari Guru Nasional",
+        "Forum Guru Muhammadiyah",
+        "Salmanudin",
+        "Pendidikan karakter",
+        "Jombang"
+      ],
+      "catatan": "",
+      "judul": "Wabup Jombang: Pendidikan Harus Bentuk Manusia Berilmu dan Berkarakter",
+      "jumlah_kata": 251,
+      "file_md": "artikel/2026-11-26_mataraman_apel-hgn-2026-jombang-muhammadiyah.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false
     }
   ]
 }
