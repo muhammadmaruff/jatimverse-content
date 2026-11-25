@@ -9621,12 +9621,22 @@
         "Dinas Koperasi dan UMKM Ngawi",
         "Agrinas"
       ],
-      "catatan": "Rentang 48 jam (rilis 23 Nov). Narasumber \"Antok\" tanpa jabatan di sumber.",
+      "catatan": "",
       "judul": "Ngawi Sosialisasikan Tata Kelola Koperasi Merah Putih, 12 KDKMP Beroperasi",
       "jumlah_kata": 225,
       "file_md": "artikel/2026-11-25_mataraman_tata-kelola-kdkmp-ngawi.md",
-      "status": "butuh_gambar",
-      "tanda_48j": true
+      "status": "lengkap",
+      "tanda_48j": true,
+      "file_jpg": "foto/2026-11-25_mataraman_tata-kelola-kdkmp-ngawi.jpg",
+      "ukuran_kb": 95.1,
+      "dimensi": "1280x720",
+      "wp_media_id": 2533,
+      "wp_post_id": 2534,
+      "wp_url": "https://jatimverse.id/?p=2534",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-25T16:38:41+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-25T17:23+07:00"
     },
     {
       "id": "2026-11-25_madura_microfinance-masjid-kolor-sumenep",
@@ -9647,12 +9657,22 @@
         "Desa Kolor",
         "Dana bergulir"
       ],
-      "catatan": "Rentang 48 jam (rilis 23 Nov). Kecamatan tidak disebut di sumber.",
+      "catatan": "",
       "judul": "Masjid Rahmatullah Kolor dan Baznas Sumenep Luncurkan Microfinance Masjid",
       "jumlah_kata": 210,
       "file_md": "artikel/2026-11-25_madura_microfinance-masjid-kolor-sumenep.md",
-      "status": "butuh_gambar",
-      "tanda_48j": true
+      "status": "lengkap",
+      "tanda_48j": true,
+      "file_jpg": "foto/2026-11-25_madura_microfinance-masjid-kolor-sumenep.jpg",
+      "ukuran_kb": 95.9,
+      "dimensi": "1280x720",
+      "wp_media_id": 2535,
+      "wp_post_id": 2536,
+      "wp_url": "https://jatimverse.id/?p=2536",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-25T16:38:51+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-25T18:08+07:00"
     },
     {
       "id": "2026-11-25_madura_hut-pgri-jatim-pamekasan",
@@ -9673,12 +9693,22 @@
         "Emil Dardak",
         "Baca Al-Qur'an"
       ],
-      "catatan": "Rentang 48 jam: acara Sabtu 21 Nov, rilis 23 Nov. Lokasi acara tidak disebut di sumber.",
+      "catatan": "",
       "judul": "Pamekasan Jadi Tuan Rumah HUT ke-81 PGRI Jatim, 27 Ribu Guru Hadir",
       "jumlah_kata": 230,
       "file_md": "artikel/2026-11-25_madura_hut-pgri-jatim-pamekasan.md",
-      "status": "butuh_gambar",
-      "tanda_48j": true
+      "status": "lengkap",
+      "tanda_48j": true,
+      "file_jpg": "foto/2026-11-25_madura_hut-pgri-jatim-pamekasan.jpg",
+      "ukuran_kb": 98.0,
+      "dimensi": "1280x720",
+      "wp_media_id": 2537,
+      "wp_post_id": 2538,
+      "wp_url": "https://jatimverse.id/?p=2538",
+      "status_wp": "future",
+      "tgl_upload": "2026-11-25T16:38:58+07:00",
+      "catatan_wp": "",
+      "tgl_tayang": "2026-11-25T18:53+07:00"
     }
   ]
 }
