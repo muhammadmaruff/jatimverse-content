@@ -9709,6 +9709,110 @@
       "tgl_upload": "2026-11-25T16:38:58+07:00",
       "catatan_wp": "",
       "tgl_tayang": "2026-11-25T18:53+07:00"
+    },
+    {
+      "id": "2026-11-26_surabaya-raya_penghargaan-kota-hijau-sampah-detikjatim",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25972/surabaya-sabet-predikat-akselerator-kota-hijau-dan-transformator-pengelolaan-sampah-2026"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25972/blob_5186_0.jpg",
+      "tgl_terbit_sumber": "2026-11-25",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "biar-paham",
+      "tag": [
+        "Pisang Danor",
+        "TPA Benowo",
+        "Kampung Pancasila",
+        "Pemilahan sampah",
+        "Penghargaan"
+      ],
+      "catatan": "",
+      "judul": "Surabaya Raih Dua Penghargaan Pengelolaan Sampah dan Kota Hijau",
+      "jumlah_kata": 310,
+      "file_md": "artikel/2026-11-26_surabaya-raya_penghargaan-kota-hijau-sampah-detikjatim.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false
+    },
+    {
+      "id": "2026-11-26_surabaya-raya_segel-kos-lima-lantai-kandangan",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25971/belum-tuntas-dibongkar-mandiri-pemkot-surabaya-segel-kos-lima-lantai-di-kandangan"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25971/blob_3312_0.jpg",
+      "tgl_terbit_sumber": "2026-11-25",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Satpol PP",
+        "PBG",
+        "Kos lima lantai",
+        "Benowo",
+        "Perda Hunian Layak"
+      ],
+      "catatan": "",
+      "judul": "Pemkot Surabaya Segel Kos Lima Lantai di Kandangan Jaya",
+      "jumlah_kata": 299,
+      "file_md": "artikel/2026-11-26_surabaya-raya_segel-kos-lima-lantai-kandangan.md",
+      "status": "butuh_gambar",
+      "tanda_48j": false
+    },
+    {
+      "id": "2026-11-26_surabaya-raya_aksi-remaja-sehat-110-sekolah",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25969/surabaya-perluas-edukasi-kesehatan-remaja-ke-110-sekolah-cegah-hiv-tbc-hingga-bahaya-rokok"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25969/blob_5362_0.jpg",
+      "tgl_terbit_sumber": "2026-11-24",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "politik",
+      "rubrik": "suara-arek",
+      "tag": [
+        "Remaja sehat",
+        "HIV/AIDS",
+        "TBC",
+        "Bahaya rokok",
+        "PKK Surabaya"
+      ],
+      "catatan": "",
+      "judul": "Edukasi HIV, TBC, dan Bahaya Rokok Menyasar 110 Sekolah di Surabaya",
+      "jumlah_kata": 286,
+      "file_md": "artikel/2026-11-26_surabaya-raya_aksi-remaja-sehat-110-sekolah.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
+    },
+    {
+      "id": "2026-11-26_surabaya-raya_hut-50-pam-surya-sembada",
+      "wilayah": "Surabaya Raya",
+      "kabkota": "Kota Surabaya",
+      "url_sumber": [
+        "https://www.surabaya.go.id/id/berita/25970/peringati-hut-ke-50-pam-surya-sembada-fokus-perkuat-distribusi-air-bersih-di-zona-3-surabaya-utara"
+      ],
+      "url_foto_sumber": "https://surabaya.go.id/uploads/images/posts/post_25970/blob_6807_0.jpg",
+      "tgl_terbit_sumber": "2026-11-24",
+      "kredit_foto": "Pemkot Surabaya",
+      "kategori": "ekonomi",
+      "rubrik": "cuan-jatim",
+      "tag": [
+        "PAM Surya Sembada",
+        "Air bersih",
+        "Surabaya Utara",
+        "Zero Water Loss",
+        "BUMD"
+      ],
+      "catatan": "",
+      "judul": "HUT ke-50 PAM Surya Sembada, Siapkan IPAM Baru untuk Surabaya Utara",
+      "jumlah_kata": 259,
+      "file_md": "artikel/2026-11-26_surabaya-raya_hut-50-pam-surya-sembada.md",
+      "status": "butuh_gambar",
+      "tanda_48j": true
     }
   ]
 }
