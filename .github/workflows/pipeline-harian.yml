@@ -2,11 +2,10 @@ name: pipeline-harian
 
 on:
   schedule:
+    # 2x sehari untuk hemat menit Actions (sebelumnya 5x). Unggah idempoten, jadi jadwal
+    # siang ikut menjadi cadangan jika jadwal pagi terlewat atau gagal.
     - cron: "0 1 * * *"    # 08.00 WIB (01.00 UTC)
-    - cron: "30 1 * * *"   # cadangan 08.30 WIB (unggah idempoten, jalan beruntun)
-    - cron: "0 2 * * *"    # cadangan 09.00 WIB
-    - cron: "0 4 * * *"    # cadangan 11.00 WIB (jika jadwal pagi terlewat)
-    - cron: "0 7 * * *"    # cadangan 14.00 WIB
+    - cron: "0 7 * * *"    # 14.00 WIB
   workflow_dispatch:
     inputs:
       mode:
@@ -18,6 +17,10 @@ on:
         description: "Maksimal paket per jalan (kosong = ikuti config)"
         required: false
         default: ""
+      sinkron_semua:
+        description: "Cek ulang metadata semua post (lambat, biasanya tidak perlu)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -46,10 +49,12 @@ jobs:
           WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
           MODE: ${{ inputs.mode }}
           MAKS: ${{ inputs.maks }}
+          SINKRON_SEMUA: ${{ inputs.sinkron_semua }}
         run: |
           ARGS=""
           [ "$MODE" = "kering" ] && ARGS="$ARGS --kering"
           [ -n "$MAKS" ] && ARGS="$ARGS --maks $MAKS"
+          [ "$SINKRON_SEMUA" = "true" ] && ARGS="$ARGS --sinkron-semua"
           python scripts/upload_wp.py $ARGS
       - name: Simpan hasil
         if: always()
@@ -59,5 +64,10 @@ jobs:
           git add -A
           if git diff --cached --quiet; then echo "tidak ada perubahan"; exit 0; fi
           git commit -m "pipeline harian otomatis"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            # -X theirs: saat rebase, versi bot yang menang di bagian yang bentrok
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 10))
+          done
+          echo "gagal menyimpan hasil setelah 3 percobaan"; exit 1
