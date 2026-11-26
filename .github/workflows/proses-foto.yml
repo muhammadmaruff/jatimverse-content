@@ -34,5 +34,12 @@ jobs:
           git config user.name "jatimverse-bot"
           git config user.email "bot@jatimverse.id"
           git add -A
-          git diff --cached --quiet || git commit -m "proses foto otomatis"
-          git push
+          if git diff --cached --quiet; then echo "tidak ada perubahan"; exit 0; fi
+          git commit -m "proses foto otomatis"
+          for i in 1 2 3; do
+            # -X theirs: saat rebase, versi bot yang menang di bagian yang bentrok
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 10))
+          done
+          echo "gagal menyimpan hasil setelah 3 percobaan"; exit 1

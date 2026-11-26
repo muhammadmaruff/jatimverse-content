@@ -2,10 +2,12 @@
 """Unggah paket 'lengkap' ke WordPress via REST API.
 
 Kredensial hanya dari env: WP_URL, WP_USER, WP_APP_PASSWORD.
-Pemakaian: python scripts/upload_wp.py [--kering] [--maks N]
+Pemakaian: python scripts/upload_wp.py [--kering] [--maks N] [--sinkron-semua]
+Sinkron metadata hanya untuk paket yang perlu (lihat perlu_sinkron); --sinkron-semua memaksa semua.
 Jika config/wordpress.json "aktif" = false, otomatis berjalan sebagai --kering.
 """
 import argparse
+import hashlib
 import html
 import json
 import os
@@ -222,6 +224,34 @@ def sinkron_meta(wp, cfg, p, tayang=None):
     return f"diperbarui {sorted(upd)}" if upd else "metadata sudah sesuai"
 
 
+def sidik_meta(cfg, p):
+    """Sidik isi + metadata paket. Berubah jika file artikel, metadata manifest, atau config terkait berubah."""
+    try:
+        isi = (ROOT / p["file_md"]).read_text(encoding="utf-8")
+    except OSError:
+        isi = ""
+    meta = {k: p.get(k) for k in ("judul", "kategori", "rubrik", "tag", "wilayah", "kabkota", "dapil")}
+    conf = {k: cfg.get(k) for k in ("tag_default", "slug_wilayah", "dapil_per_kabkota")}
+    data = json.dumps([isi, meta, conf], sort_keys=True, ensure_ascii=False)
+    return hashlib.sha1(data.encode("utf-8")).hexdigest()
+
+
+def perlu_sinkron(cfg, p, semua=False):
+    """Hemat menit Actions: post lama yang tidak berubah tidak perlu dicek ulang setiap jalan."""
+    if semua or p.get("jadwal_ulang") or p.get("tayang_segera") or p.get("catatan_wp"):
+        return True
+    if p.get("sidik_meta") != sidik_meta(cfg, p):
+        return True
+    hari = cfg.get("hari_sinkron_meta", 3)
+    try:
+        upload = datetime.fromisoformat(p.get("tgl_upload", ""))
+        if upload.tzinfo is None:
+            upload = upload.replace(tzinfo=WIB)
+    except ValueError:
+        return False
+    return datetime.now(WIB) - upload <= timedelta(days=hari)
+
+
 def uji_koneksi(wp):
     try:
         r = wp.req("GET", "/")
@@ -307,6 +337,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--kering", action="store_true")
     ap.add_argument("--maks", type=int)
+    ap.add_argument("--sinkron-semua", action="store_true",
+                    help="cek ulang metadata semua post, bukan hanya yang baru/berubah")
     a = ap.parse_args()
     cfg = json.loads(CONFIG.read_text())
     m = json.loads(MANIFEST.read_text())
@@ -348,11 +380,16 @@ def main():
         wp.jeda_ok()
     print(f"selesai: {ok}/{len(antrean)} berhasil")
     slot_ulang, iv_ulang = slot_pertama(wp, cfg) if any(x.get("jadwal_ulang") for x in m["paket"]) else (None, None)
+    dilewati = 0
     for p in m["paket"]:
         if p.get("status") == "lengkap" and p.get("wp_post_id") and p.get("wp_media_id"):
+            if not perlu_sinkron(cfg, p, a.sinkron_semua):
+                dilewati += 1
+                continue
             try:
                 ada_ulang = bool(p.get("jadwal_ulang"))
                 print(f"{p['id']}: {sinkron_meta(wp, cfg, p, slot_ulang)}")
+                p["sidik_meta"] = sidik_meta(cfg, p)
                 if ada_ulang and not p.get("jadwal_ulang"):
                     print(f"  dijadwalkan ulang: tayang {slot_ulang.astimezone(WIB):%d/%m %H:%M} WIB")
                     slot_ulang += iv_ulang
@@ -361,6 +398,7 @@ def main():
                 print(f"{p['id']}: GAGAL metadata {p['catatan_wp']}")
             MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False))
             wp.jeda_ok()
+    print(f"sinkron metadata dilewati (tidak berubah): {dilewati}")
     return 0
 
 
