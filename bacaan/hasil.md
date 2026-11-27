@@ -1,265 +1,266 @@
-## DAFTAR https://surabaya.go.id/id/berita
+## https://www.surabaya.go.id/id/berita/25981/libatkan-kementerian-akademisi-pemkot-surabaya-matangkan-penyusunan-raperda-transportasi-2026
 STATUS 200
+JUDUL: Libatkan Kementerian-Akademisi, Pemkot Surabaya Matangkan Penyusunan Raperda Transportasi 2026<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25981/blob_2413_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Libatkan Kementerian-Akademisi, Pemkot Surabaya Matangkan Penyusunan Raperda Transportasi 2026<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Libatkan Kementerian-Akademisi, Pemkot Surabaya Matangkan Penyusunan Raperda Transportasi 2026
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya menggelar focus grup diskusi (FGD) Sosialisasi Rancangan Peraturan Daerah (Raperda) Kota Surabaya tentang Transportasi 2026 di Convention Hall Mal Pelayanan Publik Siola, Kamis (26/11/2026). Dalam FGD tersebut, Pemkot menghadirkan berbagai narasumber di bidang hukum dan transportasi. 
+Staf Ahli Bidang Hukum, Politik, dan Pemerintahan, Kota Surabaya Dedik Irianto mengatakan, kegiatan ini digelar untuk menjamin dan meningkatkan kualitas transportasi di Kota Pahlawan. Seiring meningkatnya kebutuhan kendaraan umum yang berkualitas sebagai alat transportasi, maka Pemkot perlu menyusun Raperda mengatur penyelenggaraan transportasi. 
+“Hal ini dilakukan untuk menciptakan keamanan, ketenangan, keselamatan, serta berhasil guna dan berdaya guna dalam penyelenggaraan transportasi di Kota Surabaya,” kata Dedik. 
+Dedik menyebutkan, berdasarkan Peraturan Menteri Dalam Negeri (Mendagri) Pasal 166 ayat 1 Nomor 80 tahun 2015 tentang Pembentukan Produk Hukum Daerah sebagaimana telah diubah dalam Peraturan Mendagri Nomor 120 tahun 2018, masyarakat berhak memberikan masukan secara lisan atau tertulis dalam pembentukan perda. Oleh karena itu, dalam penyusunan raperda ini Pemkot turut melibatkan Kementerian Dalam Negeri (Kemendagri), Kementerian Perhubungan (Kemenhub), akademisi hingga perwakilan masyarakat. 
+“Melalui sosialisasi raperda ini diharapkan dapat memberikan masukan yang berhubungan dengan transportasi. Hal ini dilakukan bertujuan agar perancangan ini berjalan baik dan kesempurnaan raperda yang dimaksud,” sebutnya.
+Sementara itu, Kepala Bagian Hukum dan Kerja Sama Sekretariat Daerah (Setda) Kota Surabaya, Sidharta Praditya Revienda Putra menerangkan, diselenggarakannya FGD ini adalah untuk memberikan informasi terkait penyusunan Raperda tentang transportasi. Selain itu, kegiatan ini juga sebagai sarana diskusi perancangan Perda tentang Transportasi di Kota Surabaya. 
+“Dalam FGD ini kita bisa menyampaikan dan menerima masukan atau saran terkait Raperda yang kami susun tentang transportasi,” terangnya. 
+Di sisi lain, Kepala Dinas Perhubungan (Dishub) Kota Surabaya Trio Wahyu Bowo, menjelaskan pembahasan Raperda ini adalah untuk menyusun peraturan transportasi kota yang lebih baik ke depannya. Selain itu, forum ini juga untuk menjamin ketersediaan dan penegakan peraturan transportasi di Kota Surabaya. 
+Trio menekankan, Raperda ini juga untuk menata sistem lalu lintas, angkutan umum, serta ketertiban ruang jalan secara terpadu. Dalam forum diskusi ini, lanjut dia, Pemkot turut melibatkan berbagai pemangku kepentingan. 
+“Setiap kali Pemkot Surabaya berkoordinasi dengan pemerintah pusat, yang selalu ditanyakan adalah Perda Transportasi. Sebagai kota metropolitan terbesar kedua di Jawa, Surabaya memang harus segera memiliki payung hukum ini. Melalui forum ini, kami memohon masukan dari seluruh sektor agar aturan ini benar-benar sempurna," ujar Trio.
+Dalam forum ini, Trio menyebutkan sejumlah poin penting yang menjadi fokus utama penyusunan Raperda ini. Salah satunya, kewajiban kepemilikan garasi bagi setiap pemilik kendaraan bermotor. 
+“Setiap warga yang memiliki atau hendak membeli kendaraan bermotor diwajibkan memiliki atau menguasai garasi, serta dilarang menyimpan kendaraan di ruang milik jalan. Pelanggaran terhadap aturan ini terancam sanksi denda sebesar Rp500 ribu,” sebut Trio. 
+Trio menegaskan, digagasnya peraturan ini karena banyaknya laporan dan keluhan warga terkait mobil pribadi yang diparkir di bahu jalan perumahan maupun gang sempit. Akibat itu, seringkali terjadi menghambat laju ambulans dan pemadam kebakaran saat kondisi darurat.
+Tidak hanya membahas regulasi tersebut, Trio memaparkan, di forum ini juga dibahas pengembangan ketersediaan angkutan massal terintegrasi melalui konsep Transit Oriented Development (TOD). Adanya konsep ini, maka transportasi masa depan Kota Surabaya akan saling terkoneksi satu dengan lainnya. 
+“Jadi menghubungkan pejalan kaki, angkutan feeder, Suroboyo Bus, hingga rencana MRT. Pemkot menargetkan seluruh rute yang mencakup 11 koridor utama dan 30 rute feeder dapat terlayani sepenuhnya pada tahun 2029,” paparnya. 
+Di samping itu, Trio juga membahas regulasi parkir liar dan penindakan terhadap kendaraan yang parkir sembarangan di Kota Surabaya. Ia menyebutkan, Raperda ini akan mempertegas sanksi pidana dan denda bagi sejumlah pelanggaran berat, antara lain memungut uang parkir tanpa izin. Bagi yang melakukan pelanggaran ini, bakal dikenakan hukuman penjara paling lama 90 hari atau denda maksimal Rp30 juta. Sedangkan pelanggaran parkir di persil tanpa izin akan dikenakan hukuman paling lama 60 hari atau denda maksimal Rp20 juta.
+Bukan itu saja, dalam forum ini juga dibahas soal peraturan bagi pengendara yang nekat menerobos palang pintu perlintasan kereta api. Pengguna jalan yang melanggar hal ini paling lama dihukum penjara selama 90 hari atau denda maksimal Rp15 juta. 
+Sedangkan pelanggar yang dengan sengaja memasang atau memindahkan rambu, polisi tidur (speed bump), atau portal tanpa izin dikenakan hukuman paling lama 6 bulan atau denda maksimal Rp5 juta. Dan jika ada yang menggunakan jalan di luar fungsinya tanpa izin, bakal dikenakan hukuman paling lama 30 hari atau denda maksimal Rp1 juta.
+Yang terakhir, dalam forum ini juga membahas regulasi pengoperasionalan landasan helikopter (heliport) yang ada di wilayah Surabaya, baik milik TNI, rumah sakit, maupun pihak swasta, dengan melibatkan masukan dari Gartap III/Surabaya. Trio menegaskan, bahwa seluruh draf aturan beserta besaran sanksi tersebut masih dalam tahap sosialisasi dan penjaringan aspirasi publik serta instansi terkait sebelum disahkan.
+“Harapan kami, dengan disahkannya Perda Transportasi ini nantinya, ketertiban dan kedisiplinan berlalu lintas hingga ke tingkat perumahan dapat terwujud. Dengan demikian maka akan tercipta transportasi Kota Surabaya yang selamat, aman, tertib, lancar, dan terpadu,” pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-
-## DAFTAR https://sidoarjokab.go.id/
-STATUS 403 
-
-## DAFTAR https://mojokertokab.go.id/list-berita
-STATUS 0 GAGAL: ReadTimeout: HTTPSConnectionPool(host='mojokertokab.go.id', port=443): Read timed out. (read timeout=20)
-
-## DAFTAR https://kedirikota.go.id/kategori/berita/1
+## https://www.surabaya.go.id/id/berita/25987/surabaya-targetkan-3-732-guru-tersertifikasi-pada-2027-perkuat-kesejahteraan-pendidik
 STATUS 200
-- JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi | https://kedirikota.go.id/p/berita/10114236/jec-java-lengkapi-layanan-kesehatan-di-kediri-gus-qowim-tekankan-kolaborasi-dan-pelayanan-humanis | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Perkuat Pelaksanaan Pengarusutamaan Gender, Pemkot Kediri Optimalkan Peran Pokja dan Focal Point Pemerintah Kota Kediri melalui Dinas Pember | https://kedirikota.go.id/p/berita/10114246/perkuat-pelaksanaan-pengarusutamaan-gender-pemkot-kediri-optimalkan-peran-pokja-dan-focal-point | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Pemkot Kediri Gelar Sayembara Desain Monumen Ikon dan Lampu Hias Pedestrian Jalan Dhoho Bertema Dahanapura Pemerintah Kota Kediri membuka ke | https://kedirikota.go.id/p/berita/10114240/pemkot-kediri-gelar-sayembara-desain-monumen-ikon-dan-lampu-hias-pedestrian-jalan-dhoho-bertema-dahanapura | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Pemkot Kediri Sosialisasikan PP Nomor 33 Tahun 2026, Masyarakat Diimbau Lebih Bijak Membagikan Data Pribadi di Ruang Digital Pemerintah Kota | https://kedirikota.go.id/p/berita/10114239/pemkot-kediri-sosialisasikan-pp-nomor-33-tahun-2026-masyarakat-diimbau-lebih-bijak-membagikan-data-pribadi-di-ruang-digital | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Tingkatkan Kompetensi ASN, Pemkot Kediri Gelar Pelatihan dan Uji Kompetensi PBJ Level 1 Pemerintah Kota Kediri melalui Bagian Pengadaan Bara | https://kedirikota.go.id/p/berita/10114242/tingkatkan-kompetensi-asn-pemkot-kediri-gelar-pelatihan-dan-uji-kompetensi-pbj-level-1 | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Kenalkan Sejarah dan Budaya Sejak Dini, Pemkot Kediri Manfaatkan Museum sebagai Ruang Belajar Upaya menumbuhkan kecintaan generasi muda terh | https://kedirikota.go.id/p/berita/10114241/kenalkan-sejarah-dan-budaya-sejak-dini-pemkot-kediri-manfaatkan-museum-sebagai-ruang-belajar | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Kota Kediri Siap Jadi Tuan Rumah Porprov Jatim XI Tahun 2029, Bidik Lahirnya Atlet Berprestasi dan Dampak Ekonomi Kota Kediri menyatakan kes | https://kedirikota.go.id/p/berita/10114237/kota-kediri-siap-jadi-tuan-rumah-porprov-jatim-xi-tahun-2029-bidik-lahirnya-atlet-berprestasi-dan-dampak-ekonomi | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Turnamen Sepak Bola Wali Kota Cup U-12, Mbak Wali Dukung Penjaringan Bibit Atlet Sejak Dini Turnamen Sepak Bola Piala Wali Kota Cup U-12 SD/ | https://kedirikota.go.id/p/berita/10114231/turnamen-sepak-bola-wali-kota-cup-u-12-mbak-wali-dukung-penjaringan-bibit-atlet-sejak-dini | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Pemkot Kediri Perkuat Kesejahteraan Warga melalui Bantuan Pangan dan Perbaikan Fasilitas Pendidikan serta Kesehatan Penurunan angka kemiskin | https://kedirikota.go.id/p/berita/10114230/pemkot-kediri-perkuat-kesejahteraan-warga-melalui-bantuan-pangan-dan-perbaikan-fasilitas-pendidikan-serta-kesehatan | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
-- Wujudkan Kota Sehat, Pemkot Kediri Perkuat Partisipasi Masyarakat Lewat MAPAN BESTARI Mewujudkan Kota Kediri sebagai Kota Sehat membutuhkan  | https://kedirikota.go.id/p/berita/10114229/wujudkan-kota-sehat-pemkot-kediri-perkuat-partisipasi-masyarakat-lewat-mapan-bestari | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+JUDUL: Surabaya Targetkan 3.732 Guru Tersertifikasi pada 2027, Perkuat Kesejahteraan Pendidik<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25987/blob_9061_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Surabaya Targetkan 3.732 Guru Tersertifikasi pada 2027, Perkuat Kesejahteraan Pendidik<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Surabaya Targetkan 3.732 Guru Tersertifikasi pada 2027, Perkuat Kesejahteraan Pendidik
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya mempercepat sertifikasi guru negeri maupun swasta dengan target menuntaskan 3.732 guru yang belum memiliki sertifikat pendidik pada 2027. Upaya ini menjadi bagian dari komitmen pemkot untuk memperluas pengakuan profesional terhadap tenaga pendidik sekaligus meningkatkan kesejahteraan mereka.
+Kepala Dinas Pendidikan (Dispendik) Kota Surabaya Febrina Kusumawati mengatakan, percepatan tersebut merupakan arahan langsung Wali Kota Surabaya Eri Cahyadi. Untuk merealisasikannya, Dispendik melakukan pemetaan ulang terhadap seluruh guru, baik di sekolah negeri maupun swasta, guna mengetahui jumlah tenaga pendidik yang telah dan belum tersertifikasi.
+“Sertifikasi itu merupakan bentuk pengakuan negara terhadap profesi guru. Pak Wali sudah meminta agar pada 2027 proses ini bisa dirampungkan. Karena itu, kami kembali memetakan data, melihat siapa saja yang sudah tersertifikasi dan siapa yang masih perlu didorong untuk memenuhi persyaratan,” kata Febri sapaan akrabnya, Jumat (27/11/2026).
+Berdasarkan data Dispendik Surabaya, terdapat 21.246 guru yang tercatat dalam basis data pendidikan, terdiri atas tenaga pendidik di sekolah negeri dan swasta. Dari jumlah tersebut, sekitar 17.500 guru telah memiliki sertifikat pendidik. Artinya, masih ada 3.732 guru yang menjadi sasaran percepatan sertifikasi.
+Febri merinci, dari 7.696 guru negeri, sebanyak 7.530 orang telah tersertifikasi sehingga tersisa 116 guru. Sementara guru swasta, dari sekitar 13.000 guru, hampir 10.000 di antaranya telah memiliki sertifikat pendidik. Dengan demikian, pekerjaan terbesar berada pada kelompok guru swasta, yakni sebanyak 3.616 orang yang belum tersertifikasi.
+Menurutnya, percepatan ini tidak boleh hanya berfokus pada sekolah negeri. Guru swasta juga menjadi bagian penting dalam ekosistem pendidikan Surabaya sehingga perlu mendapatkan perhatian dan pendampingan yang setara. Dispendik pun berkoordinasi dengan organisasi pendidikan swasta, termasuk kelompok kepala sekolah, untuk mengidentifikasi kendala yang dihadapi para guru.
+Salah satu persyaratan utama sertifikasi adalah kualifikasi pendidikan minimal sarjana (S1) atau diploma empat (D4) yang telah terverifikasi dalam sistem informasi guru dan tenaga kependidikan. Selain itu, guru juga harus memenuhi ketentuan masa kerja serta mengikuti tahapan Pendidikan Profesi Guru (PPG).
+“Kalau masih ada guru yang belum memenuhi kualifikasi S1 atau D4, tentu itu yang harus kami dorong lebih dahulu. Kami petakan juga siapa yang sudah hampir menyelesaikan kuliah, siapa yang masih membutuhkan waktu, sehingga langkah percepatannya bisa lebih terarah,” jelasnya.
+Untuk membantu pemenuhan kualifikasi tersebut, Pemkot Surabaya menjalin koordinasi dengan sejumlah perguruan tinggi melalui program Rekognisi Pembelajaran Lampau (RPL). Skema ini memungkinkan pengalaman dan pembelajaran sebelumnya diakui sebagai bagian dari proses pendidikan, sehingga guru berpeluang menyelesaikan studi S1 dalam waktu lebih singkat dibandingkan jalur reguler.
+Selain persyaratan administratif, Dispendik juga mendorong peningkatan kompetensi mengajar bagi guru yang akan mengikuti PPG. Febri menegaskan, kesiapan akademik dan kemampuan profesional menjadi bekal penting agar guru dapat melewati proses sertifikasi dengan baik.
+“Kami tidak ingin guru hanya mengejar kelengkapan administrasi. Kemampuan mengajarnya juga harus terus ditingkatkan. Jadi, ketika mengikuti PPG, mereka sudah memiliki bekal yang cukup dan bisa menjalani seluruh tahapan dengan baik,” ujarnya.
+Ia  menjelaskan, sertifikat pendidik tidak hanya menjadi pengakuan atas profesionalitas guru, tetapi juga berkaitan dengan peningkatan kesejahteraan melalui tunjangan profesi guru (TPG) sesuai ketentuan yang berlaku. “Karena itu, percepatan sertifikasi diharapkan membuka kesempatan lebih luas bagi guru untuk memperoleh hak dan apresiasi atas profesinya,” imbuhnya.
+Sementara itu, Ketua Persatuan Guru Republik Indonesia (PGRI) Kota Surabaya, Agnes Warsiati menyambut positif target penyelesaian sertifikasi tersebut. Menurutnya, kebijakan ini sangat berarti, terutama bagi guru swasta yang selama ini memiliki kondisi kesejahteraan berbeda-beda karena bergantung pada kemampuan masing-masing yayasan.
+“Guru-guru swasta tentu sangat berharap bisa mendapatkan sertifikasi. Kami mengapresiasi perhatian Wali Kota Surabaya dan Dispendik Surabaya. Harapan kami, target pada 2027 ini bisa tercapai sehingga semakin banyak guru yang merasakan manfaat dan apresiasi atas profesinya,” kata Agnes.
+Ia menambahkan, PGRI siap bersinergi dengan Dispendik untuk mengawal proses pemetaan dan mendorong para guru memenuhi persyaratan. Menurutnya, peningkatan kesejahteraan perlu berjalan beriringan dengan penguatan kompetensi agar guru dapat menjalankan tugas mendidik secara optimal.
+“Ketika kesejahteraan guru semakin baik, mereka tentu bisa lebih tenang dalam menjalankan tugasnya. Dengan begitu, perhatian dan energi mereka dapat lebih banyak dicurahkan untuk mendampingi anak-anak dan memberikan pendidikan terbaik,” pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-## DAFTAR https://madiunkota.go.id/kategori/berita
-STATUS 403 
-
-## DAFTAR https://www.jemberkab.go.id/category/berita-terbaru/
-STATUS 403 
-
-## DAFTAR https://pamekasankab.go.id/berita
+## https://www.surabaya.go.id/id/berita/25986/bunda-rini-ajak-ibu-ibu-di-surabaya-jadi-garda-terdepan-cegah-resistensi-antibiotik
 STATUS 200
-- Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat | https://pamekasankab.go.id/berita/1637/luncurkan-nutri-level-upaya-pemkab-pamekasan-tingkatkan-literasi-gizi-masyarakat | Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat Selasa, 24 November 2026 130 Pemkab Pamekasan- Dinas Kesehatan (Dinkes) Kabupaten Pamekasan, Madura, Jawa Timur meluncurkan program Nutri 
-- Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim | https://pamekasankab.go.id/berita/1636/pamekasan-sukses-jadi-tuan-rumah-hut-ke81-pgri-sejatim | Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim Senin, 23 November 2026 268 Pemkab Pamekasan- Perayaan hari ulang tahun (HUT) ke 81 Persatuan Guru Republik Indonesia (PGRI) se Jawa Timur yang berlokasi di Kabupa
-- Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan | https://pamekasankab.go.id/berita/1635/jaga-kondusivitas-daerah-wabup-sukriyanto-minta-kolaborasi-pemkab-dan-lapas-pamekasan-ditingkatkan | Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan Kamis, 19 November 2026 238 Pamekasan – Wakil Bupati Pamekasan, Sukriyanto, mendorong penguatan kerja sama lintas instan
-- HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan | https://pamekasankab.go.id/berita/1634/hkn-2026-bupati-pamekasan--mantapkan-komitmen-membangun-sektor-kesehatan | HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan Kamis, 19 November 2026 202 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggelar upacara Hari Kesehatan Nasion
-- KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan | https://pamekasankab.go.id/berita/1633/ksad-dan-gubernur-jatim-hadiri-penutupan-tmmd-ke-130-di-pamekasan- | KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan Kamis, 12 November 2026 727 Pemkab Pamekasan- Penutupan TNI Manunggal Membangun Desa (TMMD) ke 130 yang berlangsung di Lapangan Nagara Bhakti Mandhapa Agh
-- Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian | https://pamekasankab.go.id/berita/1632/upacara-hari-jadi-ke496-pemkab-pamekasan-apresiasi-tokoh-penggerak-pendidikan-hingga-santunan-kematian | Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian Selasa, 03 November 2026 584 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggela
-- Wow! Malam Kemilau Madura Berlangsung Spektakuler | https://pamekasankab.go.id/berita/1631/wow-malam-kemilau-madura-berlangsung-spektakuler | Wow! Malam Kemilau Madura Berlangsung Spektakuler Selasa, 03 November 2026 498 Pemkab Pamekasan- Event Malam Kemilau Madura yang bertempat di alun alun Monumen Arek Lancor Kabupaten Pamekasan, Jawa Timur berlangsung spek
-- Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja | https://pamekasankab.go.id/berita/1629/ayo-daftar-pamekasan-sediakan-1491-lapangan-kerja | Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja Kamis, 29 Oktober 2026 611 Pemkab Pamekasan- Dinas Koperasi Usaha Kecil Menengah dan Tenaga Kerja (Diskop UKM dan Naker) Kabupaten Pamekasan, Madura, Jawa Timur menggel
-- Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura | https://pamekasankab.go.id/berita/1628/pemkab-pamekasan-apresiasi-sarasehan-budaya-dan-temu-tokoh-madura | Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura Kamis, 29 Oktober 2026 529 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Jawa Timur mengapresiasi pagelaran sarasehan budaya dan temu tokoh M
-- Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya | https://pamekasankab.go.id/berita/1627/gelar-lomba-pencak-silat-upaya-pemkab-pamekasan-dorong-kemajuan-olahraga-dan-budaya | Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya Selasa, 27 Oktober 2026 466 Pemkab Pamekasan- Dinas Pendidikan dan Kebudayaan (Disdikbud) Pamekasan, Madura, Jawa Timur menggelar lomba
+JUDUL: Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25986/blob_5977_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cegah Resistensi Antibiotik
+Jumat, 27 November 2026 | 1 hari yang lalu
+Penggunaan antibiotik yang tidak tepat dapat memicu resistensi antimikroba atau kondisi ketika bakteri menjadi kebal terhadap obat. Karena itu, masyarakat perlu memahami aturan penggunaan antibiotik, mulai dari mendapatkan resep dokter, mematuhi dosis, hingga menghabiskan obat sesuai petunjuk.
+Pesan tersebut disampaikan Ketua Tim Penggerak (TP) PKK Kota Surabaya, Rini Indriyani, S.Farm., Apt., dalam talk show edukasi Kampanye Bijak Antibiotik di Balai RW XIII, Kelurahan Kalirungkut, Kecamatan Rungkut, Surabaya, Jumat (27/11/2026).
+Dalam kegiatan yang menjadi bagian dari peringatan Hari Kesehatan Nasional (HKN) ke-62 Tahun 2026 dan Pekan Kesadaran Antimikroba Sedunia atau World AMR Awareness Week (WAAW) tersebut, Bunda Rini mengajak masyarakat, khususnya para ibu, menjadi garda terdepan dalam mengedukasi keluarga mengenai penggunaan antibiotik secara benar.
+Ia menegaskan, antibiotik merupakan obat keras yang hanya boleh diperoleh berdasarkan resep dokter. Masyarakat tidak diperkenankan membeli atau menggunakannya secara bebas tanpa pemeriksaan tenaga medis. "Antibiotik itu wajib hukumnya menggunakan resep dokter. Tidak bisa sembarangan beli, harus pergi ke dokter kalau untuk minta resep antibiotik," kata Bunda Rini.
+Ia mencontohkan, ketika anak mengalami demam selama tiga hari dan tidak kunjung membaik setelah diberikan paracetamol, orang tua sebaiknya membawa anak ke dokter untuk mendapatkan pemeriksaan dan pengobatan sesuai penyebab penyakitnya. "Jadi harus dibawa ke dokter biar ditangani dokter, dikasih obat yang benar. Ini hukumnya wajib," pesannya.
+Selain memastikan antibiotik diperoleh melalui resep dokter, orang tua juga perlu mengawasi penggunaannya. Bunda Rini mengingatkan masyarakat agar disiplin mengikuti dosis dan jadwal konsumsi sesuai petunjuk tenaga medis. "Jika diresepkan dua kali sehari, antibiotik diminum setiap 12 jam. Sementara aturan tiga kali sehari berarti obat dikonsumsi setiap delapan jam," paparnya.
+Bunda Rini menekankan pentingnya menghabiskan antibiotik sesuai petunjuk dokter. Penggunaan obat tidak boleh dihentikan hanya karena kondisi tubuh mulai membaik. Apabila muncul reaksi alergi atau efek samping, pasien perlu berkonsultasi dengan dokter.  "Jadi antibiotik ini harus habis. Kalau tidak akan terjadi resistensi," ujar Bunda Rini yang memiliki latar belakang pendidikan di bidang farmasi tersebut.
+Menurut dia, resistensi antimikroba terjadi ketika bakteri mengalami perubahan sehingga menjadi kebal terhadap antibiotik. Kondisi tersebut salah satunya dipicu penggunaan antibiotik yang tidak tepat, seperti dosis yang tidak sesuai atau menghentikan konsumsi obat sebelum waktunya.
+Dampaknya, infeksi menjadi lebih sulit disembuhkan, masa pengobatan semakin panjang, pilihan antibiotik semakin terbatas, hingga meningkatkan risiko komplikasi. "Yang seharusnya cuma tiga hari sudah sembuh, ini bisa jadi seminggu, sebulan, bahkan enggak enggak sembuh-sembuh," tuturnya.
+Dalam edukasi tersebut, Bunda Rini juga mengingatkan para ibu mengenai prinsip DAGUSIBU, yakni dapatkan, gunakan, simpan, dan buang obat dengan benar. Antibiotik harus diperoleh melalui fasilitas pelayanan kesehatan dengan resep dokter, digunakan sesuai petunjuk, serta disimpan di tempat yang aman dan jauh dari jangkauan anak-anak.
+Sementara antibiotik sisa maupun kedaluwarsa tidak boleh dibuang sembarangan karena berpotensi mencemari lingkungan dan ekosistem perairan. Masyarakat dapat menyerahkan obat-obatan tersebut melalui dropbox khusus di puskesmas terdekat.  "Jadi tidak boleh dibuang sembarangan. Saya titip untuk pembuangan obat-obat ini tidak sembarangan karena akan berbahaya mencemari lingkungan," katanya.
+Untuk memperkuat gerakan tersebut, Bunda Rini mengajak masyarakat menyepakati lima komitmen bijak menggunakan antibiotik. Kelima komitmen itu meliputi tidak membeli antibiotik tanpa resep dokter, tidak meminta antibiotik saat mengalami flu atau batuk pilek, minum obat tepat waktu sesuai aturan, tidak menyimpan atau berbagi sisa antibiotik, serta selalu bertanya kepada dokter atau apoteker sebelum menggunakan antibiotik.
+"Insyaallah dari lima poin ini menjadi awal yang baik bahwa Kota Surabaya akan bijak menggunakan antibiotik," kata Bunda Rini.
+Bunda Rini menekankan, upaya mencegah resistensi antibiotik tidak bisa hanya dibebankan kepada pemerintah maupun tenaga kesehatan. Kesadaran dan keterlibatan seluruh masyarakat, termasuk keluarga, menjadi faktor penting untuk memastikan antibiotik digunakan secara tepat.
+"Ini bukan hanya menjadi kewajiban dari Pemerintah Kota Surabaya saja, bukan menjadi kewajiban Dinas Kesehatan saja, bukan menjadi kewajiban dari tenaga kesehatan saja. Tapi ini menjadi tanggung jawab kita bersama semua masyarakat Kota Surabaya," tuturnya.
+Sementara dalam talk show tersebut, Ketua Umum Pusat Resistansi Antimikroba Indonesia (PRAINDO), dr. Harry Parathon menjelaskan, bakteri memiliki kemampuan berkembang biak dengan sangat cepat. Dalam waktu sekitar 20 menit, satu bakteri dapat membelah menjadi dua, kemudian berkembang menjadi empat hingga delapan bakteri
+ "Selain cepat beranak, jenisnya juga banyak. Dan sampai hari ini di seluruh dunia tidak ada antibiotik satu jenis yang bisa membunuh semua bakteri. Bakteri atau kuman itu punya antibiotiknya sendiri-sendiri," jelas Harry.
+Ia menuturkan, bakteri yang telah mengalami resistensi dapat semakin sulit ditangani. Bahkan, terdapat kondisi pan-resisten ketika bakteri tidak lagi dapat dibunuh oleh antibiotik yang tersedia. "Bakteri atau kuman itu punya antibiotiknya sendiri-sendiri. Itu aja kalau tidak resisten. Kalau sudah resisten, antibiotik apa saja yang ada saat ini tidak bisa membunuh. Itu namanya pan-resisten," paparnya.
+Karena itu, Harry menekankan pentingnya pemeriksaan kultur bakteri untuk mengidentifikasi jenis kuman penyebab infeksi. Pemeriksaan tersebut dilengkapi tes kepekaan untuk mengetahui antibiotik yang paling sesuai dalam menangani infeksi.
+"Jadi selain kultur itu ada namanya tes kepekaan. Jadi berbagai antibiotik dicobakan untuk membunuh bakteri tadi, yang cocok itu nanti dilaporkan ke dokternya untuk digunakan menyembuhkan kasusnya tadi," pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-## DAFTAR https://sumenepkab.go.id/berita
+## https://www.surabaya.go.id/id/berita/25985/cegah-resistensi-obat-pemkot-surabaya-luncurkan-gerakan-bijak-antibiotik-di-1-360-rw
 STATUS 200
-- Babinsa Pasongsongan Bantu Warga Rehab Rumah | https://sumenepkab.go.id/berita/baca/babinsa-pasongsongan-bantu-warga-rehab-rumah | Babinsa Pasongsongan Bantu Warga Rehab Rumah 27-11-2026 18 kali Media Center, Jumat ( 27/11 ) Kepedulian TNI terhadap warga binaan kembali ditunjukkan Babinsa Koramil 0827/11 Pasongsongan. Babinsa Fendi turun langsung me
-- Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas | https://sumenepkab.go.id/berita/baca/jumat-berkah-kbs-sumenep-bagi-bagi-ratusan-nasi-bungkus-warga-melintas | Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas 27-11-2026 16 kali Media Center, Jumat ( 27/11 ) Komunitas Kita Berbagi Sosial (KBS) Sumenep kembali menebar kepedulian melalui aksi Jumat Berkah de
-- Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi | https://sumenepkab.go.id/berita/baca/ketua-tp-pkk-sumenep-ajak-masyarakat-perkuat-ketahanan-keluarga-dan-pemberdayaan-ekonomi | Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi 27-11-2026 118 kali Media Center, Jumat ( 27/11 ) Ketua Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga (TP-PKK) Kabupaten Su
-- Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan | https://sumenepkab.go.id/berita/baca/mutasi-pejabat-disdukcapil-sumenep-bupati-tekankan-peningkatan-kualitas-pelayanan | Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan 27-11-2026 396 kali Media Center, Jumat ( 27/11 ) Mutasi pejabat di lingkungan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabu
-- Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari | https://sumenepkab.go.id/berita/baca/bupati-sumenep-asn-jadikan-hidup-sehat-sebagai-gaya-hidup-sehari-hari | Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari 27-11-2026 354 kali Media Center, Jumat ( 27/11 ) Seluruh Aparatur Sipil Negara (ASN) di lingkungan Pemerintah Kabupaten Sumenep hendaknya membudayak
-- Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas | https://sumenepkab.go.id/berita/baca/bupati-sumenep-calon-kepala-sekolah-harus-miliki-kompetensi-kepemimpinan-dan-integritas | 23-11-2026 Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas
-- Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat | https://sumenepkab.go.id/berita/baca/bupati-sumenep-apresiasi-bakti-sosial-kesehatan-gigi-dorong-masyarakat-hidup-sehat | 21-11-2026 Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat
-- Polsek Batuputih Kawal Program P2B, Bhabinkamtibmas Cek Lahan Jagung Warga Bantelan | https://sumenepkab.go.id/berita/baca/polsek-batuputih-kawal-program-p2b-bhabinkamtibmas-cek-lahan-jagung-warga-bantelan | 24-11-2026 Polsek Batuputih Kawal Program P2B, Bhabinkamtibmas Cek Lahan Jagung Warga Bantelan
-- Dukung Polri Ungkap 141 Tersangka Online Scamming Manila, Menkomdigi Meutya Hafid Perkuat Penanganan Kejahatan Digital | https://sumenepkab.go.id/berita/baca/dukung-polri-ungkap-141-tersangka-online-scamming-manila-menkomdigi-meutya-hafid-perkuat-penanganan-kejahatan-digital | 24-11-2026 Dukung Polri Ungkap 141 Tersangka Online Scamming Manila, Menkomdigi Meutya Hafid Perkuat Penanganan Kejahatan Digital
+JUDUL: Cegah Resistensi Obat, Pemkot Surabaya Luncurkan Gerakan Bijak Antibiotik di 1.360 RW<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25985/blob_3973_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Cegah Resistensi Obat, Pemkot Surabaya Luncurkan Gerakan Bijak Antibiotik di 1.360 RW<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Cegah Resistensi Obat, Pemkot Surabaya Luncurkan Gerakan Bijak Antibiotik di 1.360 RW
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya meluncurkan Gerakan Bijak Antibiotik yang menyasar 1.360 Balai RW di seluruh Kota Pahlawan, Jumat (26/11/2026). Gerakan ini menjadi upaya memperkuat edukasi masyarakat mengenai penggunaan antibiotik secara tepat sekaligus mencegah resistensi antimikroba.
+Peluncuran kampanye dilaksanakan secara hybrid dan dipusatkan di Balai RW XIII, Kelurahan Kalirungkut, Kecamatan Rungkut, Surabaya. Kegiatan tersebut merupakan bagian dari rangkaian peringatan Hari Kesehatan Nasional (HKN) ke-62 Tahun 2026 dan Pekan Kesadaran Antimikroba Sedunia atau World AMR Awareness Week (WAAW).
+Wali Kota Surabaya Eri Cahyadi mengatakan, gerakan Bijak Antibiotik penting untuk meningkatkan kesadaran masyarakat agar tidak sembarangan mengonsumsi antibiotik. Penggunaan obat yang tidak sesuai aturan berisiko menyebabkan tubuh mengalami resistensi, sehingga pengobatan dengan antibiotik menjadi kurang efektif.
+"Jadi kita ini berpikir bahwa anak-anak bangsa bahwa kita sendiri harus bijak menggunakan antibiotik. Karena dari penelitian bahwa ada masyarakat atau orang yang dia itu dalam pengobatan tidak bisa disembuhkan dengan antibiotik apapun," kata Wali Kota Eri.
+Ia menjelaskan, resistensi antibiotik dapat terjadi akibat kebiasaan masyarakat menggunakan antibiotik tanpa memperhatikan kebutuhan medis. Padahal, tidak semua penyakit membutuhkan antibiotik, terutama penyakit yang disebabkan oleh virus.
+"Jadi seperti tadi kalau dia itu karena bakteri atau karena virus, maka kalau virus ya berarti obatnya apa? Bukan (minum) antibiotik kan begitu. Tapi karena kebiasaan kita ini tiba-tiba beli di apotek antibiotik dan ternyata di apotek juga lepas maka kita meminum antibiotik itu, akhirnya tubuh kita kebal," ujarnya.
+Menurut dia, edukasi mengenai penggunaan antibiotik harus dilakukan secara berkelanjutan dengan melibatkan berbagai elemen masyarakat. Karena itu, Pemkot Surabaya menggandeng perguruan tinggi, tenaga medis, Kader Surabaya Hebat (KSH), hingga Tim Penggerak PKK untuk memperluas jangkauan kampanye hingga tingkat lingkungan.
+"Maka saya bergerak bersama dengan seluruh perguruan tinggi, dokter, Kader Surabaya Hebat dan PKK bersama-sama menjaga wilayahnya dan ini menjadi satu bagian dari Kampung Pancasila," jelasnya.
+Ia menegaskan, pembangunan kota yang sehat dan sejahtera membutuhkan keterlibatan aktif masyarakat. Menurutnya, semangat saling menjaga harus dimulai dari lingkungan terkecil, termasuk dalam bidang kesehatan, sosial, dan ekonomi. "Selalu saya katakan bahwa kota ini kalau ingin sejahtera, ingin sehat, ingin bahagia, bukan tergantung kepala daerahnya tapi bagaimana dalam satu kampung itu saling menjaga," tuturnya.
+Sebagai tindak lanjut penguatan layanan kesehatan berbasis masyarakat, Wali Kota Eri mengungkap   mulai Desember 2026, pihaknya akan menyiapkan tenaga kesehatan (nakes) yang bertugas minimal dua jam setiap hari di masing-masing Balai RW. "Kita nanti mulai Desember akan ada tenaga kesehatan minimal 2 jam di setiap Balai RW," ungkapnya.
+Melalui layanan tersebut, warga diharapkan dapat lebih mudah memperoleh konsultasi kesehatan tanpa harus selalu mendatangi puskesmas untuk keluhan tertentu yang dapat ditangani melalui konsultasi awal di Balai RW. "Sehingga ada yang konsultasi, ada yang dia mungkin pusing atau apapun tidak perlu ke puskesmas cukup di Balai RW. Dan itu yang kita gerakkan," harapnya.
+Selain peluncuran Kampanye Bijak Antibiotik, kegiatan juga diisi dengan edukasi interaktif melalui talk show yang menghadirkan Ketua TP PKK Kota Surabaya, Rini Indriyani, S.Farm., Apt., bersama Ketua Umum Pusat Resistansi Antimikroba Indonesia (PRAINDO), Dr. dr. Harry Parathon, Sp.OG(K), sebagai narasumber.
+Dalam sesi tersebut, keduanya memberikan pemahaman kepada masyarakat mengenai pengertian antibiotik, perbedaan dengan jenis obat lain, tata cara penggunaan yang tepat, hingga prosedur pembuangan antibiotik secara aman dan benar.
+Sementara itu, Kepala Dinas Kesehatan (Dinkes) Kota Surabaya dr. Billy Daniel Messakh mengatakan, pemilihan Balai RW sebagai pusat kampanye didasarkan pada kedekatan hubungan sosial antarwarga. Lingkungan kampung dinilai menjadi ruang paling efektif untuk membangun kebiasaan saling mengingatkan.
+"Substansi utamanya kita saling mengingatkan dengan Bijak Antibiotik. Yang satu dengar, sebarkan kepada yang lain. Yang satu sudah terlebih tahu memberitahukan ke tetangganya, sehingga akhirnya keguyuban terjadi," kata Billy.
+Ia menjelaskan, kampanye tersebut juga sejalan dengan penguatan nilai-nilai Kampung Pancasila yang mengedepankan kebersamaan dan kepedulian antarwarga. Melalui pendekatan berbasis RW, informasi mengenai penggunaan antibiotik diharapkan dapat menyebar lebih luas dan menjadi kebiasaan dalam kehidupan sehari-hari. "Karena itulah dasar berpikir kita adakan di Balai RW karena lebih dekat dan mendukung Kampung Pancasila," imbuhnya.
+Billy menambahkan, kampanye Bijak Antibiotik dilaksanakan secara serentak di 1.360 RW Surabaya. Pelaksanaan secara hybrid memungkinkan edukasi menjangkau masyarakat secara lebih luas. "Jadi ada di 1.360 RW kita adakan bersama. Ini bukan puncaknya, tapi ini adalah awal yang kami akan lakukan terus-menerus," ujarnya.
+Menurut Billy, keberhasilan kampanye tidak diukur dari pelaksanaan kegiatan peluncuran semata, melainkan dari perubahan perilaku masyarakat dalam menggunakan antibiotik secara bertanggung jawab.
+"Tujuan Bijak Antibiotik ini menjadi pilihan masyarakat dalam kehidupan mereka, dalam Dagusibu (Dapatkan, Gunakan, Simpan, dan Buang) tentunya. Moto-moto itu yang kita lakukan untuk kita akan masifkan dan terus-menerus," jelasnya.
+Sebagai upaya memperluas edukasi, Dinkes Surabaya juga merencanakan kegiatan lanjutan berupa lomba karikatur yang melibatkan pelajar tingkat SD, SMP, hingga SMA. Kegiatan ini diharapkan menjadi media kreatif bagi generasi muda untuk menyampaikan pesan tentang pentingnya penggunaan antibiotik secara bijak. "Itu adalah generasi-generasi emas kita yang akan menceritakan tentang Bijak Antibiotik," pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-## DAFTAR https://ngawikab.go.id/category/berita/
+## https://www.surabaya.go.id/id/berita/25984/antisipasi-banjir-pemkot-surabaya-targetkan-tiga-rumah-pompa-di-wilayah-barat-dan-utara-tuntas-desember
 STATUS 200
-- Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calon Dewan Pengawas Perusahaan Umum Daerah Air Minum Tirto Kertonegoro Kabupaten Ngawi | https://ngawikab.go.id/2025/10/31/pengumuman-hasil-seleksi-uji-kelayakan-dan-kepatutan-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirto-kertonegoro-kabupaten-ngawi/ | Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calon Dewan Pengawas Perusahaan Umum Daerah Air Minum Tirto Kertonegoro Kabupaten Ngawi Oct 31, 2025 | Berita Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calo
-- RLPPD Kabupaten Ngawi Tahun Anggaran 2024 | https://ngawikab.go.id/2025/03/27/rlppd-kabupaten-ngawi-tahun-anggaran-2024/ | RLPPD Kabupaten Ngawi Tahun Anggaran 2024 Mar 27, 2025 | Berita Penyampaian Ringkasan Laporan Penyelenggaraan Pemerintahan Daerah merupakan kewajiban konstitusional Kepala Daerah yang tertuang dalam Pasal 69 ayat (1) Und
-- Gelar FKP, DPMPTSP Kabupaten Ngawi Berkomitmen Memberikan Pelayanan Yang Berkualitas Bagi Masyarakat | https://ngawikab.go.id/2024/12/09/gelar-fkp-dpmptsp-kabupaten-ngawi-berkomitmen-memberikan-pelayanan-yang-berkualitas-bagi-masyarakat/ | Gelar FKP, DPMPTSP Kabupaten Ngawi Berkomitmen Memberikan Pelayanan Yang Berkualitas Bagi Masyarakat Dec 9, 2024 | Berita Untuk mewujudkan pelayanan yang berkualitas bagi masyarakat, Dinas Penanaman Modal dan Pelayanan T
-- Workshop Peningkatan SDM Pertanian Ngawi | https://ngawikab.go.id/2024/09/04/worshop-peningkatan-sdm-pertanian-ngawi/ | Workshop Peningkatan SDM Pertanian Ngawi Sep 4, 2024 | Berita Guna tingkatkan Sumber Daya Manusia (SDM) Pertanian di Kabupaten Ngawi, Dinas Pertanian dan Ketahanan Pangan Kab Ngawi menggelar Workshop Peningkatan SDM Pert
-- Ngawi Terima Maskot Pilkada Serentak 2024 | https://ngawikab.go.id/2024/09/03/ngawi-terima-maskot-pilkada-serentak-2024/ | Ngawi Terima Maskot Pilkada Serentak 2024 Sep 3, 2024 | Bakohumas , Berita , Kabar Kita , Kabar Ngawi , Pemerintahan Komisi Pemilihan Umum (KPU) Ngawi terima Kirab Maskot Pilkada Serentak 2024 dari KPU Bojonegoro, Selasa
-- Ngawi Specta Carnival 2024 Gandeng Investor di Kabupaten Ngawi | https://ngawikab.go.id/2024/08/31/ngawi-specta-carnival-2024-gandeng-investor-di-kabupaten-ngawi/ | Ngawi Specta Carnival 2024 Gandeng Investor di Kabupaten Ngawi Aug 31, 2024 | Bakohumas , Berita , Kabar Kita , Kabar Ngawi , Pemerintahan Dikemas dengan sangat spektakuler pagelaran Ngawi Specta Carnival 2024 sukses dig
-- Instagram 13.4k Followers | https://www.instagram.com/ngawikab/ | 
+JUDUL: Antisipasi Banjir, Pemkot Surabaya Targetkan Tiga Rumah Pompa di Wilayah Barat dan Utara Tuntas Desember<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25984/blob_8526_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Antisipasi Banjir, Pemkot Surabaya Targetkan Tiga Rumah Pompa di Wilayah Barat dan Utara Tuntas Desember<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Antisipasi Banjir, Pemkot Surabaya Targetkan Tiga Rumah Pompa di Wilayah Barat dan Utara Tuntas Desember
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya terus memperkuat langkah antisipasi banjir tahunan menjelang puncak musim hujan di wilayah Surabaya Barat dan Utara. Atas instruksi Wali Kota Surabaya Eri Cahyadi, Dinas Sumber Daya Air dan Bina Marga (DSDABM) Kota Surabaya mempercepat penyelesaian sejumlah infrastruktur pengendali banjir, khususnya di kawasan Teluk Betung, Teluk Bayur, dan Tengger Kandangan.
+Kepala Bidang Drainase DSDABM Kota Surabaya, Adi Gunita, menyatakan bahwa pihaknya telah melakukan pengecekan lapangan secara menyeluruh di titik-titik krusial, meliputi kawasan Teluk Betung, Teluk Nibung, Teluk Aru, Teluk Bayur, serta Tengger Kandangan.
+Di lokasi pertama, yakni kawasan Teluk Betung, DSDABM mempercepat pembangunan kolam tampung (boezem) dan rumah pompa. Pada pekan ini, tim di lapangan telah merampungkan pengecoran dinding kedap kolam, yang dilakukan paralel dengan percepatan pembangunan rumah panel, pemasangan jembatan, pengecoran pelat dek (plat deck), serta instalasi pompa banjir secara paralel.
+"Kami targetkan pada minggu pertama bulan Desember semuanya sudah berjalan dan terkondisikan. Jadi saat memasuki puncak musim hujan di bulan Desember, Rumah Pompa Teluk Betung sudah bisa beroperasi penuh agar warga tidak lagi terdampak banjir," ujar Adi, Jumat (27/11/2026).
+Sementara itu, di kawasan Teluk Bayur, pengerjaan difokuskan pada percepatan pengecoran balok di area polder. Setelah pembongkaran bekisting dilakukan pada pekan depan, pihaknya juga akan segera memasang dua unit pompa banjir berkapasitas masing-masing 3 meter kubik per detik, ditambah satu unit pompa lumpur berkapasitas 0,5 meter kubik per detik.
+Adi menegaskan bahwa Rumah Pompa Teluk Bayur kini telah siap secara sistem Mechanical, Electrical, dan Plumbing (MEP) sesuai dengan target yang ditetapkan Wali Kota Eri Cahyadi.
+Ia menambahkan, wilayah Surabaya Barat, pengerjaan fisik Rumah Pompa Tengger Kandangan yang merupakan proyek lanjutan dari tahun sebelumnya telah rampung 100 persen pada semester pertama tahun ini. Saat ini, petugas tengah mematangkan persiapan sarana dan prasarana pendukung operasional.
+"Alhamdulillah konstruksinya sudah 100 persen. Mudah-mudahan keberadaan Rumah Pompa Tengger Kandangan ini dapat menuntaskan permasalahan genangan yang selama ini kerap terjadi di kawasan Wisma Tengger, Kandangan, Sambikerep, Raya Bungkal, hingga Sambiroto," jelasnya.
+Lebih lanjut, Adi menerangkan bahwa rumah-rumah pompa di Surabaya Utara dirancang saling terhubung untuk memangkas durasi genangan secara signifikan.
+Ia menjelaskan bahwa air hujan dari kawasan Teluk Nibung dan Teluk Aru Utara akan ditarik menuju Rumah Pompa Teluk Betung, sebelum kemudian dialirkan ke Rumah Pompa Teluk Bayur untuk langsung dipompa keluar menuju muara laut.
+“Melalui integrasi sistem drainase dan percepatan penyelesaian rumah pompa ini, kami optimistis titik-titik genangan di wilayah barat dan utara dapat tertangani secara optimal sepanjang musim hujan,” pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-## DAFTAR https://pacitankab.go.id/category/pacitan-hari-ini
+## https://www.surabaya.go.id/id/berita/25983/pemkot-surabaya-dukung-penuh-proyek-srrl-lelang-konstruksi-diproyeksikan-awal-2028
 STATUS 200
-- Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim | https://pacitankab.go.id/kabupaten-pacitan-raih-penghargaan-terbaik-kinerja-pembiayaan-umkm-prima-2026-dari-gubernur-jatim/ | 19 November 2026 Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim Pemerintah Kabupaten Pacitan meraih penghargaan Terbaik dengan kategori Kinerja Pembiayaan UMKM Prima Tah
-- Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako | https://pacitankab.go.id/gelar-bakti-sosial-akademi-tni-dan-akpol-bagikan-5000-sembako/ | 9 November 2026 Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako Mewakili Bupati Pacitan, Sekretaris Daerah (Sekda) Pacitan Heru Wiwoho hadir dalam acara bakti sosial dalam rangka latihan napak tilas rute ge
-- POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah | https://pacitankab.go.id/popda-jatim-2026-82-atlet-pacitan-bawa-misi-prestasi-dan-harga-diri-daerah/ | 5 November 2026 POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah PACITAN– Sebanyak 82 atlet pelajar Kabupaten Pacitan resmi berangkat menuju Pekan Olahraga Pelajar Daerah (POPDA) Jawa Timur XV 
-- Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir | https://pacitankab.go.id/nyaman-jiwo-beachrun-pacitan-2026-bidik-1-000-pelari-hadirkan-pengalaman-berlari-di-jalur-pesisir/ | 27 Oktober 2026 Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir PACITAN – Kabupaten Pacitan bersiap menjadi tuan rumah ajang lari trail bertaraf nasional melalui Nyaman 
-- Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu | https://pacitankab.go.id/jelang-revalidasi-unesco-2027-tiga-wilayah-perkuat-kolaborasi-pengelolaan-geopark-gunung-sewu/ | 24 Oktober 2026 Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu PACITAN – Pemerintah Kabupaten Pacitan bersama Kabupaten Wonogiri dan Kabupaten Gunungkidul memperkuat koordi
-- Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos | https://pacitankab.go.id/kunker-di-pacitan-gubernur-jatim-gelar-sapa-bansos/ | 22 Oktober 2026 Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos Pacitan-Dalam rangka Hari Jadi ke-81 Provinsi Jawa Timur dan Hari Santri 2026 pemerintah Provinsi Jawa Timur menggelar Sapa Bansos di Kabupaten Pacitan. 
-- Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas | https://pacitankab.go.id/4507-2/ | 22 Oktober 2026 Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas Pacitan-Peringatan Hari Santri tingkat Provinsi Jawa Timur tahun 2026 digelar di Kabupaten Pacitan. Gubernur Jawa Timur 
-- Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur | https://pacitankab.go.id/mengawali-kunker-di-pacitan-gubernur-jatim-resmikan-proyek-infrastruktur/ | 21 Oktober 2026 Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur Pacitan-Dalam rangkaian kunjungan kerja di Kabupaten Pacitan, Gubernur Jawa Timur Khofifah Indar Parawansa meresmikan sejumlah infr
-- Doa Bersama Untuk Keselamatan Bangsa Dan Negara | https://pacitankab.go.id/doa-bersama-untuk-keselamatan-bangsa-dan-negara/ | 20 Oktober 2026 Doa Bersama Untuk Keselamatan Bangsa Dan Negara Pacitan-Bupati Pacitan Indrata Nur Bayuaji menghadiri acara doa bersama yang digelar Kepolisian Resor (Polres) Pacitan di pendopo kabupaten. Kegiatan yang d
+JUDUL: Pemkot Surabaya Dukung Penuh Proyek SRRL, Lelang Konstruksi Diproyeksikan Awal 2028<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25983/blob_5461_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Pemkot Surabaya Dukung Penuh Proyek SRRL, Lelang Konstruksi Diproyeksikan Awal 2028<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Pemkot Surabaya Dukung Penuh Proyek SRRL, Lelang Konstruksi Diproyeksikan Awal 2028
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya mendukung penuh terhadap rencana pembangunan proyek transportasi massal berbasis rel, Surabaya Regional Railway Line (SRRL). Proyek strategis yang dikelola oleh pemerintah pusat ini diproyeksikan memasuki tahap penyusunan Detail Engineering Design (DED) pada 2027.
+Kepala Dinas Perhubungan (Dishub) Kota Surabaya, Trio Wahyu Bowo mengatakan, bahwa Pemkot Surabaya terus berkomunikasi secara intens dengan lembaga terkait di tingkat pusat, termasuk Balai Teknik Perkeretaapian. “Ini sudah mengerucut dilaksanakannya DED SRRL. Nah, mungkin DED ini akan selesai di akhir 2027,” kata Trio, Jumat (27/11/2026). 
+Trio juga menyampaikan, setelah proses DED selesai, selanjutnya akan memasuki tahap lelang konstruksi yang diproyeksikan pada akhir 2027 atau awal 2028. Ia menjelaskan, tahap pembangunan SRRL ini membutuhkan waktu panjang, karena skema pembiayaannya menggunakan pinjaman luar negeri (
+loan
+) yang menjadi kewenangan pemerintah pusat.
+Menurut Trio, skema pembiayaan dari pusat itu dilakukan  mengingat adanya keterbatasan Anggaran Pendapatan dan Belanja Daerah (APBD) Kota Surabaya yang hanya sekitar Rp12 triliun. “Karena APBD kami hanya Rp12 triliun. Alokasi anggaran transportasi sendiri di 2026 itu 2,7 persen dari total APBD Kota Surabaya, di 2027 anggaran transportasi kami diploting sekitar 3 persen dari total APBD,” jelasnya.
+Trio menyebutkan, untuk mendukung pembangunan SRRL, Pemkot Surabaya juga terbuka terhadap peran serta masyarakat maupun sektor swasta, termasuk melalui skema Corporate Social Responsibility (
+CSR
+). Sebagaimana yang ditekankan oleh Wali Kota Surabaya Eri Cahyadi, bahwa pembangunan kota tidak dapat dilakukan pemerintah sendiri.
+Terakhir, Trio menambahkan, Pemkot Surabaya berkomitmen mendukung penuh integrasi transportasi antarmoda seperti penyediaan angkutan feeder sebagai pendukung operasional SRRL agar berjalan optimal. Dengan demikian, maka transportasi di Kota Surabaya akan saling terintegrasi antara satu sama lainnya. 
+Ia berharap, timeline terkait rencana pembangunan SRRL dapat berjalan sesuai rencana proses lelang konstruksi pada 2028. “Semoga timeline ini berjalan sesuai rencana, dengan adanya bantuan dari Balai Teknik Perkeretaapian. Pemkot Surabaya mendukung penuh SRRL ini,” pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
 
-## DAFTAR https://kabar.tulungagung.go.id/
+## https://www.surabaya.go.id/id/berita/25982/satpol-pp-surabaya-tertibkan-pedagang-di-pedestrian-dan-ruang-publik
 STATUS 200
-- Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari Jadi ke-821 Tulungagung dan Hari Guru Nasional 2026 | https://kabar.tulungagung.go.id/gerak-jalan-kreasi-napak-tilas-ketandan-bonorowo-semarakkan-hari-jadi-ke-821tulungagung-dan-hari-guru-nasional-2026/ | 
-- Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Perencanaan Ngunut, Besuki, dan Sendang | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-konsultasi-publik-i-rdtr-wilayah-perencanaan-ngunut-besukidan-sendang/ | 
-- Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung | https://kabar.tulungagung.go.id/sirajapatni-gayatri-terpilih-sebagai-ikon-baru-tulungagung/ | 
-- Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-pimpin-dialog-kinerja-perkuat-sinkronisasi-dan-akselerasi-pembangunan-2027/ | 
-- Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat | https://kabar.tulungagung.go.id/gebyar-undian-pajak-daerah-2026-pemkab-tulungagung-apresiasi-wajib-pajak-yang-taat/ | 
-- Pemkab dan DPRD Tulungagung Sepakati APBD Tahun 2027, Sejumlah Program Pemerintah Siap Digeber | https://kabar.tulungagung.go.id/pemkab-dan-dprd-tulungagung-sepakati-apbd-tahun-2027-sejumlah-program-pemerintah-siap-digeber/ | 
-- Pemkab Tulungagung Dukung Sensus Ekonomi 2026, 1.145 Petugas Sisir 143 Ribu Lebih Usaha di Tulungagung | https://kabar.tulungagung.go.id/pemkab-tulungagung-dukung-sensus-ekonomi-2026-1-145-petugas-sisir-143-ribu-lebih-usaha-di-tulungagung/ | 
-- TULUNGAGUNG PERCEPAT DIGITALISASI KEUANGAN DAERAH – SOSIALISASI ELEKTRONIFIKASI KEUANGAN DAERAH (EPTD) 2025 TINJAU IMPLEMENTASI NON-TUNAI | https://kabar.tulungagung.go.id/tulungagung-percepat-digitalisasi-keuangan-daerah-sosialisasi-elektronifikasi-keuangan-daerah-eptd-2025-tinjau-implementasi-non-tunai/ | 
-- GELAR KARYA UMKM 2025 : SEMANGAT EKONOMI KREATIF RAYAKAN HARI JADI KE-820 TULUNGAGUNG | https://kabar.tulungagung.go.id/gelar-karya-umkm-2025-semangat-ekonomi-kreatif-rayakan-hari-jadi-ke-820-tulungagung/ | 
-- RAPAT PARIPURNA DPRD TULUNGAGUNG SAHKAN APBD 2026 DAN UMUMKAN PROPEMDA | https://kabar.tulungagung.go.id/rapat-paripurna-dprd-tulungagung-sahkan-apbd-2026-dan-umumkan-propemda/ | 
-- DANA CUKAI MEMBERI NAPAS SEGAR : DBHCHT TULUNGAGUNG 2025 DIPRIORITASKAN UNTUK KESEJAHTERAAN, KESEHATAN, DAN PEMBANGUNAN MASYARAKAT | https://kabar.tulungagung.go.id/dana-cukai-memberi-napas-segar-dbhcht-tulungagung-2025-diprioritaskan-untuk-kesejahteraan-kesehatan-dan-pembangunan-masyarakat/ | 
-- Pemerintah Kabupaten Tulungagung Kucurkan Reward Bagi 230 Atlet Berprestasi di Peringatan Haornas ke-43 | https://kabar.tulungagung.go.id/pemerintah-kabupaten-tulungagung-kucurkan-reward-bagi-230-atlet-berprestasi-di-peringatan-haornas-ke-43/ | 
-- Pameran Museum Tulungagung 2026 Resmi Dibuka, Jadi Ruang Kenalkan Jejak Sejarah dan Budaya | https://kabar.tulungagung.go.id/pameran-museum-tulungagung-2026-resmi-dibuka-jadi-ruang-kenalkan-jejak-sejarah-dan-budaya/ | 
-- Semarak MTQ XXXII Tulungagung, 470 Peserta dari 19 Kecamatan Berpartisipasi | https://kabar.tulungagung.go.id/semarak-mtq-xxxii-tulungagung-470-peserta-dari-19-kecamatan-berpartisipasi/ | 
-- 40 Pramuka Terbaik Tulungagung Siap Berlaga di Jambore Nasional XII 2026 | https://kabar.tulungagung.go.id/40-pramuka-terbaik-tulungagung-siap-berlaga-di-jambore-nasional-xii-2026/ | 
-- Plt. Bupati Tulungagung Buka Tantingan Calon Paskibraka Tahun 2026 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-tantingan-calon-paskibraka-tahun-2026/ | 
-
-## DAFTAR https://www.blitarkab.go.id/
-STATUS 200
-- Bupati Blitar: Menanam Pohon Harus Jadi Budaya, Bukan Seremonial | https://www.blitarkab.go.id/2026/11/27/bupati-blitar-menanam-pohon-harus-jadi-budaya-bukan-seremonial/ | Bupati Blitar: Menanam Pohon Harus Jadi Budaya, Bukan Seremonial Pemkab Blitar – Bupati Blitar bersama Wakil Bupati Blitar memperingati Hari Menanam Pohon Indonesia (HMPI) 2026 di Desa Bululawang, Kecamatan Bakung, Jumat
-- Bupati Blitar Ajak Perkuat Komitmen Pelayanan Kesehatan Pada Peringatan HKN ke-62 | https://www.blitarkab.go.id/2026/11/26/bupati-blitar-ajak-perkuat-komitmen-pelayanan-kesehatan-pada-peringatan-hkn-ke-62/ | 
-- Pemkab Blitar Salurkan Bantuan Benih Pertanian di Serang | https://www.blitarkab.go.id/2026/11/25/pemkab-blitar-salurkan-bantuan-benih-pertanian-di-serang/ | 
-- PENGUMUMAN SELEKSI DEWAN DIREKSI LPPL RADIO PERSADA FM KABUPATEN BLITAR MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/11/25/pengumuman-seleksi-dewan-direksi-lppl-radio-persada-fm-kabupaten-blitar-masa-bakti-2022-2027/ | 
-- HIMBAUAN FORUM KERUKUNAN UMAT BERAGAMA (FKUB) KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/11/06/himbauan-forum-kerukunan-umat-beragama-fkub-kabupaten-blitar/ | 
-- PENGUMUMAN PERPANJANGAN SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/30/pengumuman-perpanjangan-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
-- PENGUMUMAN TENTANG SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/23/pengumuman-tentang-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
-- PENGUMUMAN HASIL UJIAN WAWANCARA DEWAN PENGAWAS LPPL RADIO PERSADA FM MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/07/27/pengumuman-hasil-ujian-wawancara-dewan-pengawas-lppl-radio-persada-fm-masa-bakti-2022-2027/ | 
-- Selamat Hari Raya Idul Adha 2025 | https://saberpungli.blitarkab.go.id/selamat-hari-raya-idul-adha-2025/ | 
-- Selamat Memperingati Hari Kenaikan Yesus Kristus | https://saberpungli.blitarkab.go.id/selamat-memperingati-hari-kenaikan-yesus-kristus/ | 
-- Tim UPP Kabupaten Blitar Mengucapkan Selamat Hari Raya Waisak | https://saberpungli.blitarkab.go.id/tim-upp-kabupaten-blitar-mengucapkan-selamat-hari-raya-waisak/ | 
-- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446-2/ | 
-- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446/ | 
-- Selamat Hari Raya Idul Fitri 1446H/2025 M | https://saberpungli.blitarkab.go.id/selamat-hari-raya-nyepi-tahun-baru-saka-1947/ | 
-- Pemantauan Arus Mudik di Stasiun Garum | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-garum/ | 
-- Pemantauan arus mudik di stasiun Wlingi | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-wlingi/ | 
-
-## DAFTAR https://www.jombangkab.go.id/berita
-STATUS 200
-- Pemkab Jombang Teken Nota Kesepakatan 87.286 Sambungan Jargas dengan Ditjen Migas, Dorong Energi Bersih dan Hemat untuk Warga | https://www.jombangkab.go.id/berita/pemkab-jombang-teken-nota-kesepakatan-87286-sambungan-jargas-dengan-ditjen-migas-dorong-energi-bersih-dan-hemat-untuk-warga-24977 | 27 November 2026 Pemkab Jombang Teken Nota Kesepakatan 87.286 Sambungan Jargas dengan Ditjen Migas, Dorong Energi Bersih dan Hemat untuk Warga Pemerintah Kabupaten (Pemkab) Jombang resmi menjalin kerja sama strategis den
-- Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi | https://www.jombangkab.go.id/berita/pemkab-jombang-hadirkan-1444-peluang-kerja-di-jemput-kerja-batch-4-gandeng-30-perusahaan-hingga-program-transmigrasi-24965 | 26 November 2026 Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar
-- Pimpin Apel HGN 2026 di JMC, Wakil Bupati Jombang Tekankan Penguatan Karakter dan Sinergi Pendidikan | https://www.jombangkab.go.id/berita/pimpin-apel-hgn-2026-di-jmc-wakil-bupati-jombang-tekankan-penguatan-karakter-dan-sinergi-pendidikan-24940 | 25 November 2026 Pimpin Apel HGN 2026 di JMC, Wakil Bupati Jombang Tekankan Penguatan Karakter dan Sinergi Pendidikan Wakil Bupati Jombang Salmanudin mengajak para pendidik menjaga semangat pengabdian, meningkatkan kompe
-- Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 | https://www.jombangkab.go.id/berita/pemkab-jombang-raih-peringkat-ii-nasional-implementasi-industri-hijau-terbaik-2026-24897 | 23 November 2026 Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 Pemerintah Kabupaten (Pemkab) Jombang kembali menorehkan prestasi di tingkat nasional dengan meraih Peringkat II Kategor
-- Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 | https://www.jombangkab.go.id/berita/potensi-peternakan-jombang-meningkat-wabup-salmanudin-buka-kontes-kambing-pe-kaligesing-dan-domba-piala-bupati-2026-24891 | 22 November 2026 Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 Upaya memajukan sektor peternakan lokal terus dilakukan Pemerintah Kabupaten Jombang. 
-- Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit | https://www.jombangkab.go.id/berita/jombang-sukses-jadi-tuan-rumah-wilwatikta-acarita-2026-wabup-salmanudin-ajak-generasi-muda-rawat-warisan-majapahit-24875 | 22 November 2026 Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit Malam puncak perhelatan akbar budaya bertajuk Wilwatikta Acarita 2026 berlangsung meria
-- PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa | https://www.jombangkab.go.id/berita/pd-km-dmi-jombang-resmi-dilantik-siap-makmurkan-masjid-serta-dampingi-perempuan-dan-anak-hingga-ke-desa-24876 | 21 November 2026 PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa Pimpinan Daerah (PD) Korps Muballighah Dewan Masjid Indonesia (KM-DMI) Kabupaten Jombang masa khid
-- Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru | https://www.jombangkab.go.id/berita/pembangunan-jombang-industrial-estate-resmi-dimulai-siap-jadi-pusat-pertumbuhan-ekonomi-baru-24874 | 20 November 2026 Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru Kabupaten Jombang resmi memasuki babak baru pengembangan ekonomi daerah. PT Java Fortis Corporindo memulai pe
-- Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral | https://www.jombangkab.go.id/berita/bupati-jombang-lantik-25-pejabat-administrator-dan-pengawas-tekankan-integritas-dan-hindari-ego-sektoral-24873 | 20 November 2026 Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral Bupati Jombang Warsubi, S.H., M.Si. melantik dan mengambil sumpah/janji pejabat administrator, pe
-
-## DAFTAR https://pasuruankab.go.id/berita
-STATUS 200
-- Kesehatan Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo ... Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emi... 27 | https://pasuruankab.go.id/berita/arumi-bachsin-emil-dardak-dan-merita-rusdi-sutejo-ajak-para-ibu-ajek-ke-posyandu | 
-- Pelayanan Publik Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasu... Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah K | https://pasuruankab.go.id/berita/jalin-kerjasama-dengan-pemkot-tangsel-pemkab-pasuruan-siap-adopsi-sistem-tanah-dan-pajak | 
-- Kesehatan Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyara... Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehat... 26 | https://pasuruankab.go.id/berita/peringati-hkn-ke-62-wabup-gus-shobih-ajak-masyarakat-jadikan-kesehatan-sebagai-gaya-hidup | 
-- Pelayanan Publik HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Zi... Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggela | https://pasuruankab.go.id/berita/hut-korpri-ke-55-pemkab-pasuruan-gelar-upazara-ziarah-tabur-bunga-baksos-lansia-dan-warga-kampung-janda | 
-- Ekonomi Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Aust... Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Austr... 26 N | https://pasuruankab.go.id/berita/kabupaten-pasuruan-kedatangan-1100-sapi-perah-australia-siap-jadi-produsen-susu-terbesar-nasional | 
-- Pemerintahan Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pem... Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengu... | https://pasuruankab.go.id/berita/mas-rusdi-minta-pii-hadirkan-inovasi-baru-bagi-pembangunan-di-kabupaten-pasuruan | 
-- Olahraga Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Baka... Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatih... 25  | https://pasuruankab.go.id/berita/terima-hibah-tanah-10-hektar-pemkab-pasuruan-bakal-bangun-sport-center-di-kejayan | 
-- Pemerintahan Antisipasi Kenaikan Harga Sembako Jelang Nataru, P... Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pa... | https://pasuruankab.go.id/berita/antisipasi-kenaikan-harga-sembako-jelang-nataru-pemkab-pasuruan-gelar-hlm-tpid-dan-tp2dd | 
-- Pemerintahan Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak... Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pas... | https://pasuruankab.go.id/berita/pemkab-pasuruan-sampaikan-terima-kasih-semua-pihak-tuntaskan-penanganan-banjir-di-dusun-madulegi-desa-plintahan-pandaan | 
-- Pemerintahan Lantik Ratusan Guru Penugasan Sebagai Kepala Sekol... Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima sura... | https://pasuruankab.go.id/berita/lantik-ratusan-guru-penugasan-sebagai-kepala-sekolah-mas-rusdi-kalau-ada-persoalan-sampaikan-langsung-bisa-ke-dispendik-command-center-112-atau-langsung-ke-saya | 
-- Olahraga Pimpin Klasemen Grup C. Persekabpas Tundukkan Pers... Tim sepakbola kebanggaan Kabupaten Pasuruan, Persekabpas terus memperl... 22  | https://pasuruankab.go.id/berita/pimpin-klasemen-grup-c-persekabpas-tundukkan-persipani-paniai-2-1 | 
-- Pemerintahan Kecamatan Gondangwetan Juara MTQ ke 32 Kabupaten P... Mutsabaqoh Tilawatil Qur'an (MTQ) ke 32 tingkat Kabupaten Pasuruan tah... | https://pasuruankab.go.id/berita/kecamatan-gondangwetan-juara-mtq-ke-32-kabupaten-pasuruan | 
-- Sejarah Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/sejarah-singkat-kab-pasuruan | 
-- Gambaran Umum Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/gambaran-umum-kabupaten-pasuruan-2025 | 
-- Transportasi dan Perhubungan | https://pasuruankab.go.id/layanan/transportasi | 
-- Lingkungan Hidup & Persampahan | https://pasuruankab.go.id/layanan/lingkungan | 
-
-## DAFTAR https://www.surabaya.go.id/
-STATUS 200
-- Libatkan Kementerian-Akademisi, Pemkot Surabaya Matangkan Pe ... Jumat, 27 November 2026 | 17 jam yang lalu | https://www.surabaya.go.id/id/berita/25981/libatkan-kementerian-akademisi-pemkot-surabaya-matangkan-penyusunan-raperda-transportasi-2026 | 
-- Surabaya Targetkan 3.732 Guru Tersertifikasi pada 2027, Perk ... Jumat, 27 November 2026 | 7 jam yang lalu | https://www.surabaya.go.id/id/berita/25987/surabaya-targetkan-3-732-guru-tersertifikasi-pada-2027-perkuat-kesejahteraan-pendidik | 
-- Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cega ... Jumat, 27 November 2026 | 9 jam yang lalu | https://www.surabaya.go.id/id/berita/25986/bunda-rini-ajak-ibu-ibu-di-surabaya-jadi-garda-terdepan-cegah-resistensi-antibiotik | 
-- Cegah Resistensi Obat, Pemkot Surabaya Luncurkan Gerakan Bij ... Jumat, 27 November 2026 | 10 jam yang lalu | https://www.surabaya.go.id/id/berita/25985/cegah-resistensi-obat-pemkot-surabaya-luncurkan-gerakan-bijak-antibiotik-di-1-360-rw | 
-- Antisipasi Banjir, Pemkot Surabaya Targetkan Tiga Rumah Pomp ... Jumat, 27 November 2026 | 12 jam yang lalu | https://www.surabaya.go.id/id/berita/25984/antisipasi-banjir-pemkot-surabaya-targetkan-tiga-rumah-pompa-di-wilayah-barat-dan-utara-tuntas-desember | 
-- Pemkot Surabaya Dukung Penuh Proyek SRRL, Lelang Konstruksi ... Jumat, 27 November 2026 | 13 jam yang lalu | https://www.surabaya.go.id/id/berita/25983/pemkot-surabaya-dukung-penuh-proyek-srrl-lelang-konstruksi-diproyeksikan-awal-2028 | 
-- Satpol PP Surabaya Tertibkan Pedagang di Pedestrian dan Ruan ... Jumat, 27 November 2026 | 14 jam yang lalu | https://www.surabaya.go.id/id/berita/25982/satpol-pp-surabaya-tertibkan-pedagang-di-pedestrian-dan-ruang-publik | 
-- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25891/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-calon-direktur-operasional-pt-yekape-surabaya-perseroda | 
-- PENGUMUMAN HASIL SELEKSI ADMINISTRASI ANGGOTA DIREKSI PERSE ... Senin, 2 November 2026 | 4 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25880/pengumuman-hasil-seleksi-administrasi-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
-- PENGUMUMAN HASIL SELEKSI PSIKOTES ANGGOTA DIREKSI PERSEROAN ... Selasa, 20 Oktober 2026 | 1 bulan yang lalu | https://www.surabaya.go.id/id/agenda/25823/pengumuman-hasil-seleksi-psikotes-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
-- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FGD (FOCUS GROUP D ... Rabu, 11 November 2026 | 2 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25928/pengumuman-hasil-ujian-tertulis-keahlian-fgd-focus-group-discussion-dan-presentasi-makalah-rencana-bisnis-calon-direktur-utama-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
-- PENGUMUMAN HASIL SELEKSI PSIKOTES CALON DIREKTUR UTAMA PERSE ... Senin, 9 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25916/pengumuman-hasil-seleksi-psikotes-calon-direktur-utama-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
-- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25896/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-calon-anggota-direksi-perseroan-terbatas-bank-perekonomian-rakyat-surya-artha-utama-perseroda | 
-- PENGUMUMAN HASIL SELEKSI UJIAN TERTULIS KEAHLIAN, FOCUS GROU ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25895/pengumuman-hasil-seleksi-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-anggota-direksi-perusahaan-umum-daerah-kebun-binatang-surabaya | 
-- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25894/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-strategi-pengawasan-calon-anggota-komisaris-perseroan-terbatas-bank-perekonomian-rakyat-surya-artha-utama-perseroda | 
-- PENGUMUMAN HASIL SELEKSI UJIAN TERTULIS KEAHLIAN, FOCUS GROU ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25893/pengumuman-hasil-seleksi-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-anggota-direksi-perseroan-terbatas-pasar-surya-perseroda | 
-- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FGD (FOCUS GROUP D ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25892/pengumuman-hasil-ujian-tertulis-keahlian-fgd-focus-group-discussion-dan-presentasi-makalah-rencana-bisnis-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
-- Administrasi Kependudukan | https://www.surabaya.go.id/id/berita/10287/administrasi-kependudukan | Ketenagakerjaan Administrasi Kependudukan BLC E-Health JDIH RUP LPSE Pengaduan Masyarakat Pemberdayaan Ekonomi Pelayanan Informasi (PPID Kota Surabaya) Pelayanan Dinas Sosial Pelayanan DISPENDIK SSW Alfa Satu Data
-- Pelayanan Informasi (PPID Kota Surabaya) | https://ppid.surabaya.go.id/ | Ketenagakerjaan Administrasi Kependudukan BLC E-Health JDIH RUP LPSE Pengaduan Masyarakat Pemberdayaan Ekonomi Pelayanan Informasi (PPID Kota Surabaya) Pelayanan Dinas Sosial Pelayanan DISPENDIK SSW Alfa Satu Data
-
-## DAFTAR https://www.malangkota.go.id/
-STATUS 403 
-
-## DAFTAR https://www.gresikkab.go.id/
-STATUS 200
-
-
-## DAFTAR https://www.lamongankab.go.id/
-STATUS 200
-- Layanan Informasi Publik Layanan Informasi Publik | https://ppid.lamongankab.go.id/ | 
-- Computer Security Incident Response Team (CSIRT) | https://csirt.lamongankab.go.id | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan | http://jdih.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan | https://play.google.com/store/apps/details?id=id.go.lamongan.lamongantourism | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- PAHALA DAFTAR HARGA KOMODITI PANGAN POKOK | https://pahala.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- Satu Data Lamongan Layanan Satu Data Lamongan | https://satudata.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- SI SAPI Lamongan Sistem Informasi Pemasaran Sapi | https://sisapi.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- SIILA Sistem Informasi Industri Lamongan | https://siila.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- SIPADI + Aplikasi pelaporan data tanaman pangan, hortikultura, dan perkebunan | http://sipadiplus.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- SKALA Sistem Informasi Tata Ruang Kabupaten Lamongan | https://skala.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
-- Laporan Kinerja Instansi Pemerintah | https://ppid.lamongankab.go.id/data/laporan-kinerja-instansi-pemerintah/ | 
-- Laporan Penyelenggaraan Pemerintahan Daerah | https://ppid.lamongankab.go.id/data/laporan-penyelenggaraan-pemerintahan-daerah/ | 
-- Pengelolaan Keuangan Daerah | https://ppid.lamongankab.go.id/data/pengelolaan-keuangan-daerah/ | 
-- Rencana Kerja Pemerintah Daerah | https://ppid.lamongankab.go.id/data/rencana-kerja-pemerintah-daerah/ | 
-- Rencana Pembangunan Jangka Menengah Daerah | https://ppid.lamongankab.go.id/data/rencana-pembangunan-jangka-menengah-daerah/ | 
-- Rencana Pembangunan Jangka Panjang Daerah | https://ppid.lamongankab.go.id/data/rencana-pembangunan-jangka-panjang-daerah/ | 
-- Roadmap Reformasi Birokrasi | https://lamongankab.go.id/portal/post/5797 | 
-- Standar Harga Satuan 2025 | https://diskominfo.lamongankab.go.id/posting/21684 | 
-- Sistem Pengadaan Secara Elektronik | https://spse.inaproc.id/lamongankab | 
-- LAPOR WBS Whistle Blowing System | http://laporwbs.lamongankab.go.id/ | 
-- SPIKER PERAK Sistem Pengaduan Online Kekerasan terhadap Perempuan dan Anak | https://api.whatsapp.com/send?phone=6281276770778 | 
-- Lamongan Tourism Portal informasi wisata Kabupaten Lamongan | http://lamongantourism.com/ | 
-- Layanan Administrasi Desa | https://lamongankab.go.id/sigenduk.lamongankab.go.id | 
-- Layanan Informasi Harga Bahan Pokok | https://sipuldabapok.lamongankab.go.id/ | 
-- Layanan Publikasi Jurnal Ilmiah | https://e-jurnal.lamongankab.go.id/index.php/e-jurnal | 
-- Layanan Tata Pemerintahan | https://sibatman.lamongankab.go.id/ | 
-- POL Pasar Online Lamongan | https://pdpasar.lamongankab.go.id/layanan | 
-- Sistem Informasi Layanan Lingkungan | https://silila.lamongankab.go.id/login.php | 
-- Survei Kepuasan Masyarakat Survei Kepuasan Masyarakat | https://senyumla.lamongankab.go.id/ | 
-- Karakteristik Lokasi dan Wilayah | https://lamongankab.go.id/artikel/44 | 
-- Susunan Organisasi, Tugas dan Fungsi serta Tata Kerja | http://ppid.lamongankab.go.id/data/susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja/ | 
-- ABADI (Asyik Bermain Angka Digital Interaktif) | https://www.instagram.com/sdn_rayunggumuk/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- AGENCY (Agen Generation Literacy dan Numeracy) | https://www.instagram.com/sdnpendowolimo_p5?igsh=MWMxMXYwa2s1MDAzZQ== | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) | https://disdik.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMINASI) | https://puskesmas-lamongan.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- AKU SEMAKIN GEMES (Aku Senang Makan Ikan, Gelorakan, Mengatasi Stunting) | https://www.instagram.com/pkm_mantup/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- ALARM SI MYCO (System Informasi Mycobacterium TB) | https://puskesmas-kedungpring.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- APIK (Aksi Pengusaha Cilik) | https://www.instagram.com/sdn2sumberjo/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- APIK SERASI (Apel Pagi, Berkarakter, Sholat Dhuha, Education, Ramah Anak, Asmaul Husna, Sholawat, dan Literasi) | https://www.instagram.com/sdn3.made/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- ARMOLIPAS (Augmented Reality Monopoli Interaktif IPAS) | http://sites.google.com/view/sdnmragel/halaman-muka | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- ASIK POL (Aku Suka Penyakit Terkontrol) | https://puskesmas-karanggeneng.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- ASMARA CENTIL (Atasi masalah remaja untuk cegah Tindakan Buliying ) | https://puskesmas-tikung.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- BABLAS (Bayi Lahir Berkas Langsung Tuntas) | https://rsud-ngimbang.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- BAJAI BAJURI (Bahasa Jawa Inovatif Bagus Jujur dengan Permainan Monopoli) | https://www.instagram.com/sdnpangkatrejo_/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-- BAPOPI (Bahasa Pop-Up Interaktif) | https://portal.lamongankab.go.id/posting/28487 | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
-
-## DAFTAR https://www.bojonegorokab.go.id/
-STATUS 200
-- Agenda Kabupaten/Pemerintah | https://bojonegorokab.go.id/agenda-kabupaten | 
-- BADAN KEPEGAWAIAN, PENDIDIKAN, DAN PELATIHAN | http://bkpp.bojonegorokab.go.id | 
-- BADAN PERENCANAAN PEMBANGUNAN DAERAH | http://bappeda.bojonegorokab.go.id | 
-- BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH | http://bpkad.bojonegorokab.go.id | 
-- BADAN KESATUAN BANGSA DAN POLITIK | http://bakesbangpol.bojonegorokab.go.id | 
-- BADAN PENANGGULANGAN BENCANA DAERAH | http://bpbd.bojonegorokab.go.id | 
-- BADAN RISET DAN INOVASI DAERAH | http://brida.bojonegorokab.go.id | 
-- DINAS PEKERJAAN UMUM BINA MARGA DAN PENATAAN RUANG | http://dpubimapr.bojonegorokab.go.id | 
-- DINAS PEKERJAAN UMUM SUMBER DAYA AIR | http://dipusda.bojonegorokab.go.id | 
-- DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN CIPTA KARYA | http://dpkpciptakarya.bojonegorokab.go.id | 
-- SATUAN POLISI PAMONG PRAJA | http://satpolpp.bojonegorokab.go.id | 
-- DINAS PEMBERDAYAAN PEREMPUAN, PERLINDUNGAN ANAK DAN KELUARGA BERENCANA | http://dp3akb.bojonegorokab.go.id | 
-- DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL | http://dinasdukcapil.bojonegorokab.go.id | 
-- DINAS PEMBERDAYAAN MASYARAKAT DAN DESA | http://dinpmd.bojonegorokab.go.id | 
-- DINAS KOMUNIKASI DAN INFORMATIKA | http://dinkominfo.bojonegorokab.go.id | 
-- DINAS KEPEMUDAAN DAN OLAHRAGA | http://dinpora.bojonegorokab.go.id | 
-- DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU | http://dpmptsp.bojonegorokab.go.id | 
-- DINAS PERPUSTAKAAN DAN KEARSIPAN | http://dinasperpusarsip.bojonegorokab.go.id | 
-- DINAS PERINDUSTRIAN DAN TENAGA KERJA | http://dinperinaker.bojonegorokab.go.id | 
-- DINAS KEBUDAYAAN DAN PARIWISATA | http://dinbudpar.bojonegorokab.go.id | 
-- DINAS PERDAGANGAN, KOPERASI DAN USAHA MIKRO | http://dindag.bojonegorokab.go.id | 
-- DINAS KETAHANAN PANGAN DAN PERTANIAN | http://dinperta.bojonegorokab.go.id | 
-- DINAS PETERNAKAN DAN PERIKANAN | http://dinasnakkan.bojonegorokab.go.id | 
-- BAGIAN ADMINISTRASI PEMBANGUNAN | http://bagpembangunan.bojonegorokab.go.id | 
-- BAGIAN PEREKONOMIAN DAN SUMBER DAYA ALAM | http://bagekonomi.bojonegorokab.go.id | 
-- BAGIAN KESEJAHTERAAN RAKYAT | http://bagkesra.bojonegorokab.go.id | 
-- BAGIAN PROTOKOL DAN KOMUNIKASI PIMPINAN | http://baghumas.bojonegorokab.go.id | 
-- BAGIAN PENGADAAN BARANG / JASA | http://baglpbj.bojonegorokab.go.id | 
-- PT. Bojonegoro Bangun Sarana (BBS) | http://bbs-bumd-bjn.com | 
-- PD. Bank Perkreditan Rakyat (BPR) | https://bankdaerahbojonegoro.com | 
-- PERSEBARAN KANTOR PELAYANAN PUBLIK | https://bojonegorokab.go.id/gis-persebaran-kantor-pelayanan-publik/3 | 
-- PETA TEMPAT OLEH-OLEH (SENTRA USAHA KECIL) | https://bojonegorokab.go.id/gis-peta-tempat-oleh-oleh-sentra-usaha-kecil/10 | 
-- Streaming Radio Malowopati | http://radiomalowopati.online/ | 
-- Layanan Pemadam Kebakaran | http://dindamkar.bojonegorokab.go.id/ | 
-- Informasi Tanam dan Panen | http://simtapat.bojonegorokab.go.id/ | 
-
-## DAFTAR https://www.banyuwangikab.go.id/
-STATUS 0 GAGAL: ConnectionError: HTTPSConnectionPool(host='www.banyuwangikab.go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.banyuwangikab.go.id', p
-
-## DAFTAR https://www.ponorogo.go.id/
-STATUS 404 
+JUDUL: Satpol PP Surabaya Tertibkan Pedagang di Pedestrian dan Ruang Publik<!-- --> - Pemerintah Kota Surabaya
+TGL_META: 
+OG_IMAGE: 
+GAMBAR: https://www.surabaya.go.id/images/icon/nav-prev yellow.svg | https://surabaya.go.id/uploads/images/posts/post_25982/blob_2753_0.jpg | https://www.surabaya.go.id/images/icon/nav-view all.svg | https://www.surabaya.go.id/images/icon/nav-prev green.svg | https://www.surabaya.go.id/images/icon/nav-next green.svg
+ISI:
+Satpol PP Surabaya Tertibkan Pedagang di Pedestrian dan Ruang Publik<!-- --> - Pemerintah Kota Surabaya
+Accessibility Tools
+Increase Text
+Decrease Text
+Grayscale
+Negative Contrast
+Links Underline
+Text to Speech
+Reset
+BERITA
+Satpol PP Surabaya Tertibkan Pedagang di Pedestrian dan Ruang Publik
+Jumat, 27 November 2026 | 1 hari yang lalu
+Pemerintah Kota (Pemkot) Surabaya mengintensifkan sosialisasi dan patroli pengawasan di sejumlah jalur utama untuk menjaga ketertiban penggunaan fasilitas publik. Langkah ini menyasar aktivitas masyarakat yang memanfaatkan area pedestrian, bahu jalan, hingga badan jalan tidak sesuai peruntukannya, Jumat (27/11/2026).
+Sosialisasi tersebut menjadi tahap awal sebelum petugas melakukan pengawasan dan penindakan terhadap pelanggaran. Dalam kegiatan ini, Satpol PP Kota Surabaya berkolaborasi dengan jajaran Satpol PP Kecamatan Tambaksari, Kenjeran, Bulak, Simokerto, dan Genteng, serta melibatkan unsur TNI-Polri.
+Kepala Bidang Pengendalian Ketenteraman dan Ketertiban Umum (Trantibum) Satpol PP Surabaya, Mudita Dhira Widaksa, mengatakan sosialisasi menyasar berbagai aktivitas yang menggunakan fasilitas jalan di luar peruntukannya, terutama kegiatan berjualan di atas pedestrian.
+“Kami tidak melarang masyarakat berjualan untuk mencari nafkah. Namun, aktivitas tersebut harus tetap memperhatikan ketentuan yang berlaku dan tidak menggunakan fasilitas pedestrian yang diperuntukkan bagi pejalan kaki,” kata Mudita.
+Ia menjelaskan, petugas mengarahkan pedagang agar memanfaatkan area di dalam persil atau menempati Sentra Wisata Kuliner (SWK) yang telah disediakan Pemkot Surabaya. Dengan demikian, kegiatan ekonomi masyarakat tetap dapat berjalan tanpa mengganggu hak pejalan kaki.
+Selain pedestrian, petugas juga memberikan imbauan kepada pedagang yang menggunakan bahu jalan maupun badan jalan untuk membongkar lapak secara mandiri. Imbauan tersebut ditujukan kepada pedagang insidentil, seperti penjual buah, kopi, soto, dan bakso, maupun pedagang semi permanen yang menggunakan terpal atau perlengkapan lainnya.
+“Kami memberikan kesempatan kepada pedagang untuk melakukan pembongkaran secara mandiri. Kami juga mengimbau agar tidak lagi berjualan di area pedestrian, bahu jalan, maupun badan jalan yang bukan peruntukannya,” ujarnya.
+Kegiatan penertiban ini mengacu pada Peraturan Daerah Kota Surabaya Nomor 2 Tahun 2020 tentang Perubahan atas Peraturan Daerah Kota Surabaya Nomor 2 Tahun 2014 tentang Penyelenggaraan Ketertiban Umum dan Ketenteraman Masyarakat.
+Mudita menyebut, sosialisasi akan berlangsung selama tiga hari. Setelah masa tersebut, petugas akan meningkatkan pengawasan dan melakukan penindakan terhadap pedagang yang masih melanggar. Penindakan dapat dilanjutkan melalui proses tindak pidana ringan (tipiring).
+“Kami beri waktu selama tiga hari untuk pembongkaran secara mandiri. Jika pada hari keempat masih ditemukan pelanggaran, kami akan melakukan penindakan sesuai ketentuan, termasuk melalui proses tipiring,” tegasnya.
+Dalam kegiatan sosialisasi, sejumlah pedagang juga telah membongkar lapaknya secara mandiri. Petugas turut membantu memindahkan barang-barang milik pedagang agar proses pembongkaran berjalan lancar.
+Untuk mengoptimalkan pengawasan, Satpol PP membagi personel ke dalam tiga zona patroli. Zona pertama mencakup ruas Jalan Ngaglik hingga kawasan Kaza Mal, zona kedua meliputi kawasan Kaza Mal hingga Kapas Madya, sedangkan zona ketiga mencakup kawasan Kapas Madya hingga Suramadu.
+Di setiap zona, petugas juga menyiapkan pos pengawasan. Pos pertama berada di Jalan Ngaglik, pos kedua di Jalan Putro Agung, dan pos ketiga di kawasan Suramadu.
+Ia berharap masyarakat turut berperan menjaga ketertiban dengan menggunakan fasilitas umum sesuai fungsinya. Menurutnya, kesadaran bersama menjadi bagian penting dalam menciptakan ruang publik yang nyaman, aman, dan tertata.
+“Kami berharap masyarakat ikut menjaga fasilitas kota dengan tidak menggunakan pedestrian, bahu jalan, maupun badan jalan di luar peruntukannya. Jika fasilitas digunakan sebagaimana mestinya, pejalan kaki bisa merasa nyaman dan ketertiban serta estetika Kota Surabaya dapat kita jaga bersama,” pungkasnya. (*)
+BERITA LAINNYA
+lihat semua
