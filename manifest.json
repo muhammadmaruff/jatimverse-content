@@ -35,7 +35,8 @@
         "Inflasi",
         "Nataru",
         "Wonokromo"
-      ]
+      ],
+      "sidik_meta": "af720606b5f4b13cb5a3b951fe290c8823a78f7c"
     },
     {
       "id": "2026-11-01_surabaya-raya_larangan-pungutan-sekolah",
@@ -70,7 +71,8 @@
         "Pungutan Sekolah",
         "Eri Cahyadi",
         "SD dan SMP Negeri"
-      ]
+      ],
+      "sidik_meta": "bbca122e7bb627549198009e01e58c2d8c426bbb"
     },
     {
       "id": "2026-11-01_surabaya-raya_pelatihan-modal-jalan-kunti",
@@ -106,7 +108,8 @@
         "UMKM",
         "Pelatihan Kerja",
         "Semampir"
-      ]
+      ],
+      "sidik_meta": "ab2d14451333828934e25c076a07e7bab43d3c28"
     },
     {
       "id": "2026-11-02_surabaya-raya_rumah-pompa",
@@ -141,7 +144,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:19:23+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T08:04+07:00"
+      "tgl_tayang": "2026-11-02T08:04+07:00",
+      "sidik_meta": "d3324416833a332d57e0f6cecd6276f23ebf8c1a"
     },
     {
       "id": "2026-11-02_surabaya-raya_miras-satpol-pp",
@@ -176,7 +180,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:19:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T08:49+07:00"
+      "tgl_tayang": "2026-11-02T08:49+07:00",
+      "sidik_meta": "8dd4396feb59a64d166b91e082233d43b9c6fd10"
     },
     {
       "id": "2026-11-02_surabaya-raya_parkir-parade-juang",
@@ -211,7 +216,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:19:44+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T09:34+07:00"
+      "tgl_tayang": "2026-11-02T09:34+07:00",
+      "sidik_meta": "fa7cd1c95d30c4c8d0361b7830a99c0a72576466"
     },
     {
       "id": "2026-11-02_surabaya-raya_suroboyo-wani",
@@ -246,7 +252,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:19:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T10:19+07:00"
+      "tgl_tayang": "2026-11-02T10:19+07:00",
+      "sidik_meta": "44e2112429b11949473b27ba3fde1cafbea67c61"
     },
     {
       "id": "2026-11-02_surabaya-raya_wilwatikta-mojokerto",
@@ -281,7 +288,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:24:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T11:04+07:00"
+      "tgl_tayang": "2026-11-02T11:04+07:00",
+      "sidik_meta": "e56379fcfd6bec3e04efad4fed9a237704ad2705"
     },
     {
       "id": "2026-11-02_mataraman_pasar-murah-jombang",
@@ -317,7 +325,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:24:43+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T11:49+07:00"
+      "tgl_tayang": "2026-11-02T11:49+07:00",
+      "sidik_meta": "8614416a47a5d4b9d05ed16cf7fb9879cc58cedf"
     },
     {
       "id": "2026-11-02_mataraman_ranperda-tulungagung",
@@ -353,7 +362,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:24:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T12:34+07:00"
+      "tgl_tayang": "2026-11-02T12:34+07:00",
+      "sidik_meta": "4890a27406468ad33a07c74e225a22d387fbbc29"
     },
     {
       "id": "2026-11-02_mataraman_rebana-madiun",
@@ -388,7 +398,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:25:05+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T13:19+07:00"
+      "tgl_tayang": "2026-11-02T13:19+07:00",
+      "sidik_meta": "efd6bd73faea490eadf41986adbe2b5b2abf7b09"
     },
     {
       "id": "2026-11-02_mataraman_masjid-hubbul-jamal-madiun",
@@ -423,7 +434,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:25:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T14:04+07:00"
+      "tgl_tayang": "2026-11-02T14:04+07:00",
+      "sidik_meta": "a562f16a4963d774ad0953c701c16fc9cba6e82d"
     },
     {
       "id": "2026-11-02_mataraman_duta-pemuda-blitar",
@@ -458,7 +470,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:25:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T14:49+07:00"
+      "tgl_tayang": "2026-11-02T14:49+07:00",
+      "sidik_meta": "94f4c2049bebecaa172efdf063c461be5a3aa769"
     },
     {
       "id": "2026-11-02_tapal-kuda_lomba-dai-pasuruan",
@@ -493,7 +506,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:25:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T15:34+07:00"
+      "tgl_tayang": "2026-11-02T15:34+07:00",
+      "sidik_meta": "d613ba838abb1e9bddcbc7e271af7219edfb0b13"
     },
     {
       "id": "2026-11-02_tapal-kuda_esport-free-fire-pasuruan",
@@ -529,7 +543,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:25:52+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T16:19+07:00"
+      "tgl_tayang": "2026-11-02T16:19+07:00",
+      "sidik_meta": "e2c841d045c6a73324c6602d9aba3b0887e84e72"
     },
     {
       "id": "2026-11-02_tapal-kuda_charity-cup-golf-pasuruan",
@@ -564,7 +579,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:36:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T18:34+07:00"
+      "tgl_tayang": "2026-11-02T18:34+07:00",
+      "sidik_meta": "3b9ea3835534e6b46f0eec27886e0bae26683554"
     },
     {
       "id": "2026-11-02_tapal-kuda_gerak-jalan-santri-pasuruan",
@@ -599,7 +615,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:26:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T17:04+07:00"
+      "tgl_tayang": "2026-11-02T17:04+07:00",
+      "sidik_meta": "99b4612c71cd236bad34bca7510205d54271ddef"
     },
     {
       "id": "2026-11-02_madura_patroli-balap-liar-sumenep",
@@ -634,7 +651,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:26:12+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T17:49+07:00"
+      "tgl_tayang": "2026-11-02T17:49+07:00",
+      "sidik_meta": "bce79b226fde96901cd8086cd0268cb5976a4f4b"
     },
     {
       "id": "2026-11-02_madura_sidak-urine-bnnk-sumenep",
@@ -669,7 +687,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-02T07:36:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-02T19:19+07:00"
+      "tgl_tayang": "2026-11-02T19:19+07:00",
+      "sidik_meta": "99de555e72e98e4e570f7e8ba45d6471864f6161"
     },
     {
       "id": "2026-11-03_surabaya-raya_popda-sidoarjo",
@@ -705,7 +724,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:43:26+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T10:28+07:00"
+      "tgl_tayang": "2026-11-03T10:28+07:00",
+      "sidik_meta": "667ac96606d4e627d26d20dac40c80b317a07d8b"
     },
     {
       "id": "2026-11-03_surabaya-raya_pppk-paruh-waktu-sidoarjo",
@@ -741,7 +761,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:43:38+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T11:13+07:00"
+      "tgl_tayang": "2026-11-03T11:13+07:00",
+      "sidik_meta": "297e0ed869cf06741324b2ccbaa52e64d12d336f"
     },
     {
       "id": "2026-11-03_surabaya-raya_jalan-panjer-seduri-mojokerto",
@@ -777,7 +798,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:43:48+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T11:58+07:00"
+      "tgl_tayang": "2026-11-03T11:58+07:00",
+      "sidik_meta": "a1eccadbaf06a833051d2075e0cfe1c9ac81c8c9"
     },
     {
       "id": "2026-11-03_mataraman_kontingen-jombang-popda",
@@ -813,7 +835,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:43:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T12:43+07:00"
+      "tgl_tayang": "2026-11-03T12:43+07:00",
+      "sidik_meta": "e6a0f8fb7dfc31c589a2643a095032bc0d8b060a"
     },
     {
       "id": "2026-11-03_mataraman_kejurkab-bulutangkis-blitar",
@@ -849,7 +872,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:44:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T13:28+07:00"
+      "tgl_tayang": "2026-11-03T13:28+07:00",
+      "sidik_meta": "cddfff0a8a1ef3e7e61d567346eeec3b3959978b"
     },
     {
       "id": "2026-11-03_mataraman_antikorupsi-smpn1-madiun",
@@ -885,7 +909,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:44:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T14:13+07:00"
+      "tgl_tayang": "2026-11-03T14:13+07:00",
+      "sidik_meta": "489c0abc91ed4d3cac2b2517f47b6b628de4c369"
     },
     {
       "id": "2026-11-03_pantura_waspada-qris-bojonegoro",
@@ -921,7 +946,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:44:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T14:58+07:00"
+      "tgl_tayang": "2026-11-03T14:58+07:00",
+      "sidik_meta": "04dbf3df14f640a59d6e957efcb2ad19b853676b"
     },
     {
       "id": "2026-11-03_tapal-kuda_pintu-air-bandaran-pasuruan",
@@ -957,7 +983,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:44:43+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T15:43+07:00"
+      "tgl_tayang": "2026-11-03T15:43+07:00",
+      "sidik_meta": "4249227d74ea74371027061387049b1345c32d3e"
     },
     {
       "id": "2026-11-03_tapal-kuda_pasuruan-bersholawat",
@@ -993,7 +1020,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:51:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T17:13+07:00"
+      "tgl_tayang": "2026-11-03T17:13+07:00",
+      "sidik_meta": "060f0adc019257bd96ca7829b6680711442e1510"
     },
     {
       "id": "2026-11-03_madura_cek-lalin-simpang-arya-wiraraja-sumenep",
@@ -1028,7 +1056,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-03T09:44:53+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-03T16:28+07:00"
+      "tgl_tayang": "2026-11-03T16:28+07:00",
+      "sidik_meta": "f49c94353078863fd558cae08eddc084b97d4e55"
     },
     {
       "id": "2026-11-04_surabaya-raya_job-fair-hybrid-sidoarjo",
@@ -1130,7 +1159,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:32:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T20:04+07:00"
+      "tgl_tayang": "2026-11-04T20:04+07:00",
+      "sidik_meta": "bf00828cb0f8a4c5fe162338ef2c08d2c7533cc5"
     },
     {
       "id": "2026-11-04_mataraman_monev-tmmd-tulungagung",
@@ -1166,7 +1196,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:26:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T14:49+07:00"
+      "tgl_tayang": "2026-11-04T14:49+07:00",
+      "sidik_meta": "88477535096f8f142207a3119a4a7e79dcc48c61"
     },
     {
       "id": "2026-11-04_mataraman_rumah-lansia-sukosari-madiun",
@@ -1301,7 +1332,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:26:48+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T15:34+07:00"
+      "tgl_tayang": "2026-11-04T15:34+07:00",
+      "sidik_meta": "bf20a5867ca49da9ec486287de3a4e845dcafd22"
     },
     {
       "id": "2026-11-04_tapal-kuda_apbd-2027-pasuruan",
@@ -1337,7 +1369,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:26:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T16:19+07:00"
+      "tgl_tayang": "2026-11-04T16:19+07:00",
+      "sidik_meta": "01e936276e1be58ff2012a16893d62e3c80ffc92"
     },
     {
       "id": "2026-11-04_tapal-kuda_idda-coffee-tutur-pasuruan",
@@ -1373,7 +1406,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:27:08+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T17:04+07:00"
+      "tgl_tayang": "2026-11-04T17:04+07:00",
+      "sidik_meta": "8528f27fa03b1fb26658dab8531fb61907c82037"
     },
     {
       "id": "2026-11-04_madura_hari-jadi-496-pamekasan",
@@ -1409,7 +1443,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:27:19+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T17:49+07:00"
+      "tgl_tayang": "2026-11-04T17:49+07:00",
+      "sidik_meta": "b6d61fa1c37a5c32c2bc827c6d07b1cf17bcd963"
     },
     {
       "id": "2026-11-04_madura_operasi-patuh-semeru-sumenep",
@@ -1445,7 +1480,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:27:28+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T18:34+07:00"
+      "tgl_tayang": "2026-11-04T18:34+07:00",
+      "sidik_meta": "8726f0cd2548df08376e02c5a1d9008f3f16d7b5"
     },
     {
       "id": "2026-11-04_madura_keuangan-puskesmas-batuan-sumenep",
@@ -1481,7 +1517,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-04T10:27:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-04T19:19+07:00"
+      "tgl_tayang": "2026-11-04T19:19+07:00",
+      "sidik_meta": "ffa8877f7fdad9fb777d197ef2c97d534ea2ec3a"
     },
     {
       "id": "2026-11-05_surabaya-raya_somasi-lbh-pmii-esdm",
@@ -1518,7 +1555,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-05T00:36:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T00:46+07:00"
+      "tgl_tayang": "2026-11-05T00:46+07:00",
+      "sidik_meta": "923b1b6f0f138516f9d8e5b7bd10f5886154f77e"
     },
     {
       "id": "2026-11-05_surabaya-raya_pungli-rekrutmen-dishub-surabaya",
@@ -1554,7 +1592,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T07:24+07:00"
+      "tgl_tayang": "2026-11-05T07:24+07:00",
+      "sidik_meta": "c53385aa4ca6ed2e36e71fd3a90c91876b10dce2"
     },
     {
       "id": "2026-11-05_surabaya-raya_pengamanan-traffic-light-surabaya",
@@ -1590,7 +1629,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:11+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T08:09+07:00"
+      "tgl_tayang": "2026-11-05T08:09+07:00",
+      "sidik_meta": "4ae3833760083be9077ba23d220210be25cecf6e"
     },
     {
       "id": "2026-11-05_surabaya-raya_satya-jkn-awards-surabaya",
@@ -1626,7 +1666,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T08:54+07:00"
+      "tgl_tayang": "2026-11-05T08:54+07:00",
+      "sidik_meta": "3a2d4cfbd1cfe49c1ce03371eed447f4be8a5598"
     },
     {
       "id": "2026-11-05_surabaya-raya_pengawasan-diskotek-surabaya",
@@ -1691,7 +1732,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T09:39+07:00"
+      "tgl_tayang": "2026-11-05T09:39+07:00",
+      "sidik_meta": "ad7e27da063eea2e596379c13c04027a2726c381"
     },
     {
       "id": "2026-11-05_pantura_lasabo-sains-anak-bojonegoro",
@@ -1727,7 +1769,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:44+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T10:24+07:00"
+      "tgl_tayang": "2026-11-05T10:24+07:00",
+      "sidik_meta": "eb61888e6b8ea939fb7f8f9c55631c7ceb5caa8a"
     },
     {
       "id": "2026-11-05_madura_apel-siaga-bencana-sumenep",
@@ -1763,7 +1806,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:31:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T11:09+07:00"
+      "tgl_tayang": "2026-11-05T11:09+07:00",
+      "sidik_meta": "be7cc7936280781140ef7cbd19f1060a66f5edeb"
     },
     {
       "id": "2026-11-05_madura_kebun-produktif-raas-sumenep",
@@ -1799,7 +1843,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:32:03+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T11:54+07:00"
+      "tgl_tayang": "2026-11-05T11:54+07:00",
+      "sidik_meta": "bca284a7330ba607592b02ab285959b7e5202202"
     },
     {
       "id": "2026-11-05_madura_guru-min1-juara-nasional-sumenep",
@@ -1835,7 +1880,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:32:13+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T12:39+07:00"
+      "tgl_tayang": "2026-11-05T12:39+07:00",
+      "sidik_meta": "4bfe4f91f6f64ee442d8bf7c3d9596dc5e68c0ac"
     },
     {
       "id": "2026-11-05_madura_lomba-phbs-perkantoran-sumenep",
@@ -1871,7 +1917,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:32:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T13:24+07:00"
+      "tgl_tayang": "2026-11-05T13:24+07:00",
+      "sidik_meta": "aee843a285eca292a8a4d8b2084fab64a584e1ca"
     },
     {
       "id": "2026-11-05_madura_baksos-gigi-mulut-sumenep",
@@ -1907,7 +1954,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-05T06:32:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-05T14:09+07:00"
+      "tgl_tayang": "2026-11-05T14:09+07:00",
+      "sidik_meta": "374fcfaa962f7f03e5c64dd70ff9d96365a0d5f7"
     },
     {
       "id": "2026-11-06_surabaya-raya_rupabumi-surabaya",
@@ -1943,7 +1991,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:27:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T11:12+07:00"
+      "tgl_tayang": "2026-11-06T11:12+07:00",
+      "sidik_meta": "c78caf990100f8cd55fe37afc85e41fcdeb37477"
     },
     {
       "id": "2026-11-06_surabaya-raya_kampung-pancasila-surabaya",
@@ -1979,7 +2028,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:27:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T11:57+07:00"
+      "tgl_tayang": "2026-11-06T11:57+07:00",
+      "sidik_meta": "d7f47ba1819adc0147250fe66cc2f77001c50870"
     },
     {
       "id": "2026-11-06_surabaya-raya_fragmen-suroboyoan-gender-surabaya",
@@ -2015,7 +2065,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:27:39+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T12:42+07:00"
+      "tgl_tayang": "2026-11-06T12:42+07:00",
+      "sidik_meta": "68b3613d6d6a31fb6fed53a4fd4c116b671768c0"
     },
     {
       "id": "2026-11-06_surabaya-raya_slhs-sppg-sidoarjo",
@@ -2109,7 +2160,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:27:48+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T13:27+07:00"
+      "tgl_tayang": "2026-11-06T13:27+07:00",
+      "sidik_meta": "4a236c6c5c8b2bd9bfdba81606de9b6d9d857019"
     },
     {
       "id": "2026-11-06_pantura_manajemen-talenta-asn-bojonegoro",
@@ -2145,7 +2197,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:27:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T14:12+07:00"
+      "tgl_tayang": "2026-11-06T14:12+07:00",
+      "sidik_meta": "3157d21e05e433a68f8372f91d8bc1bac8e03de3"
     },
     {
       "id": "2026-11-06_pantura_apel-siaga-bencana-lamongan",
@@ -2181,7 +2234,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:28:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T14:57+07:00"
+      "tgl_tayang": "2026-11-06T14:57+07:00",
+      "sidik_meta": "3038503f7facb14cefd9d09776244731a80985d4"
     },
     {
       "id": "2026-11-06_tapal-kuda_mangga-putar-contest-pasuruan",
@@ -2217,7 +2271,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:28:16+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T15:42+07:00"
+      "tgl_tayang": "2026-11-06T15:42+07:00",
+      "sidik_meta": "183180d63d67e4e901abdf99bdb562449b2a2382"
     },
     {
       "id": "2026-11-06_madura_satu-data-sumenep",
@@ -2253,7 +2308,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-06T10:28:26+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-06T16:27+07:00"
+      "tgl_tayang": "2026-11-06T16:27+07:00",
+      "sidik_meta": "d1149aea4b9754e046c0809af7bbc0d7b1be165a"
     },
     {
       "id": "2026-11-07_surabaya-raya_rumah-pompa-drainase-surabaya",
@@ -2289,7 +2345,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:25:47+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T12:10+07:00"
+      "tgl_tayang": "2026-11-07T12:10+07:00",
+      "sidik_meta": "7b8999cc91a7f431f52eef257d7da40a99f86a5e"
     },
     {
       "id": "2026-11-07_surabaya-raya_tps-taman-ketampon-surabaya",
@@ -2325,7 +2382,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:39:12+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T18:10+07:00"
+      "tgl_tayang": "2026-11-07T18:10+07:00",
+      "sidik_meta": "d4060000394e94f861653eaabe8959647156e030"
     },
     {
       "id": "2026-11-07_mataraman_apel-cuaca-ekstrem-tulungagung",
@@ -2388,7 +2446,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:25:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T12:55+07:00"
+      "tgl_tayang": "2026-11-07T12:55+07:00",
+      "sidik_meta": "88fdf079a2c7f144c02282d7649715566cd24c5d"
     },
     {
       "id": "2026-11-07_mataraman_kontingen-popda-pacitan",
@@ -2424,7 +2483,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:26:08+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T13:40+07:00"
+      "tgl_tayang": "2026-11-07T13:40+07:00",
+      "sidik_meta": "0d78c10769714b4584642dcd456f0f76febaae06"
     },
     {
       "id": "2026-11-07_mataraman_iga-2026-tulungagung",
@@ -2487,7 +2547,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:26:19+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T14:25+07:00"
+      "tgl_tayang": "2026-11-07T14:25+07:00",
+      "sidik_meta": "2bfb78298d39dd51e4cb6ac643d6074c273d4f26"
     },
     {
       "id": "2026-11-07_pantura_tk-kartika-lamongan",
@@ -2523,7 +2584,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:26:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T15:10+07:00"
+      "tgl_tayang": "2026-11-07T15:10+07:00",
+      "sidik_meta": "b55c5787ac647972753fab15f63ba27879dd7503"
     },
     {
       "id": "2026-11-07_tapal-kuda_jamsostek-pekerja-rentan-pasuruan",
@@ -2559,7 +2621,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:26:39+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T15:55+07:00"
+      "tgl_tayang": "2026-11-07T15:55+07:00",
+      "sidik_meta": "da05e227f377b240dfc4e78b2992a15ff95a89f6"
     },
     {
       "id": "2026-11-07_madura_jumat-keliling-polresta-sumenep",
@@ -2595,7 +2658,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:26:49+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T16:40+07:00"
+      "tgl_tayang": "2026-11-07T16:40+07:00",
+      "sidik_meta": "ef2021f6b108be0e4eb9202666da9ecce7daac32"
     },
     {
       "id": "2026-11-07_madura_literasi-digital-smpn1-ambunten",
@@ -2631,7 +2695,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-07T11:27:00+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-07T17:25+07:00"
+      "tgl_tayang": "2026-11-07T17:25+07:00",
+      "sidik_meta": "75e6feb07ff7d970d1bfe0a0cef5501050fd6243"
     },
     {
       "id": "2026-11-08_madura_tacb-cagar-budaya-sumenep",
@@ -2667,7 +2732,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-08T14:39:25+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-08T16:13+07:00"
+      "tgl_tayang": "2026-11-08T16:13+07:00",
+      "sidik_meta": "acc529db96a6d175eb22948934358f3807bb29a6"
     },
     {
       "id": "2026-11-08_surabaya-raya_bmkg-curah-hujan-jatim",
@@ -2703,7 +2769,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-08T14:39:36+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-08T16:58+07:00"
+      "tgl_tayang": "2026-11-08T16:58+07:00",
+      "sidik_meta": "cf2611678ef0ec8647096b51142357c6b616710c"
     },
     {
       "id": "2026-11-08_pantura_hoaks-wa-diskominfo-lamongan",
@@ -2738,7 +2805,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-08T13:58:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-08T14:43+07:00"
+      "tgl_tayang": "2026-11-08T14:43+07:00",
+      "sidik_meta": "e77ca95436fc32550ceacbb45888cd71ab147a3e"
     },
     {
       "id": "2026-11-08_madura_babinsa-bantu-bangun-rumah-pasongsongan",
@@ -2773,7 +2841,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-08T13:58:51+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-08T15:28+07:00"
+      "tgl_tayang": "2026-11-08T15:28+07:00",
+      "sidik_meta": "339862e19b2ca4823ff4c6b0a101318417fb0514"
     },
     {
       "id": "2026-11-09_surabaya-raya_414-titik-genangan-surabaya",
@@ -2809,7 +2878,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:42:59+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T15:27+07:00"
+      "tgl_tayang": "2026-11-09T15:27+07:00",
+      "sidik_meta": "dbfc38cd418d25927fa38b36b5019751b038f411"
     },
     {
       "id": "2026-11-09_surabaya-raya_solar-truk-sampah-dlh-surabaya",
@@ -2845,7 +2915,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:43:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T16:12+07:00"
+      "tgl_tayang": "2026-11-09T16:12+07:00",
+      "sidik_meta": "f04a7b4807ea7cb4294a271555b377ff80b4a543"
     },
     {
       "id": "2026-11-09_surabaya-raya_subec-ruang-kreatif-surabaya",
@@ -2881,7 +2952,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:43:22+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T16:57+07:00"
+      "tgl_tayang": "2026-11-09T16:57+07:00",
+      "sidik_meta": "369161fa3e861afbcbc78afcf309174dc2424619"
     },
     {
       "id": "2026-11-09_surabaya-raya_kontingen-surabaya-popda-xv",
@@ -2917,7 +2989,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:43:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T17:42+07:00"
+      "tgl_tayang": "2026-11-09T17:42+07:00",
+      "sidik_meta": "b853e13e6a886179ec73854f81bd9b5bcc811338"
     },
     {
       "id": "2026-11-09_surabaya-raya_perwali-45-sanksi-sampah-liar-surabaya",
@@ -2953,7 +3026,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:43:45+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T18:27+07:00"
+      "tgl_tayang": "2026-11-09T18:27+07:00",
+      "sidik_meta": "f4af5bc965537a0b734cef89fd5696a0c905948a"
     },
     {
       "id": "2026-11-09_mataraman_ponco-tuk-pakel-jombang",
@@ -2989,7 +3063,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:43:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T19:12+07:00"
+      "tgl_tayang": "2026-11-09T19:12+07:00",
+      "sidik_meta": "9bbde6c5f378c374b21b45b142fadb6a741d1b67"
     },
     {
       "id": "2026-11-09_mataraman_wisata-petik-jeruk-ngampungan-jombang",
@@ -3051,7 +3126,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:44:08+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T19:57+07:00"
+      "tgl_tayang": "2026-11-09T19:57+07:00",
+      "sidik_meta": "8f6b4c39f3668bc384699fa4a6a138a05a15264e"
     },
     {
       "id": "2026-11-09_tapal-kuda_haul-masyayikh-pasuruan",
@@ -3087,7 +3163,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:44:19+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T20:42+07:00"
+      "tgl_tayang": "2026-11-09T20:42+07:00",
+      "sidik_meta": "8453059c9dd701f89c6ddc03824b3f37a67a2cfd"
     },
     {
       "id": "2026-11-09_tapal-kuda_kupang-kraton-pasuruan",
@@ -3123,7 +3200,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:44:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T21:27+07:00"
+      "tgl_tayang": "2026-11-09T21:27+07:00",
+      "sidik_meta": "0c5d1e5d1351f460aa83553cb126029d8346c7c7"
     },
     {
       "id": "2026-11-09_madura_etika-medsos-brigade-penolong-sumenep",
@@ -3159,7 +3237,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:44:42+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T22:12+07:00"
+      "tgl_tayang": "2026-11-09T22:12+07:00",
+      "sidik_meta": "e7abc06d890be19b97222ccb2fce20914f8687ad"
     },
     {
       "id": "2026-11-09_madura_subuh-keliling-kapolresta-sumenep",
@@ -3195,7 +3274,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-09T14:44:53+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-09T22:57+07:00"
+      "tgl_tayang": "2026-11-09T22:57+07:00",
+      "sidik_meta": "e1069c9ac10497277e064d118396cfc4319f378f"
     },
     {
       "id": "2026-11-10_surabaya-raya_ekspor-kakao-jepang-surabaya",
@@ -3231,7 +3311,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:01+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T11:56+07:00"
+      "tgl_tayang": "2026-11-10T11:56+07:00",
+      "sidik_meta": "d9e3bd2c942ea7b085526fde4cd2e1bc5b66e996"
     },
     {
       "id": "2026-11-10_surabaya-raya_paud-disabilitas-surabaya",
@@ -3267,7 +3348,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T12:41+07:00"
+      "tgl_tayang": "2026-11-10T12:41+07:00",
+      "sidik_meta": "c2aef88eef1d15756bcfd8f3e5ad0202488c7ea1"
     },
     {
       "id": "2026-11-10_surabaya-raya_tutup-lima-tps-surabaya",
@@ -3303,7 +3385,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T13:26+07:00"
+      "tgl_tayang": "2026-11-10T13:26+07:00",
+      "sidik_meta": "7bd653363bb682da0a5f38ea938a5c3e0a893d9e"
     },
     {
       "id": "2026-11-10_surabaya-raya_hening-cipta-hari-pahlawan-surabaya",
@@ -3339,7 +3422,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T14:11+07:00"
+      "tgl_tayang": "2026-11-10T14:11+07:00",
+      "sidik_meta": "e1ff622e06c7111b14eb66d0f261f00f7c330d29"
     },
     {
       "id": "2026-11-10_surabaya-raya_penghargaan-adhiwidya-surabaya",
@@ -3375,7 +3459,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:42+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T14:56+07:00"
+      "tgl_tayang": "2026-11-10T14:56+07:00",
+      "sidik_meta": "c8cd51bdd4da1e15ef38ea10f0266fddc72a723d"
     },
     {
       "id": "2026-11-10_surabaya-raya_bimtek-aparatur-desa-porong-sidoarjo",
@@ -3411,7 +3496,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:12:52+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T15:41+07:00"
+      "tgl_tayang": "2026-11-10T15:41+07:00",
+      "sidik_meta": "de175e4497f59c2fdcda878654b535c780fe154d"
     },
     {
       "id": "2026-11-10_surabaya-raya_laga-persahabatan-sidoarjo-mojokerto",
@@ -3447,7 +3533,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:13:00+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T16:26+07:00"
+      "tgl_tayang": "2026-11-10T16:26+07:00",
+      "sidik_meta": "be0e54b58bec11ab2b65f8cb64520ca676e5f9c6"
     },
     {
       "id": "2026-11-10_mataraman_kajati-jatim-kunjungi-ngawi",
@@ -3483,7 +3570,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:13:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T17:11+07:00"
+      "tgl_tayang": "2026-11-10T17:11+07:00",
+      "sidik_meta": "f4597b7431a005609d73b5a84e63450ad39d9938"
     },
     {
       "id": "2026-11-10_tapal-kuda_pagak-training-centre-pasuruan",
@@ -3519,7 +3607,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:13:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T17:56+07:00"
+      "tgl_tayang": "2026-11-10T17:56+07:00",
+      "sidik_meta": "556672cd582faf4ba0ff70ec5bffb96500305927"
     },
     {
       "id": "2026-11-10_madura_dbd-meningkat-pragaan-sumenep",
@@ -3556,7 +3645,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:13:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T18:41+07:00"
+      "tgl_tayang": "2026-11-10T18:41+07:00",
+      "sidik_meta": "e8d9b570782cf5bcba953945adb50a6c6e3b0f7c"
     },
     {
       "id": "2026-11-10_madura_asn-sehati-sumenep",
@@ -3592,7 +3682,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:23:08+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T20:11+07:00"
+      "tgl_tayang": "2026-11-10T20:11+07:00",
+      "sidik_meta": "e1d87d3b576b8dbc6607809f56c9d2723ca3b91d"
     },
     {
       "id": "2026-11-10_madura_paspor-nama-tunggal-uea-sumenep",
@@ -3628,7 +3719,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-10T11:13:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-10T19:26+07:00"
+      "tgl_tayang": "2026-11-10T19:26+07:00",
+      "sidik_meta": "db4a62fc3fb1b52f9609e55552f0d25539a692dd"
     },
     {
       "id": "2026-11-11_surabaya-raya_hari-pahlawan-surabaya-2026",
@@ -3692,7 +3784,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:47:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T10:32+07:00"
+      "tgl_tayang": "2026-11-11T10:32+07:00",
+      "sidik_meta": "937b03ed2699ad622977132f4b7182656b580a0c"
     },
     {
       "id": "2026-11-11_mataraman_sideka-ng-tulungagung",
@@ -3728,7 +3821,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T10:06:22+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T15:47+07:00"
+      "tgl_tayang": "2026-11-11T15:47+07:00",
+      "sidik_meta": "9b88f290f2d2933e0a0e74ec0e9b4ac7dbc786db"
     },
     {
       "id": "2026-11-11_mataraman_penertiban-reklame-jombang",
@@ -3763,7 +3857,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T11:17+07:00"
+      "tgl_tayang": "2026-11-11T11:17+07:00",
+      "sidik_meta": "5e312d96ecc7af25ce0b55f4caf8bf97cb5845a5"
     },
     {
       "id": "2026-11-11_mataraman_sidak-pasar-kanigoro-blitar",
@@ -3799,7 +3894,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:12+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T12:02+07:00"
+      "tgl_tayang": "2026-11-11T12:02+07:00",
+      "sidik_meta": "d728b7e613d7bdf63e4df65936cd924cf453bcef"
     },
     {
       "id": "2026-11-11_pantura_ranpur-marinir-hari-pahlawan-lamongan",
@@ -3834,7 +3930,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T12:47+07:00"
+      "tgl_tayang": "2026-11-11T12:47+07:00",
+      "sidik_meta": "2f9d12d8a60b1fd57a497cb5035cf0a34ebdcb3a"
     },
     {
       "id": "2026-11-11_pantura_hari-pahlawan-bojonegoro",
@@ -3898,7 +3995,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:36+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T13:32+07:00"
+      "tgl_tayang": "2026-11-11T13:32+07:00",
+      "sidik_meta": "466385101bd32a18df827c2f571a4fbb666a7734"
     },
     {
       "id": "2026-11-11_madura_paving-pelabuhan-raas-sumenep",
@@ -3934,7 +4032,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:47+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T14:17+07:00"
+      "tgl_tayang": "2026-11-11T14:17+07:00",
+      "sidik_meta": "fb00ff7100c669905811e4be9b08f6aaf6df297d"
     },
     {
       "id": "2026-11-11_madura_bupati-cup-bulutangkis-sumenep",
@@ -3970,7 +4069,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-11T09:48:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T15:02+07:00"
+      "tgl_tayang": "2026-11-11T15:02+07:00",
+      "sidik_meta": "e2ac881311d56ccdfb9452fc6c8396decd32f1cf"
     },
     {
       "id": "2026-11-11_mataraman_perpusnas-naskah-kuno-blitar",
@@ -4006,7 +4106,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-11T09:49:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T09:58+07:00"
+      "tgl_tayang": "2026-11-11T09:58+07:00",
+      "sidik_meta": "51949c7407bc5e683d6967f22418b150ede2004a"
     },
     {
       "id": "2026-11-11_mataraman_perpusnas-kerusakan-naskah-kuno-blitar",
@@ -4042,7 +4143,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-11T10:06:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-11T10:15+07:00"
+      "tgl_tayang": "2026-11-11T10:15+07:00",
+      "sidik_meta": "aa612b29a45059d85f292bbaa0ba15aa343f7d00"
     },
     {
       "id": "2026-11-12_surabaya-raya_pasar-murah-gpm-bangkingan-lakarsantri-surabaya",
@@ -4079,7 +4181,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T15:44+07:00"
+      "tgl_tayang": "2026-11-12T15:44+07:00",
+      "sidik_meta": "496f4649e06f66ca63992acd14d19854a5d8f5c7"
     },
     {
       "id": "2026-11-12_surabaya-raya_apbd-surabaya-2027-disahkan-bansos-banjir",
@@ -4115,7 +4218,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T16:29+07:00"
+      "tgl_tayang": "2026-11-12T16:29+07:00",
+      "sidik_meta": "a86c632243c2dd0693ef1c092330e9b79321cd05"
     },
     {
       "id": "2026-11-12_surabaya-raya_posyandu-stunting-jabon-mojoanyar-mojokerto",
@@ -4151,7 +4255,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:22+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T17:14+07:00"
+      "tgl_tayang": "2026-11-12T17:14+07:00",
+      "sidik_meta": "3ca64842037b0c3810e62af9ce1d82ad9e9c2e63"
     },
     {
       "id": "2026-11-12_surabaya-raya_industri-perluas-kerja-workshop-blk-mojokerto",
@@ -4187,7 +4292,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T17:59+07:00"
+      "tgl_tayang": "2026-11-12T17:59+07:00",
+      "sidik_meta": "a489faaf51db22e4fcdec6a5b29d21a6c295412f"
     },
     {
       "id": "2026-11-12_pantura_dies-natalis-sman-2-taruna-pamong-praja-bojonegoro",
@@ -4223,7 +4329,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T18:44+07:00"
+      "tgl_tayang": "2026-11-12T18:44+07:00",
+      "sidik_meta": "1e9bc6056df0f1dc9caad9fa44eb6d8c6a961103"
     },
     {
       "id": "2026-11-12_tapal-kuda_hkg-pkk-ke-54-kabupaten-pasuruan-bupati-rusdi",
@@ -4260,7 +4367,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T19:29+07:00"
+      "tgl_tayang": "2026-11-12T19:29+07:00",
+      "sidik_meta": "37599b939614a6ffdb8c7a5aafbbdbc25feb59a7"
     },
     {
       "id": "2026-11-12_madura_babinsa-warga-padamkan-titik-api-batuputih-sumenep",
@@ -4296,7 +4404,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:00:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T20:14+07:00"
+      "tgl_tayang": "2026-11-12T20:14+07:00",
+      "sidik_meta": "7154f5a243bf028a3d8f42cb80029ba140581e6f"
     },
     {
       "id": "2026-11-12_madura_anugerah-inovasi-daerah-sumenep-2026-sipintar-ppid",
@@ -4333,7 +4442,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-12T15:01:07+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-12T20:59+07:00"
+      "tgl_tayang": "2026-11-12T20:59+07:00",
+      "sidik_meta": "6c6af209f604e4700df3aab85f0b853437c32887"
     },
     {
       "id": "2026-11-13_surabaya-raya_popda-juara-umum",
@@ -4369,7 +4479,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:14:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T14:59+07:00"
+      "tgl_tayang": "2026-11-13T14:59+07:00",
+      "sidik_meta": "ec9391f24baa3c10a72023f02e33001562a95295"
     },
     {
       "id": "2026-11-13_surabaya-raya_kampung-pancasila-ksh",
@@ -4434,7 +4545,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:14:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T15:44+07:00"
+      "tgl_tayang": "2026-11-13T15:44+07:00",
+      "sidik_meta": "245485013012f8965ccf984d45b63f8b0d4a7d5a"
     },
     {
       "id": "2026-11-13_surabaya-raya_grand-job-fair-2026",
@@ -4470,7 +4582,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:14:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T16:29+07:00"
+      "tgl_tayang": "2026-11-13T16:29+07:00",
+      "sidik_meta": "2d24362228974681125213f1795512134e815c16"
     },
     {
       "id": "2026-11-13_surabaya-raya_ksti-2026-welcome-dinner",
@@ -4506,7 +4619,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:14:59+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T17:14+07:00"
+      "tgl_tayang": "2026-11-13T17:14+07:00",
+      "sidik_meta": "7b2b83dbede8dc03fa38365469b74fe2f5f0bba2"
     },
     {
       "id": "2026-11-13_surabaya-raya_nama-rupabumi-juara-1",
@@ -4542,7 +4656,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:15:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T17:59+07:00"
+      "tgl_tayang": "2026-11-13T17:59+07:00",
+      "sidik_meta": "8eceb0f895008180aa1853b282ac6e4ff48943d6"
     },
     {
       "id": "2026-11-13_mataraman_tmmd-130-jombang-plandaan",
@@ -4578,7 +4693,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:15:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T18:44+07:00"
+      "tgl_tayang": "2026-11-13T18:44+07:00",
+      "sidik_meta": "8bfcac4a984af45a621f9d9b754f7ce5b89dbfb9"
     },
     {
       "id": "2026-11-13_mataraman_tpid-jombang-hlm-nataru",
@@ -4614,7 +4730,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:15:32+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T19:29+07:00"
+      "tgl_tayang": "2026-11-13T19:29+07:00",
+      "sidik_meta": "de35e53e3bc8178f9f6489c36d46d0f254b33260"
     },
     {
       "id": "2026-11-13_mataraman_tmmd-130-ngawi-karangjati",
@@ -4650,7 +4767,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:15:43+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T20:14+07:00"
+      "tgl_tayang": "2026-11-13T20:14+07:00",
+      "sidik_meta": "f96144e6901f52263cd1fdf7cbb6dd7ec85bd323"
     },
     {
       "id": "2026-11-13_pantura_ikm-umkm-digitalisasi-keuangan-bojonegoro",
@@ -4686,7 +4804,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:15:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T20:59+07:00"
+      "tgl_tayang": "2026-11-13T20:59+07:00",
+      "sidik_meta": "b41c8b8beafe89a5ab701b96898ceb62ab734c02"
     },
     {
       "id": "2026-11-13_pantura_gojes-karangasem-jenu",
@@ -4722,7 +4841,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:16:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T21:44+07:00"
+      "tgl_tayang": "2026-11-13T21:44+07:00",
+      "sidik_meta": "e66561f66b85322d833ee1ddbb05989c908f2b05"
     },
     {
       "id": "2026-11-13_pantura_hari-jadi-tuban-733-upacara",
@@ -4758,7 +4878,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:16:17+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T22:29+07:00"
+      "tgl_tayang": "2026-11-13T22:29+07:00",
+      "sidik_meta": "c43808276f464c7b2f2041f5977dd2a063f1770e"
     },
     {
       "id": "2026-11-13_pantura_ucapan-hari-jadi-tuban-tanaman-rth",
@@ -4820,7 +4941,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:16:27+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T23:14+07:00"
+      "tgl_tayang": "2026-11-13T23:14+07:00",
+      "sidik_meta": "675189c0ca5679cb4537662c9ee5b3636332cd9b"
     },
     {
       "id": "2026-11-13_tapal-kuda_icare-2026-koperasi-pertanian",
@@ -4856,7 +4978,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:16:44+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-13T23:59+07:00"
+      "tgl_tayang": "2026-11-13T23:59+07:00",
+      "sidik_meta": "eab4b1098f5a2adb1ce33a936591b85783c01e2c"
     },
     {
       "id": "2026-11-13_tapal-kuda_literasi-pasar-modal-asn-pasuruan",
@@ -4892,7 +5015,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:16:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T00:44+07:00"
+      "tgl_tayang": "2026-11-14T00:44+07:00",
+      "sidik_meta": "547f82d82a9fea5a11febfe37bf0d51a55dbf5ce"
     },
     {
       "id": "2026-11-13_tapal-kuda_graduasi-bansos-1334-kpm-pasuruan",
@@ -4928,7 +5052,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:17:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T01:29+07:00"
+      "tgl_tayang": "2026-11-14T01:29+07:00",
+      "sidik_meta": "79ee6d43c422abbf12f97f1001290fa7d8563506"
     },
     {
       "id": "2026-11-13_madura_vaksinasi-dbd-sumenep-kebundadap",
@@ -4964,7 +5089,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:17:17+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T02:14+07:00"
+      "tgl_tayang": "2026-11-14T02:14+07:00",
+      "sidik_meta": "594a3a5d9d54e84bc9c5b8bbcbbbf082e28d06a1"
     },
     {
       "id": "2026-11-13_madura_studi-tiru-call-center-112-bangkalan-sumenep",
@@ -5000,7 +5126,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-13T14:17:27+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T02:59+07:00"
+      "tgl_tayang": "2026-11-14T02:59+07:00",
+      "sidik_meta": "6efd1190acfb7231f8cef48b446e520727aedbe2"
     },
     {
       "id": "2026-11-14_surabaya-raya_segel-rusunawa-kos-benowo",
@@ -5036,7 +5163,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:53:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T10:38+07:00"
+      "tgl_tayang": "2026-11-14T10:38+07:00",
+      "sidik_meta": "fcc86ca97b8fce101e72acb76196a690d39545f3"
     },
     {
       "id": "2026-11-14_surabaya-raya_ayah-soth-mentor-rw",
@@ -5072,7 +5200,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:53:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T11:23+07:00"
+      "tgl_tayang": "2026-11-14T11:23+07:00",
+      "sidik_meta": "e0ba37f95e747c543232a6e051752a2e942affb2"
     },
     {
       "id": "2026-11-14_surabaya-raya_truk-sampah-manukan-kulon",
@@ -5108,7 +5237,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:53:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T12:08+07:00"
+      "tgl_tayang": "2026-11-14T12:08+07:00",
+      "sidik_meta": "e0b5d848c025470565473826be4faa21b25463bc"
     },
     {
       "id": "2026-11-14_surabaya-raya_dugaan-solar-dlh",
@@ -5144,7 +5274,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:53:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T12:53+07:00"
+      "tgl_tayang": "2026-11-14T12:53+07:00",
+      "sidik_meta": "ff12dfac936ae6c7f0eb1ec8bea9ac276d84b150"
     },
     {
       "id": "2026-11-14_surabaya-raya_pegawai-pemkot-sabu-pungli",
@@ -5180,7 +5311,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T13:38+07:00"
+      "tgl_tayang": "2026-11-14T13:38+07:00",
+      "sidik_meta": "417d252f9e562d29252c1319cfc7abeb57e8236c"
     },
     {
       "id": "2026-11-14_pantura_kampung-nelayan-merah-putih-lamongan",
@@ -5244,7 +5376,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:12+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T14:23+07:00"
+      "tgl_tayang": "2026-11-14T14:23+07:00",
+      "sidik_meta": "bdaff94fdf7dc3c6e9753b5b1c2f00b72557bcdd"
     },
     {
       "id": "2026-11-14_pantura_bpjs-ketenagakerjaan-pekerja-rentan-lamongan",
@@ -5280,7 +5413,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:22+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T15:08+07:00"
+      "tgl_tayang": "2026-11-14T15:08+07:00",
+      "sidik_meta": "4c656ec04e3ef7280a460fbd8adc1450fbbf5801"
     },
     {
       "id": "2026-11-14_pantura_laserku-ckg-lamongan",
@@ -5316,7 +5450,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T15:53+07:00"
+      "tgl_tayang": "2026-11-14T15:53+07:00",
+      "sidik_meta": "332c40967a721e8c4d79ea06d50e698706998e51"
     },
     {
       "id": "2026-11-14_tapal-kuda_said-loyang-cetakan-kue-pasuruan",
@@ -5352,7 +5487,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:44+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T16:38+07:00"
+      "tgl_tayang": "2026-11-14T16:38+07:00",
+      "sidik_meta": "86a4fbaac6d01fee8bf8feb24229d7a1d0919ae7"
     },
     {
       "id": "2026-11-14_tapal-kuda_donor-darah-asn-pasuruan",
@@ -5388,7 +5524,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:54:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T17:23+07:00"
+      "tgl_tayang": "2026-11-14T17:23+07:00",
+      "sidik_meta": "2cfa2837430e72d5e4acc243ced7fa95e80ed416"
     },
     {
       "id": "2026-11-14_madura_pramuka-santri-ma-arif-sumenep",
@@ -5424,7 +5561,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:55:04+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T18:08+07:00"
+      "tgl_tayang": "2026-11-14T18:08+07:00",
+      "sidik_meta": "c67b3202675e5ffd69d279c87fb090313a8f3124"
     },
     {
       "id": "2026-11-14_madura_sipintar-ppid-sumenep",
@@ -5460,7 +5598,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:55:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T18:53+07:00"
+      "tgl_tayang": "2026-11-14T18:53+07:00",
+      "sidik_meta": "b59759067c6e4d6c9dabb8cbc6fed6b62218fc5b"
     },
     {
       "id": "2026-11-14_madura_penutupan-tmmd-130-pamekasan",
@@ -5496,7 +5635,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-14T09:55:25+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T19:38+07:00"
+      "tgl_tayang": "2026-11-14T19:38+07:00",
+      "sidik_meta": "5465cb3b09e7c4f87cb7fb747241860638692b38"
     },
     {
       "id": "2026-11-14_mataraman_nu-peduli-fasilitator-ketangguhan-bencana-blitar",
@@ -5532,7 +5672,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-14T09:55:37+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T10:09+07:00"
+      "tgl_tayang": "2026-11-14T10:09+07:00",
+      "sidik_meta": "8868daf774c6720ae62c1bc759f3bb1bbfdf8204"
     },
     {
       "id": "2026-11-14_mataraman_nu-peduli-data-warga-rentan-perahu-karet-blitar",
@@ -5568,7 +5709,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-14T10:16:13+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-14T10:29+07:00"
+      "tgl_tayang": "2026-11-14T10:29+07:00",
+      "sidik_meta": "a36e7f9825667f55e1b6e694aedb8b397a184086"
     },
     {
       "id": "2026-11-15_surabaya-raya_guru-tersertifikasi-2027",
@@ -5604,7 +5746,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T17:59:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T18:44+07:00"
+      "tgl_tayang": "2026-11-15T18:44+07:00",
+      "sidik_meta": "3d6fd54b0c0d3114d5e7e82ec55528b97772d090"
     },
     {
       "id": "2026-11-15_surabaya-raya_trembesi-jacaranda-dlh",
@@ -5640,7 +5783,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T17:59:38+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T19:29+07:00"
+      "tgl_tayang": "2026-11-15T19:29+07:00",
+      "sidik_meta": "f7a12bb1a73e7276c0631fafd883c33d604b50d3"
     },
     {
       "id": "2026-11-15_surabaya-raya_tabebuya-mekar-surabaya",
@@ -5676,7 +5820,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T17:59:45+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T20:14+07:00"
+      "tgl_tayang": "2026-11-15T20:14+07:00",
+      "sidik_meta": "f1139036b326b90ff50f2cd36b369a59457f3451"
     },
     {
       "id": "2026-11-15_surabaya-raya_sampah-liar-pengampon",
@@ -5712,7 +5857,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T17:59:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T20:59+07:00"
+      "tgl_tayang": "2026-11-15T20:59+07:00",
+      "sidik_meta": "f9e5b504e3b1c5784776b09155ce0306623d2f1e"
     },
     {
       "id": "2026-11-15_surabaya-raya_jemblem-muri-mojokerto",
@@ -5748,7 +5894,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T18:00:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T21:44+07:00"
+      "tgl_tayang": "2026-11-15T21:44+07:00",
+      "sidik_meta": "2fcecc732bb9e00dfc51f8e6c1801f6bc0c6e194"
     },
     {
       "id": "2026-11-15_mataraman_lt-iv-pramuka-jatim-jombang",
@@ -5784,7 +5931,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T18:00:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T22:29+07:00"
+      "tgl_tayang": "2026-11-15T22:29+07:00",
+      "sidik_meta": "abe09585db6ae88cb515b62744f3c143d9e3d705"
     },
     {
       "id": "2026-11-15_pantura_akreditasi-rsud-temayang-bojonegoro",
@@ -5820,7 +5968,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T18:00:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T23:14+07:00"
+      "tgl_tayang": "2026-11-15T23:14+07:00",
+      "sidik_meta": "a48721646b6515344ed93662cc0a2ff437d186c4"
     },
     {
       "id": "2026-11-15_tapal-kuda_liga-nusantara-pasuruan-united-persekabpas",
@@ -5857,7 +6006,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T18:00:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-15T23:59+07:00"
+      "tgl_tayang": "2026-11-15T23:59+07:00",
+      "sidik_meta": "978e6358643f1d64e929748bfe7e6615c130c9b8"
     },
     {
       "id": "2026-11-15_tapal-kuda_house-of-pandawa-prigen",
@@ -5893,7 +6043,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-15T18:00:36+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-16T00:44+07:00"
+      "tgl_tayang": "2026-11-16T00:44+07:00",
+      "sidik_meta": "72ee245d5ec989e90af3afe4165b3a6206747f9e"
     },
     {
       "id": "2026-11-16_surabaya-raya_desa-budaya-nusantara-trowulan",
@@ -5929,7 +6080,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-16T14:43:25+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-16T15:28+07:00"
+      "tgl_tayang": "2026-11-16T15:28+07:00",
+      "sidik_meta": "0759e008164d18fb81efc430ab23c0d06042d63b"
     },
     {
       "id": "2026-11-16_pantura_batik-fashion-carnival-tuban",
@@ -5965,7 +6117,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-16T14:43:36+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-16T16:13+07:00"
+      "tgl_tayang": "2026-11-16T16:13+07:00",
+      "sidik_meta": "5a32b4ab9ca2d7b5908902a9a58f49549f076918"
     },
     {
       "id": "2026-11-16_pantura_pushbike-bts-tuban",
@@ -6001,7 +6154,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-16T14:43:46+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-16T16:58+07:00"
+      "tgl_tayang": "2026-11-16T16:58+07:00",
+      "sidik_meta": "320d2c608b09fc700103d68c721edfba1806fbbe"
     },
     {
       "id": "2026-11-17_surabaya-raya_jatim-tax-mojokerto-bapenda",
@@ -6094,7 +6248,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:23:26+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T16:08+07:00"
+      "tgl_tayang": "2026-11-17T16:08+07:00",
+      "sidik_meta": "fb7c3b548af032191025308fd150eb0c8640dac0"
     },
     {
       "id": "2026-11-17_surabaya-raya_saluran-pohon-dlh-2027",
@@ -6130,7 +6285,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:23:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T16:53+07:00"
+      "tgl_tayang": "2026-11-17T16:53+07:00",
+      "sidik_meta": "6386997b5fbb04b9d38ab7043f1f587fa05d8724"
     },
     {
       "id": "2026-11-17_surabaya-raya_hkn-62-cek-kesehatan-gratis",
@@ -6166,7 +6322,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:50:43+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T22:53+07:00"
+      "tgl_tayang": "2026-11-17T22:53+07:00",
+      "sidik_meta": "fe07c1c74b740706dfed57cbdb53cb6207485240"
     },
     {
       "id": "2026-11-17_mataraman_purna-tugas-87-pegawai-jombang",
@@ -6202,7 +6359,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:23:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T17:38+07:00"
+      "tgl_tayang": "2026-11-17T17:38+07:00",
+      "sidik_meta": "7026d1d4d8a78e3cf6cbdf6f37bf4a1e647ca5c6"
     },
     {
       "id": "2026-11-17_mataraman_mageti-coffee-fest-2026",
@@ -6238,7 +6396,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:24:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T18:23+07:00"
+      "tgl_tayang": "2026-11-17T18:23+07:00",
+      "sidik_meta": "0e70a8b4735534ecd1e9740edc22a5f26532c9fc"
     },
     {
       "id": "2026-11-17_mataraman_tanggapan-bupati-magetan-jabatan-opd",
@@ -6274,7 +6433,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:24:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T19:08+07:00"
+      "tgl_tayang": "2026-11-17T19:08+07:00",
+      "sidik_meta": "1cdadd0c864039a1100abfc77e4a8b59a7f590e3"
     },
     {
       "id": "2026-11-17_mataraman_apel-pengamanan-pilkades-blitar",
@@ -6310,7 +6470,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:24:56+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T19:53+07:00"
+      "tgl_tayang": "2026-11-17T19:53+07:00",
+      "sidik_meta": "acd388b6ecc189b9f8966fddf6e0f8dbfb309032"
     },
     {
       "id": "2026-11-17_tapal-kuda_raperda-pinjaman-daerah-rsud-selatan-pasuruan",
@@ -6346,7 +6507,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:50:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T23:38+07:00"
+      "tgl_tayang": "2026-11-17T23:38+07:00",
+      "sidik_meta": "7ff0a9baebae700eac0e10f8df79ef4c159c536c"
     },
     {
       "id": "2026-11-17_tapal-kuda_budidaya-lele-manikrejo-rejoso",
@@ -6382,7 +6544,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:51:12+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T00:23+07:00"
+      "tgl_tayang": "2026-11-18T00:23+07:00",
+      "sidik_meta": "d944d5d86a03153aec3635b7044c081704d6ab26"
     },
     {
       "id": "2026-11-17_madura_komunitas-pusaka-griya-mapan-sumenep",
@@ -6418,7 +6581,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:25:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T20:38+07:00"
+      "tgl_tayang": "2026-11-17T20:38+07:00",
+      "sidik_meta": "b46ed1a831199d14a7eb4454d5889127d73016eb"
     },
     {
       "id": "2026-11-17_madura_apel-gabungan-daya-serap-sumenep",
@@ -6454,7 +6618,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:25:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T21:23+07:00"
+      "tgl_tayang": "2026-11-17T21:23+07:00",
+      "sidik_meta": "53421d671c8b8c54060e5e5d29a99cd270dc9016"
     },
     {
       "id": "2026-11-17_madura_lomba-website-desa-nasional-2027-sumenep",
@@ -6490,7 +6655,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-17T15:25:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-17T22:08+07:00"
+      "tgl_tayang": "2026-11-17T22:08+07:00",
+      "sidik_meta": "8a5b7a284ff9f00861910eecf3718f067eb02380"
     },
     {
       "id": "2026-11-18_surabaya-raya_eceng-gondok-kali-perbatasan",
@@ -6526,7 +6692,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:17:36+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T16:02+07:00"
+      "tgl_tayang": "2026-11-18T16:02+07:00",
+      "sidik_meta": "ad8bfab117244b5c51d9bb9e932b00420c2d2651"
     },
     {
       "id": "2026-11-18_surabaya-raya_pelatihan-otomasi-industri-mojokerto",
@@ -6562,7 +6729,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:17:46+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T16:47+07:00"
+      "tgl_tayang": "2026-11-18T16:47+07:00",
+      "sidik_meta": "e7fa66b20635edd2432131da9ff2e4421ef1d9cd"
     },
     {
       "id": "2026-11-18_surabaya-raya_mtq-iii-kabupaten-mojokerto",
@@ -6598,7 +6766,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:17:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T17:32+07:00"
+      "tgl_tayang": "2026-11-18T17:32+07:00",
+      "sidik_meta": "5302c3f215526d68582ba07a7ac7e1ba79a0be88"
     },
     {
       "id": "2026-11-18_mataraman_kirab-pataka-hari-jadi-821-tulungagung",
@@ -6634,7 +6803,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:18:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T18:17+07:00"
+      "tgl_tayang": "2026-11-18T18:17+07:00",
+      "sidik_meta": "8c604b54b769757ff914c87248fce929adf6521d"
     },
     {
       "id": "2026-11-18_mataraman_goldfish-2026-tulungagung",
@@ -6699,7 +6869,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:18:19+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T19:02+07:00"
+      "tgl_tayang": "2026-11-18T19:02+07:00",
+      "sidik_meta": "03bc8e6e091f4f487d1d835ec1535b500f1faadb"
     },
     {
       "id": "2026-11-18_pantura_prioritas-anggaran-2027-lamongan",
@@ -6765,7 +6936,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:18:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T19:47+07:00"
+      "tgl_tayang": "2026-11-18T19:47+07:00",
+      "sidik_meta": "9d7cb917ca0594cfa870923394c2c7f05772ff65"
     },
     {
       "id": "2026-11-18_madura_tandon-air-desa-ketupat-raas-sumenep",
@@ -6801,7 +6973,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:18:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T20:32+07:00"
+      "tgl_tayang": "2026-11-18T20:32+07:00",
+      "sidik_meta": "98372dcdc5e701b694b2b41ba6e43dfd8b72ae0c"
     },
     {
       "id": "2026-11-18_madura_workshop-public-speaking-mgmp-sumenep",
@@ -6837,7 +7010,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:18:52+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T21:17+07:00"
+      "tgl_tayang": "2026-11-18T21:17+07:00",
+      "sidik_meta": "b2815e4c479a79f3a29bcdec2024f24a10bdba7b"
     },
     {
       "id": "2026-11-18_madura_sensus-bmn-kua-pragaan-sumenep",
@@ -6873,7 +7047,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-18T15:19:03+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-18T22:02+07:00"
+      "tgl_tayang": "2026-11-18T22:02+07:00",
+      "sidik_meta": "1288ff79d89b52408aef7029b03d11ec79e65fe3"
     },
     {
       "id": "2026-11-19_surabaya-raya_pasar-murah-dlanggu-mojokerto",
@@ -6909,7 +7084,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T15:30:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T16:15+07:00"
+      "tgl_tayang": "2026-11-19T16:15+07:00",
+      "sidik_meta": "940789de611fb429513f5e75ceb8fbf755b717d5"
     },
     {
       "id": "2026-11-19_surabaya-raya_bantuan-peternak-ayam-petelur-mojokerto",
@@ -6975,7 +7151,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T15:30:35+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T17:00+07:00"
+      "tgl_tayang": "2026-11-19T17:00+07:00",
+      "sidik_meta": "4db8d2715098d52d6401f6979d0e19f9126cffed"
     },
     {
       "id": "2026-11-19_mataraman_bantuan-pangan-beras-jombang",
@@ -7069,7 +7246,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T16:13:03+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T20:00+07:00"
+      "tgl_tayang": "2026-11-19T20:00+07:00",
+      "sidik_meta": "9dc3feeb16298471dd5280fd1b0d082ad6d550b8"
     },
     {
       "id": "2026-11-19_pantura_satlinmas-pilkades-bojonegoro",
@@ -7163,7 +7341,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T15:30:46+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T17:45+07:00"
+      "tgl_tayang": "2026-11-19T17:45+07:00",
+      "sidik_meta": "3a250381ea122220fe82e1346fd1e9ceada3a5b9"
     },
     {
       "id": "2026-11-19_madura_reses-dprd-sumenep-paripurna",
@@ -7199,7 +7378,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T15:30:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T18:30+07:00"
+      "tgl_tayang": "2026-11-19T18:30+07:00",
+      "sidik_meta": "a6cc3efdbfbb02f4f790a45aedc0cdc0316de86a"
     },
     {
       "id": "2026-11-19_madura_musker-pmi-sumenep-udd",
@@ -7236,7 +7416,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-19T15:31:07+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-19T19:15+07:00"
+      "tgl_tayang": "2026-11-19T19:15+07:00",
+      "sidik_meta": "d3ede2cdf41db70365b746990dfdc39db480b73e"
     },
     {
       "id": "2026-11-19_madura_bimtek-tanda-tangan-elektronik-sumenep",
@@ -7301,7 +7482,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:06+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T15:55+07:00"
+      "tgl_tayang": "2026-11-20T15:55+07:00",
+      "sidik_meta": "aff9654da10eb4399635908074e026868576d3a1"
     },
     {
       "id": "2026-11-20_surabaya-raya_harkannas-jatim-surabaya",
@@ -7337,7 +7519,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:15+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T16:40+07:00"
+      "tgl_tayang": "2026-11-20T16:40+07:00",
+      "sidik_meta": "f7d22b47b62f30320e562c10abbfabd1dafca0b3"
     },
     {
       "id": "2026-11-20_surabaya-raya_wali-kota-eri-kunjungi-smpn-37",
@@ -7373,7 +7556,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:25+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T17:25+07:00"
+      "tgl_tayang": "2026-11-20T17:25+07:00",
+      "sidik_meta": "8776a4ca3646dd3d9a88aba7f9c870c301212680"
     },
     {
       "id": "2026-11-20_surabaya-raya_gema-desa-sidoarjo",
@@ -7409,7 +7593,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:35+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T18:10+07:00"
+      "tgl_tayang": "2026-11-20T18:10+07:00",
+      "sidik_meta": "e62adcf21e34840518906ef6292f1ca563434bc4"
     },
     {
       "id": "2026-11-20_mataraman_forum-tjsl-jombang",
@@ -7445,7 +7630,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:47+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T18:55+07:00"
+      "tgl_tayang": "2026-11-20T18:55+07:00",
+      "sidik_meta": "0637c6501873e80ed227b3da3149831f1ca20976"
     },
     {
       "id": "2026-11-20_pantura_inovasi-iga-lamongan",
@@ -7481,7 +7667,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:11:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T19:40+07:00"
+      "tgl_tayang": "2026-11-20T19:40+07:00",
+      "sidik_meta": "ddf0906ecf7070a39b928c851c3011164800ac49"
     },
     {
       "id": "2026-11-20_pantura_enam-raperda-tuban",
@@ -7517,7 +7704,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:12:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T20:25+07:00"
+      "tgl_tayang": "2026-11-20T20:25+07:00",
+      "sidik_meta": "e61ba09f95e4e8fc72c544a37f375c8b4b63f80e"
     },
     {
       "id": "2026-11-20_tapal-kuda_vaksinasi-internasional-paspor-bangil",
@@ -7553,7 +7741,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:12:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T21:10+07:00"
+      "tgl_tayang": "2026-11-20T21:10+07:00",
+      "sidik_meta": "fa1ae14811fe936b17635e466c918eb8d4eefbea"
     },
     {
       "id": "2026-11-20_tapal-kuda_platform-tjsl-pjlh-pasuruan",
@@ -7618,7 +7807,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-20T15:12:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-20T21:55+07:00"
+      "tgl_tayang": "2026-11-20T21:55+07:00",
+      "sidik_meta": "23f1357e514ab4c209854a75d18e06f7e9267ce5"
     },
     {
       "id": "2026-11-21_surabaya-raya_penghargaan-kemenkes-surabaya",
@@ -7654,7 +7844,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:11+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T13:30+07:00"
+      "tgl_tayang": "2026-11-21T13:30+07:00",
+      "sidik_meta": "6d92a849bef2e494c3e3eaced6cddae45d55a851"
     },
     {
       "id": "2026-11-21_surabaya-raya_hari-anak-sedunia-surabaya",
@@ -7690,7 +7881,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T14:15+07:00"
+      "tgl_tayang": "2026-11-21T14:15+07:00",
+      "sidik_meta": "4937ff7d08802c4988c3ed3b42ed3d62b46c168d"
     },
     {
       "id": "2026-11-21_pantura_bblr-gizi-buruk-tuban",
@@ -7726,7 +7918,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T15:00+07:00"
+      "tgl_tayang": "2026-11-21T15:00+07:00",
+      "sidik_meta": "2a9703db8bfc48641bad6bd58dd2545cd1e0dd1d"
     },
     {
       "id": "2026-11-21_pantura_festival-100-tuban",
@@ -7762,7 +7955,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T15:45+07:00"
+      "tgl_tayang": "2026-11-21T15:45+07:00",
+      "sidik_meta": "67edb35d6100900e5c58264baa39a6824909178f"
     },
     {
       "id": "2026-11-21_pantura_sideka-ng-juara-tuban",
@@ -7798,7 +7992,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:49+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T16:30+07:00"
+      "tgl_tayang": "2026-11-21T16:30+07:00",
+      "sidik_meta": "1bd180833c0b4cc0177419de196d5cce93fc36ac"
     },
     {
       "id": "2026-11-21_mataraman_visitasi-ghippa-magetan",
@@ -7834,7 +8029,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:45:57+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T17:15+07:00"
+      "tgl_tayang": "2026-11-21T17:15+07:00",
+      "sidik_meta": "cb0e3a2aa3667f84bc8e111d622a9f515d68613f"
     },
     {
       "id": "2026-11-21_madura_polisi-sahabat-anak-zebra-sumenep",
@@ -7870,7 +8066,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:46:05+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T18:00+07:00"
+      "tgl_tayang": "2026-11-21T18:00+07:00",
+      "sidik_meta": "e7ac71f62cbf4dc9167c146019cafd4de0a8f25c"
     },
     {
       "id": "2026-11-21_madura_madin-lapas-sumenep",
@@ -7906,7 +8103,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:46:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T18:45+07:00"
+      "tgl_tayang": "2026-11-21T18:45+07:00",
+      "sidik_meta": "9c5bbe7375e5c36dc08ae32dbacce56ded02387c"
     },
     {
       "id": "2026-11-21_tapal-kuda_festival-tempe-parerejo-pasuruan",
@@ -7942,7 +8140,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:46:23+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T19:30+07:00"
+      "tgl_tayang": "2026-11-21T19:30+07:00",
+      "sidik_meta": "f707d5f8b9d12c3c7ec2262d698078ad4f8db00c"
     },
     {
       "id": "2026-11-21_tapal-kuda_times-indonesia-awards-pasuruan",
@@ -7978,7 +8177,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:46:32+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T20:15+07:00"
+      "tgl_tayang": "2026-11-21T20:15+07:00",
+      "sidik_meta": "24732fd2510c4f3d976d62be1f7b51b28a4980ee"
     },
     {
       "id": "2026-11-21_tapal-kuda_evaluasi-diskominfo-pasuruan",
@@ -8014,7 +8214,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-21T12:46:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T21:00+07:00"
+      "tgl_tayang": "2026-11-21T21:00+07:00",
+      "sidik_meta": "12d82503964c2ff2dd2d4ae8a1599088aff45841"
     },
     {
       "id": "2026-11-21_mataraman_pmii-blitar-raya-bedah-perda-pesantren",
@@ -8050,7 +8251,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-21T12:46:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-21T13:03+07:00"
+      "tgl_tayang": "2026-11-21T13:03+07:00",
+      "sidik_meta": "4f4c832cc103094271b8e199970bc0faa9eb1056"
     },
     {
       "id": "2026-11-22_surabaya-raya_hak-asuh-aluna-kinar-surabaya",
@@ -8086,7 +8288,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:40:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T13:25+07:00"
+      "tgl_tayang": "2026-11-22T13:25+07:00",
+      "sidik_meta": "6ae2cd7c2ae69aae8f8b4bb320139ef00fbb24af"
     },
     {
       "id": "2026-11-22_surabaya-raya_rumput-laut-jabon-sidoarjo",
@@ -8123,7 +8326,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T14:51:16+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T20:55+07:00"
+      "tgl_tayang": "2026-11-22T20:55+07:00",
+      "sidik_meta": "fc652ad339e41ce88dac2ef23d639644c9c44a6b"
     },
     {
       "id": "2026-11-22_surabaya-raya_mtq-iii-ditutup-mojokerto",
@@ -8159,7 +8363,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:40:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T14:10+07:00"
+      "tgl_tayang": "2026-11-22T14:10+07:00",
+      "sidik_meta": "ada34edb2bd2d43985369c7128db47950f66930a"
     },
     {
       "id": "2026-11-22_mataraman_jombang-industrial-estate-kabuh",
@@ -8196,7 +8401,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:40:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T14:55+07:00"
+      "tgl_tayang": "2026-11-22T14:55+07:00",
+      "sidik_meta": "2c1552ab5fcdec7345c927ae5298e068b137e991"
     },
     {
       "id": "2026-11-22_mataraman_lantik-25-pejabat-jombang",
@@ -8232,7 +8438,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:40:45+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T15:40+07:00"
+      "tgl_tayang": "2026-11-22T15:40+07:00",
+      "sidik_meta": "b886e0e7cf93a01c52df17d065ea8a78d03eb89d"
     },
     {
       "id": "2026-11-22_mataraman_raperda-pajak-retribusi-blitar",
@@ -8268,7 +8475,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:40:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T16:25+07:00"
+      "tgl_tayang": "2026-11-22T16:25+07:00",
+      "sidik_meta": "44e81c74e76380023912520b5c3069730a2ac62e"
     },
     {
       "id": "2026-11-22_mataraman_apbd-2027-tulungagung",
@@ -8304,7 +8512,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T15:34:02+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T21:40+07:00"
+      "tgl_tayang": "2026-11-22T21:40+07:00",
+      "sidik_meta": "c5111f0455b80d504a1adb35778339783ad0b2c8"
     },
     {
       "id": "2026-11-22_pantura_pass-isya-singa-mikro-bojonegoro",
@@ -8341,7 +8550,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:41:04+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T17:10+07:00"
+      "tgl_tayang": "2026-11-22T17:10+07:00",
+      "sidik_meta": "9faa6d28ccdf758c2974602258798c0c5d85bc80"
     },
     {
       "id": "2026-11-22_pantura_festival-ekraf-bojonegoro",
@@ -8377,7 +8587,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:41:14+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T17:55+07:00"
+      "tgl_tayang": "2026-11-22T17:55+07:00",
+      "sidik_meta": "53bc65e5664ba5ce6e8c0776d9e77226870d2383"
     },
     {
       "id": "2026-11-22_pantura_pekan-kebudayaan-tuban-ditutup",
@@ -8413,7 +8624,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:41:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T18:40+07:00"
+      "tgl_tayang": "2026-11-22T18:40+07:00",
+      "sidik_meta": "8ec79b5c8de47527f4c1764df8d4d9553688813e"
     },
     {
       "id": "2026-11-22_madura_baksos-kesehatan-gigi-sumenep",
@@ -8449,7 +8661,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:41:33+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T19:25+07:00"
+      "tgl_tayang": "2026-11-22T19:25+07:00",
+      "sidik_meta": "252b7e78a0a3b5c24cc3398cf4c8d8edcf7c1129"
     },
     {
       "id": "2026-11-22_madura_outing-class-ra-yonif-931-sumenep",
@@ -8485,7 +8698,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-22T12:41:45+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T20:10+07:00"
+      "tgl_tayang": "2026-11-22T20:10+07:00",
+      "sidik_meta": "c029bd653e288d2736b668a577ab3ef72cdedc74"
     },
     {
       "id": "2026-11-22_mataraman_opini-pilkades-delapan-tahun-seratus-ribu-blitar",
@@ -8522,7 +8736,8 @@
       "status_wp": "publish",
       "tgl_upload": "2026-11-22T12:41:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-22T13:01+07:00"
+      "tgl_tayang": "2026-11-22T13:01+07:00",
+      "sidik_meta": "3cff16fc3998d0071b6900e482cfecf19265c862"
     },
     {
       "id": "2026-11-23_surabaya-raya_smart-city-forum-jambi-surabaya",
@@ -8558,7 +8773,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:41:31+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T16:26+07:00"
+      "tgl_tayang": "2026-11-23T16:26+07:00",
+      "sidik_meta": "c6d3b74ee8a1c9fb6bf444e70f77280ad203a02f"
     },
     {
       "id": "2026-11-23_mataraman_dialog-kinerja-2027-tulungagung",
@@ -8594,7 +8810,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T17:16:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T21:41+07:00"
+      "tgl_tayang": "2026-11-23T21:41+07:00",
+      "sidik_meta": "240725f861e7a6d5e3895b0d5f1427101cba416c"
     },
     {
       "id": "2026-11-23_mataraman_gebyar-undian-pajak-tulungagung",
@@ -8630,7 +8847,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T17:16:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T22:26+07:00"
+      "tgl_tayang": "2026-11-23T22:26+07:00",
+      "sidik_meta": "ee1e8c203cba3ba3b843da12993a0ed3f55c89b6"
     },
     {
       "id": "2026-11-23_mataraman_wilwatikta-acarita-jombang",
@@ -8666,7 +8884,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T18:31:54+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T07:06+07:00"
+      "tgl_tayang": "2026-11-25T07:06+07:00",
+      "sidik_meta": "71a1d51922839791173ed12e95e216a1256bfb45"
     },
     {
       "id": "2026-11-23_mataraman_pelantikan-pd-km-dmi-jombang",
@@ -8702,7 +8921,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:41:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T17:11+07:00"
+      "tgl_tayang": "2026-11-23T17:11+07:00",
+      "sidik_meta": "23d59501ae08e6472d9c3fdb897283c68087a36c"
     },
     {
       "id": "2026-11-23_pantura_ipsi-tuban-kejurprov-piala-gubernur",
@@ -8738,7 +8958,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:41:52+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T17:56+07:00"
+      "tgl_tayang": "2026-11-23T17:56+07:00",
+      "sidik_meta": "ac644a1786bcf07e8359b77c0d65a4c3b65d0035"
     },
     {
       "id": "2026-11-23_pantura_si-penting-kenduruan-tuban-jawara",
@@ -8774,7 +8995,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:42:03+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T18:41+07:00"
+      "tgl_tayang": "2026-11-23T18:41+07:00",
+      "sidik_meta": "8e7ce10e2a05e0088246e813fd7d37345d62025f"
     },
     {
       "id": "2026-11-23_pantura_healthy-fun-night-ride-tuban",
@@ -8810,7 +9032,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:42:13+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T19:26+07:00"
+      "tgl_tayang": "2026-11-23T19:26+07:00",
+      "sidik_meta": "9051d1a9cdbc0de5a919f6f3168a807c113d60e0"
     },
     {
       "id": "2026-11-23_tapal-kuda_santunan-anak-yatim-baznas-pasuruan",
@@ -8846,7 +9069,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:42:24+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T20:11+07:00"
+      "tgl_tayang": "2026-11-23T20:11+07:00",
+      "sidik_meta": "a042eee0f7c29e40d886110f9d6e5c73125fd995"
     },
     {
       "id": "2026-11-23_madura_grass-track-kerapan-kambing-sumenep",
@@ -8883,7 +9107,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-23T15:42:34+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-23T20:56+07:00"
+      "tgl_tayang": "2026-11-23T20:56+07:00",
+      "sidik_meta": "35070e87bc9ff5148e49d7b99b5f28fa3dcc7ce9"
     },
     {
       "id": "2026-11-24_surabaya-raya_larang-iuran-kado-hari-guru-surabaya",
@@ -8918,7 +9143,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:36:39+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T18:21+07:00"
+      "tgl_tayang": "2026-11-24T18:21+07:00",
+      "sidik_meta": "04076c401718e4a6dd790331b30e5454ed84bc72"
     },
     {
       "id": "2026-11-24_surabaya-raya_fas-e-book-kanca-sebaya-surabaya",
@@ -8953,7 +9179,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:36:49+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T19:06+07:00"
+      "tgl_tayang": "2026-11-24T19:06+07:00",
+      "sidik_meta": "6c22cf79cb5a7b590a2a2abd6327db6eb71c8926"
     },
     {
       "id": "2026-11-24_surabaya-raya_forum-ekonomi-jawa-bali-eri-cahyadi",
@@ -8989,7 +9216,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:00+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T19:51+07:00"
+      "tgl_tayang": "2026-11-24T19:51+07:00",
+      "sidik_meta": "a66a676cbc46252f79e9eba47628ada6a5d58d41"
     },
     {
       "id": "2026-11-24_surabaya-raya_se-pendampingan-kesehatan-reproduksi-siswi",
@@ -9025,7 +9253,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T20:36+07:00"
+      "tgl_tayang": "2026-11-24T20:36+07:00",
+      "sidik_meta": "9d49a9ca9a5275e29062b767677803f48581dcde"
     },
     {
       "id": "2026-11-24_surabaya-raya_direksi-perumda-kbs-diperiksa-kejati",
@@ -9060,7 +9289,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:20+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T21:21+07:00"
+      "tgl_tayang": "2026-11-24T21:21+07:00",
+      "sidik_meta": "5df2139183a31dea24b439cc0c895b3645298b60"
     },
     {
       "id": "2026-11-24_surabaya-raya_usulan-umk-surabaya-2027",
@@ -9096,7 +9326,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:29+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T22:06+07:00"
+      "tgl_tayang": "2026-11-24T22:06+07:00",
+      "sidik_meta": "bfdecc570f25c5d611d519dddf262673a48b4a32"
     },
     {
       "id": "2026-11-24_surabaya-raya_guru-tk-khadijah-juara-agki-lestari",
@@ -9132,7 +9363,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T18:32:03+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T07:51+07:00"
+      "tgl_tayang": "2026-11-25T07:51+07:00",
+      "sidik_meta": "f716af468421baec12010855069335b7f097fe97"
     },
     {
       "id": "2026-11-24_mataraman_industri-hijau-jombang-peringkat-ii-nasional",
@@ -9168,7 +9400,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:40+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T22:51+07:00"
+      "tgl_tayang": "2026-11-24T22:51+07:00",
+      "sidik_meta": "5e75668d914d5e15fcc6eb4cfe7eb30e5d472f5f"
     },
     {
       "id": "2026-11-24_mataraman_sarasehan-ikon-daerah-tulungagung",
@@ -9204,7 +9437,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:37:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-24T23:36+07:00"
+      "tgl_tayang": "2026-11-24T23:36+07:00",
+      "sidik_meta": "a265e7d26d6440189c038e4023b76b07cea32fc0"
     },
     {
       "id": "2026-11-24_pantura_percontohan-ktr-bojonegoro-penghargaan",
@@ -9240,7 +9474,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:01+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T00:21+07:00"
+      "tgl_tayang": "2026-11-25T00:21+07:00",
+      "sidik_meta": "e11e1c8dc6dc5950b9bd3932bc6689ce576ae393"
     },
     {
       "id": "2026-11-24_pantura_rutilahu-karya-bakti-tni-al-brondong",
@@ -9276,7 +9511,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:11+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T01:06+07:00"
+      "tgl_tayang": "2026-11-25T01:06+07:00",
+      "sidik_meta": "7bb804599abbc8b14883003c43cd5674210a7d6f"
     },
     {
       "id": "2026-11-24_pantura_workshop-tata-laksana-balita-gizi-tuban",
@@ -9312,7 +9548,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T01:51+07:00"
+      "tgl_tayang": "2026-11-25T01:51+07:00",
+      "sidik_meta": "b6203f8b11defa5f84aaf939ff615ba49f3d0ed5"
     },
     {
       "id": "2026-11-24_pantura_indeks-pembangunan-statistik-tuban-naik",
@@ -9348,7 +9585,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:30+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T02:36+07:00"
+      "tgl_tayang": "2026-11-25T02:36+07:00",
+      "sidik_meta": "66dbe0bd5c6981ddde39ac86a8498bb3c68a9591"
     },
     {
       "id": "2026-11-24_mataraman_kerja-sama-bmkg-prakiraan-cuaca-ponorogo",
@@ -9384,7 +9622,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T03:21+07:00"
+      "tgl_tayang": "2026-11-25T03:21+07:00",
+      "sidik_meta": "2dfea35a32aa9ac824729ee9d3723a331e703d2e"
     },
     {
       "id": "2026-11-24_tapal-kuda_lantik-164-kepala-sekolah-pasuruan",
@@ -9420,7 +9659,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:38:50+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T04:06+07:00"
+      "tgl_tayang": "2026-11-25T04:06+07:00",
+      "sidik_meta": "10760e7efad2324fa4a2b02765e3cac3e8d3da1f"
     },
     {
       "id": "2026-11-24_tapal-kuda_banyuwangi-terbaik-iii-adminduk-kemendagri",
@@ -9456,7 +9696,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T18:32:13+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T08:36+07:00"
+      "tgl_tayang": "2026-11-25T08:36+07:00",
+      "sidik_meta": "d43b56e82c10f9147e91e77c38030ac7a005bc4d"
     },
     {
       "id": "2026-11-24_tapal-kuda_desa-bangsring-verifikasi-desa-wisata-nasional",
@@ -9492,7 +9733,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T18:32:23+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T09:21+07:00"
+      "tgl_tayang": "2026-11-25T09:21+07:00",
+      "sidik_meta": "a6da56eb6d369e51650e2622af7ef5c48b70dec1"
     },
     {
       "id": "2026-11-24_tapal-kuda_produksi-gamelan-srono-banyuwangi",
@@ -9528,7 +9770,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:39:00+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T04:51+07:00"
+      "tgl_tayang": "2026-11-25T04:51+07:00",
+      "sidik_meta": "29a8c139ffbf29cf2b2002d9cb84b005f50eaa5e"
     },
     {
       "id": "2026-11-24_madura_nutri-level-hari-diabetes-pamekasan",
@@ -9564,7 +9807,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:39:11+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T05:36+07:00"
+      "tgl_tayang": "2026-11-25T05:36+07:00",
+      "sidik_meta": "f45eadca0c6ed9c367119e09b795f66d94c017bd"
     },
     {
       "id": "2026-11-24_madura_job-market-fair-blk-sumenep-340-lowongan",
@@ -9600,7 +9844,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-24T17:39:21+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T06:21+07:00"
+      "tgl_tayang": "2026-11-25T06:21+07:00",
+      "sidik_meta": "f83457af3e97c692131d9f521e3cccb256eec4e3"
     },
     {
       "id": "2026-11-25_mataraman_tata-kelola-kdkmp-ngawi",
@@ -9636,7 +9881,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-25T16:38:41+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T17:23+07:00"
+      "tgl_tayang": "2026-11-25T17:23+07:00",
+      "sidik_meta": "fc869ef2b158561a6c017b732087ad809e638003"
     },
     {
       "id": "2026-11-25_madura_microfinance-masjid-kolor-sumenep",
@@ -9672,7 +9918,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-25T16:38:51+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T18:08+07:00"
+      "tgl_tayang": "2026-11-25T18:08+07:00",
+      "sidik_meta": "1064a51b0040c4331b77e763a005604ff5e38557"
     },
     {
       "id": "2026-11-25_madura_hut-pgri-jatim-pamekasan",
@@ -9708,7 +9955,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-25T16:38:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-25T18:53+07:00"
+      "tgl_tayang": "2026-11-25T18:53+07:00",
+      "sidik_meta": "56b42bc4008f2f4ac83b04997fa8d1eab84a5273"
     },
     {
       "id": "2026-11-26_surabaya-raya_penghargaan-kota-hijau-sampah-detikjatim",
@@ -9744,7 +9992,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:01+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T16:59+07:00"
+      "tgl_tayang": "2026-11-26T16:59+07:00",
+      "sidik_meta": "4b64b6d6f642087bfbaeb77a5827cb5b4d620185"
     },
     {
       "id": "2026-11-26_surabaya-raya_segel-kos-lima-lantai-kandangan",
@@ -9780,7 +10029,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:10+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T17:44+07:00"
+      "tgl_tayang": "2026-11-26T17:44+07:00",
+      "sidik_meta": "76a0ae2ce7a08b1aa4b69817f0c5a34984fb4687"
     },
     {
       "id": "2026-11-26_surabaya-raya_aksi-remaja-sehat-110-sekolah",
@@ -9816,7 +10066,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:22+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T18:29+07:00"
+      "tgl_tayang": "2026-11-26T18:29+07:00",
+      "sidik_meta": "3e985df2295ff79bf462d08fe5316a108553eb91"
     },
     {
       "id": "2026-11-26_surabaya-raya_hut-50-pam-surya-sembada",
@@ -9852,7 +10103,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:32+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T19:14+07:00"
+      "tgl_tayang": "2026-11-26T19:14+07:00",
+      "sidik_meta": "01c05a125bbeb0b9d410ee98d9559545a9f2f4ca"
     },
     {
       "id": "2026-11-26_mataraman_bantuan-benih-banjir-serang-blitar",
@@ -9888,7 +10140,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:44+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T19:59+07:00"
+      "tgl_tayang": "2026-11-26T19:59+07:00",
+      "sidik_meta": "beec93e60828e00027ce48df4ea2420dcdfdcb4b"
     },
     {
       "id": "2026-11-26_mataraman_obat-herbal-lumbrionsel-tapakrejo-blitar",
@@ -9924,7 +10177,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:15:55+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T20:44+07:00"
+      "tgl_tayang": "2026-11-26T20:44+07:00",
+      "sidik_meta": "4696d26d90b7c157df06915748363ce17046b749"
     },
     {
       "id": "2026-11-26_mataraman_apel-hgn-2026-jombang-muhammadiyah",
@@ -9960,7 +10214,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:05+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T21:29+07:00"
+      "tgl_tayang": "2026-11-26T21:29+07:00",
+      "sidik_meta": "d01d959dca986e0f401c2133e19e15ed03bf7bb5"
     },
     {
       "id": "2026-11-26_tapal-kuda_pelantikan-pii-pasuruan-pesantren-roboh",
@@ -9996,7 +10251,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:16+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T22:14+07:00"
+      "tgl_tayang": "2026-11-26T22:14+07:00",
+      "sidik_meta": "215dd6bafb580678bdb3577f48090bacc4d3dd69"
     },
     {
       "id": "2026-11-26_tapal-kuda_hibah-tanah-10-hektare-sport-center-pasuruan",
@@ -10032,7 +10288,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:26+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T22:59+07:00"
+      "tgl_tayang": "2026-11-26T22:59+07:00",
+      "sidik_meta": "3ae18497b2274a7656932f0dac6c947cbd504e3c"
     },
     {
       "id": "2026-11-26_tapal-kuda_hlm-tpid-tp2dd-pasuruan-jelang-nataru",
@@ -10068,7 +10325,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:37+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-26T23:44+07:00"
+      "tgl_tayang": "2026-11-26T23:44+07:00",
+      "sidik_meta": "c11df78817b9005a713c41dc1c904e018914e4cc"
     },
     {
       "id": "2026-11-26_tapal-kuda_banjir-kiriman-madulegi-pandaan",
@@ -10104,7 +10362,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:48+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-27T00:29+07:00"
+      "tgl_tayang": "2026-11-27T00:29+07:00",
+      "sidik_meta": "84b77ec815a901632423b994d2406a7c43564b67"
     },
     {
       "id": "2026-11-26_madura_mentan-bantuan-alsintan-dasuk-sumenep",
@@ -10141,7 +10400,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:16:58+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-27T01:14+07:00"
+      "tgl_tayang": "2026-11-27T01:14+07:00",
+      "sidik_meta": "6bf10b3d666fed581257a817a83e51728812a934"
     },
     {
       "id": "2026-11-26_madura_raperda-trantibum-dprd-sumenep",
@@ -10177,7 +10437,8 @@
       "status_wp": "future",
       "tgl_upload": "2026-11-26T16:17:09+07:00",
       "catatan_wp": "",
-      "tgl_tayang": "2026-11-27T01:59+07:00"
+      "tgl_tayang": "2026-11-27T01:59+07:00",
+      "sidik_meta": "1c6521ac2ad2611261feb001667bf22e524e047d"
     }
   ]
 }
