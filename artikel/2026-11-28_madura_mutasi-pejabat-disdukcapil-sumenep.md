@@ -10,4 +10,4 @@ Ia menyebut pelayanan seperti pengurusan Kartu Keluarga (KK), KTP elektronik, ak
 
 "Selain itu, seluruh jajaran Disdukcapil harus menjaga integritas, kedisiplinan, dan komitmen dalam menjalankan tugas, sehingga tidak ada masyarakat yang merasa kesulitan mendapatkan pelayanan," terangnya.
 
-Bupati berharap penyegaran pejabat membuat Disdukcapil semakin optimal memberikan layanan yang profesional, responsif, dan berorientasi pada kebutuhan masyarakat. Ia meminta jajaran membangun budaya kerja yang disiplin, transparan, dan berintegritas.
+Pelantikan di PASA itu mencakup pengambilan sumpah/janji pejabat administrator dan pejabat pengawas. Bupati berharap penyegaran pejabat membuat Disdukcapil semakin optimal memberikan layanan yang profesional, responsif, dan berorientasi pada kebutuhan masyarakat. Ia meminta jajaran membangun budaya kerja yang disiplin, transparan, dan berintegritas.

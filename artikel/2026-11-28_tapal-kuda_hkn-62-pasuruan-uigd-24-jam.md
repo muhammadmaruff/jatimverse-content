@@ -2,7 +2,7 @@
 
 PASURUAN – Pemerintah Kabupaten (Pemkab) Pasuruan menggelar puncak Hari Kesehatan Nasional (HKN) ke-62 bertema "sehat untuk semua" di Finna Golf and Country Club Resort, Kamis (26/11/2026). Acara dihadiri Wakil Bupati Shobih Asrori, Sekda Yudha Triwidya Sasongko, dan insan kesehatan se-Kabupaten Pasuruan.
 
-Rangkaian acara dimulai dengan fun walk, senam bersama, dan hiburan. Dalam seremoni, Wabup menyerahkan penghargaan antara lain untuk posyandu berprestasi, kader berprestasi, Saka Bakti Husada terbaik, kelompok asuhan mandiri toga kreatif, pelayanan persalinan terbanyak, dan pendonor terbanyak. BPJS Kesehatan Cabang Pasuruan menyerahkan 100 timbangan digital kepada Dinas Kesehatan, dan buku tentang kusta "Bengkura Mas Eliminasi Bukan Mimpi" karya Kepala Puskesmas Grati Eko Santoso Machfur diluncurkan.
+Rangkaian acara dimulai dengan fun walk, senam bersama, dan hiburan. Dalam seremoni, Wabup menyerahkan penghargaan antara lain untuk posyandu berprestasi, kader berprestasi, Saka Bakti Husada terbaik, kelompok Asman Toga kreatif dan produktif, pelayanan persalinan terbanyak, dan pendonor terbanyak. BPJS Kesehatan Cabang Pasuruan menyerahkan 100 timbangan digital kepada Dinas Kesehatan, dan buku tentang kusta "Bengkura Mas Eliminasi Bukan Mimpi" karya Kepala Puskesmas Grati Eko Santoso Machfur diluncurkan.
 
 Kepala Dinas Kesehatan, Pengendalian Penduduk dan KB dr Arma Roosalina mengatakan kesehatan adalah hak setiap orang yang harus diakses secara adil. Tema itu, katanya, sejalan dengan program hasil terbaik cepat bidang kesehatan, yakni cek kesehatan gratis, pengentasan TBC, dan pembangunan rumah sakit berkualitas.
 
