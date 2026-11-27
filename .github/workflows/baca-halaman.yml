@@ -8,7 +8,7 @@ on:
         required: true
         default: "daftar"
       urls:
-        description: "URL dipisah spasi (untuk mode daftar-url / artikel)"
+        description: "URL dipisah spasi (untuk mode daftar-url / artikel), maks 20 per run"
         required: false
         default: ""
 
@@ -22,7 +22,7 @@ concurrency:
 jobs:
   baca:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 4
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

@@ -19,7 +19,7 @@ MAX_ART = 7000
 
 def ambil(url):
     try:
-        r = requests.get(url, headers=UA, timeout=(10, 20), verify=False, allow_redirects=True)
+        r = requests.get(url, headers=UA, timeout=(8, 15), verify=False, allow_redirects=True)
         r.encoding = r.apparent_encoding if r.encoding in (None, "ISO-8859-1") else r.encoding
         return r.status_code, r.text
     except Exception as e:
@@ -73,10 +73,11 @@ def daftar(url):
         baris.append(f"- {t[:140]} | {h} | {konteks if konteks != t else ''}")
     return f"## DAFTAR {url}\nSTATUS {kode}\n" + "\n".join(baris[:45]) + "\n"
 
-def jalan(fn, urls, batas=150):
-    """Jalankan paralel dengan batas total waktu; yang belum selesai dicatat TIMEOUT."""
+def jalan(fn, urls, batas=75):
+    """Jalankan paralel dengan batas total waktu; yang belum selesai dicatat TIMEOUT.
+    Batas 75 dtk: situs sehat selesai < 30 dtk; menunggu situs macet lebih lama hanya membakar menit Actions."""
     from concurrent.futures import wait
-    ex = ThreadPoolExecutor(8)
+    ex = ThreadPoolExecutor(16)
     fs = [ex.submit(fn, u) for u in urls]
     wait(fs, timeout=batas)
     hasil = [f.result() if f.done() else f"## {u}\nTIMEOUT (> {batas} dtk)\n" for f, u in zip(fs, urls)]
