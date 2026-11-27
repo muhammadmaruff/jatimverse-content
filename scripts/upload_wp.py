@@ -106,6 +106,7 @@ class WP:
         self.s.auth = (user, pw)
         self.s.headers.update(UA)
         self.jeda = jeda
+        self._term = {}  # cache id term per jalan: (taksonomi, slug) -> id / None
 
     def req(self, metode, jalur, **kw):
         url = f"{self.base}/wp-json{jalur}"
@@ -127,18 +128,32 @@ class WP:
     def jeda_ok(self):
         time.sleep(self.jeda)
 
+    def cari_term(self, taksonomi, slug):
+        """Id term berdasarkan slug, atau None. Di-cache: kategori/wilayah/rubrik/dapil/tag
+        yang sama dipakai puluhan post, jadi cukup satu request per slug per jalan."""
+        kunci = (taksonomi, slug)
+        if kunci not in self._term:
+            r = self.req("GET", f"/wp/v2/{taksonomi}", params={"slug": slug})
+            if not r.ok:
+                return None  # galat sementara tidak di-cache
+            self._term[kunci] = r.json()[0]["id"] if r.json() else None
+        return self._term[kunci]
+
     def term(self, taksonomi, slug, nama):
-        r = self.req("GET", f"/wp/v2/{taksonomi}", params={"slug": slug})
-        if r.ok and r.json():
-            return r.json()[0]["id"]
+        ada = self.cari_term(taksonomi, slug)
+        if ada:
+            return ada
         r = self.req("POST", f"/wp/v2/{taksonomi}", json={"name": nama, "slug": slug})
         if r.ok:
-            return r.json()["id"]
-        # term_exists mengembalikan id di data
-        try:
-            return r.json()["data"]["term_id"]
-        except Exception:  # noqa: BLE001
-            raise RuntimeError(f"{taksonomi} '{slug}' gagal: HTTP {r.status_code}")
+            tid = r.json()["id"]
+        else:
+            # term_exists mengembalikan id di data
+            try:
+                tid = r.json()["data"]["term_id"]
+            except Exception:  # noqa: BLE001
+                raise RuntimeError(f"{taksonomi} '{slug}' gagal: HTTP {r.status_code}")
+        self._term[(taksonomi, slug)] = tid
+        return tid
 
 
 def nama_tag(cfg, p):
@@ -162,9 +177,9 @@ def id_meta(wp, cfg, p, wajib=False):
         if not slug:
             kurang.append(f"{label} belum diisi")
             return
-        r = wp.req("GET", f"/wp/v2/{rest}", params={"slug": slug})
-        if r.ok and r.json():
-            ids[rest if rest != "categories" else "categories"] = [r.json()[0]["id"]]
+        tid = wp.cari_term(rest, slug)
+        if tid:
+            ids[rest] = [tid]
         else:
             kurang.append(f"{label} '{slug}' tidak ada di WordPress")
 
@@ -327,7 +342,8 @@ def unggah_paket(wp, cfg, p, tayang=None):
     if vj.get("featured_media") != media_id or not sesuai or not ex.strip():
         raise RuntimeError("verifikasi: foto/kategori/tag/wilayah/rubrik/dapil/excerpt tidak sesuai")
     p.update(wp_post_id=vj["id"], wp_url=vj.get("link"), status_wp=vj.get("status"),
-             tgl_upload=datetime.now(WIB).isoformat(timespec="seconds"), catatan_wp="")
+             tgl_upload=datetime.now(WIB).isoformat(timespec="seconds"), catatan_wp="",
+             sidik_meta=sidik_meta(cfg, p))
     if tayang:
         p["tgl_tayang"] = tayang.astimezone(WIB).isoformat(timespec="minutes")
     return "dibuat"
@@ -388,7 +404,8 @@ def main():
                 continue
             try:
                 ada_ulang = bool(p.get("jadwal_ulang"))
-                print(f"{p['id']}: {sinkron_meta(wp, cfg, p, slot_ulang)}")
+                hasil = sinkron_meta(wp, cfg, p, slot_ulang)
+                print(f"{p['id']}: {hasil}")
                 p["sidik_meta"] = sidik_meta(cfg, p)
                 if ada_ulang and not p.get("jadwal_ulang"):
                     print(f"  dijadwalkan ulang: tayang {slot_ulang.astimezone(WIB):%d/%m %H:%M} WIB")
@@ -396,8 +413,10 @@ def main():
             except Exception as e:  # noqa: BLE001
                 p["catatan_wp"] = f"{type(e).__name__}: {e}"[:300]
                 print(f"{p['id']}: GAGAL metadata {p['catatan_wp']}")
+                hasil = "gagal"
             MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False))
-            wp.jeda_ok()
+            if hasil != "metadata sudah sesuai":
+                wp.jeda_ok()  # jeda hanya setelah menulis ke WP; cek baca saja tidak perlu ditahan
     print(f"sinkron metadata dilewati (tidak berubah): {dilewati}")
     return 0
 

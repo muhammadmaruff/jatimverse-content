@@ -58,5 +58,6 @@
   "jadwal_tayang": {
     "interval_menit": 45,
     "jeda_awal_menit": 45
-  }
+  },
+  "hari_sinkron_meta": 1
 }

@@ -32,6 +32,8 @@ concurrency:
 jobs:
   pipeline:
     runs-on: ubuntu-latest
+    # Batas aman: run normal < 10 menit. Mencegah run macet (WP lambat/timeout) menghabiskan kuota.
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -43,6 +45,7 @@ jobs:
       - name: Verifikasi
         run: python scripts/verifikasi.py --tulis
       - name: Unggah WordPress
+        timeout-minutes: 15
         env:
           WP_URL: ${{ secrets.WP_URL }}
           WP_USER: ${{ secrets.WP_USER }}
