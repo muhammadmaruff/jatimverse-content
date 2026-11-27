@@ -1,395 +1,361 @@
-## https://kedirikota.go.id/p/berita/10114236/jec-java-lengkapi-layanan-kesehatan-di-kediri-gus-qowim-tekankan-kolaborasi-dan-pelayanan-humanis
+## https://bojonegorokab.go.id/berita/10240/tindaklanjuti-laporan-warga-pemkab-bojonegoro-tangani-penunuran-aspal-yang-bahayakan-pengguna-jalan
 STATUS 200
-JUDUL: Website Resmi Pemerintah Kota Kediri
+JUDUL: Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
 TGL_META: 
-OG_IMAGE: 
-GAMBAR: https://kedirikota.go.id/assets/templ/img/logo-pemkot.png | https://live.staticflickr.com/65535/55661726204_2c0d7f53d8_z.jpg | https://live.staticflickr.com/65535/55660558427_528498649a_c.jpg | https://live.staticflickr.com/65535/55661665133_282698901d_n.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795235074.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1794999356.jpg
+OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/jsnj85toucP4brl9.jpg
+GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/jsnj85toucP4brl9.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-150939-1.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/insentif.jpg
 ISI:
-Website Resmi Pemerintah Kota Kediri
-Beranda
-berita
-JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus…
-JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis
- berita | 
- 19/11/2026
-Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Peresmian klinik tersebut dihadiri Wakil Wali Kota Kediri Qowimuddin Thoha, Kamis (19/11/2026). Kehadirannya diharapkan dapat melengkapi layanan kesehatan mata bagi masyarakat Kota Kediri dan sekitarnya.
-Atas nama Pemerintah Kota Kediri, Gus Qowim menyampaikan ucapan selamat dan sukses kepada seluruh keluarga besar JEC Java @ Kediri. Ia juga berterima kasih karena telah memilih Kota Kediri sebagai bagian dari pengembangan layanannya. Menurutnya, komitmen JEC dalam membantu masyarakat juga telah ditunjukkan melalui kegiatan operasi katarak gratis bersama Gerakan MataHati yang sebelumnya dilaksanakan di Kediri.
-Lebih lanjut, Gus Qowim menjelaskan bahwa Pemerintah Kota Kediri terus berupaya mendekatkan pelayanan kesehatan kepada masyarakat melalui berbagai program, di antaranya Cek Kesehatan Gratis, Posyandu Integrasi Layanan Primer (ILP), serta Gerakan MAPAN BESTARI. Untuk itu, sinergi dengan berbagai pihak, termasuk fasilitas kesehatan, diperlukan agar jangkauan pelayanan semakin luas. "Kami berharap kehadiran JEC Java @ Kediri dapat menjadi mitra pemerintah dalam meningkatkan kesadaran masyarakat untuk menjaga kesehatan mata sejak dini," ujarnya.
-Gus Qowim juga berpesan kepada seluruh pengelola dan tenaga kesehatan agar senantiasa mengedepankan profesionalisme, keramahan, keselamatan pasien, serta pelayanan yang humanis tanpa membeda-bedakan latar belakang masyarakat. Ia berharap klinik ini terus berkembang dan memberikan manfaat bagi masyarakat. "Semoga dari klinik ini, semakin banyak masyarakat yang terbantu, kembali sehat dan bisa menjalani kehidupan dengan lebih baik," pungkasnya.
-Sementara itu, Direktur Klinik Mata JEC Java @ Kediri, dr. Devi Putri Swadayani, menuturkan bahwa kehadiran JEC di Kediri merupakan komitmen untuk memperluas akses pelayanan kesehatan mata melalui dukungan dokter spesialis dan subspesialis serta teknologi yang memadai. Menurutnya, pelayanan berkualitas tidak hanya ditentukan oleh kecanggihan teknologi, tetapi juga ketepatan diagnosis, keselamatan pasien, komunikasi yang baik, dan empati kepada pasien. "Pelayanan kesehatan mata bukan sekadar memberikan pengobatan tetapi menjaga kualitas hidup manusia," ujarnya.
-Turut hadir Presiden Direktur JEC Grup Dr. dr. Johan A. Hutauruk, Sp.M(K), Direktur Klinik Mata JEC Java @ Kediri dr. Devi Putri Swadayani, jajaran manajemen JEC Java @ Kediri, serta tamu undangan lainnya.
-Bagian Protokol dan Komunikasi Pimpinan
-Sekretariat Daerah Kota Kediri
-Berita Terkait
-Siapkan SDM Kompeten dan Berdaya Saing, Gus Qowim Tekankan Pelatihan Kerja Jadi Bekal Hadapi Peluang Usaha
-Meriahkan Hari Santri Nasional, Gus Qowim Berangkatkan Jalan Sehat Sarungan Ranting NU Betet
-Perkuat Layanan Kesehatan Jiwa di Masyarakat, Pemkot Kediri Libatkan 46 Kader Dalam Bimtek Penanganan Kesehatan Jiwa Pada Kelompok Berisiko
-Perkuat Layanan Kesehatan Jiwa di Masyarakat, Pemkot Kediri Libatkan 46 Kader Dalam Bimtek Penanganan Kesehatan Jiwa Pada Kelompok Berisiko
-Wujudkan Koperasi Sehat dan Berkelanjutan, Gus Qowim Dorong Penguatan Tata Kelola Koperasi
+Situs Resmi Pemkab Bojonegoro
+Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
+Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
+Redaksi
+26 Nov 2026
+112 dilihat
+ Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
+Bojonegorokab.go.id – Penyampaian aspirasi masyarakat melalui media sosial menjadi salah satu sarana mengetahui berbagai persoalan di lingkungan masyarakat. Keluhan yang disampaikan melalui kolom komentar akun media sosial pimpinan daerah maupun Pemerintah Kabupaten Bojonegoro dapat menjadi bahan tindak lanjut perangkat daerah sesuai kewenangannya.
+Salah satunya keluhan terkait kondisi aspal pada pembangunan jembatan di Dusun Bulu, Desa Beji, Kecamatan Kedewan. Warga melaporkan adanya penurunan permukaan aspal yang menimbulkan lubang serta bagian tepi aspal yang kurang rata. Kondisi tersebut dikhawatirkan membahayakan pengguna jalan dan berpotensi menyebabkan kecelakaan.
+Menindaklanjuti laporan warga tersebut, Dinas Pekerjaan Umum Bina Marga dan Penataan Ruang (DPUBMPR) Kabupaten Bojonegoro melakukan peninjauan ke lokasi untuk memastikan kondisi yang dikeluhkan. Penanganan kemudian dilakukan melalui pengaspalan pada bagian yang mengalami penurunan sehingga permukaan jalan kembali rata dan lebih nyaman dilalui masyarakat.
+Kepala Bidang Jembatan DPUBMPR Kabupaten Bojonegoro, Edi Dwi Purwanto, saat dikonfirmasi Rabu (25/11/2026), menyampaikan bahwa aspirasi masyarakat tersebut telah ditindaklanjuti.
+“Laporan aspirasi masyarakat tersebut sudah kami tindak lanjuti. Setelah menerima informasi lokasi secara jelas, kami melakukan pengecekan ke lapangan dan penanganan pada bagian aspal yang mengalami penurunan sehingga kondisinya kembali rata,” jelas Edi.
+Respons ini menjadi bagian dari upaya meningkatkan pelayanan publik melalui pemanfaatan media sosial. Setiap laporan masyarakat yang disampaikan dengan informasi memadai dapat menjadi bahan koordinasi dan tindak lanjut oleh perangkat daerah terkait.
+Masyarakat diimbau untuk tidak ragu menyampaikan keluhan maupun aspirasi melalui kolom komentar atau kanal pengaduan resmi pemerintah. Agar laporan lebih mudah ditindaklanjuti, masyarakat diharapkan mencantumkan informasi secara lengkap, meliputi jenis permasalahan, lokasi kejadian, nama dusun, desa, dan kecamatan. 
+Dengan informasi yang jelas dan lengkap, perangkat daerah dapat lebih mudah melakukan verifikasi, survei lokasi, serta menentukan langkah penanganan sesuai kewenangannya. Melalui sinergi antara masyarakat dan pemerintah, berbagai persoalan di lingkungan sekitar diharapkan dapat direspons lebih cepat demi mewujudkan Bojonegoro Bahagia, Makmur, dan Membanggakan.[zul/nn]
+Pencarian
+Kontak Kami
+Pemerintah Kabupaten Bojonegoro
+Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
+62111
+Telepon
+0353 - 881826
+0353 - 881454
+Fax
+0353 - 884893
+0353 - 882378
+0353 - 887206
+Email
+pemkab@bojonegorokab.go.id
+dinkominfo@bojonegorokab.go.id
+Copyright 2014 PEMKAB BOJONEGORO
+(Redesign 2020)
+Statistik web:
+Kemarin : 6.847
+Hari ini : 324
+Bulan ini : 191.858
+Tahun ini : 2.851.242
+Total : 35.811.097
 ×
-
-## https://kedirikota.go.id/p/berita/10114240/pemkot-kediri-gelar-sayembara-desain-monumen-ikon-dan-lampu-hias-pedestrian-jalan-dhoho-bertema-dahanapura
-STATUS 200
-JUDUL: Website Resmi Pemerintah Kota Kediri
-TGL_META: 
-OG_IMAGE: 
-GAMBAR: https://kedirikota.go.id/assets/templ/img/logo-pemkot.png | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg | https://live.staticflickr.com/65535/55661665133_282698901d_n.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795235074.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1794999356.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795011101.jpg
-ISI:
-Website Resmi Pemerintah Kota Kediri
-Beranda
-berita
-Pemkot Kediri Gelar Sayembara Desain Monumen Ikon…
-Pemkot Kediri Gelar Sayembara Desain Monumen Ikon dan Lampu Hias Pedestrian Jalan Dhoho Bertema Dahanapura
- berita | 
- 21/11/2026
- Pemerintah Kota Kediri membuka kesempatan bagi masyarakat untuk berkontribusi dalam memperkuat identitas dan karakter Kota Kediri melalui Sayembara Desain Monumen Ikon dan Lampu Hias Pedestrian Jalan Dhoho dengan mengusung tema “Dahanapura”. Sebagai langkah awal, Badan Perencanaan Pembangunan Daerah (BAPPEDA) Kota Kediri menggelar technical meeting sayembara secara daring pada Jumat (20/11/2026).
-Sayembara ini merupakan tindak lanjut dari hasil Focus Group Discussion (FGD) perumusan ikon Kota Kediri yang sebelumnya diselenggarakan oleh Pemerintah Kota Kediri bersama akademisi, sejarawan, budayawan, serta perwakilan masyarakat. Melalui kegiatan tersebut, dirumuskan gagasan untuk menghadirkan identitas visual kota yang merepresentasikan nilai sejarah, budaya, dan karakter Kota Kediri.
-Dikonfirmasi secara terpisah, Salim Darmawan, Plt. Kepala BAPPEDA Kota Kediri menjelaskan, sayembara ini terbuka bagi perorangan maupun tim yang memiliki minat dan kompetensi di bidang arsitektur, desain perkotaan, desain produk, seni rupa, lanskap, pencahayaan, maupun bidang relevan lainnya.
-Dalam ketentuannya, peserta yang mendaftar secara tim terdiri atas maksimal tiga orang, termasuk ketua tim. Setiap peserta wajib menyampaikan satu paket desain yang mencakup dua objek sekaligus, yakni monumen ikon dan lampu hias pedestrian. Peserta diperbolehkan mengirimkan lebih dari satu paket desain dengan jumlah maksimal tiga paket.
-Selain itu, peserta wajib melengkapi formulir identitas, surat pernyataan orisinalitas dan kepatuhan, serta berkas karya sesuai format yang telah ditetapkan dan formatnya bisa diunduh pada laman https://bit.ly/Sayembara_IkonKotaKediri. Salim menegaskan bahwa karya yang diikutsertakan harus orisinal dan tidak melanggar hak cipta, hak desain, maupun hak kekayaan intelektual (HAKI). Karya juga belum pernah dipublikasikan maupun dinyatakan sebagai pemenang dalam sayembara sejenis. Sementara itu, anggota tim juri tidak diperkenankan mengikuti sayembara.
-Adapun tahapan pelaksanaan sayembara dimulai dari pendaftaran dan pengumpulan karya pada 20 November hingga 2 Desember 2026. Selanjutnya, penjurian tahap pertama berlangsung pada 27 November hingga 4 Desember 2026. Tiga peserta terbaik akan diumumkan pada 7 Desember 2026 untuk kemudian mengikuti presentasi dan penjurian tahap kedua pada 10 Desember 2026. Sementara pengumuman pemenang dijadwalkan pada 14 Desember 2026.
-Pemerintah Kota Kediri juga telah menyiapkan apresiasi bagi para pemenang. Juara pertama akan memperoleh uang tunai sebesar Rp 13 juta beserta Piagam Penghargaan Wali Kota Kediri. Juara kedua memperoleh Rp 3 juta dan Piagam Penghargaan Wali Kota Kediri, sedangkan juara ketiga memperoleh Rp 2 juta dan Piagam Penghargaan Wali Kota Kediri. Seluruh proses pendaftaran sayembara ini tidak dipungut biaya atau gratis.
-"Untuk gambaran lokasi penataan, monumen ikon direncanakan berada di ujung utara Jalan Dhoho, tepatnya pada area pedestrian sisi timur. Sementara itu, lampu hias pedestrian akan ditempatkan di sepanjang Jalan Dhoho dengan titik-titik pemasangan yang nantinya ditetapkan oleh Dinas Pekerjaan Umum dan Penataan Ruang (PUPR) Kota Kediri," ucapnya.
-Melalui sayembara ini, Salim berharap dapat menjaring gagasan dan kreativitas masyarakat dalam menghadirkan desain monumen serta elemen pencahayaan yang tidak hanya memiliki nilai estetika, tetapi juga mencerminkan identitas historis dan budaya Kota Kediri. "Kehadiran ikon dan lampu hias tersebut diharapkan dapat memperkuat karakter Jalan Dhoho sebagai salah satu kawasan yang merepresentasikan wajah Kota Kediri," tandasnya.
-Berita Terkait
-Pemkot Kediri Perkuat Kesejahteraan Warga melalui Bantuan Pangan dan Perbaikan Fasilitas Pendidikan serta Kesehatan
-Pemkot Kediri Gelar Rakor Pelayanan Adminduk bagi Penduduk Rentan dan Penduduk Non Permanen
-Pemkot Kediri Gelar Rakor Pelayanan Adminduk bagi Penduduk Rentan dan Penduduk Non Permanen
-Pemkot Kediri Ikuti Asistensi, Monitoring, dan Evaluasi Pasca Demonstrasi oleh Kemendgri
-Pj Wali Kota Kediri Ajak Masyarakat Manfaatkan Program Pemeriksaan Kesehatan Gratis
+17 Program Prioritas
+ Pemodalan UMKM
+ Insentif GTT dan PTT
+ Santunan Duka 2,5 juta
+ Perijinan Satu Atap
+ Festival Budaya Tahunan
+ Revisi PERBUP 35 Tahun 2015
+ Green & Smart City
+ Kenaikan Honor RT/RW
+ Perbaikan Infrastruktur
+ Kartu Tani Mandiri Plus
+ Sekolah Gratis
+ Perda Madin
+ Lingkungan Ramah
+ Layanan Kesehatan
+ 100.000 Lapangan Kerja
+ Program Aladin
+ Penataan Pasar Tradisional
 ×
-
-## https://kedirikota.go.id/p/berita/10114239/pemkot-kediri-sosialisasikan-pp-nomor-33-tahun-2026-masyarakat-diimbau-lebih-bijak-membagikan-data-pribadi-di-ruang-digital
-STATUS 200
-JUDUL: Website Resmi Pemerintah Kota Kediri
-TGL_META: 
-OG_IMAGE: 
-GAMBAR: https://kedirikota.go.id/assets/templ/img/logo-pemkot.png | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795235074.jpg | https://live.staticflickr.com/65535/55661665133_282698901d_n.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795235074.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1794999356.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795011101.jpg
-ISI:
-Website Resmi Pemerintah Kota Kediri
-Beranda
-berita
-Pemkot Kediri Sosialisasikan PP Nomor 33 Tahun 2026,…
-Pemkot Kediri Sosialisasikan PP Nomor 33 Tahun 2026, Masyarakat Diimbau Lebih Bijak Membagikan Data Pribadi di Ruang Digital
- berita | 
- 21/11/2026
- Pemerintah Kota Kediri melalui Dinas Komunikasi dan Informatika terus mendorong peningkatan kesadaran masyarakat terhadap pentingnya pelindungan data pribadi di tengah pesatnya perkembangan teknologi digital. Salah satu upaya tersebut dilakukan melalui sosialisasi Peraturan Pemerintah (PP) Nomor 33 Tahun 2026 tentang Peraturan Pelaksanaan Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi.
-Jumat (20/11), Kepala Dinas Komunikasi dan Informatika Kota Kediri, Sugeng Wahyu Purba Kelana mengatakan dengan terbitnya PP Nomor 33 Tahun 2026 tentang Pelindungan Data Pribadi, menjadi momen penting dan strategis dalam menghadapi era transformasi digital. Untuk itu perlu dilakukan sosialisasi ke instansi pemerintah, pelaku usaha serta masyarakat agar semakin memahami pentingnya menjaga privasi dan keamanan data dalam aktivitas sehari-hari di ruang digital. 
-Data pribadi merupakan informasi yang harus dijaga dan digunakan secara bertanggung jawab. Data seperti nomor induk kependudukan (NIK), alamat rumah, nomor telepon, informasi rekening, dokumen identitas, hingga data kesehatan perlu dilindungi agar tidak disalahgunakan oleh pihak yang tidak bertanggung jawab. “Pelindungan data pribadi bukan hanya menjadi tanggung jawab pemerintah atau penyelenggara layanan digital, tetapi juga membutuhkan kesadaran setiap individu. Masyarakat harus semakin bijak dalam menggunakan media sosial dan berbagai platform digital, terutama ketika membagikan informasi yang berkaitan dengan identitas diri maupun orang lain,” pesannya.
-Sugeng juga mengingatkan masyarakat agar tidak mudah mengunggah atau menyebarluaskan data pribadi ke publik tanpa mempertimbangkan risiko yang ditimbulkan. Dengan membagikan foto dokumen identitas, kartu keluarga, alamat tempat tinggal atau tangkapan layar percakapan yang mengandung data sensitif, dapat membuka peluang terjadinya penipuan, pencurian identitas, peretasan akun, hingga berbagai bentuk penyalahgunaan lainnya.
-“Jangan sampai karena ingin berbagi informasi atau sekadar mengikuti tren di media sosial, kita justru membuka celah bagi pihak lain untuk menyalahgunakan data kita. Sebelum mengunggah atau meneruskan suatu informasi, pastikan terlebih dahulu apakah informasi tersebut valid, aman untuk dibagikan dan apakah kita sudah memiliki izin untuk menyebarkannya,” tegasnya.
-Lebih lanjut, Sugeng mengatakan bahwa penyebaran data pribadi secara sembarangan, khususnya data milik orang lain tanpa izin dapat berpotensi menimbulkan konsekuensi hukum. Untuk itu, pihaknya mengimbau agar masyarakat tidak menyebarkan identitas, nomor telepon, alamat, dokumen, informasi sensitif baik milik pribadi maupun orang lain.
-Melalui sosialisasi ini, Sugeng juga menyampaikan beberapa upaya yang dapat dilakukan untuk melindungi dan mengelola data pribadi. Upaya tersebut dapat dilakukan dengan membatasi informasi pribadi yang dibagikan, menggunakan pengaturan privasi pada akun digital, menjaga keamanan kata sandi hingga memastikan kebenaran dan keamanan informasi sebelum membagikannya kepada orang lain.
-“Mari kita bangun budaya digital yang aman, bertanggung jawab dan saling menghormati privasi. Sebelum mengunggah apapun di media sosial, kita biasakan untuk berpikir dan memeriksa data maupun informasi sebelum dibagikan dan tidak menyebarluaskan data pribadi secara sembarangan, saring dulu sebelum share. Dengan begitu, kita dapat bersama-sama menciptakan ruang digital yang lebih aman bagi masyarakat Kota Kediri,” pungkasnya.
-Berita Terkait
-Pemkot Kediri Ikuti Evaluasi PEMDI 2026, Targetkan Indeks Pemerintahan Digital Capai 2,2
-Pemkot Kediri Ikuti Evaluasi PEMDI 2026, Targetkan Indeks Pemerintahan Digital Capai 2,2
-Pj Wali Kota Kediri Buka Sosialisasi Gempur Rokok Ilegal, Ajak Masyarakat Perangi Peredaran Rokok Ilegal
-Pemkot Kediri Sosialisasikan Pengelolaan dan Pemanfaatan Data Kependudukan untuk Jaga Keamanan Data
-Pemkot Kediri dan Bakorwil I Madiun Pantau Perkembangan Harga Migor di Pasar Bandar
+Pemodalan UMKM
 ×
-
-## https://kedirikota.go.id/p/berita/10114237/kota-kediri-siap-jadi-tuan-rumah-porprov-jatim-xi-tahun-2029-bidik-lahirnya-atlet-berprestasi-dan-dampak-ekonomi
-STATUS 200
-JUDUL: Website Resmi Pemerintah Kota Kediri
-TGL_META: 
-OG_IMAGE: 
-GAMBAR: https://kedirikota.go.id/assets/templ/img/logo-pemkot.png | https://live.staticflickr.com/65535/55661545001_87b0b34e3d_w.jpg | https://live.staticflickr.com/65535/55661670068_b5be849dc8_w.jpg | https://live.staticflickr.com/65535/55661670043_e2d0a18ddb_z.jpg | https://live.staticflickr.com/65535/55661731044_ffea25b88f_c.jpg | https://live.staticflickr.com/65535/55661665133_282698901d_n.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg
-ISI:
-Website Resmi Pemerintah Kota Kediri
-Beranda
-berita
-Kota Kediri Siap Jadi Tuan Rumah Porprov Jatim XI…
-Kota Kediri Siap Jadi Tuan Rumah Porprov Jatim XI Tahun 2029, Bidik Lahirnya Atlet Berprestasi dan Dampak Ekonomi
- berita | 
- 18/11/2026
-Kota Kediri menyatakan kesiapan untuk menjadi tuan rumah Pekan Olahraga Provinsi (Porprov) Jawa Timur XI Tahun 2029. Kesiapan tersebut dibahas dalam audiensi antara Wakil Wali Kota Kediri Qowimuddin dan jajaran Komite Olahraga Nasional Indonesia (KONI) Provinsi Jawa Timur di Balai Kota Kediri, Rabu (18/11/2026).
-Pertemuan ini menjadi simbol komitmen Pemerintah Kota Kediri dalam mempersiapkan diri sebagai calon tuan rumah ajang olahraga tingkat provinsi tersebut. Pertemuan tersebut menjadi ruang koordinasi untuk membahas berbagai aspek yang perlu dipersiapkan, mulai dari kesiapan sarana dan prasarana olahraga hingga dukungan berbagai pihak dalam penyelenggaraan Porprov.
-Wakil Wali Kota Kediri Qowimuddin menyampaikan kesiapan tersebut didukung oleh berbagai persiapan yang telah dilakukan sejak Juni, termasuk koordinasi dengan daerah penyangga, yakni Kabupaten Kediri dan Kabupaten Blitar. Menurutnya, penyelenggaraan Porprov membutuhkan kerja sama dengan daerah lain sehingga tidak dapat dilaksanakan oleh Kota Kediri sendiri. "Alhamdulillah kami baru saja melakukan audiensi dengan KONI Jawa Timur. Insya Allah kami siap menjadi tuan rumah penyelenggaraan Porprov Jawa Timur ke-XI tahun 2029 mendatang," ujarnya.
-Gus Qowim menjelaskan, rencana penyelenggaraan Porprov sejalan dengan visi dan misi Kota Kediri, yakni Kediri City Tourism. Sebab, ajang olahraga tersebut tidak hanya menjadi sarana pengembangan potensi olahraga dan melahirkan atlet-atlet berprestasi, tetapi juga berpeluang memberikan dampak positif terhadap perekonomian daerah. "Harapan kami Kota Kediri mendapat manfaat tidak hanya lahirnya atlet-atlet berprestasi tetapi juga perputaran ekonomi," jelasnya.
-Terkait dukungan anggaran, Sekretaris Daerah Kota Kediri Endang Kartika Sari menyampaikan bahwa estimasi anggaran untuk persiapan penyelenggaraan Porprov mencapai Rp32.250.000.000. Anggaran tersebut direncanakan untuk dialokasikan pada tahun 2027 dan 2028, terutama untuk pembangunan venue olahraga. Beberapa fasilitas yang menjadi prioritas di Kota Kediri meliputi lintasan atletik, lintasan sepatu roda, serta fasilitas panjat tebing nomor speed. "Untuk mengurangi biaya nanti kita upayakan ada CSR dari perusahaan-perusahaan di Kota Kediri. Lalu kami juga akan mengumpulkan pihak-pihak terkait untuk menuju Porprov 2029. Nanti kita akan mendata jadi untuk akomodasi Kota Kediri bisa mencukupi," imbuh Endang.
-Ketua KONI Jawa Timur Muhammad Nabil menyampaikan bahwa audiensi tersebut merupakan tindak lanjut dari undangan Pemerintah Kota Kediri terkait pengajuan sebagai calon tuan rumah Porprov Jawa Timur XI Tahun 2029. Persiapan sejak dini diperlukan karena pemerintah daerah perlu mengalokasikan anggaran pada tahun 2027 dan 2028, sekaligus menyiapkan venue cabang olahraga apabila nantinya mendapat amanah sebagai tuan rumah.
-"Hari ini ada pertemuan audiensi atas undangan Pemkot Kediri. Poinnya bahwa Kota Kediri siap menjadi tuan rumah pelaksanaan Porprov Jatim XI tahun 2029. Saya bersyukur Pemkot Kediri didampingi jajaran perangkat daerah, anggota DPRD, KONI siap melaksanakan Porprov dan ini poin bagi kami," ungkapnya.
-Lebih lanjut, Muhammad Nabil menjelaskan bahwa rencana penyelenggaraan Porprov Jawa Timur XI Tahun 2029 akan melibatkan empat daerah, yakni Kota Kediri, Kabupaten Kediri, Kota Blitar, dan Kabupaten Blitar. Saat ini, prosesnya masih berada pada tahap pengajuan dari daerah calon tuan rumah. Selanjutnya, usulan tersebut akan dibahas dalam Rapat Kerja Provinsi (Rakerprov) KONI Jawa Timur. Lalu keputusan Gubernur Jawa Timur.
-Terkait pembagian cabang olahraga, Muhammad Nabil menjelaskan bahwa setiap daerah nantinya akan menyampaikan kesiapan venue untuk cabang olahraga tertentu. Pembagian tersebut akan disesuaikan dengan kesepakatan bersama antar pimpinan daerah yang terlibat. "Tadi saya sampaikan kepada Bapak Wakil Wali Kota sebagai catatan penyelenggaraan di Malang Raya kemarin pesertanya sekitar 22 ribu. Saya lihat Kota Kediri ini siap tinggal nanti kita lihat perkembangan Kota Kediri dan lainnya ini seperti apa," pungkasnya.
-Dari hasil pertemuan tersebut, Muhammad Nabil menilai Kota Kediri telah menunjukkan kesiapan awal yang baik. Selanjutnya, perkembangan kesiapan Kota Kediri bersama daerah lainnya akan terus dipantau dalam proses menuju penetapan tuan rumah. Ia juga menambahkan bahwa pembangunan venue baru perlu diikuti dengan kesinambungan pembinaan olahraga agar fasilitas yang tersedia dapat dimanfaatkan untuk mendukung peningkatan prestasi atlet.
-Turut hadir dalam kegiatan tersebut jajaran KONI Jawa Timur, Anggota DPRD Kota Kediri Imam Wihdan, Kepala Disbudparpora Un Ahamd, OPD terkait, Ketua KONI Kota Kediri Eko Agus Koko, serta tamu undangan lainnya.
-Bagian Protokol dan Komunikasi Pimpinan Sekretariat Daerah Kota Kediri
-Berita Terkait
-Kota Kediri Tuan Rumah Jatim Martial Arts Championship 2026, Jadi Ajang Prestasi sekaligus Promosi Wisata
-Sabuk Wali Kota Kediri Jadi Panggung Sportivitas, 118 Atlet Bertarung di "Tarung Juara Sejati"
-Kota Kediri Jadi Tuan Rumah Perkemahan Wirakarya Jatim 2026, Mbak Wali Sambut Kolaborasi Pramuka Bedah RTLH
-Empat Calon Paskibraka Kota Kediri Ikuti Seleksi di Tingkat Provinsi Jawa Timur, Mbak Wali Beri Motivasi dan Semangat
-Kota Kediri Jadi Tuan Rumah Babak Kualifikasi Porprov Jatim IX/2025, Mbak Vinanda Harapkan Kota Kediri Jadi Destinasi Sport Tourism
+Insentif GTT dan PTT
 ×
-
-## https://kedirikota.go.id/p/berita/10114246/perkuat-pelaksanaan-pengarusutamaan-gender-pemkot-kediri-optimalkan-peran-pokja-dan-focal-point
-STATUS 200
-JUDUL: Website Resmi Pemerintah Kota Kediri
-TGL_META: 
-OG_IMAGE: 
-GAMBAR: https://kedirikota.go.id/assets/templ/img/logo-pemkot.png | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://live.staticflickr.com/65535/55661665133_282698901d_n.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795436556.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795234555.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795235074.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1794999356.jpg | https://diskominfo.kedirikota.go.id/storage/images/berita/berita-1795011101.jpg
-ISI:
-Website Resmi Pemerintah Kota Kediri
-Beranda
-berita
-Perkuat Pelaksanaan Pengarusutamaan Gender, Pemkot…
-Perkuat Pelaksanaan Pengarusutamaan Gender, Pemkot Kediri Optimalkan Peran Pokja dan Focal Point
- berita | 
- 23/11/2026
-Pemerintah Kota Kediri melalui Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana (DP3AP2KB) menggelar Pertemuan Penguatan Peran Kelembagaan Kelompok Kerja (Pokja) dan Focal Point Pengarusutamaan Gender (PUG) Kota Kediri, Senin (23/11), bertempat di Ruang Rapat Joyoboyo Balai Kota Kediri.
-Kegiatan ini menjadi bagian dari upaya memperkuat pelaksanaan Pengarusutamaan Gender (PUG) di Kota Kediri melalui optimalisasi peran kelembagaan dan peningkatan kapasitas sumber daya manusia di lingkungan perangkat daerah.
-Kepala DP3AP2KB Kota Kediri, dr. Muhammad Fajri Mubasysyir, dalam sambutannya menjelaskan bahwa PUG merupakan strategi untuk memastikan perempuan dan laki-laki memperoleh akses, partisipasi, kontrol, serta manfaat yang setara dalam pembangunan. Hal tersebut sebagaimana diamanatkan dalam peraturan perundang-undangan, termasuk Peraturan Presiden dan Peraturan Menteri Dalam Negeri.
-Menurutnya, PUG bukanlah program tambahan, melainkan strategi pembangunan yang harus melekat dalam seluruh proses kebijakan pemerintah, mulai dari perencanaan, penganggaran, pelaksanaan, hingga monitoring dan evaluasi.
-"Kita patut bersyukur bahwa pembangunan gender di Kota Kediri telah menunjukkan capaian yang baik. Berdasarkan data tahun 2025, Indeks Pembangunan Gender (IPG) Kota Kediri mencapai 96,36 dan berada pada peringkat kelima di Jawa Timur. Sementara itu, Indeks Ketimpangan Gender (IKG) mencapai 0,125, yang menempatkan Kota Kediri pada peringkat kedua terbaik di Jawa Timur," jelasnya.
-Ia menambahkan, capaian tersebut patut diapresiasi, namun tidak berarti seluruh persoalan kesetaraan gender di Kota Kediri telah terselesaikan. Nilai IPG sebesar 96,36 masih menunjukkan adanya kesenjangan dalam capaian pembangunan manusia antara perempuan dan laki-laki.
-Oleh karena itu, diperlukan upaya bersama untuk memastikan kesetaraan gender tidak hanya tercermin melalui angka indeks, tetapi juga terwujud dalam akses pelayanan, kesempatan, partisipasi, pengambilan keputusan, serta pemerataan manfaat pembangunan.
-Lebih lanjut, Fajri menyampaikan bahwa Pemerintah Kota Kediri telah memiliki sejumlah modal penting dalam mendukung pelaksanaan PUG, mulai dari peraturan daerah, kelembagaan Pokja dan Focal Point, hingga Rencana Aksi Daerah Pengarusutamaan Gender (RAD PUG) Tahun 2025–2029.
-Namun, keberadaan regulasi dan dokumen perencanaan tersebut perlu diimbangi dengan kelembagaan yang mampu berjalan secara optimal. Dalam hal ini, Pokja dan Focal Point memiliki peran strategis sebagai penggerak pelaksanaan PUG di lingkungan pemerintah daerah.
-"DP3AP2KB tidak bisa berjalan sendiri. Pokja menjadi wadah koordinasi lintas sektor, sedangkan Focal Point berperan sebagai penggerak PUG di masing-masing perangkat daerah. Keduanya merupakan ujung tombak agar strategi pengarusutamaan gender dapat benar-benar terimplementasikan dalam pembangunan," ungkapnya.
-Ia juga menyoroti sejumlah tantangan yang masih dihadapi, di antaranya kesenjangan pemahaman mengenai PUG, keterbatasan ketersediaan data terpilah gender, belum optimalnya penyusunan analisis gender, serta pergantian personel yang kerap mempengaruhi kesinambungan kinerja kelembagaan.
-Untuk itu, penguatan kelembagaan dan peningkatan kapasitas sumber daya manusia menjadi langkah penting agar pelaksanaan PUG tidak berhenti sebatas pemenuhan dokumen administratif, tetapi dapat diwujudkan dalam kebijakan dan program pembangunan yang responsif gender.
-Melalui pertemuan ini, Fajri berharap seluruh anggota Pokja dan Focal Point dapat semakin memahami tugas dan tanggung jawab masing-masing, memperkuat koordinasi lintas perangkat daerah, serta menyamakan langkah dalam mengintegrasikan perspektif gender ke dalam setiap tahapan pembangunan di Kota Kediri.
-Berita Terkait
-Tingkatkan Kompetensi ASN, Pemkot Kediri Gelar Pelatihan dan Uji Kompetensi PBJ Level 1
-Perkuat Penanganan Stunting, Pemkot Kediri Evaluasi Program Ceria Sapa di Puskesmas
-Perkuat Pelindungan Anak di Ruang Digital, Diskominfo Kota Kediri Libatkan 500 Peserta dalam Deklarasi dan Edukasi Publik Serentak
-Matangkan Persiapan TKA 2027, Pemkot Kediri Gelar Bimtek Untuk Operator dan Proktor SD se-Kota Kediri
-Hadirkan Puluhan Karya Lukis, Pemkot Kediri Apresiasi Seniman Lewat Pameran Lukisan OBOR 7
+Santunan Duka 2,5 juta
 ×
+Perijinan Satu Atap
+×
+Festival Budaya Tahunan
+×
+Revisi PERBUP 35 Tahun 2015
+×
+Green & Smart City
+×
+Kenaikan Honor RT/RW
+Kenaikan Honor RT/RW
+×
+Perbaikan Infrastruktur
+×
+Kartu Tani Mandiri Plus
+×
+Sekolah Gratis
+×
+Perda Madin
+×
+Lingkungan Ramah
+×
+Layanan Kesehatan
+×
+100.000 Lapangan Kerja
+×
+Program Aladin
+×
+Penataan Pasar Tradisional
 
-## https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-konsultasi-publik-i-rdtr-wilayah-perencanaan-ngunut-besukidan-sendang/
+## https://bojonegorokab.go.id/berita/10243/ribuan-pencari-kerja-padati-job-fair-bojonegoro-perusahaan-buka-banyak-lowongan
 STATUS 200
-JUDUL: Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Perencanaan Ngunut, Besuki,<div>dan Sendang</div>
+JUDUL: Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
 TGL_META: 
-OG_IMAGE: https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC00281-Ratnoeko-Utomo-1024x684.jpg
-GAMBAR: https://kabar.tulungagung.go.id/wp-content/uploads/2025/07/cropped-cropped-640px-Lambang-tulungagung.png | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC00281-Ratnoeko-Utomo.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_20261123_220517-SAP-Decoration-150x150.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC_4627-150x150.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC_4627-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_20261123_220517-SAP-Decoration-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_3346-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/25-x-4-m-640x1024.jpg
+OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/HiDeZheAvbosJIEV.jpg
+GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/HiDeZheAvbosJIEV.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-153642.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/insentif.jpg
 ISI:
-Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Perencanaan Ngunut, Besuki,dan Sendang – KABAR TULUNGAGUNG
-Skip to content
-Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Perencanaan Ngunut, Besuki,
-dan Sendang
-By 
-Diskominfo
-25 November 2026 
-10:51 am
-Pelaksana Tugas (Plt) Bupati Tulungagung Ahmad Baharudin S.M., M.M., secara resmi
-membuka kegiatan Konsultasi Publik I Penyusunan Rencana Detail Tata Ruang (RDTR)
-Wilayah Perencanaan Ngunut, Besuki, dan Sendang, yang dirangkaikan dengan Focus Group
-Discussion (FGD) Kajian Lingkungan Hidup Strategis (KLHS) Selasa (24/11/2026) mulai pukul
-10.00 wib bertempat di Hotel Lojikka. Forum ini digelar sebagai tindak lanjut Peraturan Daerah
-(Perda) tentang Rencana Tata Ruang Wilayah (RTRW) Kabupaten Tulungagung sekaligus
-upaya menyerap aspirasi masyarakat sejak dari tingkat kecamatan.
-Dalam sambutannya, Plt Bupati Tulungagung menegaskan bahwa penyusunan dan pembakuan
-aturan tata ruang menjadi kebutuhan mendesak seiring pesatnya dinamika pembangunan di
-Tulungagung yang merupakan daerah berkembang. Tanpa regulasi yang jelas dan terarah, laju pembangunan dikhawatirkan memicu berbagai persoalan di masa mendatang. Karena itu, proses pembahasan melibatkan unsur Forkopimda, Forkopimcam, perangkat daerah terkait seperti Dinas PUPR dan Dishub, unsur ATR/BPN, kepala desa, hingga tokoh masyarakat dan tokoh agama dari tiga kecamatan.
-Plt Bupati menekankan bahwa kepala desa dan elemen masyarakat setempat memiliki
-pemahaman paling dekat terhadap karakteristik wilayahnya, mulai dari peruntukan industri,
-pertanian maupun perkebunan, hingga kawasan permukiman. Masukan dari berbagai pihak
-sangat dibutuhkan agar dokumen RDTR menjadi acuan yang tepat sasaran. Ia menambahkan,
-pemerintah daerah tidak menghalangi warga yang ingin berusaha atau mendirikan bangunan,
-melainkan hadir untuk menata, mengarahkan, serta memberikan kemudahan dan
-pendampingan sesuai aturan dan kebijakan pemerintah pusat, sebagai wujud pelayanan terbaik kepada masyarakat.
-Mengakhiri arahannya, Plt Bupati berharap diskusi berjalan konstruktif dan membawa manfaat
-luas bagi warga Kabupaten Tulungagung. “Semoga kegiatan hari ini berjalan lancar dan
-menghasilkan masukan yang konstruktif demi terwujudnya tujuan penataan ruang Kabupaten
-Tulungagung yang dapat dilaksanakan dengan optimal sehingga pembangunan yang
-berkelanjutan dapat terwujud,” ujarnya sebelum membuka kegiatan secara resmi. (rat/diskominfotulungagung)
-Previous Article
-Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung
-Next Article
-Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari Jadi ke-821
-Tulungagung dan Hari Guru Nasional 2026
-Berita Terkait
- Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari ... 
-25 November 2026
- Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung 
-24 November 2026
- Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisa ... 
-22 November 2026
-Berita Terkait
-1
-PLT Bupati Serahkan Alsintan Untuk Kelompok Tani di Tulungagung
-14 October 2026
-2
-Tangani Dampak Kekeringan, Pemkab Tulungagung Salurkan 6 Truk Tangki Air Bersih ke Wilayah Terdampak
-12 October 2026
-3
-Pemkab Tulungagung Perkuat Sinergi Lintas Sektor untuk Kendalikan Inflasi dan Jaga Ketahanan Pangan
-13 August 2026
-Kategori
-BANTUAN SOSIAL
-(78)
-BERITA RESMI STATISTIK
-(2)
-CPNS PPPK
-(24)
-DINKES
-(6)
-EKONOMI DAN KEUANGAN
-(60)
-FOTO KEGIATAN
-(1076)
-JURNALIS WARGA
-(12)
-KEAGAMAAN
-(101)
-KEBUDAYAAN
-(84)
-KESEHATAN
-(109)
-KETAHANAN PANGAN
-(16)
-OLAHRAGA
-(52)
-PARIWISATA
-(40)
-PEMBANGUNAN & INFRASTRUKTUR
-(16)
-PEMERINTAHAN
-(1309)
-TEKNOLOGI DAN INFORMASI
-(24)
-Tulungagung Update
-(1178)
-UMKM & KOPERASI
-(15)
-error: 
-Content is protected !!
+Situs Resmi Pemkab Bojonegoro
+Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
+Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
+Redaksi
+26 Nov 2026
+178 dilihat
+ Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
+Bojonegorokab.go.id – Ribuan pencari kerja memadati area Sport Center Bojonegoro dalam kegiatan Job Fair yang diselenggarakan Dinas Perindustrian dan Tenaga Kerja (Disperinaker) Kabupaten Bojonegoro, Kamis (26/11/2026). Bahkan, sebelum acara seremoni pembukaan selesai, para pencari kerja sudah ramai mendatangi stan sejumlah perusahaan untuk mencari informasi dan mengajukan lamaran pekerjaan.
+Job Fair menjadi salah satu upaya Pemkab Bojonegoro dalam memperluas akses kesempatan kerja sekaligus mempertemukan pencari kerja dengan perusahaan yang membutuhkan tenaga kerja.
+Kepala Disperinaker Kabupaten Bojonegoro, Mahmudi, menyampaikan bahwa Pemkab Bojonegoro juga berkolaborasi dengan Polres Bojonegoro melalui program Poiran (Polisi Peduli Pengangguran). Kolaborasi tersebut dilakukan untuk memperluas informasi lowongan pekerjaan agar lebih mudah diakses masyarakat.
+Melalui program Poiran, sejumlah upaya dilakukan, di antaranya talkshow informasi ketenagakerjaan, pemasangan papan informasi lowongan kerja, serta penyediaan komunitas WhatsApp Solusi Kerja sebagai sarana penyebaran informasi lowongan kepada para pencari kerja.
+“Hari ini kita hadirkan perusahaan-perusahaan lokal Bojonegoro. Disperinaker juga melakukan konsultasi kerja agar harapan pencari kerja dan perusahaan bisa sesuai,” ungkap Mahmudi.
+Ia menyebut, hingga pagi hari kegiatan berlangsung, tercatat sebanyak 1.740 pencari kerja telah terdata. Job fair ini juga dihadiri para siswa SMA, MA, dan SMK yang diharapkan dapat menjadi sarana pembelajaran sejak dini mengenai dunia kerja, proses mencari pekerjaan, hingga persiapan memasuki dunia profesional.
+Salah satu pencari kerja, Hismi, warga Dander, mengaku telah mengajukan dua lamaran, yakni ke BRI dan PKSS. Ia menilai job fair sangat membantu, khususnya bagi lulusan baru (fresh graduate), karena dapat mengakses peluang kerja dari berbagai perusahaan dalam satu tempat.
+“Ini sangat mempermudah fresh graduate mencari pekerjaan. Semoga proses rekrutmennya juga mudah. Terima kasih karena saya bisa mengajukan lamaran sekaligus di sini,” ujarnya.
+Sementara itu, Irwan, warga Margoagung, Kecamatan Sumberrejo, mengaku senang mengikuti job fair karena banyak perusahaan hadir dan membuka kesempatan bagi pencari kerja untuk melamar.
+Melalui kegiatan ini, Pemkab Bojonegoro berharap akses informasi lowongan kerja semakin luas, sekaligus mendorong terwujudnya kecocokan antara kebutuhan perusahaan dan kompetensi pencari kerja, sehingga peluang penyerapan tenaga kerja di Bojonegoro semakin terbuka. [ai/nn]
+Pencarian
+Kontak Kami
+Pemerintah Kabupaten Bojonegoro
+Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
+62111
+Telepon
+0353 - 881826
+0353 - 881454
+Fax
+0353 - 884893
+0353 - 882378
+0353 - 887206
+Email
+pemkab@bojonegorokab.go.id
+dinkominfo@bojonegorokab.go.id
+Copyright 2014 PEMKAB BOJONEGORO
+(Redesign 2020)
+Statistik web:
+Kemarin : 6.847
+Hari ini : 324
+Bulan ini : 191.858
+Tahun ini : 2.851.242
+Total : 35.811.097
+×
+17 Program Prioritas
+ Pemodalan UMKM
+ Insentif GTT dan PTT
+ Santunan Duka 2,5 juta
+ Perijinan Satu Atap
+ Festival Budaya Tahunan
+ Revisi PERBUP 35 Tahun 2015
+ Green & Smart City
+ Kenaikan Honor RT/RW
+ Perbaikan Infrastruktur
+ Kartu Tani Mandiri Plus
+ Sekolah Gratis
+ Perda Madin
+ Lingkungan Ramah
+ Layanan Kesehatan
+ 100.000 Lapangan Kerja
+ Program Aladin
+ Penataan Pasar Tradisional
+×
+Pemodalan UMKM
+×
+Insentif GTT dan PTT
+×
+Santunan Duka 2,5 juta
+×
+Perijinan Satu Atap
+×
+Festival Budaya Tahunan
+×
+Revisi PERBUP 35 Tahun 2015
+×
+Green & Smart City
+×
+Kenaikan Honor RT/RW
+Kenaikan Honor RT/RW
+×
+Perbaikan Infrastruktur
+×
+Kartu Tani Mandiri Plus
+×
+Sekolah Gratis
+×
+Perda Madin
+×
+Lingkungan Ramah
+×
+Layanan Kesehatan
+×
+100.000 Lapangan Kerja
+×
+Program Aladin
+×
+Penataan Pasar Tradisional
 
-## https://kabar.tulungagung.go.id/plt-bupati-tulungagung-pimpin-dialog-kinerja-perkuat-sinkronisasi-dan-akselerasi-pembangunan-2027/
+## https://bojonegorokab.go.id/berita/10241/disperinaker-bojonegoro-gelar-job-fair-ajak-puluhan-perusahaan-dan-libatkan-para-pelaku-umkm
 STATUS 200
-JUDUL: Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027
+JUDUL: Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
 TGL_META: 
-OG_IMAGE: https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_3346-1024x683.jpg
-GAMBAR: https://kabar.tulungagung.go.id/wp-content/uploads/2025/07/cropped-cropped-640px-Lambang-tulungagung.png | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_3346-scaled.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/1-e1795339299414-150x150.jpeg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_20261123_220517-SAP-Decoration-150x150.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC_4627-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC00281-Ratnoeko-Utomo-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_20261123_220517-SAP-Decoration-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/25-x-4-m-640x1024.jpg
+OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/NvTPKHVDD7xhcbYe.jpg
+GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/NvTPKHVDD7xhcbYe.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-152606.jpeg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-152832.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png
 ISI:
-Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027 – KABAR TULUNGAGUNG
-Skip to content
-Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027
-By 
-Diskominfo
-22 November 2026 
-4:27 pm
-SURABAYA – Plt. Bupati Tulungagung, H. Ahmad Baharudin, S.M., M.M., didampingi Sekretaris Daerah Kabupaten Tulungagung, Drs. Tri Hariadi M.Si menghadiri sekaligus memberikan arahan kepada seluruh Kepala Perangkat Daerah Kabupaten Tulungagung dalam rangka Sinkronisasi dan Akselerasi Pencapaian Kinerja Pembangunan Daerah Tahun 2027.
-Kegiatan tersebut berlangsung di Ballroom Hotel Mövenpick Surabaya, Jum’at (20/11/2026).
-Dalam arahannya, Plt. Bupati Tulungagung menyampaikan bahwa pembangunan pada hakikatnya bukan sekadar tentang banyaknya program yang dilaksanakan atau besarnya anggaran yang dibelanjakan. Hal terpenting adalah sejauh mana program tersebut mampu menjawab persoalan, meningkatkan kualitas pelayanan, serta memberikan manfaat nyata bagi masyarakat.
-Atas dasar itulah, Dialog Kinerja menjadi forum yang sangat penting. Ia berharap forum tersebut tidak hanya berhenti pada evaluasi capaian maupun pembahasan anggaran, tetapi benar-benar menjadi ruang untuk menyelaraskan target, menentukan prioritas, dan memastikan setiap anggaran yang dialokasikan mampu memberikan hasil yang optimal.
-Dalam kesempatan tersebut, Plt. Bupati menyampaikan tiga hal penting yang perlu menjadi perhatian bersama.
-Pertama, penetapan target kinerja Tahun 2027 harus didasarkan pada evaluasi capaian dan permasalahan yang dihadapi.
-Setiap Kepala Perangkat Daerah harus memahami apa yang telah dicapai, apa yang belum terpenuhi, serta kendala yang dihadapi. Berdasarkan hasil evaluasi tersebut, target harus ditetapkan secara terukur, realistis, dan menantang, disertai langkah-langkah konkret untuk mencapainya.
-Kedua, setiap alokasi anggaran harus diarahkan untuk menjawab kebutuhan dan menyelesaikan permasalahan masyarakat.
-Setiap kegiatan Tahun 2027 harus sesuai dengan kewenangan, mendukung prioritas pembangunan, serta memberikan manfaat nyata bagi masyarakat. Kegiatan yang dinilai kurang efektif perlu dievaluasi, sementara kebutuhan yang mendesak harus menjadi prioritas.
-Plt. Bupati juga meminta Sekretaris Daerah bersama jajaran Tim Anggaran Pemerintah Daerah (TAPD) untuk memastikan alokasi anggaran selaras dengan target kinerja dan prioritas pembangunan, dengan tetap memperhatikan kemampuan keuangan daerah.
-Ketiga, selain mempersiapkan kinerja Tahun 2027, seluruh perangkat daerah juga harus menuntaskan tanggung jawab pelaksanaan anggaran Tahun 2026.
-Seluruh Kepala Perangkat Daerah diminta mencermati realisasi anggaran sampai dengan 31 Oktober 2026, mengidentifikasi berbagai kendala, serta segera mengambil langkah percepatan sesuai dengan ketentuan yang berlaku.
-Lebih lanjut, apabila terdapat kegiatan penting yang belum terakomodasi dalam RAPBD Tahun 2027, agar disampaikan dengan argumentasi yang kuat dan didukung data, termasuk penjelasan mengenai urgensi, dampak, serta konsekuensi apabila kegiatan tersebut tidak dilaksanakan.
-Mengakhiri arahannya, Plt. Bupati menegaskan bahwa keberhasilan pembangunan Kabupaten Tulungagung merupakan tanggung jawab bersama.
-Ia mengajak seluruh jajaran perangkat daerah menjadikan Dialog Kinerja tersebut sebagai momentum untuk memperkuat komitmen, mempertajam prioritas, serta membangun pola kerja pemerintahan yang lebih efektif, terukur, dan bertanggung jawab terhadap hasil.
-“Semoga melalui forum ini, kita dapat merumuskan langkah-langkah nyata untuk mewujudkan Kabupaten Tulungagung yang semakin maju dan sejahtera,” pungkasnya.
-Previous Article
-Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat
-Next Article
-Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung
-Berita Terkait
- Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari ... 
-25 November 2026
- Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Pere ... 
-25 November 2026
- Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung 
-24 November 2026
-Berita Terkait
-1
-PLT Bupati Serahkan Alsintan Untuk Kelompok Tani di Tulungagung
-14 October 2026
-2
-Tangani Dampak Kekeringan, Pemkab Tulungagung Salurkan 6 Truk Tangki Air Bersih ke Wilayah Terdampak
-12 October 2026
-3
-Pemkab Tulungagung Perkuat Sinergi Lintas Sektor untuk Kendalikan Inflasi dan Jaga Ketahanan Pangan
-13 August 2026
-Kategori
-BANTUAN SOSIAL
-(78)
-BERITA RESMI STATISTIK
-(2)
-CPNS PPPK
-(24)
-DINKES
-(6)
-EKONOMI DAN KEUANGAN
-(60)
-FOTO KEGIATAN
-(1076)
-JURNALIS WARGA
-(12)
-KEAGAMAAN
-(101)
-KEBUDAYAAN
-(84)
-KESEHATAN
-(109)
-KETAHANAN PANGAN
-(16)
-OLAHRAGA
-(52)
-PARIWISATA
-(40)
-PEMBANGUNAN & INFRASTRUKTUR
-(16)
-PEMERINTAHAN
-(1309)
-TEKNOLOGI DAN INFORMASI
-(24)
-Tulungagung Update
-(1178)
-UMKM & KOPERASI
-(15)
-error: 
-Content is protected !!
+Situs Resmi Pemkab Bojonegoro
+Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
+Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
+Redaksi
+26 Nov 2026
+94 dilihat
+ Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
+Bojonegorokab.go.id – Dinas Perindustrian dan Tenaga Kerja (Disperinaker) Kabupaten Bojonegoro menggelar Job Fair 2026 di Sport Center Bojonegoro, Kamis (26/11/2026). Job Fair menghadirkan puluhan perusahaan yang membuka peluang kerja bagi masyarakat, sekaligus melibatkan pelaku UMKM lokal yang berjualan di halaman Sport Center.
+Job fair menjadi salah satu upaya Pemkab Bojonegoro dalam memperluas kesempatan kerja, menekan angka pengangguran, serta mendorong pertumbuhan ekonomi masyarakat. Para pencari kerja dapat bertemu langsung dengan perusahaan, memperoleh informasi lowongan, hingga mengajukan lamaran sesuai kualifikasi yang dibutuhkan.
+Wakil Bupati Bojonegoro Nurul Azizah menyampaikan bahwa program kerja Bupati dan Wakil Bupati Bojonegoro, salah satunya diarahkan untuk menurunkan angka kemiskinan, meningkatkan Indeks Pembangunan Manusia (IPM), meningkatkan ekonomi masyarakat, mengurangi angka pengangguran, serta memperkuat konektivitas dan pengembangan wilayah sesuai skala prioritas.
+Menurutnya, upaya pembangunan daerah tidak dapat dilakukan pemerintah sendiri, melainkan membutuhkan sinergi dan kolaborasi berbagai pihak, termasuk dunia usaha dan institusi lainnya.
+“Pemkab tidak akan bisa bekerja sendirian tanpa sinergi semua pihak. Dalam job fair ini ada puluhan perusahaan lokal Bojonegoro yang menyediakan sekitar 1.500 lowongan kerja. Mudah-mudahan ini menjadi ikhtiar agar pengangguran berkurang,” ujarnya.
+Ia turut mengapresiasi dukungan Polri melalui program Polisi Peduli Pengangguran (Poliran) yang turut membantu upaya penanganan pengangguran di Bojonegoro.
+Sementara itu, Kapolres Bojonegoro AKBP Yeni Diarty menyampaikan bahwa melalui kegiatan job fair, sekitar 30 perusahaan dari berbagai sektor, termasuk perbankan, dan membuka ribuan lowongan kerja yang dapat diakses masyarakat umum.
+Ia menjelaskan, program Poliran merupakan inisiatif Polri untuk merangkul masyarakat yang belum mendapatkan pekerjaan dengan memfasilitasi akses terhadap peluang kerja. Menurutnya, kondisi ekonomi yang baik turut mendukung terciptanya keamanan dan ketertiban masyarakat.
+“Kami sangat merangkul. Bapak Kapolri mempunyai program Poliran, bagi masyarakat yang belum mendapat pekerjaan agar difasilitasi untuk mendapatkan pekerjaan. Ini linier, di mana daerah yang ekonominya baik juga berpengaruh terhadap keamanan dan ketertiban masyarakat,” ungkapnya.
+Kapolres mengajak para pencari kerja, khususnya generasi muda, untuk memanfaatkan kesempatan tersebut dengan baik, meningkatkan keterampilan, dan tidak mudah menyerah ketika belum berhasil mendapatkan pekerjaan.
+“Jangan berkecil hati apabila belum berhasil. Pertemuan ini bisa menjadi langkah awal untuk masa depan yang lebih baik,” pesannya.
+Selain membuka akses rekrutmen, kehadiran UMKM di halaman Sport Center turut memberikan ruang bagi pelaku usaha lokal untuk berjualan, sehingga kegiatan job fair tidak hanya mendukung pencari kerja, tetapi juga menggerakkan ekonomi masyarakat. [ai/nn]
+Pencarian
+Kontak Kami
+Pemerintah Kabupaten Bojonegoro
+Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
+62111
+Telepon
+0353 - 881826
+0353 - 881454
+Fax
+0353 - 884893
+0353 - 882378
+0353 - 887206
+Email
+pemkab@bojonegorokab.go.id
+dinkominfo@bojonegorokab.go.id
+Copyright 2014 PEMKAB BOJONEGORO
+(Redesign 2020)
+Statistik web:
+Kemarin : 6.847
+Hari ini : 324
+Bulan ini : 191.858
+Tahun ini : 2.851.242
+Total : 35.811.097
+×
+17 Program Prioritas
+ Pemodalan UMKM
+ Insentif GTT dan PTT
+ Santunan Duka 2,5 juta
+ Perijinan Satu Atap
+ Festival Budaya Tahunan
+ Revisi PERBUP 35 Tahun 2015
+ Green & Smart City
+ Kenaikan Honor RT/RW
+ Perbaikan Infrastruktur
+ Kartu Tani Mandiri Plus
+ Sekolah Gratis
+ Perda Madin
+ Lingkungan Ramah
+ Layanan Kesehatan
+ 100.000 Lapangan Kerja
+ Program Aladin
+ Penataan Pasar Tradisional
+×
+Pemodalan UMKM
+×
+Insentif GTT dan PTT
+×
+Santunan Duka 2,5 juta
+×
+Perijinan Satu Atap
+×
+Festival Budaya Tahunan
+×
+Revisi PERBUP 35 Tahun 2015
+×
+Green & Smart City
+×
+Kenaikan Honor RT/RW
+Kenaikan Honor RT/RW
+×
+Perbaikan Infrastruktur
+×
+Kartu Tani Mandiri Plus
+×
+Sekolah Gratis
+×
+Perda Madin
+×
+Lingkungan Ramah
+×
+Layanan Kesehatan
+×
+100.000 Lapangan Kerja
+×
+Program Aladin
+×
+Penataan Pasar Tradisional
 
-## https://kabar.tulungagung.go.id/gebyar-undian-pajak-daerah-2026-pemkab-tulungagung-apresiasi-wajib-pajak-yang-taat/
+## https://www.jombangkab.go.id/berita/pemkab-jombang-hadirkan-1444-peluang-kerja-di-jemput-kerja-batch-4-gandeng-30-perusahaan-hingga-program-transmigrasi-24965
 STATUS 200
-JUDUL: Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat
+JUDUL: Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi - Pemerintah Kabupaten Jombang
 TGL_META: 
-OG_IMAGE: https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/1-e1795339299414-1024x849.jpeg
-GAMBAR: https://kabar.tulungagung.go.id/wp-content/uploads/2025/07/cropped-cropped-640px-Lambang-tulungagung.png | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/1-e1795339299414.jpeg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/2-1024x682.jpeg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC_3640-SAP-Decoration-scaled-e1795147413807-150x150.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_3346-150x150.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC_4627-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/DSC00281-Ratnoeko-Utomo-330x220.jpg | https://kabar.tulungagung.go.id/wp-content/uploads/2026/11/IMG_20261123_220517-SAP-Decoration-330x220.jpg
+OG_IMAGE: https://resources.jombangkab.go.id/berita/uploads/2026/11/f817f3c6-bca8-4be3-97d7-e527791259bd.jpg
+GAMBAR: https://www.jombangkab.go.id/kabupaten/assets/images/logo-white.png | https://resources.jombangkab.go.id/berita/uploads/2026/11/f817f3c6-bca8-4be3-97d7-e527791259bd.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/bc94ca69-f0ea-45fc-bd97-98b7f8a77ab6.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/f1b28a9e-0f60-41a9-b976-1101afdc0624.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/6c879ffa-09c1-4f1b-b999-9b3fb7d065ef.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/72b69106-e2ac-491e-8592-cffd9ed63440.jpg | https://www.jombangkab.go.id/kabupaten/assets/images/logo-kabupaten.png
 ISI:
-Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat – KABAR TULUNGAGUNG
-Skip to content
-Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat
-By 
-Diskominfo
-22 November 2026 
-4:22 pm
-TULUNGAGUNG
- – Pemerintah Kabupaten Tulungagung melalui Badan Pendapatan Daerah (Bapenda) menggelar Gebyar Undian Pajak Daerah Tahun 2026 sebagai bentuk apresiasi kepada masyarakat dan pelaku usaha yang telah memenuhi kewajiban membayar pajak daerah secara tertib dan tepat waktu. Kegiatan tersebut berlangsung di Hall Hotel Crown Victoria, Kamis (19/11/2026) pukul 19.00 WIB.
-Kegiatan ini dihadiri Sekretaris Daerah Kabupaten Tulungagung Drs. Tri Hariadi, M.Si., Kepala Bapenda Dra. Imro’atul Mufidah, M.Si., jajaran Asisten dan Staf Ahli, kepala perangkat daerah, pimpinan perbankan dan kanal pembayaran, Kepala UPT PPD Tulungagung beserta jajaran, camat dan kasi pemerintahan se-Kabupaten Tulungagung, serta para pengusaha dan wajib pajak.
-Dalam laporannya, Kepala Bapenda Kabupaten Tulungagung, Dra. Imro’atul Mufidah, M.Si., menyampaikan bahwa kegiatan ini bertujuan meningkatkan kesadaran, kepatuhan, dan motivasi masyarakat dalam memenuhi kewajiban membayar pajak daerah.
-Pajak yang menjadi objek undian meliputi Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBB-P2), Pajak Barang dan Jasa Tertentu (PBJT) atas makanan dan minuman, jasa perhotelan, serta jasa kesenian dan hiburan. Selain itu, undian juga mencakup apresiasi bagi wajib pajak sektor Opsen Pajak Kendaraan Bermotor (PKB) dan Bea Balik Nama Kendaraan Bermotor (BBNKB).
-Peserta undian dibagi menjadi tiga kategori. Pertama, wajib pajak PBJT atas transaksi makanan dan minuman, jasa kesenian dan hiburan, serta jasa perhotelan selama September hingga Oktober 2026. Kedua, wajib pajak PBB-P2 tahun pajak 2026 yang telah melunasi kewajibannya sebelum jatuh tempo pada 22 September 2026. Ketiga, wajib pajak Opsen PKB yang patuh membayar pajak tahun berjalan maupun selama tiga tahun berturut-turut.
-Beragam hadiah disiapkan sebagai bentuk penghargaan kepada wajib pajak, mulai dari barang elektronik, sepeda gunung (MTB), hingga hadiah utama berupa enam unit sepeda motor. Proses pengundian dilaksanakan secara terbuka dan transparan menggunakan sistem komputerisasi serta disaksikan oleh notaris, pihak kepolisian, dan unsur Dinas Sosial Provinsi Jawa Timur maupun Kabupaten Tulungagung.
-Kepala Bapenda juga menjelaskan bahwa para undangan, khususnya wajib pajak yang telah menggunakan tapping box atau alat perekam transaksi di tempat usaha, merupakan bagian dari mitra strategis pemerintah dalam meningkatkan optimalisasi penerimaan pajak daerah.
-Ia menegaskan bahwa pencapaian realisasi pajak daerah tidak terlepas dari sinergi berbagai pihak, mulai dari Bapenda, UPT PPD Provinsi Jawa Timur, perbankan, mitra pembayaran digital, camat, kepala desa, hingga seluruh elemen masyarakat. Oleh karena itu, ia menyampaikan apresiasi atas dukungan dan kerja sama yang telah terjalin serta mengajak masyarakat menjadikan kepatuhan membayar pajak sebagai budaya dan bentuk kontribusi nyata bagi kemajuan Kabupaten Tulungagung.
-Sementara itu, sambutan Plt. Bupati Tulungagung H. Achmad Baharudin, S.M., M.M., yang dibacakan oleh Sekretaris Daerah Drs. Tri Hariadi, M.Si., menyampaikan apresiasi dan terima kasih kepada seluruh wajib pajak yang telah berpartisipasi dalam mendukung pembangunan daerah. Apresiasi secara khusus diberikan kepada 95 pengusaha yang telah mendukung penerapan tapping box di tempat usahanya.
-Menurutnya, penggunaan tapping box merupakan salah satu upaya Pemerintah Kabupaten Tulungagung dalam mewujudkan transparansi transaksi sekaligus mendukung digitalisasi pemerintahan. Melalui perangkat tersebut, pencatatan transaksi dapat dilakukan secara otomatis sehingga pelaporan dan penyetoran pajak menjadi lebih transparan dan akuntabel.
-Upaya elektronifikasi transaksi tersebut juga menjadi bagian dari optimalisasi Pendapatan Asli Daerah (PAD), khususnya sektor pajak daerah, yang pelaksanaannya turut mendapatkan pemantauan dari Komisi Pemberantasan Korupsi Republik Indonesia (KPK RI).
-Selain itu, Plt. Bupati juga menyampaikan terima kasih kepada seluruh mitra kerja Pemerintah Kabupaten Tulungagung, khususnya Pemerintah Provinsi Jawa Timur melalui instansi terkait dan Samsat, serta para wajib pajak sektor PKB dan BBNKB yang telah berkontribusi dalam optimalisasi penerimaan Opsen PKB dan Opsen BBNKB.
-Ia menegaskan bahwa pajak daerah bukan sekadar kewajiban administratif, melainkan salah satu sumber utama pembiayaan pembangunan dan penyelenggaraan pemerintahan daerah. Penerimaan pajak dimanfaatkan untuk mendukung pembangunan infrastruktur, meningkatkan kualitas pelayanan kesehatan dan pendidikan, memperbaiki fasilitas umum, serta membiayai berbagai program pembangunan yang manfaatnya dapat dirasakan masyarakat.
-Oleh karena itu, seluruh pelaku usaha dan masyarakat diajak untuk memiliki pemahaman bahwa membayar pajak bukan sekadar menyerahkan sebagian penghasilan kepada pemerintah, tetapi merupakan bentuk partisipasi dan investasi bersama bagi kemajuan Kabupaten Tulungagung. Semakin tinggi tingkat kepatuhan pajak, semakin besar pula kemampuan daerah dalam membiayai pembangunan.
-Dalam kesempatan tersebut, Pemerintah Kabupaten Tulungagung juga menyerahkan penghargaan kepada sejumlah mitra strategis dan wajib pajak yang dinilai memberikan kontribusi terhadap optimalisasi penerimaan pajak daerah. Penghargaan diberikan kepada:
-UPT PPD Tulungagung, sebagai mitra strategis dalam optimalisasi penerimaan pajak daerah.
-Bank Jatim, sebagai mitra strategis dalam optimalisasi penerimaan pajak daerah.
-PT Harapan Jaya Prima, sebagai perusahaan dengan kontribusi Opsen PKB kendaraan berpelat kuning terbesar tahun 2026.
-UIN Sayyid Ali Rahmatullah, sebagai instansi dengan kontribusi Opsen PKB kendaraan berpelat merah terbesar tahun 2026.
-BUMDes Larasati, sebagai BUMDes dengan transaksi Opsen PKB terbesar tahun 2026.
-Rangkaian kegiatan kemudian dilanjutkan dengan pengundian hadiah secara elektronik. Seluruh proses pengundian disaksikan oleh perwakilan Polres Tulungagung, notaris, Dinas Sosial Provinsi Jawa Timur, dan Dinas Sosial Kabupaten Tulungagung.
-Melalui kegiatan Gebyar Undian Pajak Daerah Tahun 2026, Pemerintah Kabupaten Tulungagung berharap kesadaran dan kepatuhan masyarakat dalam membayar pajak terus meningkat. Dengan dukungan dan sinergi seluruh pihak, penerimaan pajak daerah diharapkan semakin optimal sehingga mampu mendukung pembangunan dan meningkatkan kesejahteraan masyarakat Kabupaten Tulungagung. (fred/diskominfotulungagung)
-Previous Article
-Pemkab dan DPRD Tulungagung Sepakati APBD Tahun 2027, Sejumlah Program Pemerintah Siap Digeber
-Next Article
-Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027
-Berita Terkait
- Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari ... 
-25 November 2026
- Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Pere ...
+Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi - Pemerintah Kabupaten Jombang
+Beranda
+/
+Berita
+/
+Detail
+Detail Berita
+Informasi resmi seputar kegiatan pemerintah, pembangunan, layanan publik, dan dinamika Kabupaten Jombang.
+ Kembali ke daftar berita
+Kabupaten
+Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi
+Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar bursa kerja bertajuk Jemput Kerja/Job Fair Batch 4 Tahun 2026 di SMK Dwija Bhakti II Jombang, Kamis (26/11/2026). Kegiatan ini menghadirkan 30 perusahaan dari berbagai sektor usaha dengan total 126 jabatan dan 1.444 lowongan pekerjaan yang terbuka bagi lulusan SMP hingga sarjana.
+ 26 November 2026
+ Pemerintah Kabupaten Jombang
+ 105 views
+#Jemput Kerja Batch 4
+#Talenta
+#Jombang Maju dan Sejahtera Untuk Semua
+#Peluang Kerja
+#Program AKAD
+#Disnaker Jombang
+JOMBANGKAB
+ – Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar bursa kerja bertajuk Jemput Kerja/Job Fair Batch 4 Tahun 2026 di SMK Dwija Bhakti II Jombang, Kamis (26/11/2026). Kegiatan ini menghadirkan 30 perusahaan dari berbagai sektor usaha dengan total 126 jabatan dan 1.444 lowongan pekerjaan yang terbuka bagi lulusan SMP hingga sarjana.
+Acara pembukaan dihadiri langsung oleh Wakil Bupati Jombang M. Salmanudin, S.Ag., M.Pd., Kapolres Jombang diwakili oleh KaBiro SDM Polres Jombang, Kompol Yanuar Tri Ratna Sanjaya, S.H.,M.H, Kepala BPVP Sidoarjo Rahmad Faisal, S.T., M.M., Ketua PD Muhammadiyah Jombang Assoc. Prof. Dr. Ir. Abdul Malik, MP., IPU., jajaran Kepala Dinas Tenaga Kerja kabupaten/kota tetangga, perangkat daerah, pengurus APINDO, BKK, LPK, serta ratusan pencari kerja. 
+Kepala Dinas Tenaga Kerja Kabupaten Jombang, Isawan Nanang Risdiyanto, S.Hut., M.Si., dalam laporannya menyampaikan bahwa kegiatan ini merupakan bentuk nyata fasilitasi pemerintah daerah untuk menurunkan Tingkat Pengangguran Terbuka (TPT) sekaligus menjawab tantangan akses informasi kerja bagi masyarakat usia produktif. 
+Dari total 1.444 formasi yang tersedia, sebanyak 1.147 lowongan diperuntukkan bagi lulusan SMA/SMK/sederajat, 206 lowongan untuk lulusan SMP, dan 91 lowongan bagi lulusan D-3/S1 dari berbagai disiplin ilmu.
+Salah satu terobosan pada Job Fair kali ini adalah partisipasi PT Bumitama Gunajaya Agro (PT BGA) yang membuka peluang kerja sebagai tenaga panen sawit di perkebunan kelapa sawit wilayah Kalimantan Tengah, Kalimantan Barat, dan Riau melalui program Antar Kerja Antar Daerah (AKAD) yang bersinergi dengan program transmigrasi.
+"Keterlibatan PT BGA juga membuka peluang pelaksanaan program Antar Kerja Antar Daerah atau AKAD, yaitu pelayanan penempatan tenaga kerja yang mempertemukan pencari kerja dari suatu daerah dengan kebutuhan pekerjaan di daerah lain. Dan difasilitasi untuk keberangkatan dengan keluarga, serta fasilitasi rumah dan sekolah untuk anak," ujar Isawan Nanang Risdiyanto.
+Selain layanan rekrutmen dan konsultasi karier, Isawan juga menyoroti kolaborasi strategis bersama kepolisian melalui Program Polisi Peduli Pengangguran untuk menjangkau masyarakat hingga tingkat paling bawah. "Melalui Program Polisi Peduli Pengangguran, kami berharap dapat terbangun kolaborasi dalam mengidentifikasi masyarakat yang belum bekerja, membantu menyebarluaskan informasi lowongan pekerjaan, serta menghubungkan para pencari kerja dengan perusahaan yang membutuhkan tenaga kerja," tambahnya.
+Sementara itu, Wakil Bupati Jombang Salmanudin, S.Ag., M.Pd., yang hadir membacakan sambutan Bupati Jombang Warsubi, S.H., M.Si., menegaskan bahwa Jemput Kerja Batch 4 menjadi instrumen penting dalam menjembatani kesenjangan kompetensi (skill mismatch) antara lulusan pendidikan dengan kualifikasi dunia industri. Pemkab Jombang juga mendorong optimalisasi aplikasi digital terintegrasi 
+TALENTA
+ agar pendataan pencari kerja dan kebutuhan perusahaan terkelola secara sistematis.
+"Kita tidak ingin lulusan pendidikan dan pelatihan hanya memiliki ijazah atau sertifikat, tanpa keterampilan yang sesuai dengan kebutuhan dunia kerja. Karena itu, saya minta Dinas Tenaga Kerja untuk memperkuat link and match melalui koordinasi dan kerja sama dengan perusahaan, lembaga pelatihan kerja, SMK, perguruan tinggi, dan Bursa Kerja Khusus," tutur Gus Salmanudin membacakan sambutan Bupati.
+Ia juga berpesan agar investasi yang masuk ke Kabupaten Jombang memberikan dampak langsung bagi kesejahteraan warga lokal, serta meminta pihak perusahaan menjalankan proses seleksi secara objektif.
+"Kepada perusahaan, saya berharap agar proses rekrutmen dilaksanakan secara transparan, objektif, profesional, dan tidak diskriminatif. Berikan kesempatan yang sama kepada pencari kerja yang memenuhi persyaratan, serta bangun kemitraan yang berkelanjutan dengan Pemerintah Kabupaten Jombang dalam peningkatan kualitas tenaga kerja lokal," pesannya.
+Kepada para pencari kerja, Wakil Bupati Jombang juga berpesan agar tidak terpaku pada satu jenis pekerjaan saja, terus mengasah keterampilan digital, menjaga kedisiplinan, serta tidak mudah menyerah menghadapi persaingan. Disnaker Kabupaten Jombang juga diinstruksikan untuk melakukan pendataan hasil rekrutmen dan pemantauan penempatan pascakegiatan sebagai bahan evaluasi berkelanjutan guna mewujudkan Jombang yang maju dan sejahtera untuk semua.
+Pada kesempatan tersebut juga diserahkan penghargaan kepada ;
+Perusahaan Penyelenggara Maganghub dengan Penempatan Tenaga Kerja Terbanyak tahun 2026. 
+1. PT. Camino Industrial Indonesia 
+2. PT. Akui Bird Nest Indonesia 
+Lembaga Pelatihan Kerja sebagai Lembaga Pelatihan Kerja dengan Penempatan Tenaga Kerja Alumni Terbanyak tahun 2026
+1. LPK Bangun Karya
+2. LPK Bangun Pertiwi 
+Bursa Kerja Khusus sebagai SMK dengan Penempatan Tenaga Kerja Alumni Terbanyak Tribulan III Tahun 2026.
+1. SMK Negeri 1 Jombang
+2. SMK PGRI I Jombang 
+3. SMK Negeri Mojoagung 
+↑
