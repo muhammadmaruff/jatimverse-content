@@ -26,9 +26,9 @@ Baca `manifest.json` dan `config/sumber.json` lebih dulu. Jangan mencari ulang t
 
 ## Membaca halaman tanpa WebFetch (workflow `baca-halaman`)
 Jika WebFetch tidak tersedia di sesi (atau situs gagal dibaca), pakai workflow GitHub `baca-halaman`; runner GitHub bisa mengakses .go.id.
-1. Daftar berita semua situs: dispatch `baca-halaman.yml` dengan input `mode=daftar` (tool `mcp__github__actions_run_trigger`, method `run_workflow`, ref `main`). Selesai ±2-4 menit; cek `actions_get` atau tunggu lalu `git pull --rebase origin main`.
+1. Daftar berita semua situs: dispatch `baca-halaman.yml` dengan input `mode=daftar` (tool `mcp__github__actions_run_trigger`, method `run_workflow`, ref `main`). Selesai ±1-2 menit; cek `actions_get` atau tunggu lalu `git pull --rebase origin main`.
 2. Hasil di `bacaan/hasil.md`: tiap situs berisi judul | URL | konteks (tanggal). Saring tanggal, pilih kandidat.
-3. Isi artikel: dispatch dengan `mode=artikel` dan `urls` = URL dipisah spasi (maks ±8 URL per run; gabungkan kandidat satu batch dalam satu run). Hasil menimpa `bacaan/hasil.md`: JUDUL, TGL_META, OG_IMAGE (url_foto_sumber), GAMBAR, ISI.
+3. Isi artikel: dispatch dengan `mode=artikel` dan `urls` = URL dipisah spasi (maks 20 URL per run; gabungkan kandidat beberapa batch dalam satu run, karena tiap run ditagih minimal 1 menit Actions walau hanya jalan 20 detik). Hasil menimpa `bacaan/hasil.md`: JUDUL, TGL_META, OG_IMAGE (url_foto_sumber), GAMBAR, ISI.
 4. Halaman daftar lain: `mode=daftar-url`. Situs 403 (sidoarjo, madiun kota, jember, malang kota) tetap lewat WebSearch `allowed_domains` untuk URL, lalu `mode=artikel`; bila 403 juga, lewati.
 5. `bacaan/` hanya berkas kerja; jangan dibaca ulang utuh, tampilkan hanya yang perlu.
 
