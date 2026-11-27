@@ -1,624 +1,265 @@
-## https://pasuruankab.go.id/berita/mas-rusdi-minta-pii-hadirkan-inovasi-baru-bagi-pembangunan-di-kabupaten-pasuruan
+## DAFTAR https://surabaya.go.id/id/berita
 STATUS 200
-JUDUL: Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
-TGL_META: 
-OG_IMAGE: https://pasuruankab.go.id/download-image/mas-rusdi-minta-pii-hadirkan-inovasi-baru-bagi-pembangunan-di-kabupaten-pasuruan/posts/tumbnail
-GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IlNwa2dZVVRCOW1NY29vanhPUXZNL2c9PSIsInZhbHVlIjoidTdGL1ZRNFZmcnVXK2kwejFSRXdtZz09IiwibWFjIjoiOGEzODIzMmE1NGQ5YzI2MTljMGMxOTMxNzU2ZDVlNmM1YTE5N2NmM2U1ODhmNjhlYmFiNDZjMjc2MDgyMzU3YSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlVxRUtJYmI3V1BjK09tZWNjSkVQMEE9PSIsInZhbHVlIjoidDFObVFJYnIwRE1qcm55QkxMTFJNQT09IiwibWFjIjoiNTVkNzVhY2IxMDJlYTdhYTM5ZjNmODdiODllY2Y2NWQ0ZGU1NDM5ZGE0Yzk5YjEzMDkyNjUxZGVkZWRhM2FkNiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjhMNElZRkRGYjlFSnpGeVJWOXJVQ3c9PSIsInZhbHVlIjoibWtTZ1g4NDZ5QTNUV0JUL1k1cTZTZz09IiwibWFjIjoiYjg0NzA5ZDk0Mjc0Njc2MTY5MzBlYjBkNGYxMDNmODVkZTcwZDczNzdkYWJhZTkzNmQ2YTY2YmQyN2U2M2QwNSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImI1TzdTV0x4NjJGL3V1bTNRbWllTmc9PSIsInZhbHVlIjoiVStMYk40UlB0WnlTQXptb054S2dpdz09IiwibWFjIjoiMDRhYmI0NjkyYTU4NzMxNDAxZWQ1NWQxOTBkMzQxYWMyODc0ZmZlYTc3ZDY5MjVjM2ZmNGJiMThiNTVmYzUwMiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjR1Sm4yc0hSd0crMlFXVlI1S3k5Umc9PSIsInZhbHVlIjoiMk9XR1l5ZUxUbHBKY2dxcGdXWmRBZz09IiwibWFjIjoiZGNkYmNlZjhhMGYxZDcwZjQyM2RlN2Y5NTU5NjRjZDhmZjE1YmE5MGM0MjE3M2U2ODNiM2IyMjhlZjJkMmUzZCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InJPNXg3K2hSN21RZ1c3M3NBQW05WHc9PSIsInZhbHVlIjoiTzl0N0h1WFdyK2ZoaHZvcGVYdDBVZz09IiwibWFjIjoiNWEzMTgwNmFhYmM2ODYxMzJiZmFkMDBmOTM4MWIxNjZiNzM3NTg3ZDE0Y2ZiYmMwYTIxZjRiMTcxZDExNjYzMCIsInRhZyI6IiJ9/posts/gambar_posts/berita
-ISI:
-Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan | Website Pemerintah Kabupaten Pasuruan
- Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
-25 November 2026 (18:07)
-Pemerintahan
-43x Dilihat
-0 Komentar
-Emil Akbar
- E-Paper PDF
- E-Paper JPG
-Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengurusan yang baru.
-Hari Santoso bersama anggota lainnya dilantik sebagai Pengurus Cabang PII Kabupaten Pasuruan masa bakti 2026–2029, Selasa (24/11/2026).
-Pelantikan digelar di Auditorium Mpu Sindok, Gedung Kantor Bupati Pasuruan dan dipimpin langsung oleh Bupati Pasuruan, Rusdi Sutejo.
-Ditemui usai pelantikan, Hari mengatakan, PII siap membantu pemerintah daerah ketika menghadapi persoalan yang membutuhkan keahlian dan pertimbangan teknis. Salah satunya adalah pendampingan teknis pembangunan pesantren.
-Program yang sebelumnya dijalankan bersama Dewan Pesantren itu akan kembali digelar dengan menyasar mandor dan tukang bangunan.
-Menurut Hari, pekerja lapangan memiliki peran penting dalam memastikan kualitas konstruksi bangunan. Karena itu, mereka perlu dibekali pemahaman teknis agar kejadian bangunan pesantren roboh tidak terulang.
-“Ke depan memang kita melanjutkan program mengenai roadmap dengan Dewan Pesantren. Kita akan melakukan lagi pelatihan, tetapi khusus untuk para mandor dan tukang saja karena mereka yang ada di lapangan. Ini sebagai antisipasi agar tidak terjadi lagi pesantren roboh,” kata Hari.
-Ia mengakui, pelaksanaan pelatihan sebelumnya menghadapi kendala persyaratan pendidikan. 
-Ketentuan minimal ijazah SMA membuat sebagian pekerja yang memiliki pengalaman langsung di lapangan kesulitan mengikuti program tersebut.
-Padahal, mandor dan tukang merupakan pihak yang sehari-hari terlibat langsung dalam proses pembangunan. Mereka juga kerap menjadi orang yang paling dekat dengan pengelola pesantren.
-Selain pendampingan pembangunan pesantren, PII juga menyiapkan sejumlah gagasan untuk membantu menyelesaikan persoalan infrastruktur dan kebutuhan masyarakat. 
-Salah satunya terkait kesulitan air di sejumlah wilayah Kabupaten Pasuruan. Hari mencontohkan, ada daerah yang membutuhkan pompa untuk mendapatkan pasokan air, tetapi terkendala ketersediaan listrik. 
-Untuk itu, PII berencana menjajaki kerja sama dengan perguruan tinggi guna mencari solusi, salah satunya melalui pemanfaatan panel surya sebagai sumber energi pompa air.
-“Kita akan upayakan kerja sama dengan perguruan tinggi agar bisa memberikan semacam solar panel di sana. Dengan begitu, masyarakat bisa mengambil air dengan baik tanpa harus bergantung pada listrik,” ujarnya.
-Sementara itu, Bupati Pasuruan, Rusdi Sutejo menyambut baik pelantikan pengurus PII Kabupaten Pasuruan masa bakti 2026–2029. 
-Ia berharap organisasi profesi tersebut dapat menghadirkan gagasan dan inovasi yang bermanfaat bagi pembangunan daerah.
-Menurut Mas Rusdi, keahlian para insinyur memiliki cakupan luas, mulai dari perencanaan, pelaksanaan pembangunan, hingga bidang konstruksi. 
-Potensi tersebut dapat menjadi kekuatan tambahan bagi pemerintah daerah dalam menjalankan berbagai program pembangunan.
-“Kami ucapkan terima kasih dan selamat kepada PII Kabupaten Pasuruan yang barusan dilantik. Semoga bisa terjalin inovasi dari teman-teman PII untuk Kabupaten Pasuruan. Saya tunggu inovasinya, kemudian kerja samanya dengan pemerintah,” katanya.
-Ia menegaskan, Pemkab Pasuruan terbuka untuk membangun sinergi dengan PII. 
-Pemerintah daerah siap bekerja sama dengan organisasi tersebut sesuai kebutuhan dan bidang keahlian yang dimiliki para insinyur.
-Ia berharap para anggota PII turut memiliki rasa tanggung jawab terhadap kemajuan Kabupaten Pasuruan. 
-“Dengan kolaborasi antara pemerintah dan para profesional, pembangunan diharapkan berjalan lebih baik, dan memberi manfaat bagi masyarakat secara berkelanjutan,” tutup dia
-Bagikan :
-9
-11
-Ringkasan AI 
-Beta
- Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
- penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
- keakuratan sepenuhnya.
- Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
- Generate Ringkasan oleh AI 
- Komentar
- Belum ada komentar. Jadilah yang pertama berkomentar!
-Tinggalkan Komentar:
-Berita Lainnya
- Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
- Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengurusan yang...
-25 November 2026
- Pemerintahan
- Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
- Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatihan Olahrag...
-25 November 2026
- Olahraga
- Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
- Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pasuruan men...
-25 November 2026
- Pemerintahan
- Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
- Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pasuruan dika...
-25 November 2026
- Pemerintahan
- Lantik Ratusan Guru Penugasan Sebagai Kepala Sekolah. Mas Rusdi : Kalau Ada Persoalan, Sampaikan Langsung. Bisa ke Dispendik, Command Center 112 atau Langsung ke Saya
- Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima surat keputusa...
-23 November 2026
- Pemerintahan
-Kategori
-Agrowisata
-Bantuan
-Budaya
-Ekonomi
-Kepegawaian
-Kesehatan
-Lingkungan
-Nasionalisme
-Olahraga
-Pariwisata
-Pelayanan Publik
-Pemerintahan
-Pendidikan
-Politik
-Umum
-Wisata Budaya 
- Home
- Profil
- Profil Daerah
- Arti Lambang
- Peta Pasuruan
- Visi dan Misi
- Sejarah Kabupaten Pasuruan
- Gambaran Umum Kabupaten Pasuruan
- Pimpinan Daerah
- Bupati & Wakil Bupati
- Lembaga Legislatif
- Lembaga Eksekutif
- Perangkat Daerah
- Layanan
- Kependudukan
- Perizinan & Investasi
- Perpajakan & Retribusi
- Kesehatan
- Pendidikan
- Transportasi dan Perhubungan
- Perikanan
- Keolahragaan
- Tanaga Kerja
- Lingkungan Hidup & Persampahan
- Informasi
- Berita
- Agenda
- Galeri
- Galeri Foto
- Galeri Video
- PPID
- Jelajah
- Fasilitas Umum
- Potensi Daerah
- Kontak
 
-## https://pasuruankab.go.id/berita/terima-hibah-tanah-10-hektar-pemkab-pasuruan-bakal-bangun-sport-center-di-kejayan
-STATUS 200
-JUDUL: Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
-TGL_META: 
-OG_IMAGE: https://pasuruankab.go.id/download-image/terima-hibah-tanah-10-hektar-pemkab-pasuruan-bakal-bangun-sport-center-di-kejayan/posts/tumbnail
-GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6ImtTQm5nNVFVMTNvUFdiV21mMXR2VkE9PSIsInZhbHVlIjoieUNoaHNhTG9qNVB6UWd1Zzl1QjZMQT09IiwibWFjIjoiYjdhZmJhYTM1MTFlZjdmYjAzMTk0YmNkOTYwMGJjNjZmMjZmMTI2ZTg0NGJhNGIwYmIwYjBiYzc2NGRiYjQxYSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InFzMlI4ejlnek9UUFk5QWhNT1FJMGc9PSIsInZhbHVlIjoieFAvdEl5NlVMTkIxWXp0SCs4QVd5Zz09IiwibWFjIjoiY2UzYmNjNzBlNTJlNjA3OGQzMzc4ZWY4OThjNzUzYjhiNGZkZWNjOTQwN2VhODlhYmJkMjFlODY5ZDI2ZDA5YiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlNEczVibHNmMXJNQkVNRmlIL1A4K0E9PSIsInZhbHVlIjoiZi9FY0hmanZQbVl4bjRGSnFkZEZIUT09IiwibWFjIjoiMWY3OTY1NGU3NDE5M2Y5YjRlNjllMWE1ZDljMjQ1MDMzMjgwYjEyNzZlOWQ5NzUxNmM5NDMzOTI3ZGNkMzY1OSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ijl2b3V2Z2gzUUkxS2wza2xRVXR5T2c9PSIsInZhbHVlIjoibmZwZVlJeldDMGRCY1VvZnBTNGhuZz09IiwibWFjIjoiZDMxNTJhNTVhNzQ1YWI3YmNkNGMzY2IzNWIzYjVhZDJhZjg5OTI3MjFmZmE3NjI5NDZhODQ4OGZjYTIwOGQyNCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImtBUGJRQit4ZzMrWDZzdzBWSmhyV0E9PSIsInZhbHVlIjoiNTcrZkRNV0VaME1JTFV6c0pSTVd1UT09IiwibWFjIjoiZTBmMTg2YjdjZTgyNzcxZmZmMWM3MGMwNDU5Mzk2YzAxNWY1YWViYTkwMjY3MGMxNWY3ZTZjNzM0NTJhYWJlZiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImEwelJSemFiZitaTE40emR1RjNYTGc9PSIsInZhbHVlIjoicmdMZVd6b1ZjSkJXKys2djQwTjJTUT09IiwibWFjIjoiNjFjNTc2YzM2MDI5MzU2MjAzNjM2MzBlY2QwMGFmOTE3NjM1YzIyYWU0Njk5MGY2OGFhNTViMzljNzcxM2VjOCIsInRhZyI6IiJ9/posts/gambar_posts/berita
-ISI:
-Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan | Website Pemerintah Kabupaten Pasuruan
- Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
-25 November 2026 (17:44)
-Olahraga
-54x Dilihat
-0 Komentar
-Emil Akbar
- E-Paper PDF
- E-Paper JPG
-Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatihan Olahraga.
-Wacana ini sepertinya akan terelasasi setelah pengusaha asal Kecamatan Kejayan, H Misbakhul Munir, menghibahkan tanah seluas 10 hektare kepada Pemerintah Kabupaten Pasuruan.
-Bupati Pasuruan Rusdi Sutejo membenarkan hal itu saat meninjau lokasi lahan yang akan dihibahkan tersebut, Selasa (24/11/2026).
-Menurutnya, lahan tersebut rencananya akan dimanfaatkan untuk membangun pusat olahraga yang menjadi tempat latihan. Di sisi lain, Sport Center ini juga akan menjadi tempat pembinaan atlet asli Kabupaten Pasuruan dari berbagai cabang olahraga unggulan.
-"Jadi akan kita bangun pusat olahraga. Selain menjadi tempat latihan, sport center ini juga bisa jadi fasilitas olahraga yang bisa dimanfaatkan masyarakat,” kata Bupati melalui sambungan selulernya, Rabu (25/11/2026).
-Mas Rusdi, sapaan akrabnya menyebut, sport center ini diharapkan dapat memperkuat pembinaan olahraga daerah.
-“Karena di sini pusatnya, ya mudah-mudahan bisa semakin menguatkan yang namanya pembinaan olahraga. Terutama olahraga unggulan," imbuhnya. 
-Sementara itu, Khoirul Anam, putra H Misbakhul Munir, mengatakan, hibah tanah tersebut merupakan bentuk kepedulian dan kecintaan keluarganya terhadap Kabupaten Pasuruan.
-Menurutnya, sang ayah ingin memberikan kontribusi nyata bagi pembangunan daerah.
-Salah satu yang dilakukan adalah penyediaan lahan untuk pembangunan stadion bertaraf nasional dan kawasan sport center.
-“Abah Munir ingin memberi kontribusi nyata bagi pembangunan daerah, khususnya melalui pembangunan stadion bertaraf nasional dan sport center yang nantinya dapat dinikmati oleh seluruh masyarakat,” ujar Anam, sapaan akrabnya.
-Ia berharap, hibah tersebut tidak hanya menjadi bagian dari pembangunan infrastruktur olahraga, tetapi juga menjadi warisan yang memberikan manfaat bagi generasi mendatang.
-Khoirul menilai, keberhasilan seseorang tidak hanya dilihat dari apa yang dimiliki, tetapi juga dari seberapa besar manfaat yang bisa diberikan kepada masyarakat.
-“Harapan kami, hibah ini menjadi warisan manfaat bagi generasi mendatang. Karena bagi kami, keberhasilan bukan hanya tentang apa yang kita miliki, tetapi juga tentang seberapa besar manfaat yang bisa kita berikan kepada masyarakat,” katanya.
-Melalui hibah itu, ia berharap pembangunan sport center dapat menjadi salah satu langkah untuk mendukung kemajuan olahraga.
-“Semoga ini juga bisa mewujudkan Kabupaten Pasuruan yang maju, sejahtera, dan berkeadilan,” tutup dia. (emil)
-Bagikan :
-10
-9
-Ringkasan AI 
-Beta
- Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
- penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
- keakuratan sepenuhnya.
- Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
- Generate Ringkasan oleh AI 
- Komentar
- Belum ada komentar. Jadilah yang pertama berkomentar!
-Tinggalkan Komentar:
-Berita Lainnya
- Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
- Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengurusan yang...
-25 November 2026
- Pemerintahan
- Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
- Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatihan Olahrag...
-25 November 2026
- Olahraga
- Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
- Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pasuruan men...
-25 November 2026
- Pemerintahan
- Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
- Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pasuruan dika...
-25 November 2026
- Pemerintahan
- Lantik Ratusan Guru Penugasan Sebagai Kepala Sekolah. Mas Rusdi : Kalau Ada Persoalan, Sampaikan Langsung. Bisa ke Dispendik, Command Center 112 atau Langsung ke Saya
- Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima surat keputusa...
-23 November 2026
- Pemerintahan
-Kategori
-Agrowisata
-Bantuan
-Budaya
-Ekonomi
-Kepegawaian
-Kesehatan
-Lingkungan
-Nasionalisme
-Olahraga
-Pariwisata
-Pelayanan Publik
-Pemerintahan
-Pendidikan
-Politik
-Umum
-Wisata Budaya 
- Home
- Profil
- Profil Daerah
- Arti Lambang
- Peta Pasuruan
- Visi dan Misi
- Sejarah Kabupaten Pasuruan
- Gambaran Umum Kabupaten Pasuruan
- Pimpinan Daerah
- Bupati & Wakil Bupati
- Lembaga Legislatif
- Lembaga Eksekutif
- Perangkat Daerah
- Layanan
- Kependudukan
- Perizinan & Investasi
- Perpajakan & Retribusi
- Kesehatan
- Pendidikan
- Transportasi dan Perhubungan
- Perikanan
- Keolahragaan
- Tanaga Kerja
- Lingkungan Hidup & Persampahan
- Informasi
- Berita
- Agenda
- Galeri
- Galeri Foto
- Galeri Video
- PPID
- Jelajah
- Fasilitas Umum
- Potensi Daerah
- Kontak
 
-## https://pasuruankab.go.id/berita/antisipasi-kenaikan-harga-sembako-jelang-nataru-pemkab-pasuruan-gelar-hlm-tpid-dan-tp2dd
-STATUS 200
-JUDUL: Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
-TGL_META: 
-OG_IMAGE: https://pasuruankab.go.id/download-image/antisipasi-kenaikan-harga-sembako-jelang-nataru-pemkab-pasuruan-gelar-hlm-tpid-dan-tp2dd/posts/tumbnail
-GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IkRzS0NrMFpSQ2xmSmVlaVNwbXRqZXc9PSIsInZhbHVlIjoieE1rRWhHdlAvM1c1OHJmU1B4U0ZnUT09IiwibWFjIjoiNTk2YWQyMzU3ODMzOGI2ZmIwODk0ZWFiM2NiMDNjOTE2YTMyM2E2Y2VjMTIzOWMxNjM1MGI0OGE5Njc3Y2EzYyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IldyUkRqeERDUUk2ZzQra29MYVZzT0E9PSIsInZhbHVlIjoiRmtaaW9rZXRtNTRZTXBPTTcrRFNGZz09IiwibWFjIjoiZGZhOTc2ZDU4Y2ExODkwZTQyMzE0MzIwNGUyZTdkNzZlOTI0ZWEwMWJiZWY3MThmNzM3ZGY2NGY4MGVhMWJjYyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlBBa1dyQ2xSRGhZOWZMeHBGaFhxd2c9PSIsInZhbHVlIjoiekJuNkswRXNaVnZkMElVOTVRd1N4QT09IiwibWFjIjoiNGZjMmY1NDZiODJjZWExZTIyZjg1MjJlNDdlNzI0ZDM0Mjk0ZjdmMzhlNWVkZjU5ZDIxZjI1MTJmNjMwZmU1MCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Im5FdGc4bWZSbkdsWGZ4NmY5N1NZWkE9PSIsInZhbHVlIjoiaEIvaEd4M01HMVVnWU9QYTIyMjBCdz09IiwibWFjIjoiM2Y0M2ZkNzVlMDU1YzJjOGQyZDY1YzBhNjk3ZmRjY2YxMjFhNDFiOWEwYTBlNDUxODQ1OWFkYmE3ZTEwNDQ0OSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjRyTzdYdkdWcGJxcnNxdGNLeWZqSkE9PSIsInZhbHVlIjoiS0l4N1hvZGRHTUlUUFcya3NYNFVkZz09IiwibWFjIjoiMjU3MGQ3NmU2MzUzZmQ1YzIxMGI3MTY3MmY1NGNkNWYyM2EzNWQ1NmM0YzIyODM3ODBlMzcxOGJjZjA3OTJlZSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlNpVUNuY3dPYng0N0FOZkhxUG9RTlE9PSIsInZhbHVlIjoiUXNmaU1JbUxOMVZVQ3FUbmFMeW9SUT09IiwibWFjIjoiMWExNTVhNTQ5MzM1Yjk0Nzc2MmFhOGU1MDY0Yjc3YmVlYWE4ZTkyMzFiYzBhZjEzMWI1NTQ4NWI3NmY1Zjg0NSIsInRhZyI6IiJ9/posts/gambar_posts/berita
-ISI:
-Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD | Website Pemerintah Kabupaten Pasuruan
- Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
-25 November 2026 (16:36)
-Pemerintahan
-54x Dilihat
-0 Komentar
-Emil Akbar
- E-Paper PDF
- E-Paper JPG
-Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pasuruan menggelar High Level Meeting Tim Pengendalian Inflasi Daerah (TPID) dan Tim Percepatan dan Perluasan Digitalisasi Daerah (TP2DD).
-Acara ini digelar di Auditorium Mpu Sindok, Komplek Kantor Bupati Pasuruan, Rabu (25/11/2026) dan dibuka secara resmi oleh Wakil Bupati Pasuruan, Shobih Asrori.
-Sekretaris Daerah (Sekda) Kabupaten Pasuruan, Yudha Triwidya Sasongko dalam laporannya menjelaskan terkait perkembangan inflasi serta elektronifikasi transaksi pemerintah daerah Kabupaten Pasuruan selama tahun 2026.
-Secara umum, tren inflasi di Kabupaten Pasuruan sepanjang tahun 2026 berada dalam kondisi yang cukup aman, stabil dan terkendali.  Pada periode ini, Kabupaten Pasuruan mengalami deflasi sebanyak 19 minggu yang disebabkan oleh penurunan harga pada komponen harga bergejolak. 
-Komoditas yang memberikan andil deflasi sepanjang tahun 2026 di Kabupaten Pasuruan diantaranya beras, cabai rawit, cabai merah, telur ayam ras, daging ayam ras, dan bawang merah.
-"Penurunan harga sejumlah komoditas pangan tersebut didorong oleh masih berlangsungnya musim panen di sejumlah daerah sentra produksi serta ketersediaan yang melimpah," katanya.
-Tak hanya deflasi, Sekda Yudha juga memaparkan terkait pada periode yang sama, Kabupaten Pasuruan yang juga mengalami inflasi sampai sebanyak 23 minggu.
-Menurutnya, komoditas yang memberikan andil inflasi sepanjang tahun 2026 di Kabupaten Pasuruan meliputi beras, cabai rawit, cabai merah, bawang merah, bawang putih, minyak goreng, telur ayam ras, daging ayam ras, dan daging sapi.
-"Pada dasarnya inflasi disebabkan meningkatnya permintaan menjelang HBKN, anomali iklim yang dapat menyebabkan gagal panen terutama komoditas hortikultura, kenaikan biaya produksi seperti biaya bibit, pupuk, dan pakan ternak, serta dinamika global masih membayangi rantai pasok dunia yang berdampak pada biaya impor bahan baku dan energi," imbuhnya.
-Sementara itu, Wakil Bupati Pasuruan, Shobih Asrori dalam sambutannya mengatakan sesuai dengan tema yang diusung dalam rakor ini yakni ”merajut sinergi dalam stabilitas harga serta digitalisasi keuangan daerah untuk pertumbuhan ekonomi Kabupaten Pasuruan yang berkelanjutan”, merupakan cerminan arah kebijakan dan komitmen bersama dalam menjaga ketahanan ekonomi daerah di tengah dinamika global maupun domestik.
-Oleh sebab itu, melalui forum HLM ini, ia mengajak seluruh pemangku kepentingan untuk menyatukan langkah, menyelaraskan program kerja, dan melahirkan rekomendasi taktis yang solutif demi terwujudnya ekonomi kabupaten pasuruan yang tangguh, maju, dan berkelanjutan.
- "Kata kunci dari tema kita hari ini adalah ”merajut sinergi”. Artinya Pemerintah kabupaten pasuruan tidak dapat berjalan sendiri. Dukungan penuh dari bank indonesia, bulog, BPS, jajaran forkopimda, instansi vertikal, perbankan, hingga pelaku usaha adalah energi utama agar setiap 5 kebijakan yang rumuskan benar-benar berdampak nyata. Melalui forum high level meeting," jelasnya. 
-Di hadapan para undangan, pria yang akrab disapa Gus Shobih ini menegaskan bahwa adanya forum ini tak lain sebagai upaya memperkuat kolaborasi nyata, menjaga pasokan dan distribusi komoditas utama agar fluktuasi harga dapat ditekan sejak dini serta perkuat komunikasi publik agar informasi harga dan kebijakan pemerintah tersampaikan secara jelas dan menenangkan masyarakat.
-"Melalui forum ini, kami mengajak seluruh perangkat daerah, instansi vertikal, pelaku usaha dan perbankan untuk memperkuat kolaborasi nyata. Dengan sinergi yang konsisten, kami optimistis pertumbuhan ekonomi Kabupaten Pasuruan dapat terus terjaga secara inklusif dan berkelanjutan," tegasnya. (emil)
-Bagikan :
-9
-11
-Ringkasan AI 
-Beta
- Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
- penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
- keakuratan sepenuhnya.
- Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
- Generate Ringkasan oleh AI 
- Komentar
- Belum ada komentar. Jadilah yang pertama berkomentar!
-Tinggalkan Komentar:
-Berita Lainnya
- Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
- Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengurusan yang...
-25 November 2026
- Pemerintahan
- Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
- Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatihan Olahrag...
-25 November 2026
- Olahraga
- Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
- Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pasuruan men...
-25 November 2026
- Pemerintahan
- Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
- Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pasuruan dika...
-25 November 2026
- Pemerintahan
- Lantik Ratusan Guru Penugasan Sebagai Kepala Sekolah. Mas Rusdi : Kalau Ada Persoalan, Sampaikan Langsung. Bisa ke Dispendik, Command Center 112 atau Langsung ke Saya
- Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima surat keputusa...
-23 November 2026
- Pemerintahan
-Kategori
-Agrowisata
-Bantuan
-Budaya
-Ekonomi
-Kepegawaian
-Kesehatan
-Lingkungan
-Nasionalisme
-Olahraga
-Pariwisata
-Pelayanan Publik
-Pemerintahan
-Pendidikan
-Politik
-Umum
-Wisata Budaya 
- Home
- Profil
- Profil Daerah
- Arti Lambang
- Peta Pasuruan
- Visi dan Misi
- Sejarah Kabupaten Pasuruan
- Gambaran Umum Kabupaten Pasuruan
- Pimpinan Daerah
- Bupati & Wakil Bupati
- Lembaga Legislatif
- Lembaga Eksekutif
- Perangkat Daerah
- Layanan
- Kependudukan
- Perizinan & Investasi
- Perpajakan & Retribusi
- Kesehatan
- Pendidikan
- Transportasi dan Perhubungan
- Perikanan
- Keolahragaan
- Tanaga Kerja
- Lingkungan Hidup & Persampahan
- Informasi
- Berita
- Agenda
- Galeri
- Galeri Foto
- Galeri Video
- PPID
- Jelajah
- Fasilitas Umum
- Potensi Daerah
- Kontak
+## DAFTAR https://sidoarjokab.go.id/
+STATUS 403 
 
-## https://pasuruankab.go.id/berita/pemkab-pasuruan-sampaikan-terima-kasih-semua-pihak-tuntaskan-penanganan-banjir-di-dusun-madulegi-desa-plintahan-pandaan
-STATUS 200
-JUDUL: Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
-TGL_META: 
-OG_IMAGE: https://pasuruankab.go.id/download-image/pemkab-pasuruan-sampaikan-terima-kasih-semua-pihak-tuntaskan-penanganan-banjir-di-dusun-madulegi-desa-plintahan-pandaan/posts/tumbnail
-GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6Ii9lcVVjYTk2K2hWenVVejk5Sk1SZkE9PSIsInZhbHVlIjoiZVRkQ0FCc05wTkc3QUx4cGQwYytHZz09IiwibWFjIjoiMjczZjUzNzUzYWM5Mjc5MGUxNTE1MjFhNGJlYjBkODIwOWMzNmI0NzU5NWE1ZmI2MzllYTExMmMyNjU1Y2U5NyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InhJRXNVUGoxUjluK0NTRFd5T0Y0QWc9PSIsInZhbHVlIjoiaWZ5SFVGZTZKNGkyaEJtVUV4Sm5sUT09IiwibWFjIjoiMGViOWM1NzVkZTZiNWYzY2Y4MTdkYjViYmQxYjA4OGI0NmQ0YzU0NTk2ZTA2NjdjOTU5MGI3OTRlZTQwY2MzMSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjhYRVJYYTVuanpuYXVIMENVMlNrMkE9PSIsInZhbHVlIjoiN2hzTXZ6ZXg0dUZWQjFHNHBXUHl1dz09IiwibWFjIjoiM2QxMjkwM2Y2OWZhOWMxMzg1ZGZkNjQyMDA3MzU5YThmNjAyNzcwYTEzMGQyY2Q1Njk4ODgwNmMwNTZjNmFkMyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlN5d05sRkRndDBTN0xISk0xOGNQb3c9PSIsInZhbHVlIjoiZWpLbWlTVnVRek5vdVVRdWkzYlB2Zz09IiwibWFjIjoiN2M5NmFkNjA3NGZhNjA5MTA4OTFkNTFmY2U5YTgwNjdkMTgzMmVkZmNmZmZkYzc3OGEzN2FjZDU0YzZjMzlmZSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Im1RNDhsVEkxZDI2aDd5aDU5ck10S3c9PSIsInZhbHVlIjoiTktESThvb01Na1lPUXI5QVdmSm1oUT09IiwibWFjIjoiNWZlNmE2OGRiYWJlYWM5YWI0NmIyMGVjNjlkODIwMTdjYWE0Y2EwMDZjYjBhZDdjOGQ3YjA0ZGRlMmY2YWFhOSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjBlNElOZTFyUHFibjFYcXZXTyttRWc9PSIsInZhbHVlIjoiYWRMMm5HL0lxQklobE9UazdTb3pVQT09IiwibWFjIjoiM2JkNzcxMjAwYzQwYzNhMzNlZmVkNWUxYmY1ZjgyZGQ1YmZlMTczNTU1YTRiOWUwYTAxOTg4ZDgwMTI3MDIxZiIsInRhZyI6IiJ9/posts/gambar_posts/berita
-ISI:
-Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan | Website Pemerintah Kabupaten Pasuruan
- Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
-25 November 2026 (11:53)
-Pemerintahan
-159x Dilihat
-0 Komentar
-Emil Akbar
- E-Paper PDF
- E-Paper JPG
-Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pasuruan dikagetkan dengan banjir kiriman bercampur lumpur, ranting, dan kayu yang terjadi pada Selasa (24/11/2026) sore kemarin.
-Banjir kiriman ini membuat Kali (sungai,red) Getih mengalami peningkatan debit air serta menyumbat aliran di bawah jembatan desa hingga air meluap ke jalan dan permukiman.
-Camat Pandaan, Timbul Wijoyo mengatakan, warga di sekitar lokasi kejadian mengaku kaget lantaran hari itu cuaca sedang cerah, tidak turun hujan sekalipun.  Diduga,  hujan deras terjadi di wilayah hulu dan membuat sejumlah material kayu dari pepohonan terbawa arus sampai ke bawah.
-"Kalau di TKP gak turun hujan sama sekali. Cuaca lagi cerah meski mendung sedikit. Tiba-tiba warga kaget karena ada banjir," kata Timbul melalui sambungan selulernya, Rabu (25/11/2026).
-Dijelaskan Timbul, luapan air berlangsung sekitar 30 menit. Dilaporkan, dua rumah warga terdampak lumpur dan material kayu, serta pagar tepi jembatan mengalami kerusakan/jebol.
-Beruntung, tidak ada korban jiwa, meski salah satu pemilik rumah mengalami lecet di bagian tangan dan kaki dan kondisinya baik-baik saja.
-"Salah satu pemilik rumah mengalami luka lecet tapi sudah membaik, sudah dirawat di Puskesmas dan dalam kondisi baik-baik saja," jelasnya. 
-Sebagai upaya penanganan, warga bersama relawan, BPBD Kabupaten Pasuruan, Polsek, dan Koramil Pandaan membantu pembersihan lumpur dan evakuasi barang warga.
-Termasuk pada malam hari, satu unit ekskavator dari BBWS juga dikerahkan ke lokasi.
-"Malam harinya, satu unit excavator dari BBWS datang ke lokasi. Alat berat itu didatangkan untuk melakukan evakuasi material yang tersumbat di jembatan," imbuhnya.
-Sementara itu, Sekretaris Daerah (Sekda) Kabupaten Pasuruan, Yudha Triwidya Sasongko menegaskan bahwa pasca kejadian, Bupati Pasuruan, Rusdi Sutejo mengintruksikan seluruh Organisasi Perangkat Daerah (OPD) terkait untuk berkolaborasi dalam menangani kejadian alam ini. 
-Tak lupa, ia menyampaikan apresiasi dan terima kasih kepada semua pihak yang telah bekerja sama dalam melakukan penanganan pasca bencana di Dusun Madulegi sampai akses transportasi dan lalu lintas dapat kembali normal seperti sedia kala.  Terutama membantu melakukan evakuasi endapan lumpur yang ada di dua rumah warga, di jalan hingga jembatan.
-"Kami sampaikan apresiasi kepada jajaran perangkat daerah. Mulai BPBD, Bina Marga, SDA, DLH, Damkar berikut jajaran Muspika Pandaan serta lapisan masyarakat atas laporan yang disampaikan sekaligus bahu membahu dalam melakukan gotong royong pembersihan sisa material banjir," tegasnya. (emil)
-Bagikan :
-13
-10
-Ringkasan AI 
-Beta
- Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
- penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
- keakuratan sepenuhnya.
- Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
- Generate Ringkasan oleh AI 
- Komentar
- Belum ada komentar. Jadilah yang pertama berkomentar!
-Tinggalkan Komentar:
-Berita Lainnya
- Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pembangunan di Kabupaten Pasuruan
- Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengurusan yang...
-25 November 2026
- Pemerintahan
- Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Bakal Bangun Sport Center di Kejayan
- Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatihan Olahrag...
-25 November 2026
- Olahraga
- Antisipasi Kenaikan Harga Sembako Jelang Nataru, Pemkab Pasuruan Gelar HLM TPID dan TP2DD
- Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pasuruan men...
-25 November 2026
- Pemerintahan
- Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak Tuntaskan Penanganan Banjir di Dusun Madulegi, Desa Plintahan, Pandaan
- Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pasuruan dika...
-25 November 2026
- Pemerintahan
- Lantik Ratusan Guru Penugasan Sebagai Kepala Sekolah. Mas Rusdi : Kalau Ada Persoalan, Sampaikan Langsung. Bisa ke Dispendik, Command Center 112 atau Langsung ke Saya
- Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima surat keputusa...
-23 November 2026
- Pemerintahan
-Kategori
-Agrowisata
-Bantuan
-Budaya
-Ekonomi
-Kepegawaian
-Kesehatan
-Lingkungan
-Nasionalisme
-Olahraga
-Pariwisata
-Pelayanan Publik
-Pemerintahan
-Pendidikan
-Politik
-Umum
-Wisata Budaya 
- Home
- Profil
- Profil Daerah
- Arti Lambang
- Peta Pasuruan
- Visi dan Misi
- Sejarah Kabupaten Pasuruan
- Gambaran Umum Kabupaten Pasuruan
- Pimpinan Daerah
- Bupati & Wakil Bupati
- Lembaga Legislatif
- Lembaga Eksekutif
- Perangkat Daerah
- Layanan
- Kependudukan
- Perizinan & Investasi
- Perpajakan & Retribusi
- Kesehatan
- Pendidikan
- Transportasi dan Perhubungan
- Perikanan
- Keolahragaan
- Tanaga Kerja
- Lingkungan Hidup & Persampahan
- Informasi
- Berita
- Agenda
- Galeri
- Galeri Foto
- Galeri Video
- PPID
- Jelajah
- Fasilitas Umum
- Potensi Daerah
- Kontak
+## DAFTAR https://mojokertokab.go.id/list-berita
+STATUS 0 GAGAL: ReadTimeout: HTTPSConnectionPool(host='mojokertokab.go.id', port=443): Read timed out. (read timeout=20)
 
-## https://sumenepkab.go.id/berita/baca/bupati-sumenep-dukung-raperda-trantibum-usulan-dprd-minta-libatkan-semua-pemangku-kepentingan
+## DAFTAR https://kedirikota.go.id/kategori/berita/1
 STATUS 200
-JUDUL: Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan
-TGL_META: 
-OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/2c3f2981e3b56cf197de52aa2c5cf5e627d58677.jpg
-GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/2c3f2981e3b56cf197de52aa2c5cf5e627d58677.jpg | https://sumenepkab.go.id/uploads/images/news_news/1061c2898108632966da4fac9b9aa817b1844a47.jpg | https://sumenepkab.go.id/uploads/images/news_news/2c3f2981e3b56cf197de52aa2c5cf5e627d58677.jpg | https://sumenepkab.go.id/uploads/images/news_news/69aa9faa2c241c04bdfcf57af06ce0dab8760bb0.jpg | https://sumenepkab.go.id/uploads/images/news_news/b350dc3e8d872b4f19f122da210590b27e00d21c.jpg | https://sumenepkab.go.id/uploads/images/news_news/63ba71cb46c70edc44e378dec89273b9b3848dd4.jpg
-ISI:
-Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan | Kabupaten Sumenep
-ADMIN
-25-11-2026
-120 Kali
-Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan
-Media Center, Rabu ( 25/11 ) Bupati Sumenep Achmad Fauzi Wongsojudo melalui Sekretaris Daerah Kabupaten (Sekdakab) Sumenep, Agus Dwi Saputra, menyampaikan Pendapat Bupati atas Rancangan Peraturan Daerah (Raperda) usul prakarsa DPRD Kabupaten Sumenep tentang Penyelenggaraan Ketenteraman dan Ketertiban Umum (Trantibum) serta Perlindungan Masyarakat.
-Pendapat Bupati tersebut disampaikan dalam Rapat Paripurna DPRD Kabupaten Sumenep yang dipimpin Ketua DPRD Sumenep H. Zainal Arifin, di Ruang Rapat Graha Paripurna DPRD, Rabu (25/11/2026).
-Rapat paripurna dihadiri pimpinan dan anggota DPRD, Forkopimda, Sekdakab Sumenep, staf ahli dan asisten Sekretaris Daerah, kepala Organisasi Perangkat Daerah (OPD), alim ulama, tokoh masyarakat, serta wartawan.
-Dalam pendapatnya, Bupati Achmad Fauzi Wongsojudo menegaskan, pada prinsipnya Pemerintah Kabupaten Sumenep mendukung Raperda tersebut dengan tetap mengacu pada ketentuan peraturan perundang-undangan yang lebih tinggi.
-“Penyelenggaraan ketenteraman dan ketertiban umum serta perlindungan masyarakat merupakan urusan pemerintahan yang memiliki peran penting dalam menciptakan kondisi daerah yang aman, tertib, tenteram, dan kondusif, serta mendukung kelancaran penyelenggaraan pemerintahan, pembangunan, dan aktivitas sosial ekonomi masyarakat,” ujarnya.
-Bupati menilai, regulasi tersebut penting agar penyelenggaraan ketenteraman dan ketertiban umum serta perlindungan masyarakat di daerah memiliki landasan hukum yang kuat, memberikan kepastian hukum dalam pelaksanaan kewenangan pemerintah daerah, serta selaras dengan kebijakan nasional dan kebutuhan lokal.
-Sehubungan dengan itu, Pemerintah Kabupaten Sumenep memandang penyusunan Raperda perlu diarahkan untuk memperjelas ruang lingkup penyelenggaraan ketenteraman dan ketertiban umum, serta perlindungan masyarakat, memperkuat koordinasi antarperangkat daerah dan instansi terkait, serta mendorong keterlibatan masyarakat secara proporsional sesuai ketentuan peraturan perundang-undangan.
-"Pemkab Sumenep juga berharap pembahasan Raperda dapat melibatkan berbagai pemangku kepentingan, baik perangkat daerah terkait, instansi vertikal, aparat penegak hukum, maupun unsur masyarakat," tandasnya.
-Hal ini mengingat materi muatan Raperda mencakup berbagai aspek penyelenggaraan pemerintahan dan kehidupan bermasyarakat yang memerlukan sinergi, koordinasi, serta pembagian peran dan tanggung jawab yang jelas antarpihak.
-Dengan demikian, substansi pengaturan yang dihasilkan diharapkan dapat disusun secara komprehensif, sesuai dengan kewenangan masing-masing, serta dapat dilaksanakan secara efektif dan berkelanjutan.
-Selain itu, Bupati Achmad Fauzi Wongsojudo menegaskan, setiap Raperda yang diusulkan DPRD maupun eksekutif wajib dilakukan harmonisasi, pembulatan, dan pemantapan konsepsi sesuai Pasal 58 Undang-Undang Nomor 13 Tahun 2022 tentang Perubahan Kedua atas Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan.
-Penyampaian Pendapat Bupati ini merupakan tahapan dalam pembahasan Raperda usul DPRD, sesuai Pasal 9 ayat (3) Peraturan Pemerintah Nomor 12 Tahun 2018 tentang Pedoman Penyusunan Tata Tertib DPRD Provinsi, Kabupaten dan Kota, yakni penjelasan pimpinan komisi, pimpinan gabungan komisi, pimpinan Bapemperda, atau pimpinan panitia khusus dalam rapat paripurna mengenai Raperda, pendapat kepala daerah terhadap Raperda, dan tanggapan dan/atau jawaban fraksi terhadap pendapat kepala daerah. ( Ren, Fer )
-Berita Terbaru
-25-11-2026
-Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan
-25-11-2026
-Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan
-25-11-2026
-Tanamkan Karakter Sejak Dini, Babinsa Giligenting Ajak Siswa SD Disiplin dan Cinta Lingkungan
-25-11-2026
-Peringati Hari Guru Nasional, MTs Al-Hasan Giligenting Tekankan Ketulusan Mendidik
-25-11-2026
-Kemkomdigi Tangani 67.578 Konten Penipuan Digital Sejak Oktober 2024
+- JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi | https://kedirikota.go.id/p/berita/10114236/jec-java-lengkapi-layanan-kesehatan-di-kediri-gus-qowim-tekankan-kolaborasi-dan-pelayanan-humanis | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Perkuat Pelaksanaan Pengarusutamaan Gender, Pemkot Kediri Optimalkan Peran Pokja dan Focal Point Pemerintah Kota Kediri melalui Dinas Pember | https://kedirikota.go.id/p/berita/10114246/perkuat-pelaksanaan-pengarusutamaan-gender-pemkot-kediri-optimalkan-peran-pokja-dan-focal-point | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Pemkot Kediri Gelar Sayembara Desain Monumen Ikon dan Lampu Hias Pedestrian Jalan Dhoho Bertema Dahanapura Pemerintah Kota Kediri membuka ke | https://kedirikota.go.id/p/berita/10114240/pemkot-kediri-gelar-sayembara-desain-monumen-ikon-dan-lampu-hias-pedestrian-jalan-dhoho-bertema-dahanapura | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Pemkot Kediri Sosialisasikan PP Nomor 33 Tahun 2026, Masyarakat Diimbau Lebih Bijak Membagikan Data Pribadi di Ruang Digital Pemerintah Kota | https://kedirikota.go.id/p/berita/10114239/pemkot-kediri-sosialisasikan-pp-nomor-33-tahun-2026-masyarakat-diimbau-lebih-bijak-membagikan-data-pribadi-di-ruang-digital | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Tingkatkan Kompetensi ASN, Pemkot Kediri Gelar Pelatihan dan Uji Kompetensi PBJ Level 1 Pemerintah Kota Kediri melalui Bagian Pengadaan Bara | https://kedirikota.go.id/p/berita/10114242/tingkatkan-kompetensi-asn-pemkot-kediri-gelar-pelatihan-dan-uji-kompetensi-pbj-level-1 | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Kenalkan Sejarah dan Budaya Sejak Dini, Pemkot Kediri Manfaatkan Museum sebagai Ruang Belajar Upaya menumbuhkan kecintaan generasi muda terh | https://kedirikota.go.id/p/berita/10114241/kenalkan-sejarah-dan-budaya-sejak-dini-pemkot-kediri-manfaatkan-museum-sebagai-ruang-belajar | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Kota Kediri Siap Jadi Tuan Rumah Porprov Jatim XI Tahun 2029, Bidik Lahirnya Atlet Berprestasi dan Dampak Ekonomi Kota Kediri menyatakan kes | https://kedirikota.go.id/p/berita/10114237/kota-kediri-siap-jadi-tuan-rumah-porprov-jatim-xi-tahun-2029-bidik-lahirnya-atlet-berprestasi-dan-dampak-ekonomi | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Turnamen Sepak Bola Wali Kota Cup U-12, Mbak Wali Dukung Penjaringan Bibit Atlet Sejak Dini Turnamen Sepak Bola Piala Wali Kota Cup U-12 SD/ | https://kedirikota.go.id/p/berita/10114231/turnamen-sepak-bola-wali-kota-cup-u-12-mbak-wali-dukung-penjaringan-bibit-atlet-sejak-dini | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Pemkot Kediri Perkuat Kesejahteraan Warga melalui Bantuan Pangan dan Perbaikan Fasilitas Pendidikan serta Kesehatan Penurunan angka kemiskin | https://kedirikota.go.id/p/berita/10114230/pemkot-kediri-perkuat-kesejahteraan-warga-melalui-bantuan-pangan-dan-perbaikan-fasilitas-pendidikan-serta-kesehatan | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
+- Wujudkan Kota Sehat, Pemkot Kediri Perkuat Partisipasi Masyarakat Lewat MAPAN BESTARI Mewujudkan Kota Kediri sebagai Kota Sehat membutuhkan  | https://kedirikota.go.id/p/berita/10114229/wujudkan-kota-sehat-pemkot-kediri-perkuat-partisipasi-masyarakat-lewat-mapan-bestari | List (7186) Kategori berita JEC Java Lengkapi Layanan Kesehatan di Kediri, Gus Qowim Tekankan Kolaborasi dan Pelayanan Humanis Klinik Utama Mata JEC Java @ Kediri resmi hadir di Jalan Diponegoro Nomor 6 Kota Kediri. Pere
 
-## https://sumenepkab.go.id/berita/baca/menteri-pertanian-tegaskan-bantuan-peralatan-pertanian-tidak-boleh-diperjualbelikan
-STATUS 200
-JUDUL: Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan
-TGL_META: 
-OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/1061c2898108632966da4fac9b9aa817b1844a47.jpg
-GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/1061c2898108632966da4fac9b9aa817b1844a47.jpg | https://sumenepkab.go.id/uploads/images/news_news/1061c2898108632966da4fac9b9aa817b1844a47.jpg | https://sumenepkab.go.id/uploads/images/news_news/2c3f2981e3b56cf197de52aa2c5cf5e627d58677.jpg | https://sumenepkab.go.id/uploads/images/news_news/69aa9faa2c241c04bdfcf57af06ce0dab8760bb0.jpg | https://sumenepkab.go.id/uploads/images/news_news/b350dc3e8d872b4f19f122da210590b27e00d21c.jpg | https://sumenepkab.go.id/uploads/images/news_news/63ba71cb46c70edc44e378dec89273b9b3848dd4.jpg
-ISI:
-Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan | Kabupaten Sumenep
-ADMIN
-25-11-2026
-215 Kali
-Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan
-Media Center, Rabu ( 25/11 ) Seluruh bantuan peralatan pertanian yang disalurkan pemerintah kepada kelompok tani maupun masyarakat tidak boleh diperjualbelikan, karena bantuannya merupakan fasilitas untuk kepentingan petani bukan barang dagangan atau dimanfaatkan demi keuntungan pribadi.
-Menteri Pertanian Republik Indonesia, Andi Amran Sulaiman, mengatakan, pemerintah memberikan bantuan bagi petani, guna mendukung peningkatan produktivitas pertanian, memperkuat ketahanan pangan, serta meningkatkan kesejahteraan masyarakat.
-“Bantuan pemerintah untuk sektor pertanian, mulai dari traktor, pompa air hingga benih, diberikan secara gratis kepada masyarakat, khususnya petani,” kata Andi Amran Sulaiman di sela-sela kegiatannya, di Kecamatan Dasuk, Rabu (25/11/2026).
-Seluruh kelompok tani atau masyarakat penerima bantuan tidak memperjualbelikannya, tetapi harus mememanfaatkannya sesuai peruntukannya, sehingga tidak boleh ada pihak yang mengambil keuntungan pribadi sarana pendukung kegiatan pertanian dengan memperjualbelikan.
-“Bantuan pemerintah diberikan untuk membantu petani, bukan untuk diperjualbelikan, jadi saya tegaskan tidak boleh ada praktik jual beli bantuan peralatan pertanian,” tegasnya.
-Menteri Pertanian Republik Indonesia, Andi Amran Sulaiman dalam kunjungan ke Kabupaten Sumenep menyerahkan bantuan pangan, serta memberikan bantuan berupa 14 ribu bibit padi, 10 unit pompa air, dan 11 unit hand tractor untuk mendukung kegiatan pertanian masyarakat.
-Pihaknya meminta agar pihak-pihak yang terbukti memperjualbelikan bantuan pemerintah dilakukan proses secara hukum dan dijatuhi hukuman seberat-beratnya, apabila menemukannya di Kabupaten Sumenep.
-“Pemerintah terus hadir membantu petani melalui berbagai program dukungan sarana dan prasarana pertanian, tetapi seluruh penerima menjaga amanah dengan tidak menyalahgunakan bantuannya,” ungkapnya.
-Menteri Pertanian menyatakan, seluruh penerima bantuan memiliki tanggung jawab dalam menjaga dan merawat peralatannya, supaya fasilitasnya bisa memberikan manfaat secara optimal dan berkelanjutan.
-“Kami ingin seluruh bantuan benar-benar dirasakan manfaatnya demi meningkatan kesejahteraan petani di Kabupaten Sumenep,” pungkasnya. ( Yasik, Fer )
-Berita Terbaru
-25-11-2026
-Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan
-25-11-2026
-Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan
-25-11-2026
-Tanamkan Karakter Sejak Dini, Babinsa Giligenting Ajak Siswa SD Disiplin dan Cinta Lingkungan
-25-11-2026
-Peringati Hari Guru Nasional, MTs Al-Hasan Giligenting Tekankan Ketulusan Mendidik
-25-11-2026
-Kemkomdigi Tangani 67.578 Konten Penipuan Digital Sejak Oktober 2024
+## DAFTAR https://madiunkota.go.id/kategori/berita
+STATUS 403 
 
-## https://sumenepkab.go.id/berita/baca/dandim-sumenep-turut-sambut-mentan-petani-terima-bantuan-benih-padi-dan-alsintan
-STATUS 200
-JUDUL: Dandim Sumenep Turut Sambut Mentan, Petani Terima Bantuan Benih Padi dan Alsintan
-TGL_META: 
-OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/9d7a1f998e62e7b6caf1d8c0b4df5685c6dcf7d5.jpg
-GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/9d7a1f998e62e7b6caf1d8c0b4df5685c6dcf7d5.jpg | https://sumenepkab.go.id/uploads/images/news_news/1061c2898108632966da4fac9b9aa817b1844a47.jpg | https://sumenepkab.go.id/uploads/images/news_news/2c3f2981e3b56cf197de52aa2c5cf5e627d58677.jpg | https://sumenepkab.go.id/uploads/images/news_news/69aa9faa2c241c04bdfcf57af06ce0dab8760bb0.jpg | https://sumenepkab.go.id/uploads/images/news_news/b350dc3e8d872b4f19f122da210590b27e00d21c.jpg | https://sumenepkab.go.id/uploads/images/news_news/63ba71cb46c70edc44e378dec89273b9b3848dd4.jpg
-ISI:
-Dandim Sumenep Turut Sambut Mentan, Petani Terima Bantuan Benih Padi dan Alsintan | Kabupaten Sumenep
-ADMIN
-25-11-2026
-106 Kali
-Dandim Sumenep Turut Sambut Mentan, Petani Terima Bantuan Benih Padi dan Alsintan
-Media Center, Rabu (25/11) Dukungan sektor pertanian di Kabupaten Sumenep, Jawa Timur, diperkuat melalui penyaluran bantuan benih padi dan alat mesin pertanian (alsintan) oleh Menteri Pertanian sekaligus Kepala Badan Pangan Nasional (Bapanas), Andi Amran Sulaiman, Rabu (25/11/2026).
-Kunjungan kerja di Desa Nyapar, Kecamatan Dasuk, juga disambut Dandim 0827/Sumenep Letkol Inf Citra Persada yang juga bersama Forkopimda, Sekretaris Daerah, organisasi perangkat daerah (OPD), dan instansi terkait.
-Dalam kesempatan itu, pemerintah menyalurkan bantuan benih padi untuk lahan seluas 14.000 hektar, 11 unit traktor, 11 unit pompa air, serta bantuan pangan beras bagi masyarakat.
-Menteri Pertanian juga didampingi Direktur Utama Perum BULOG Letjen TNI (Purn) Ahmad Rizal Ramdhani untuk meninjau penyaluran bantuan pangan periode Oktober hingga Desember 2026 guna memastikan bantuan diterima masyarakat yang berhak.
-Dalam komentarnya, Letkol Inf Citra Persada mengatakan, bantuan tersebut menjadi dorongan penting bagi petani untuk meningkatkan produktivitas, terutama saat memasuki masa tanam padi.
-“Ini merupakan bentuk perhatian pemerintah terhadap kebutuhan petani. Kami berharap bantuan benih dan alsintan dapat dimanfaatkan secara maksimal untuk mendukung peningkatan hasil pertanian di Sumenep,” ujar Citra saat diminta konfirmasinya.
-Menurutnya, keberhasilan program ketahanan pangan membutuhkan kerja sama seluruh pihak, mulai dari pemerintah, TNI, hingga masyarakat petani.
-“Sinergi harus terus diperkuat agar program pemerintah tidak hanya tersalurkan, tetapi juga benar-benar dirasakan manfaatnya oleh masyarakat,” tegasnya.
-Kegiatan dilanjutkan dengan dialog langsung Menteri Pertanian bersama petani dan warga untuk menyerap aspirasi serta mengetahui kendala yang dihadapi di lapangan. Ratusan masyarakat Desa Nyapar dan pengemudi ojek turut serta menyambut kedatangan rombongan.
-(Dim, Farhan)
-Berita Terbaru
-25-11-2026
-Menteri Pertanian Tegaskan Bantuan Peralatan Pertanian Tidak Boleh Diperjualbelikan
-25-11-2026
-Bupati Sumenep Dukung Raperda Trantibum Usulan DPRD, Minta Libatkan Semua Pemangku Kepentingan
-25-11-2026
-Tanamkan Karakter Sejak Dini, Babinsa Giligenting Ajak Siswa SD Disiplin dan Cinta Lingkungan
-25-11-2026
-Peringati Hari Guru Nasional, MTs Al-Hasan Giligenting Tekankan Ketulusan Mendidik
-25-11-2026
-Kemkomdigi Tangani 67.578 Konten Penipuan Digital Sejak Oktober 2024
+## DAFTAR https://www.jemberkab.go.id/category/berita-terbaru/
+STATUS 403 
 
-## https://pamekasankab.go.id/berita/1635/jaga-kondusivitas-daerah-wabup-sukriyanto-minta-kolaborasi-pemkab-dan-lapas-pamekasan-ditingkatkan
+## DAFTAR https://pamekasankab.go.id/berita
 STATUS 200
-JUDUL: Pemerintah Kabupaten Pamekasan
-TGL_META: 
-OG_IMAGE: https://pamekasankab.go.id/img-berita/511795083839.jpg
-GAMBAR: https://pamekasankab.go.id/img/lambang.jpg | https://pamekasankab.go.id//img-berita/511795083839.jpg | https://pamekasankab.go.id/img-berita/small_391795506781.jpg | https://pamekasankab.go.id/img-berita/small_51795415926.jpg | https://pamekasankab.go.id/img-berita/small_571795075023.jpg | https://pamekasankab.go.id/img-berita/small_881794462649.jpg | https://pamekasankab.go.id/img-berita/small_631793687430.jpg | https://pamekasankab.go.id/img-berita/small_611793687597.jpg
-ISI:
-Pemerintah Kabupaten Pamekasan
- diskominfo@pamekasankab.go.id
- Jl. Jokotole Gg IV No.01 Pamekasan, Jawa Timur.
-Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan
- Kamis, 19 November 2026 
- 212  
-Pamekasan – Wakil Bupati Pamekasan, Sukriyanto, mendorong penguatan kerja sama lintas instansi antara Pemerintah Kabupaten (Pemkab) Pamekasan dan jajaran Lembaga Pemasyarakatan (Lapas). Menurutnya, soliditas kedua lembaga menjadi fondasi penting dalam menjaga kondusivitas wilayah sekaligus mendukung kelancaran pembangunan daerah.
-Pesan tersebut disampaikan Sukriyanto saat menghadiri tasyakuran Hari Bakti Imigrasi dan Pemasyarakatan (Imipas) ke-2 Tahun 2026 di Lapas Kelas IIA Pamekasan, Kamis (19/11/2026). Dalam kesempatan itu, ia mengapresiasi hubungan harmonis yang selama ini telah terbangun dan berharap kemitraan tersebut semakin bertenaga.
-“Kami tidak henti-hentinya berharap kolaborasi dengan Lapas dan Kalapas ini harus tambah energi. Pamekasan teruslah bersinergi dan bersama-sama membangun kondusivitas ke depan,” ujar Sukriyanto.
-Ia menilai, keselarasan program antara pemerintah daerah dan institusi pemasyarakatan akan membuat pelayanan publik berjalan jauh lebih optimal. Terlebih, Lapas memegang peran strategis dalam membina warga binaan sebelum kembali ke tengah masyarakat, yang secara langsung turut menentukan stabilitas sosial di Pamekasan.
-Selain menyoroti sinergi kelembagaan, Sukriyanto juga menitipkan pesan khusus kepada jajaran pegawai yang menerima penghargaan dalam momentum Hari Bakti Imipas kali ini. Ia mengingatkan agar apresiasi tersebut tidak berhenti pada rasa bangga semata, melainkan dimaknai sebagai amanah untuk mendongkrak etos kerja.
-“Kepada yang menerima penghargaan, memang harus bangga. Akan tetapi, dengan penghargaan itu harus lebih bertanggung jawab, karena ini merupakan bentuk amanah dan pencapaian yang luar biasa,” tegasnya.
-Sukriyanto berharap jajaran Lapas Pamekasan terus merawat semangat pengabdian, meningkatkan mutu pembinaan, serta memastikan pemenuhan hak-hak warga binaan berjalan maksimal.
-Sebagai informasi, tasyakuran Hari Bakti Imipas ke-2 yang mengusung tema “Imipas Melayani, Tegas, Tulus Membina” ini turut dihadiri jajaran Kementerian Imigrasi dan Pemasyarakatan, Kepala Lapas Narkotika, perwakilan Balai Pemasyarakatan (Bapas), Ketua Pengadilan Negeri, Kepala Kejaksaan Negeri, perwakilan Polres Pamekasan, pemilik Ayunda, serta sejumlah tamu undangan lainnya.
-Peringatan ini diharapkan tidak sekadar menjadi agenda seremonial tahunan, tetapi juga menjadi titik tolak untuk mempererat koordinasi antar instansi demi mewujudkan Kabupaten Pamekasan yang aman, tertib, dan kondusif.
-Dokumentasi Kegiatan
- Sebelumnya
- HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan 
-Selanjutnya 
- Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim 
-BERITA LAINNYA
-Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat
- Selasa, 24 November 2026 
-Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim
- Senin, 23 November 2026 
-HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan
- Kamis, 19 November 2026 
-KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan 
- Kamis, 12 November 2026 
-Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingg
- Selasa, 03 November 2026 
-Wow! Malam Kemilau Madura Berlangsung Spektakuler
- Selasa, 03 November 2026 
-Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja
- Kamis, 29 Oktober 2026
+- Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat | https://pamekasankab.go.id/berita/1637/luncurkan-nutri-level-upaya-pemkab-pamekasan-tingkatkan-literasi-gizi-masyarakat | Luncurkan Nutri Level, Upaya Pemkab Pamekasan Tingkatkan Literasi Gizi Masyarakat Selasa, 24 November 2026 130 Pemkab Pamekasan- Dinas Kesehatan (Dinkes) Kabupaten Pamekasan, Madura, Jawa Timur meluncurkan program Nutri 
+- Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim | https://pamekasankab.go.id/berita/1636/pamekasan-sukses-jadi-tuan-rumah-hut-ke81-pgri-sejatim | Pamekasan Sukses jadi Tuan Rumah HUT ke-81 PGRI se-Jatim Senin, 23 November 2026 268 Pemkab Pamekasan- Perayaan hari ulang tahun (HUT) ke 81 Persatuan Guru Republik Indonesia (PGRI) se Jawa Timur yang berlokasi di Kabupa
+- Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan | https://pamekasankab.go.id/berita/1635/jaga-kondusivitas-daerah-wabup-sukriyanto-minta-kolaborasi-pemkab-dan-lapas-pamekasan-ditingkatkan | Jaga Kondusivitas Daerah, Wabup Sukriyanto Minta Kolaborasi Pemkab dan Lapas Pamekasan Ditingkatkan Kamis, 19 November 2026 238 Pamekasan – Wakil Bupati Pamekasan, Sukriyanto, mendorong penguatan kerja sama lintas instan
+- HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan | https://pamekasankab.go.id/berita/1634/hkn-2026-bupati-pamekasan--mantapkan-komitmen-membangun-sektor-kesehatan | HKN 2026, Bupati Pamekasan : Mantapkan Komitmen Membangun Sektor Kesehatan Kamis, 19 November 2026 202 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggelar upacara Hari Kesehatan Nasion
+- KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan | https://pamekasankab.go.id/berita/1633/ksad-dan-gubernur-jatim-hadiri-penutupan-tmmd-ke-130-di-pamekasan- | KSAD dan Gubernur Jatim Hadiri Penutupan TMMD ke 130 di Pamekasan Kamis, 12 November 2026 727 Pemkab Pamekasan- Penutupan TNI Manunggal Membangun Desa (TMMD) ke 130 yang berlangsung di Lapangan Nagara Bhakti Mandhapa Agh
+- Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian | https://pamekasankab.go.id/berita/1632/upacara-hari-jadi-ke496-pemkab-pamekasan-apresiasi-tokoh-penggerak-pendidikan-hingga-santunan-kematian | Upacara Hari Jadi ke-496, Pemkab Pamekasan Apresiasi Tokoh Penggerak Pendidikan hingga Santunan Kematian Selasa, 03 November 2026 584 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Madura, Jawa Timur menggela
+- Wow! Malam Kemilau Madura Berlangsung Spektakuler | https://pamekasankab.go.id/berita/1631/wow-malam-kemilau-madura-berlangsung-spektakuler | Wow! Malam Kemilau Madura Berlangsung Spektakuler Selasa, 03 November 2026 498 Pemkab Pamekasan- Event Malam Kemilau Madura yang bertempat di alun alun Monumen Arek Lancor Kabupaten Pamekasan, Jawa Timur berlangsung spek
+- Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja | https://pamekasankab.go.id/berita/1629/ayo-daftar-pamekasan-sediakan-1491-lapangan-kerja | Ayo Daftar! Pamekasan Sediakan 1.491 Lapangan Kerja Kamis, 29 Oktober 2026 611 Pemkab Pamekasan- Dinas Koperasi Usaha Kecil Menengah dan Tenaga Kerja (Diskop UKM dan Naker) Kabupaten Pamekasan, Madura, Jawa Timur menggel
+- Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura | https://pamekasankab.go.id/berita/1628/pemkab-pamekasan-apresiasi-sarasehan-budaya-dan-temu-tokoh-madura | Pemkab Pamekasan Apresiasi Sarasehan Budaya dan Temu Tokoh Madura Kamis, 29 Oktober 2026 529 Pemkab Pamekasan- Pemerintah Kabupaten (Pemkab) Pamekasan, Jawa Timur mengapresiasi pagelaran sarasehan budaya dan temu tokoh M
+- Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya | https://pamekasankab.go.id/berita/1627/gelar-lomba-pencak-silat-upaya-pemkab-pamekasan-dorong-kemajuan-olahraga-dan-budaya | Gelar Lomba Pencak Silat, Upaya Pemkab Pamekasan Dorong Kemajuan Olahraga dan Budaya Selasa, 27 Oktober 2026 466 Pemkab Pamekasan- Dinas Pendidikan dan Kebudayaan (Disdikbud) Pamekasan, Madura, Jawa Timur menggelar lomba
+
+## DAFTAR https://sumenepkab.go.id/berita
+STATUS 200
+- Babinsa Pasongsongan Bantu Warga Rehab Rumah | https://sumenepkab.go.id/berita/baca/babinsa-pasongsongan-bantu-warga-rehab-rumah | Babinsa Pasongsongan Bantu Warga Rehab Rumah 27-11-2026 18 kali Media Center, Jumat ( 27/11 ) Kepedulian TNI terhadap warga binaan kembali ditunjukkan Babinsa Koramil 0827/11 Pasongsongan. Babinsa Fendi turun langsung me
+- Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas | https://sumenepkab.go.id/berita/baca/jumat-berkah-kbs-sumenep-bagi-bagi-ratusan-nasi-bungkus-warga-melintas | Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas 27-11-2026 16 kali Media Center, Jumat ( 27/11 ) Komunitas Kita Berbagi Sosial (KBS) Sumenep kembali menebar kepedulian melalui aksi Jumat Berkah de
+- Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi | https://sumenepkab.go.id/berita/baca/ketua-tp-pkk-sumenep-ajak-masyarakat-perkuat-ketahanan-keluarga-dan-pemberdayaan-ekonomi | Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi 27-11-2026 118 kali Media Center, Jumat ( 27/11 ) Ketua Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga (TP-PKK) Kabupaten Su
+- Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan | https://sumenepkab.go.id/berita/baca/mutasi-pejabat-disdukcapil-sumenep-bupati-tekankan-peningkatan-kualitas-pelayanan | Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan 27-11-2026 396 kali Media Center, Jumat ( 27/11 ) Mutasi pejabat di lingkungan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabu
+- Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari | https://sumenepkab.go.id/berita/baca/bupati-sumenep-asn-jadikan-hidup-sehat-sebagai-gaya-hidup-sehari-hari | Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari 27-11-2026 354 kali Media Center, Jumat ( 27/11 ) Seluruh Aparatur Sipil Negara (ASN) di lingkungan Pemerintah Kabupaten Sumenep hendaknya membudayak
+- Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas | https://sumenepkab.go.id/berita/baca/bupati-sumenep-calon-kepala-sekolah-harus-miliki-kompetensi-kepemimpinan-dan-integritas | 23-11-2026 Bupati Sumenep: Calon Kepala Sekolah Harus Miliki Kompetensi Kepemimpinan dan Integritas
+- Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat | https://sumenepkab.go.id/berita/baca/bupati-sumenep-apresiasi-bakti-sosial-kesehatan-gigi-dorong-masyarakat-hidup-sehat | 21-11-2026 Bupati Sumenep Apresiasi Bakti Sosial Kesehatan Gigi, Dorong Masyarakat Hidup Sehat
+- Polsek Batuputih Kawal Program P2B, Bhabinkamtibmas Cek Lahan Jagung Warga Bantelan | https://sumenepkab.go.id/berita/baca/polsek-batuputih-kawal-program-p2b-bhabinkamtibmas-cek-lahan-jagung-warga-bantelan | 24-11-2026 Polsek Batuputih Kawal Program P2B, Bhabinkamtibmas Cek Lahan Jagung Warga Bantelan
+- Dukung Polri Ungkap 141 Tersangka Online Scamming Manila, Menkomdigi Meutya Hafid Perkuat Penanganan Kejahatan Digital | https://sumenepkab.go.id/berita/baca/dukung-polri-ungkap-141-tersangka-online-scamming-manila-menkomdigi-meutya-hafid-perkuat-penanganan-kejahatan-digital | 24-11-2026 Dukung Polri Ungkap 141 Tersangka Online Scamming Manila, Menkomdigi Meutya Hafid Perkuat Penanganan Kejahatan Digital
+
+## DAFTAR https://ngawikab.go.id/category/berita/
+STATUS 200
+- Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calon Dewan Pengawas Perusahaan Umum Daerah Air Minum Tirto Kertonegoro Kabupaten Ngawi | https://ngawikab.go.id/2025/10/31/pengumuman-hasil-seleksi-uji-kelayakan-dan-kepatutan-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirto-kertonegoro-kabupaten-ngawi/ | Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calon Dewan Pengawas Perusahaan Umum Daerah Air Minum Tirto Kertonegoro Kabupaten Ngawi Oct 31, 2025 | Berita Pengumuman Hasil Seleksi Uji Kelayakan dan Kepatutan Calo
+- RLPPD Kabupaten Ngawi Tahun Anggaran 2024 | https://ngawikab.go.id/2025/03/27/rlppd-kabupaten-ngawi-tahun-anggaran-2024/ | RLPPD Kabupaten Ngawi Tahun Anggaran 2024 Mar 27, 2025 | Berita Penyampaian Ringkasan Laporan Penyelenggaraan Pemerintahan Daerah merupakan kewajiban konstitusional Kepala Daerah yang tertuang dalam Pasal 69 ayat (1) Und
+- Gelar FKP, DPMPTSP Kabupaten Ngawi Berkomitmen Memberikan Pelayanan Yang Berkualitas Bagi Masyarakat | https://ngawikab.go.id/2024/12/09/gelar-fkp-dpmptsp-kabupaten-ngawi-berkomitmen-memberikan-pelayanan-yang-berkualitas-bagi-masyarakat/ | Gelar FKP, DPMPTSP Kabupaten Ngawi Berkomitmen Memberikan Pelayanan Yang Berkualitas Bagi Masyarakat Dec 9, 2024 | Berita Untuk mewujudkan pelayanan yang berkualitas bagi masyarakat, Dinas Penanaman Modal dan Pelayanan T
+- Workshop Peningkatan SDM Pertanian Ngawi | https://ngawikab.go.id/2024/09/04/worshop-peningkatan-sdm-pertanian-ngawi/ | Workshop Peningkatan SDM Pertanian Ngawi Sep 4, 2024 | Berita Guna tingkatkan Sumber Daya Manusia (SDM) Pertanian di Kabupaten Ngawi, Dinas Pertanian dan Ketahanan Pangan Kab Ngawi menggelar Workshop Peningkatan SDM Pert
+- Ngawi Terima Maskot Pilkada Serentak 2024 | https://ngawikab.go.id/2024/09/03/ngawi-terima-maskot-pilkada-serentak-2024/ | Ngawi Terima Maskot Pilkada Serentak 2024 Sep 3, 2024 | Bakohumas , Berita , Kabar Kita , Kabar Ngawi , Pemerintahan Komisi Pemilihan Umum (KPU) Ngawi terima Kirab Maskot Pilkada Serentak 2024 dari KPU Bojonegoro, Selasa
+- Ngawi Specta Carnival 2024 Gandeng Investor di Kabupaten Ngawi | https://ngawikab.go.id/2024/08/31/ngawi-specta-carnival-2024-gandeng-investor-di-kabupaten-ngawi/ | Ngawi Specta Carnival 2024 Gandeng Investor di Kabupaten Ngawi Aug 31, 2024 | Bakohumas , Berita , Kabar Kita , Kabar Ngawi , Pemerintahan Dikemas dengan sangat spektakuler pagelaran Ngawi Specta Carnival 2024 sukses dig
+- Instagram 13.4k Followers | https://www.instagram.com/ngawikab/ | 
+
+## DAFTAR https://pacitankab.go.id/category/pacitan-hari-ini
+STATUS 200
+- Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim | https://pacitankab.go.id/kabupaten-pacitan-raih-penghargaan-terbaik-kinerja-pembiayaan-umkm-prima-2026-dari-gubernur-jatim/ | 19 November 2026 Kabupaten Pacitan Raih Penghargaan Terbaik Kinerja Pembiayaan UMKM Prima 2026 Dari Gubernur Jatim Pemerintah Kabupaten Pacitan meraih penghargaan Terbaik dengan kategori Kinerja Pembiayaan UMKM Prima Tah
+- Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako | https://pacitankab.go.id/gelar-bakti-sosial-akademi-tni-dan-akpol-bagikan-5000-sembako/ | 9 November 2026 Gelar Bakti sosial Akademi TNI Dan Akpol Bagikan 5000 Sembako Mewakili Bupati Pacitan, Sekretaris Daerah (Sekda) Pacitan Heru Wiwoho hadir dalam acara bakti sosial dalam rangka latihan napak tilas rute ge
+- POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah | https://pacitankab.go.id/popda-jatim-2026-82-atlet-pacitan-bawa-misi-prestasi-dan-harga-diri-daerah/ | 5 November 2026 POPDA Jatim 2026, 82 Atlet Pacitan Bawa Misi Prestasi dan Harga Diri Daerah PACITAN– Sebanyak 82 atlet pelajar Kabupaten Pacitan resmi berangkat menuju Pekan Olahraga Pelajar Daerah (POPDA) Jawa Timur XV 
+- Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir | https://pacitankab.go.id/nyaman-jiwo-beachrun-pacitan-2026-bidik-1-000-pelari-hadirkan-pengalaman-berlari-di-jalur-pesisir/ | 27 Oktober 2026 Nyaman Jiwo Beachrun Pacitan 2026 Bidik 1.000 Pelari, Hadirkan Pengalaman Berlari di Jalur Pesisir PACITAN – Kabupaten Pacitan bersiap menjadi tuan rumah ajang lari trail bertaraf nasional melalui Nyaman 
+- Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu | https://pacitankab.go.id/jelang-revalidasi-unesco-2027-tiga-wilayah-perkuat-kolaborasi-pengelolaan-geopark-gunung-sewu/ | 24 Oktober 2026 Jelang Revalidasi UNESCO 2027, Tiga Wilayah Perkuat Kolaborasi Pengelolaan Geopark Gunung Sewu PACITAN – Pemerintah Kabupaten Pacitan bersama Kabupaten Wonogiri dan Kabupaten Gunungkidul memperkuat koordi
+- Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos | https://pacitankab.go.id/kunker-di-pacitan-gubernur-jatim-gelar-sapa-bansos/ | 22 Oktober 2026 Kunker Di Pacitan Gubernur Jatim Gelar Sapa Bansos Pacitan-Dalam rangka Hari Jadi ke-81 Provinsi Jawa Timur dan Hari Santri 2026 pemerintah Provinsi Jawa Timur menggelar Sapa Bansos di Kabupaten Pacitan. 
+- Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas | https://pacitankab.go.id/4507-2/ | 22 Oktober 2026 Dipusatkan di Pacitan Gubernur Jatim Pimpin Peringatan Hari Santri Di Pondok Tremas Pacitan-Peringatan Hari Santri tingkat Provinsi Jawa Timur tahun 2026 digelar di Kabupaten Pacitan. Gubernur Jawa Timur 
+- Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur | https://pacitankab.go.id/mengawali-kunker-di-pacitan-gubernur-jatim-resmikan-proyek-infrastruktur/ | 21 Oktober 2026 Mengawali Kunker Di Pacitan Gubernur Jatim Resmikan Proyek Infrastruktur Pacitan-Dalam rangkaian kunjungan kerja di Kabupaten Pacitan, Gubernur Jawa Timur Khofifah Indar Parawansa meresmikan sejumlah infr
+- Doa Bersama Untuk Keselamatan Bangsa Dan Negara | https://pacitankab.go.id/doa-bersama-untuk-keselamatan-bangsa-dan-negara/ | 20 Oktober 2026 Doa Bersama Untuk Keselamatan Bangsa Dan Negara Pacitan-Bupati Pacitan Indrata Nur Bayuaji menghadiri acara doa bersama yang digelar Kepolisian Resor (Polres) Pacitan di pendopo kabupaten. Kegiatan yang d
+
+## DAFTAR https://kabar.tulungagung.go.id/
+STATUS 200
+- Gerak Jalan Kreasi Napak Tilas Ketandan Bonorowo Semarakkan Hari Jadi ke-821 Tulungagung dan Hari Guru Nasional 2026 | https://kabar.tulungagung.go.id/gerak-jalan-kreasi-napak-tilas-ketandan-bonorowo-semarakkan-hari-jadi-ke-821tulungagung-dan-hari-guru-nasional-2026/ | 
+- Plt Bupati Tulungagung Buka Konsultasi Publik I RDTR Wilayah Perencanaan Ngunut, Besuki, dan Sendang | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-konsultasi-publik-i-rdtr-wilayah-perencanaan-ngunut-besukidan-sendang/ | 
+- Sirajapatni Gayatri Terpilih Sebagai Ikon Baru Tulungagung | https://kabar.tulungagung.go.id/sirajapatni-gayatri-terpilih-sebagai-ikon-baru-tulungagung/ | 
+- Plt. Bupati Tulungagung Pimpin Dialog Kinerja, Perkuat Sinkronisasi dan Akselerasi Pembangunan 2027 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-pimpin-dialog-kinerja-perkuat-sinkronisasi-dan-akselerasi-pembangunan-2027/ | 
+- Gebyar Undian Pajak Daerah 2026, Pemkab Tulungagung Apresiasi Wajib Pajak yang Taat | https://kabar.tulungagung.go.id/gebyar-undian-pajak-daerah-2026-pemkab-tulungagung-apresiasi-wajib-pajak-yang-taat/ | 
+- Pemkab dan DPRD Tulungagung Sepakati APBD Tahun 2027, Sejumlah Program Pemerintah Siap Digeber | https://kabar.tulungagung.go.id/pemkab-dan-dprd-tulungagung-sepakati-apbd-tahun-2027-sejumlah-program-pemerintah-siap-digeber/ | 
+- Pemkab Tulungagung Dukung Sensus Ekonomi 2026, 1.145 Petugas Sisir 143 Ribu Lebih Usaha di Tulungagung | https://kabar.tulungagung.go.id/pemkab-tulungagung-dukung-sensus-ekonomi-2026-1-145-petugas-sisir-143-ribu-lebih-usaha-di-tulungagung/ | 
+- TULUNGAGUNG PERCEPAT DIGITALISASI KEUANGAN DAERAH – SOSIALISASI ELEKTRONIFIKASI KEUANGAN DAERAH (EPTD) 2025 TINJAU IMPLEMENTASI NON-TUNAI | https://kabar.tulungagung.go.id/tulungagung-percepat-digitalisasi-keuangan-daerah-sosialisasi-elektronifikasi-keuangan-daerah-eptd-2025-tinjau-implementasi-non-tunai/ | 
+- GELAR KARYA UMKM 2025 : SEMANGAT EKONOMI KREATIF RAYAKAN HARI JADI KE-820 TULUNGAGUNG | https://kabar.tulungagung.go.id/gelar-karya-umkm-2025-semangat-ekonomi-kreatif-rayakan-hari-jadi-ke-820-tulungagung/ | 
+- RAPAT PARIPURNA DPRD TULUNGAGUNG SAHKAN APBD 2026 DAN UMUMKAN PROPEMDA | https://kabar.tulungagung.go.id/rapat-paripurna-dprd-tulungagung-sahkan-apbd-2026-dan-umumkan-propemda/ | 
+- DANA CUKAI MEMBERI NAPAS SEGAR : DBHCHT TULUNGAGUNG 2025 DIPRIORITASKAN UNTUK KESEJAHTERAAN, KESEHATAN, DAN PEMBANGUNAN MASYARAKAT | https://kabar.tulungagung.go.id/dana-cukai-memberi-napas-segar-dbhcht-tulungagung-2025-diprioritaskan-untuk-kesejahteraan-kesehatan-dan-pembangunan-masyarakat/ | 
+- Pemerintah Kabupaten Tulungagung Kucurkan Reward Bagi 230 Atlet Berprestasi di Peringatan Haornas ke-43 | https://kabar.tulungagung.go.id/pemerintah-kabupaten-tulungagung-kucurkan-reward-bagi-230-atlet-berprestasi-di-peringatan-haornas-ke-43/ | 
+- Pameran Museum Tulungagung 2026 Resmi Dibuka, Jadi Ruang Kenalkan Jejak Sejarah dan Budaya | https://kabar.tulungagung.go.id/pameran-museum-tulungagung-2026-resmi-dibuka-jadi-ruang-kenalkan-jejak-sejarah-dan-budaya/ | 
+- Semarak MTQ XXXII Tulungagung, 470 Peserta dari 19 Kecamatan Berpartisipasi | https://kabar.tulungagung.go.id/semarak-mtq-xxxii-tulungagung-470-peserta-dari-19-kecamatan-berpartisipasi/ | 
+- 40 Pramuka Terbaik Tulungagung Siap Berlaga di Jambore Nasional XII 2026 | https://kabar.tulungagung.go.id/40-pramuka-terbaik-tulungagung-siap-berlaga-di-jambore-nasional-xii-2026/ | 
+- Plt. Bupati Tulungagung Buka Tantingan Calon Paskibraka Tahun 2026 | https://kabar.tulungagung.go.id/plt-bupati-tulungagung-buka-tantingan-calon-paskibraka-tahun-2026/ | 
+
+## DAFTAR https://www.blitarkab.go.id/
+STATUS 200
+- Bupati Blitar: Menanam Pohon Harus Jadi Budaya, Bukan Seremonial | https://www.blitarkab.go.id/2026/11/27/bupati-blitar-menanam-pohon-harus-jadi-budaya-bukan-seremonial/ | Bupati Blitar: Menanam Pohon Harus Jadi Budaya, Bukan Seremonial Pemkab Blitar – Bupati Blitar bersama Wakil Bupati Blitar memperingati Hari Menanam Pohon Indonesia (HMPI) 2026 di Desa Bululawang, Kecamatan Bakung, Jumat
+- Bupati Blitar Ajak Perkuat Komitmen Pelayanan Kesehatan Pada Peringatan HKN ke-62 | https://www.blitarkab.go.id/2026/11/26/bupati-blitar-ajak-perkuat-komitmen-pelayanan-kesehatan-pada-peringatan-hkn-ke-62/ | 
+- Pemkab Blitar Salurkan Bantuan Benih Pertanian di Serang | https://www.blitarkab.go.id/2026/11/25/pemkab-blitar-salurkan-bantuan-benih-pertanian-di-serang/ | 
+- PENGUMUMAN SELEKSI DEWAN DIREKSI LPPL RADIO PERSADA FM KABUPATEN BLITAR MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/11/25/pengumuman-seleksi-dewan-direksi-lppl-radio-persada-fm-kabupaten-blitar-masa-bakti-2022-2027/ | 
+- HIMBAUAN FORUM KERUKUNAN UMAT BERAGAMA (FKUB) KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/11/06/himbauan-forum-kerukunan-umat-beragama-fkub-kabupaten-blitar/ | 
+- PENGUMUMAN PERPANJANGAN SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/30/pengumuman-perpanjangan-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
+- PENGUMUMAN TENTANG SELEKSI CALON DEWAN PENGAWAS PERUSAHAAN UMUM DAERAH AIR MINUM TIRTA PENATARAN KABUPATEN BLITAR | https://www.blitarkab.go.id/2026/10/23/pengumuman-tentang-seleksi-calon-dewan-pengawas-perusahaan-umum-daerah-air-minum-tirta-penataran-kabupaten-blitar/ | 
+- PENGUMUMAN HASIL UJIAN WAWANCARA DEWAN PENGAWAS LPPL RADIO PERSADA FM MASA BAKTI 2022-2027 | https://www.blitarkab.go.id/2026/07/27/pengumuman-hasil-ujian-wawancara-dewan-pengawas-lppl-radio-persada-fm-masa-bakti-2022-2027/ | 
+- Selamat Hari Raya Idul Adha 2025 | https://saberpungli.blitarkab.go.id/selamat-hari-raya-idul-adha-2025/ | 
+- Selamat Memperingati Hari Kenaikan Yesus Kristus | https://saberpungli.blitarkab.go.id/selamat-memperingati-hari-kenaikan-yesus-kristus/ | 
+- Tim UPP Kabupaten Blitar Mengucapkan Selamat Hari Raya Waisak | https://saberpungli.blitarkab.go.id/tim-upp-kabupaten-blitar-mengucapkan-selamat-hari-raya-waisak/ | 
+- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446-2/ | 
+- Kegiatan Pantau dan Monitoring Lokasi Wisata hari Raya Idul Fitri 1446 | https://saberpungli.blitarkab.go.id/kegiatan-pantau-dan-monitoring-lokasi-wisata-hari-raya-idul-fitri-1446/ | 
+- Selamat Hari Raya Idul Fitri 1446H/2025 M | https://saberpungli.blitarkab.go.id/selamat-hari-raya-nyepi-tahun-baru-saka-1947/ | 
+- Pemantauan Arus Mudik di Stasiun Garum | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-garum/ | 
+- Pemantauan arus mudik di stasiun Wlingi | https://saberpungli.blitarkab.go.id/pemantauan-arus-mudik-di-stasiun-wlingi/ | 
+
+## DAFTAR https://www.jombangkab.go.id/berita
+STATUS 200
+- Pemkab Jombang Teken Nota Kesepakatan 87.286 Sambungan Jargas dengan Ditjen Migas, Dorong Energi Bersih dan Hemat untuk Warga | https://www.jombangkab.go.id/berita/pemkab-jombang-teken-nota-kesepakatan-87286-sambungan-jargas-dengan-ditjen-migas-dorong-energi-bersih-dan-hemat-untuk-warga-24977 | 27 November 2026 Pemkab Jombang Teken Nota Kesepakatan 87.286 Sambungan Jargas dengan Ditjen Migas, Dorong Energi Bersih dan Hemat untuk Warga Pemerintah Kabupaten (Pemkab) Jombang resmi menjalin kerja sama strategis den
+- Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi | https://www.jombangkab.go.id/berita/pemkab-jombang-hadirkan-1444-peluang-kerja-di-jemput-kerja-batch-4-gandeng-30-perusahaan-hingga-program-transmigrasi-24965 | 26 November 2026 Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar
+- Pimpin Apel HGN 2026 di JMC, Wakil Bupati Jombang Tekankan Penguatan Karakter dan Sinergi Pendidikan | https://www.jombangkab.go.id/berita/pimpin-apel-hgn-2026-di-jmc-wakil-bupati-jombang-tekankan-penguatan-karakter-dan-sinergi-pendidikan-24940 | 25 November 2026 Pimpin Apel HGN 2026 di JMC, Wakil Bupati Jombang Tekankan Penguatan Karakter dan Sinergi Pendidikan Wakil Bupati Jombang Salmanudin mengajak para pendidik menjaga semangat pengabdian, meningkatkan kompe
+- Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 | https://www.jombangkab.go.id/berita/pemkab-jombang-raih-peringkat-ii-nasional-implementasi-industri-hijau-terbaik-2026-24897 | 23 November 2026 Pemkab Jombang Raih Peringkat II Nasional Implementasi Industri Hijau Terbaik 2026 Pemerintah Kabupaten (Pemkab) Jombang kembali menorehkan prestasi di tingkat nasional dengan meraih Peringkat II Kategor
+- Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 | https://www.jombangkab.go.id/berita/potensi-peternakan-jombang-meningkat-wabup-salmanudin-buka-kontes-kambing-pe-kaligesing-dan-domba-piala-bupati-2026-24891 | 22 November 2026 Potensi Peternakan Jombang Meningkat, Wabup Salmanudin Buka Kontes Kambing PE Kaligesing dan Domba Piala Bupati 2026 Upaya memajukan sektor peternakan lokal terus dilakukan Pemerintah Kabupaten Jombang. 
+- Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit | https://www.jombangkab.go.id/berita/jombang-sukses-jadi-tuan-rumah-wilwatikta-acarita-2026-wabup-salmanudin-ajak-generasi-muda-rawat-warisan-majapahit-24875 | 22 November 2026 Jombang Sukses Jadi Tuan Rumah Wilwatikta Acarita 2026, Wabup Salmanudin Ajak Generasi Muda Rawat Warisan Majapahit Malam puncak perhelatan akbar budaya bertajuk Wilwatikta Acarita 2026 berlangsung meria
+- PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa | https://www.jombangkab.go.id/berita/pd-km-dmi-jombang-resmi-dilantik-siap-makmurkan-masjid-serta-dampingi-perempuan-dan-anak-hingga-ke-desa-24876 | 21 November 2026 PD KM-DMI Jombang Resmi Dilantik, Siap Makmurkan Masjid serta Dampingi Perempuan dan Anak hingga ke Desa Pimpinan Daerah (PD) Korps Muballighah Dewan Masjid Indonesia (KM-DMI) Kabupaten Jombang masa khid
+- Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru | https://www.jombangkab.go.id/berita/pembangunan-jombang-industrial-estate-resmi-dimulai-siap-jadi-pusat-pertumbuhan-ekonomi-baru-24874 | 20 November 2026 Pembangunan Jombang Industrial Estate Resmi Dimulai, Siap Jadi Pusat Pertumbuhan Ekonomi Baru Kabupaten Jombang resmi memasuki babak baru pengembangan ekonomi daerah. PT Java Fortis Corporindo memulai pe
+- Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral | https://www.jombangkab.go.id/berita/bupati-jombang-lantik-25-pejabat-administrator-dan-pengawas-tekankan-integritas-dan-hindari-ego-sektoral-24873 | 20 November 2026 Bupati Jombang Lantik 25 Pejabat Administrator dan Pengawas, Tekankan Integritas dan Hindari Ego Sektoral Bupati Jombang Warsubi, S.H., M.Si. melantik dan mengambil sumpah/janji pejabat administrator, pe
+
+## DAFTAR https://pasuruankab.go.id/berita
+STATUS 200
+- Kesehatan Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo ... Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emi... 27 | https://pasuruankab.go.id/berita/arumi-bachsin-emil-dardak-dan-merita-rusdi-sutejo-ajak-para-ibu-ajek-ke-posyandu | 
+- Pelayanan Publik Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasu... Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah K | https://pasuruankab.go.id/berita/jalin-kerjasama-dengan-pemkot-tangsel-pemkab-pasuruan-siap-adopsi-sistem-tanah-dan-pajak | 
+- Kesehatan Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyara... Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehat... 26 | https://pasuruankab.go.id/berita/peringati-hkn-ke-62-wabup-gus-shobih-ajak-masyarakat-jadikan-kesehatan-sebagai-gaya-hidup | 
+- Pelayanan Publik HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Zi... Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggela | https://pasuruankab.go.id/berita/hut-korpri-ke-55-pemkab-pasuruan-gelar-upazara-ziarah-tabur-bunga-baksos-lansia-dan-warga-kampung-janda | 
+- Ekonomi Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Aust... Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Austr... 26 N | https://pasuruankab.go.id/berita/kabupaten-pasuruan-kedatangan-1100-sapi-perah-australia-siap-jadi-produsen-susu-terbesar-nasional | 
+- Pemerintahan Mas Rusdi Minta PII Hadirkan Inovasi Baru Bagi Pem... Persatuan Insinyur Indonesia (PII) Kabupaten Pasuruan memiliki kepengu... | https://pasuruankab.go.id/berita/mas-rusdi-minta-pii-hadirkan-inovasi-baru-bagi-pembangunan-di-kabupaten-pasuruan | 
+- Olahraga Terima Hibah Tanah 10 Hektar. Pemkab Pasuruan Baka... Kabupaten Pasuruan akan punya Kawasan Sport Center alias Pusat Pelatih... 25  | https://pasuruankab.go.id/berita/terima-hibah-tanah-10-hektar-pemkab-pasuruan-bakal-bangun-sport-center-di-kejayan | 
+- Pemerintahan Antisipasi Kenaikan Harga Sembako Jelang Nataru, P... Menjelang hari raya natal dan tahun baru 2027, Pemerintah Kabupaten Pa... | https://pasuruankab.go.id/berita/antisipasi-kenaikan-harga-sembako-jelang-nataru-pemkab-pasuruan-gelar-hlm-tpid-dan-tp2dd | 
+- Pemerintahan Pemkab Pasuruan Sampaikan Terima Kasih Semua Pihak... Warga Dusun Madulegi, Desa Plintahan, Kecamatan Pandaan, Kabupaten Pas... | https://pasuruankab.go.id/berita/pemkab-pasuruan-sampaikan-terima-kasih-semua-pihak-tuntaskan-penanganan-banjir-di-dusun-madulegi-desa-plintahan-pandaan | 
+- Pemerintahan Lantik Ratusan Guru Penugasan Sebagai Kepala Sekol... Bupati Pasuruan, Rusdi Sutejo melantik ratusan guru yang menerima sura... | https://pasuruankab.go.id/berita/lantik-ratusan-guru-penugasan-sebagai-kepala-sekolah-mas-rusdi-kalau-ada-persoalan-sampaikan-langsung-bisa-ke-dispendik-command-center-112-atau-langsung-ke-saya | 
+- Olahraga Pimpin Klasemen Grup C. Persekabpas Tundukkan Pers... Tim sepakbola kebanggaan Kabupaten Pasuruan, Persekabpas terus memperl... 22  | https://pasuruankab.go.id/berita/pimpin-klasemen-grup-c-persekabpas-tundukkan-persipani-paniai-2-1 | 
+- Pemerintahan Kecamatan Gondangwetan Juara MTQ ke 32 Kabupaten P... Mutsabaqoh Tilawatil Qur'an (MTQ) ke 32 tingkat Kabupaten Pasuruan tah... | https://pasuruankab.go.id/berita/kecamatan-gondangwetan-juara-mtq-ke-32-kabupaten-pasuruan | 
+- Sejarah Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/sejarah-singkat-kab-pasuruan | 
+- Gambaran Umum Kabupaten Pasuruan | https://pasuruankab.go.id/halaman/gambaran-umum-kabupaten-pasuruan-2025 | 
+- Transportasi dan Perhubungan | https://pasuruankab.go.id/layanan/transportasi | 
+- Lingkungan Hidup & Persampahan | https://pasuruankab.go.id/layanan/lingkungan | 
+
+## DAFTAR https://www.surabaya.go.id/
+STATUS 200
+- Libatkan Kementerian-Akademisi, Pemkot Surabaya Matangkan Pe ... Jumat, 27 November 2026 | 17 jam yang lalu | https://www.surabaya.go.id/id/berita/25981/libatkan-kementerian-akademisi-pemkot-surabaya-matangkan-penyusunan-raperda-transportasi-2026 | 
+- Surabaya Targetkan 3.732 Guru Tersertifikasi pada 2027, Perk ... Jumat, 27 November 2026 | 7 jam yang lalu | https://www.surabaya.go.id/id/berita/25987/surabaya-targetkan-3-732-guru-tersertifikasi-pada-2027-perkuat-kesejahteraan-pendidik | 
+- Bunda Rini Ajak Ibu-Ibu di Surabaya Jadi Garda Terdepan Cega ... Jumat, 27 November 2026 | 9 jam yang lalu | https://www.surabaya.go.id/id/berita/25986/bunda-rini-ajak-ibu-ibu-di-surabaya-jadi-garda-terdepan-cegah-resistensi-antibiotik | 
+- Cegah Resistensi Obat, Pemkot Surabaya Luncurkan Gerakan Bij ... Jumat, 27 November 2026 | 10 jam yang lalu | https://www.surabaya.go.id/id/berita/25985/cegah-resistensi-obat-pemkot-surabaya-luncurkan-gerakan-bijak-antibiotik-di-1-360-rw | 
+- Antisipasi Banjir, Pemkot Surabaya Targetkan Tiga Rumah Pomp ... Jumat, 27 November 2026 | 12 jam yang lalu | https://www.surabaya.go.id/id/berita/25984/antisipasi-banjir-pemkot-surabaya-targetkan-tiga-rumah-pompa-di-wilayah-barat-dan-utara-tuntas-desember | 
+- Pemkot Surabaya Dukung Penuh Proyek SRRL, Lelang Konstruksi ... Jumat, 27 November 2026 | 13 jam yang lalu | https://www.surabaya.go.id/id/berita/25983/pemkot-surabaya-dukung-penuh-proyek-srrl-lelang-konstruksi-diproyeksikan-awal-2028 | 
+- Satpol PP Surabaya Tertibkan Pedagang di Pedestrian dan Ruan ... Jumat, 27 November 2026 | 14 jam yang lalu | https://www.surabaya.go.id/id/berita/25982/satpol-pp-surabaya-tertibkan-pedagang-di-pedestrian-dan-ruang-publik | 
+- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25891/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-calon-direktur-operasional-pt-yekape-surabaya-perseroda | 
+- PENGUMUMAN HASIL SELEKSI ADMINISTRASI ANGGOTA DIREKSI PERSE ... Senin, 2 November 2026 | 4 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25880/pengumuman-hasil-seleksi-administrasi-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
+- PENGUMUMAN HASIL SELEKSI PSIKOTES ANGGOTA DIREKSI PERSEROAN ... Selasa, 20 Oktober 2026 | 1 bulan yang lalu | https://www.surabaya.go.id/id/agenda/25823/pengumuman-hasil-seleksi-psikotes-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
+- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FGD (FOCUS GROUP D ... Rabu, 11 November 2026 | 2 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25928/pengumuman-hasil-ujian-tertulis-keahlian-fgd-focus-group-discussion-dan-presentasi-makalah-rencana-bisnis-calon-direktur-utama-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
+- PENGUMUMAN HASIL SELEKSI PSIKOTES CALON DIREKTUR UTAMA PERSE ... Senin, 9 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25916/pengumuman-hasil-seleksi-psikotes-calon-direktur-utama-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
+- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25896/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-calon-anggota-direksi-perseroan-terbatas-bank-perekonomian-rakyat-surya-artha-utama-perseroda | 
+- PENGUMUMAN HASIL SELEKSI UJIAN TERTULIS KEAHLIAN, FOCUS GROU ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25895/pengumuman-hasil-seleksi-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-anggota-direksi-perusahaan-umum-daerah-kebun-binatang-surabaya | 
+- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FOCUS GROUP DISCUS ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25894/pengumuman-hasil-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-strategi-pengawasan-calon-anggota-komisaris-perseroan-terbatas-bank-perekonomian-rakyat-surya-artha-utama-perseroda | 
+- PENGUMUMAN HASIL SELEKSI UJIAN TERTULIS KEAHLIAN, FOCUS GROU ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25893/pengumuman-hasil-seleksi-ujian-tertulis-keahlian-focus-group-discussion-fgd-serta-presentasi-makalah-rencana-bisnis-anggota-direksi-perseroan-terbatas-pasar-surya-perseroda | 
+- PENGUMUMAN HASIL UJIAN TERTULIS KEAHLIAN, FGD (FOCUS GROUP D ... Rabu, 4 November 2026 | 3 minggu yang lalu | https://www.surabaya.go.id/id/agenda/25892/pengumuman-hasil-ujian-tertulis-keahlian-fgd-focus-group-discussion-dan-presentasi-makalah-rencana-bisnis-anggota-direksi-perseroan-terbatas-rumah-potong-hewan-surabaya-perseroda | 
+- Administrasi Kependudukan | https://www.surabaya.go.id/id/berita/10287/administrasi-kependudukan | Ketenagakerjaan Administrasi Kependudukan BLC E-Health JDIH RUP LPSE Pengaduan Masyarakat Pemberdayaan Ekonomi Pelayanan Informasi (PPID Kota Surabaya) Pelayanan Dinas Sosial Pelayanan DISPENDIK SSW Alfa Satu Data
+- Pelayanan Informasi (PPID Kota Surabaya) | https://ppid.surabaya.go.id/ | Ketenagakerjaan Administrasi Kependudukan BLC E-Health JDIH RUP LPSE Pengaduan Masyarakat Pemberdayaan Ekonomi Pelayanan Informasi (PPID Kota Surabaya) Pelayanan Dinas Sosial Pelayanan DISPENDIK SSW Alfa Satu Data
+
+## DAFTAR https://www.malangkota.go.id/
+STATUS 403 
+
+## DAFTAR https://www.gresikkab.go.id/
+STATUS 200
+
+
+## DAFTAR https://www.lamongankab.go.id/
+STATUS 200
+- Layanan Informasi Publik Layanan Informasi Publik | https://ppid.lamongankab.go.id/ | 
+- Computer Security Incident Response Team (CSIRT) | https://csirt.lamongankab.go.id | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan | http://jdih.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan | https://play.google.com/store/apps/details?id=id.go.lamongan.lamongantourism | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- PAHALA DAFTAR HARGA KOMODITI PANGAN POKOK | https://pahala.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- Satu Data Lamongan Layanan Satu Data Lamongan | https://satudata.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- SI SAPI Lamongan Sistem Informasi Pemasaran Sapi | https://sisapi.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- SIILA Sistem Informasi Industri Lamongan | https://siila.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- SIPADI + Aplikasi pelaporan data tanaman pangan, hortikultura, dan perkebunan | http://sipadiplus.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- SKALA Sistem Informasi Tata Ruang Kabupaten Lamongan | https://skala.lamongankab.go.id/ | Computer Security Incident Response Team (CSIRT) JDIH Jaringan Dokumentasi dan Informasi Hukum Kabupaten Lamongan Lamongan Tourism (Android) Portal informasi wisata Kabupaten Lamongan PAHALA DAFTAR HARGA KOMODITI PANGAN 
+- Laporan Kinerja Instansi Pemerintah | https://ppid.lamongankab.go.id/data/laporan-kinerja-instansi-pemerintah/ | 
+- Laporan Penyelenggaraan Pemerintahan Daerah | https://ppid.lamongankab.go.id/data/laporan-penyelenggaraan-pemerintahan-daerah/ | 
+- Pengelolaan Keuangan Daerah | https://ppid.lamongankab.go.id/data/pengelolaan-keuangan-daerah/ | 
+- Rencana Kerja Pemerintah Daerah | https://ppid.lamongankab.go.id/data/rencana-kerja-pemerintah-daerah/ | 
+- Rencana Pembangunan Jangka Menengah Daerah | https://ppid.lamongankab.go.id/data/rencana-pembangunan-jangka-menengah-daerah/ | 
+- Rencana Pembangunan Jangka Panjang Daerah | https://ppid.lamongankab.go.id/data/rencana-pembangunan-jangka-panjang-daerah/ | 
+- Roadmap Reformasi Birokrasi | https://lamongankab.go.id/portal/post/5797 | 
+- Standar Harga Satuan 2025 | https://diskominfo.lamongankab.go.id/posting/21684 | 
+- Sistem Pengadaan Secara Elektronik | https://spse.inaproc.id/lamongankab | 
+- LAPOR WBS Whistle Blowing System | http://laporwbs.lamongankab.go.id/ | 
+- SPIKER PERAK Sistem Pengaduan Online Kekerasan terhadap Perempuan dan Anak | https://api.whatsapp.com/send?phone=6281276770778 | 
+- Lamongan Tourism Portal informasi wisata Kabupaten Lamongan | http://lamongantourism.com/ | 
+- Layanan Administrasi Desa | https://lamongankab.go.id/sigenduk.lamongankab.go.id | 
+- Layanan Informasi Harga Bahan Pokok | https://sipuldabapok.lamongankab.go.id/ | 
+- Layanan Publikasi Jurnal Ilmiah | https://e-jurnal.lamongankab.go.id/index.php/e-jurnal | 
+- Layanan Tata Pemerintahan | https://sibatman.lamongankab.go.id/ | 
+- POL Pasar Online Lamongan | https://pdpasar.lamongankab.go.id/layanan | 
+- Sistem Informasi Layanan Lingkungan | https://silila.lamongankab.go.id/login.php | 
+- Survei Kepuasan Masyarakat Survei Kepuasan Masyarakat | https://senyumla.lamongankab.go.id/ | 
+- Karakteristik Lokasi dan Wilayah | https://lamongankab.go.id/artikel/44 | 
+- Susunan Organisasi, Tugas dan Fungsi serta Tata Kerja | http://ppid.lamongankab.go.id/data/susunan-organisasi-tugas-dan-fungsi-serta-tata-kerja/ | 
+- ABADI (Asyik Bermain Angka Digital Interaktif) | https://www.instagram.com/sdn_rayunggumuk/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- AGENCY (Agen Generation Literacy dan Numeracy) | https://www.instagram.com/sdnpendowolimo_p5?igsh=MWMxMXYwa2s1MDAzZQ== | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) | https://disdik.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMINASI) | https://puskesmas-lamongan.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- AKU SEMAKIN GEMES (Aku Senang Makan Ikan, Gelorakan, Mengatasi Stunting) | https://www.instagram.com/pkm_mantup/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- ALARM SI MYCO (System Informasi Mycobacterium TB) | https://puskesmas-kedungpring.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- APIK (Aksi Pengusaha Cilik) | https://www.instagram.com/sdn2sumberjo/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- APIK SERASI (Apel Pagi, Berkarakter, Sholat Dhuha, Education, Ramah Anak, Asmaul Husna, Sholawat, dan Literasi) | https://www.instagram.com/sdn3.made/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- ARMOLIPAS (Augmented Reality Monopoli Interaktif IPAS) | http://sites.google.com/view/sdnmragel/halaman-muka | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- ASIK POL (Aku Suka Penyakit Terkontrol) | https://puskesmas-karanggeneng.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- ASMARA CENTIL (Atasi masalah remaja untuk cegah Tindakan Buliying ) | https://puskesmas-tikung.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- BABLAS (Bayi Lahir Berkas Langsung Tuntas) | https://rsud-ngimbang.lamongankab.go.id/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- BAJAI BAJURI (Bahasa Jawa Inovatif Bagus Jujur dengan Permainan Monopoli) | https://www.instagram.com/sdnpangkatrejo_/ | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+- BAPOPI (Bahasa Pop-Up Interaktif) | https://portal.lamongankab.go.id/posting/28487 | ABADI (Asyik Bermain Angka Digital Interaktif) AGENCY (Agen Generation Literacy dan Numeracy) AKSI BIRU (ATS Kembali Sekolah Melalui Bakti Insan Guru) AKU CINTA DIA (AKSI TEMUKAN TUBERCULOSIS DENGAN TERPADU MENUJU ELIMIN
+
+## DAFTAR https://www.bojonegorokab.go.id/
+STATUS 200
+- Agenda Kabupaten/Pemerintah | https://bojonegorokab.go.id/agenda-kabupaten | 
+- BADAN KEPEGAWAIAN, PENDIDIKAN, DAN PELATIHAN | http://bkpp.bojonegorokab.go.id | 
+- BADAN PERENCANAAN PEMBANGUNAN DAERAH | http://bappeda.bojonegorokab.go.id | 
+- BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH | http://bpkad.bojonegorokab.go.id | 
+- BADAN KESATUAN BANGSA DAN POLITIK | http://bakesbangpol.bojonegorokab.go.id | 
+- BADAN PENANGGULANGAN BENCANA DAERAH | http://bpbd.bojonegorokab.go.id | 
+- BADAN RISET DAN INOVASI DAERAH | http://brida.bojonegorokab.go.id | 
+- DINAS PEKERJAAN UMUM BINA MARGA DAN PENATAAN RUANG | http://dpubimapr.bojonegorokab.go.id | 
+- DINAS PEKERJAAN UMUM SUMBER DAYA AIR | http://dipusda.bojonegorokab.go.id | 
+- DINAS PERUMAHAN, KAWASAN PERMUKIMAN DAN CIPTA KARYA | http://dpkpciptakarya.bojonegorokab.go.id | 
+- SATUAN POLISI PAMONG PRAJA | http://satpolpp.bojonegorokab.go.id | 
+- DINAS PEMBERDAYAAN PEREMPUAN, PERLINDUNGAN ANAK DAN KELUARGA BERENCANA | http://dp3akb.bojonegorokab.go.id | 
+- DINAS KEPENDUDUKAN DAN PENCATATAN SIPIL | http://dinasdukcapil.bojonegorokab.go.id | 
+- DINAS PEMBERDAYAAN MASYARAKAT DAN DESA | http://dinpmd.bojonegorokab.go.id | 
+- DINAS KOMUNIKASI DAN INFORMATIKA | http://dinkominfo.bojonegorokab.go.id | 
+- DINAS KEPEMUDAAN DAN OLAHRAGA | http://dinpora.bojonegorokab.go.id | 
+- DINAS PENANAMAN MODAL DAN PELAYANAN TERPADU SATU PINTU | http://dpmptsp.bojonegorokab.go.id | 
+- DINAS PERPUSTAKAAN DAN KEARSIPAN | http://dinasperpusarsip.bojonegorokab.go.id | 
+- DINAS PERINDUSTRIAN DAN TENAGA KERJA | http://dinperinaker.bojonegorokab.go.id | 
+- DINAS KEBUDAYAAN DAN PARIWISATA | http://dinbudpar.bojonegorokab.go.id | 
+- DINAS PERDAGANGAN, KOPERASI DAN USAHA MIKRO | http://dindag.bojonegorokab.go.id | 
+- DINAS KETAHANAN PANGAN DAN PERTANIAN | http://dinperta.bojonegorokab.go.id | 
+- DINAS PETERNAKAN DAN PERIKANAN | http://dinasnakkan.bojonegorokab.go.id | 
+- BAGIAN ADMINISTRASI PEMBANGUNAN | http://bagpembangunan.bojonegorokab.go.id | 
+- BAGIAN PEREKONOMIAN DAN SUMBER DAYA ALAM | http://bagekonomi.bojonegorokab.go.id | 
+- BAGIAN KESEJAHTERAAN RAKYAT | http://bagkesra.bojonegorokab.go.id | 
+- BAGIAN PROTOKOL DAN KOMUNIKASI PIMPINAN | http://baghumas.bojonegorokab.go.id | 
+- BAGIAN PENGADAAN BARANG / JASA | http://baglpbj.bojonegorokab.go.id | 
+- PT. Bojonegoro Bangun Sarana (BBS) | http://bbs-bumd-bjn.com | 
+- PD. Bank Perkreditan Rakyat (BPR) | https://bankdaerahbojonegoro.com | 
+- PERSEBARAN KANTOR PELAYANAN PUBLIK | https://bojonegorokab.go.id/gis-persebaran-kantor-pelayanan-publik/3 | 
+- PETA TEMPAT OLEH-OLEH (SENTRA USAHA KECIL) | https://bojonegorokab.go.id/gis-peta-tempat-oleh-oleh-sentra-usaha-kecil/10 | 
+- Streaming Radio Malowopati | http://radiomalowopati.online/ | 
+- Layanan Pemadam Kebakaran | http://dindamkar.bojonegorokab.go.id/ | 
+- Informasi Tanam dan Panen | http://simtapat.bojonegorokab.go.id/ | 
+
+## DAFTAR https://www.banyuwangikab.go.id/
+STATUS 0 GAGAL: ConnectionError: HTTPSConnectionPool(host='www.banyuwangikab.go.id', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='www.banyuwangikab.go.id', p
+
+## DAFTAR https://www.ponorogo.go.id/
+STATUS 404 
