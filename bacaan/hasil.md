@@ -1,361 +1,686 @@
-## https://bojonegorokab.go.id/berita/10240/tindaklanjuti-laporan-warga-pemkab-bojonegoro-tangani-penunuran-aspal-yang-bahayakan-pengguna-jalan
+## https://pasuruankab.go.id/berita/kabupaten-pasuruan-kedatangan-1100-sapi-perah-australia-siap-jadi-produsen-susu-terbesar-nasional
 STATUS 200
-JUDUL: Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
+JUDUL: Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
 TGL_META: 
-OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/jsnj85toucP4brl9.jpg
-GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/jsnj85toucP4brl9.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-150939-1.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/insentif.jpg
+OG_IMAGE: https://pasuruankab.go.id/download-image/kabupaten-pasuruan-kedatangan-1100-sapi-perah-australia-siap-jadi-produsen-susu-terbesar-nasional/posts/tumbnail
+GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6ImlBcXdIblp3bUJ6bFdyTmQydHYwTmc9PSIsInZhbHVlIjoiRHRzM2VHTjVKV0RYM1BsMFc3MWNsdz09IiwibWFjIjoiM2UwMjUwMjg2ZDVmYWQ4NmVhYmZmMTZmNWFjYjczMjA2YmRjODIyNTI4ZmEzYzNkODljNGQ2YjcwYjhiZDdmYyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImZVR0RaR2ZqT0hGQ2YxYURTWnhpakE9PSIsInZhbHVlIjoiam9pekZIbEVhQWwweFo0dERXMm9kQT09IiwibWFjIjoiZmYxYjMzM2MxODRjOGEyYzk5MTg3NDA0NTJlOWI0M2IzZDkwMjdhZTBmNDdjZGUwNmIyNmQzZmU4NGQ1NzRhMyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ikh5aXJ1a0trRzVNUXRwRTNMN3dEeWc9PSIsInZhbHVlIjoiYUFMSFVEcG91KzAyVlJIcmNmT01mZz09IiwibWFjIjoiNGQ0ZDgwMzkzZjQxMGNmOTdjOWMzNTc0MGY3YmM1YzYwZDYyMDQyZDViOTRiODQ0NjFiODY3YmI4M2VjODQwYiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IkFPZ2ptdDNVZVpDckZmclZ6SC9MNGc9PSIsInZhbHVlIjoiS0xvdGRBWDNWZEhZakgwM1E0dllTdz09IiwibWFjIjoiZWZjYThlMDVmMDBkOWYwMzcyNWZiNTllZGIyZmU4MTUzNDk3ZTJjYTIyOWViNDQ4NjE1YmQzNmI0MWM1MjA5OSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Inp4SVRUS3J0N2MzOFNKMVZpMkEwMXc9PSIsInZhbHVlIjoiWmdCVTZRakIwUWtCRm1Cb2haQjNyQT09IiwibWFjIjoiZmM5YWRjNGY4ZGY1YTRlM2FmOTNiNTA0Y2ZmZWRmZTNjOGRlYWI3ZDk5MDc0NDJjYmZiNDljNDkwMmZiNTQwMSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlFPRlhLRCszR2ZMeUY1QzVQbkZscGc9PSIsInZhbHVlIjoiMTBhTTlTazdDUlQvQWprbEZhRkJnZz09IiwibWFjIjoiMGZkZjQ5YjQxYmNjYjYxYTM2NWU1M2Y3YzlhNDA3ZTg0MWY1MjU4YWNiMWNhZWM2YjcxY2U0NmM1ZGMyZjkxNCIsInRhZyI6IiJ9/posts/gambar_posts/berita
 ISI:
-Situs Resmi Pemkab Bojonegoro
-Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
-Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
-Redaksi
-26 Nov 2026
-112 dilihat
- Tindaklanjuti Laporan Warga, Pemkab Bojonegoro Tangani Penunuran Aspal yang Bahayakan Pengguna Jalan
-Bojonegorokab.go.id – Penyampaian aspirasi masyarakat melalui media sosial menjadi salah satu sarana mengetahui berbagai persoalan di lingkungan masyarakat. Keluhan yang disampaikan melalui kolom komentar akun media sosial pimpinan daerah maupun Pemerintah Kabupaten Bojonegoro dapat menjadi bahan tindak lanjut perangkat daerah sesuai kewenangannya.
-Salah satunya keluhan terkait kondisi aspal pada pembangunan jembatan di Dusun Bulu, Desa Beji, Kecamatan Kedewan. Warga melaporkan adanya penurunan permukaan aspal yang menimbulkan lubang serta bagian tepi aspal yang kurang rata. Kondisi tersebut dikhawatirkan membahayakan pengguna jalan dan berpotensi menyebabkan kecelakaan.
-Menindaklanjuti laporan warga tersebut, Dinas Pekerjaan Umum Bina Marga dan Penataan Ruang (DPUBMPR) Kabupaten Bojonegoro melakukan peninjauan ke lokasi untuk memastikan kondisi yang dikeluhkan. Penanganan kemudian dilakukan melalui pengaspalan pada bagian yang mengalami penurunan sehingga permukaan jalan kembali rata dan lebih nyaman dilalui masyarakat.
-Kepala Bidang Jembatan DPUBMPR Kabupaten Bojonegoro, Edi Dwi Purwanto, saat dikonfirmasi Rabu (25/11/2026), menyampaikan bahwa aspirasi masyarakat tersebut telah ditindaklanjuti.
-“Laporan aspirasi masyarakat tersebut sudah kami tindak lanjuti. Setelah menerima informasi lokasi secara jelas, kami melakukan pengecekan ke lapangan dan penanganan pada bagian aspal yang mengalami penurunan sehingga kondisinya kembali rata,” jelas Edi.
-Respons ini menjadi bagian dari upaya meningkatkan pelayanan publik melalui pemanfaatan media sosial. Setiap laporan masyarakat yang disampaikan dengan informasi memadai dapat menjadi bahan koordinasi dan tindak lanjut oleh perangkat daerah terkait.
-Masyarakat diimbau untuk tidak ragu menyampaikan keluhan maupun aspirasi melalui kolom komentar atau kanal pengaduan resmi pemerintah. Agar laporan lebih mudah ditindaklanjuti, masyarakat diharapkan mencantumkan informasi secara lengkap, meliputi jenis permasalahan, lokasi kejadian, nama dusun, desa, dan kecamatan. 
-Dengan informasi yang jelas dan lengkap, perangkat daerah dapat lebih mudah melakukan verifikasi, survei lokasi, serta menentukan langkah penanganan sesuai kewenangannya. Melalui sinergi antara masyarakat dan pemerintah, berbagai persoalan di lingkungan sekitar diharapkan dapat direspons lebih cepat demi mewujudkan Bojonegoro Bahagia, Makmur, dan Membanggakan.[zul/nn]
-Pencarian
-Kontak Kami
-Pemerintah Kabupaten Bojonegoro
-Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
-62111
-Telepon
-0353 - 881826
-0353 - 881454
-Fax
-0353 - 884893
-0353 - 882378
-0353 - 887206
-Email
-pemkab@bojonegorokab.go.id
-dinkominfo@bojonegorokab.go.id
-Copyright 2014 PEMKAB BOJONEGORO
-(Redesign 2020)
-Statistik web:
-Kemarin : 6.847
-Hari ini : 324
-Bulan ini : 191.858
-Tahun ini : 2.851.242
-Total : 35.811.097
-×
-17 Program Prioritas
- Pemodalan UMKM
- Insentif GTT dan PTT
- Santunan Duka 2,5 juta
- Perijinan Satu Atap
- Festival Budaya Tahunan
- Revisi PERBUP 35 Tahun 2015
- Green & Smart City
- Kenaikan Honor RT/RW
- Perbaikan Infrastruktur
- Kartu Tani Mandiri Plus
- Sekolah Gratis
- Perda Madin
- Lingkungan Ramah
- Layanan Kesehatan
- 100.000 Lapangan Kerja
- Program Aladin
- Penataan Pasar Tradisional
-×
-Pemodalan UMKM
-×
-Insentif GTT dan PTT
-×
-Santunan Duka 2,5 juta
-×
-Perijinan Satu Atap
-×
-Festival Budaya Tahunan
-×
-Revisi PERBUP 35 Tahun 2015
-×
-Green & Smart City
-×
-Kenaikan Honor RT/RW
-Kenaikan Honor RT/RW
-×
-Perbaikan Infrastruktur
-×
-Kartu Tani Mandiri Plus
-×
-Sekolah Gratis
-×
-Perda Madin
-×
-Lingkungan Ramah
-×
-Layanan Kesehatan
-×
-100.000 Lapangan Kerja
-×
-Program Aladin
-×
-Penataan Pasar Tradisional
+Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional | Website Pemerintah Kabupaten Pasuruan
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+26 November 2026 (14:26)
+Ekonomi
+454x Dilihat
+0 Komentar
+Emil Akbar
+ E-Paper PDF
+ E-Paper JPG
+Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kamis (26/11/2026).
+Ribuan sapi berjenis Friesian Holstein (FH) tersebut diturunkan dari Pelabuhan Tanjung Tembaga, Kota Probolinggo setelah sebelumnya melalui perjalanan laut selama sekitar 7 hari. 
+Pantauan di lokasi, Kedatangan sapi itu disambut langsung Bupati Pasuruan Rusdi Sutejo bersama Ketua DPRD Kabupaten Pasuruan Samsul Hidayat, Direktur PT. Mulia Anugrah Bhumi (MAB), Bayu Aji Handayanto serta Kepala Dinas Ketahanan Pangan, Pertanian dan Perikanan Kabupaten Pasuruan, drh Ainur Alfiah.
+Menurut Bayu, ribuan sapi perah tersebut didatangkan dari Australia Barat dengan menggunakan kapal khusus ternak yang dirancang untuk menjaga kenyamanan dan keselamatan hewan selama perjalanan. Ia mengaku bersyukur, sebab seluruh sapi tiba di Indonesia, bahkan sampai di Jawa Timur dalam kondisi selamat.
+“Kami sangat bersyukur karena tidak ada satu pun sapi yang mati selama proses pengiriman dari Australia sampai tiba di Pelabuhan Tanjung Tembaga ini ,” katanya, Kamis (26/11/2026) pagi.
+Setelah diturunkan dari kapal laut, ribuan sapi impor ini tak langsung dibawa ke peternakan, melainkan dikarantina oleh Badan Karantina Indonesia (Barantin) selama 14 hari. 
+Kata Bayu, tujuannya tak lain untuk memastikan seluruh sapi benar-benar bebas dari virus maupun penyakit yang terjadi pada ternak sapi.
+"Kalau sudah selesai dikarantina kemudian dirilis oleh Barantin, barulah semua sapi-sapi ini bisa dibawa ke farm masing-masing," imbuhnya. 
+Saat ditanya soal pemilihan sapi australia, Bayu menegaskan bahwa sapi perah berjenis Friesian Holstein (FH) memiliki banyak keunggulan bila dibandingkan dengan sapi perah jenis lainnya. Salah satunya terkait dengan produksi susu segar yang dihasilkan dari satu ekor sapi dalam satu hari bisa mencapai 35 liter.
+Selain itu, secara kualitas, sapi perah FH dari Australia memiliki genetika terbaik dari ras sapi di dunia, serta jarak antara Australia dan Indonesia yang memungkinkan untuk dilakukan impor saoi,
+"Sapi australia secara kualitas, merupakan sapi dengan genetika terbaik di dunia. Karena berdasarkan data statistik, produksi susu segarnya bisa mencapai lebih dari 35 liter di sesi top performance nya, dasar itulah yang menjadi pertimbangan kami, selain jarak yang tidak begitu jauh antara Indonesia dan Australia," terangnya. 
+Kedatangan 1.100 sapi itu, kata Bayu, menjadi tahap awal dari rencana pengembangan populasi ternak di peternakan MAB. Maret 2027 mendatang, perusahaan berencana mendatangkan tambahan 3.300 ekor sapi perah FH Australia. 
+Dengan mendatangkan 4400 sapi perah berkualitas unggul ini, ia optimis upaya pemerintah dalam meningkatkan kapasitas produksi susu di dalam negeri serta mengurangi gap impor yang sampai sekarang masih di kisaran 80%, akan tercapai.
+"Kami perkirakan satu ekor sapi perah asal Australia ini dapat menghasilkan sedikitnya 25 liter susu per hari. Nah kalau dengan populasi sekitar 4.000 ekor, potensi produksi yang dapat dicapai diperkirakan mencapai 100 ton susu setiap hari. Inilah target kami, produksi susu segar meningkat dan mengurangi gap impor sapi ketika kami rawat dan kembang biakkan di sini," tegasnya. 
+Lebih lanjut Bayu menegaskan bahwa upaya mendatangkan ribuan sapi perah australia tak lain merupakan investasi yang dilakukan secara bertahap dengan nilai mencapai lebih dari 500 milyar. 
+Dampaknya, pengembangan peternakan ini diharapkan akan memberikan perubahan ekonomi bagi masyarakat sekitar, termasuk membuka peluang kerja baru.
+"Termasuk bagi masyarakat, para peternak sapi yang ingin mendapatkan bibit sapi perah unggul, akan kami bantu," tutupnya. 
+Sementara itu, Kepala Dinas Ketahanan Pangan, Pertanian dan Perikanan Kabupaten Pasuruan, drh Ainur Alfiah menegaskan bahwa kedatangan ribuan sapi perah FH dari Australia jelas menambah jumlah populasi sapi perah di Kabupaten Pasuruan yang sampai saat ini berjumlah sekitar 98.000 ekor.
+Selain itu, produksi susu segar di Kabupaten Pasuruan jelas bertambah dengan tambahan 4400 ekor sapi FH yang terkenal dengan produksinya yang maksimal.
+"Yang jelas berdampak pada produksi susu segar yang semakin bertambah. Populasi sapinya juga tambah banyak dan menyerap banyak tenaga kerja lokal," ungkapnya. (emil)
+Bagikan :
+25
+17
+Ringkasan AI 
+Beta
+ Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
+ penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
+ keakuratan sepenuhnya.
+ Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
+ Generate Ringkasan oleh AI 
+ Komentar
+ Belum ada komentar. Jadilah yang pertama berkomentar!
+Tinggalkan Komentar:
+Berita Lainnya
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+ Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak k...
+27 November 2026
+ Kesehatan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+ Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangera...
+27 November 2026
+ Pelayanan Publik
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+ Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasiona...
+26 November 2026
+ Kesehatan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+ Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Z...
+26 November 2026
+ Pelayanan Publik
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+ Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kami...
+26 November 2026
+ Ekonomi
+Kategori
+Agrowisata
+Bantuan
+Budaya
+Ekonomi
+Kepegawaian
+Kesehatan
+Lingkungan
+Nasionalisme
+Olahraga
+Pariwisata
+Pelayanan Publik
+Pemerintahan
+Pendidikan
+Politik
+Umum
+Wisata Budaya 
+ Home
+ Profil
+ Profil Daerah
+ Arti Lambang
+ Peta Pasuruan
+ Visi dan Misi
+ Sejarah Kabupaten Pasuruan
+ Gambaran Umum Kabupaten Pasuruan
+ Pimpinan Daerah
+ Bupati & Wakil Bupati
+ Lembaga Legislatif
+ Lembaga Eksekutif
+ Perangkat Daerah
+ Layanan
+ Kependudukan
+ Perizinan & Investasi
+ Perpajakan & Retribusi
+ Kesehatan
+ Pendidikan
+ Transportasi dan Perhubungan
+ Perikanan
+ Keolahragaan
+ Tanaga Kerja
+ Lingkungan Hidup & Persampahan
+ Informasi
+ Berita
+ Agenda
+ Galeri
+ Galeri Foto
+ Galeri Video
+ PPID
+ Jelajah
+ Fasilitas Umum
+ Potensi Daerah
+ Kontak
 
-## https://bojonegorokab.go.id/berita/10243/ribuan-pencari-kerja-padati-job-fair-bojonegoro-perusahaan-buka-banyak-lowongan
+## https://pasuruankab.go.id/berita/jalin-kerjasama-dengan-pemkot-tangsel-pemkab-pasuruan-siap-adopsi-sistem-tanah-dan-pajak
 STATUS 200
-JUDUL: Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
+JUDUL: Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
 TGL_META: 
-OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/HiDeZheAvbosJIEV.jpg
-GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/HiDeZheAvbosJIEV.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-153642.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/insentif.jpg
+OG_IMAGE: https://pasuruankab.go.id/download-image/jalin-kerjasama-dengan-pemkot-tangsel-pemkab-pasuruan-siap-adopsi-sistem-tanah-dan-pajak/posts/tumbnail
+GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IkhkWGFiQ2tTeVYyd0FZNGdQTVZnanc9PSIsInZhbHVlIjoiT0FZcU44djNLakdaUlExQ0gwTjQ2QT09IiwibWFjIjoiYzE1NWI2MGU3MzcyYjZmYjk4Y2Y2YmEyN2UzNjhhN2RhYTA4ODRjN2YwYmNlMWZlMzkzNzQxYzNjMmUxMjk3MyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InBRQWdkM1J1NVdsbSsyZ1MvaHZHWlE9PSIsInZhbHVlIjoiKzg1WFZMY01ZMFZJV2FlbXVqWEEvQT09IiwibWFjIjoiZjIyYjExYjIzMzcxN2VmNzA1YmQzZDIxNGRhNjVlYjM2OWZlZWE1YzA1ZmE1NGYxOGQyMmZjZmI0ZmQzYzg1YiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjlzVm5wY1A3TnZlY2RGdDArdHZzY1E9PSIsInZhbHVlIjoidFJYRXJLdmo5ODVHNzJpREp4eUQwZz09IiwibWFjIjoiMjIxZDAyYWQzYTQ0MjIzZjA1MmNmZjdhMDkzMmEwNTA1ZjI0YWE4ZGVjMjBkMWMwYzI1ODNmMTBiZWFlYjU4MSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IldiL0V3NjhHQjB2VG82UW9SUHJURlE9PSIsInZhbHVlIjoiYWtoOTdpWVJzSzJmRmhUbDludFNQdz09IiwibWFjIjoiZGFhMDU3ZmE5YmJlY2Q2MTU1YzgxZjM0YmMwZjgwZWM1NGQwMjdjNDM4NTdmOTliMmI0OTZjYTA4ZDQ5YWYzNCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InNGbS9nNEI0TWlSSzQ0bzFod2lQTkE9PSIsInZhbHVlIjoic3BTTERrTlZMdGhqV05EYVRPMUUzZz09IiwibWFjIjoiMzEyYTQ1ZDA5NThmNzM3ZjM3ZTYwNTU1NTA0MGRhY2VlYmMxN2ZjODg3MGMxNThiYmQ0Mzk1MjYwNGQxOWI1YiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlFMdTVqcUVyUXpZUDlwRHFkeS95akE9PSIsInZhbHVlIjoid3Izb3pPb2FkOVpDRXdqT05FU282QT09IiwibWFjIjoiZGE1YjI4ZGVmMTg0YzMwMDc1YjNlN2U3NDZjZGQyMTNkMzk4Y2IwODc1ZTAzNjEzOGNkNjcxMTY1ZGM3Mjc4MCIsInRhZyI6IiJ9/posts/gambar_posts/berita
 ISI:
-Situs Resmi Pemkab Bojonegoro
-Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
-Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
-Redaksi
-26 Nov 2026
-178 dilihat
- Ribuan Pencari Kerja Padati Job Fair Bojonegoro, Perusahaan Buka Banyak Lowongan
-Bojonegorokab.go.id – Ribuan pencari kerja memadati area Sport Center Bojonegoro dalam kegiatan Job Fair yang diselenggarakan Dinas Perindustrian dan Tenaga Kerja (Disperinaker) Kabupaten Bojonegoro, Kamis (26/11/2026). Bahkan, sebelum acara seremoni pembukaan selesai, para pencari kerja sudah ramai mendatangi stan sejumlah perusahaan untuk mencari informasi dan mengajukan lamaran pekerjaan.
-Job Fair menjadi salah satu upaya Pemkab Bojonegoro dalam memperluas akses kesempatan kerja sekaligus mempertemukan pencari kerja dengan perusahaan yang membutuhkan tenaga kerja.
-Kepala Disperinaker Kabupaten Bojonegoro, Mahmudi, menyampaikan bahwa Pemkab Bojonegoro juga berkolaborasi dengan Polres Bojonegoro melalui program Poiran (Polisi Peduli Pengangguran). Kolaborasi tersebut dilakukan untuk memperluas informasi lowongan pekerjaan agar lebih mudah diakses masyarakat.
-Melalui program Poiran, sejumlah upaya dilakukan, di antaranya talkshow informasi ketenagakerjaan, pemasangan papan informasi lowongan kerja, serta penyediaan komunitas WhatsApp Solusi Kerja sebagai sarana penyebaran informasi lowongan kepada para pencari kerja.
-“Hari ini kita hadirkan perusahaan-perusahaan lokal Bojonegoro. Disperinaker juga melakukan konsultasi kerja agar harapan pencari kerja dan perusahaan bisa sesuai,” ungkap Mahmudi.
-Ia menyebut, hingga pagi hari kegiatan berlangsung, tercatat sebanyak 1.740 pencari kerja telah terdata. Job fair ini juga dihadiri para siswa SMA, MA, dan SMK yang diharapkan dapat menjadi sarana pembelajaran sejak dini mengenai dunia kerja, proses mencari pekerjaan, hingga persiapan memasuki dunia profesional.
-Salah satu pencari kerja, Hismi, warga Dander, mengaku telah mengajukan dua lamaran, yakni ke BRI dan PKSS. Ia menilai job fair sangat membantu, khususnya bagi lulusan baru (fresh graduate), karena dapat mengakses peluang kerja dari berbagai perusahaan dalam satu tempat.
-“Ini sangat mempermudah fresh graduate mencari pekerjaan. Semoga proses rekrutmennya juga mudah. Terima kasih karena saya bisa mengajukan lamaran sekaligus di sini,” ujarnya.
-Sementara itu, Irwan, warga Margoagung, Kecamatan Sumberrejo, mengaku senang mengikuti job fair karena banyak perusahaan hadir dan membuka kesempatan bagi pencari kerja untuk melamar.
-Melalui kegiatan ini, Pemkab Bojonegoro berharap akses informasi lowongan kerja semakin luas, sekaligus mendorong terwujudnya kecocokan antara kebutuhan perusahaan dan kompetensi pencari kerja, sehingga peluang penyerapan tenaga kerja di Bojonegoro semakin terbuka. [ai/nn]
-Pencarian
-Kontak Kami
-Pemerintah Kabupaten Bojonegoro
-Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
-62111
-Telepon
-0353 - 881826
-0353 - 881454
-Fax
-0353 - 884893
-0353 - 882378
-0353 - 887206
-Email
-pemkab@bojonegorokab.go.id
-dinkominfo@bojonegorokab.go.id
-Copyright 2014 PEMKAB BOJONEGORO
-(Redesign 2020)
-Statistik web:
-Kemarin : 6.847
-Hari ini : 324
-Bulan ini : 191.858
-Tahun ini : 2.851.242
-Total : 35.811.097
-×
-17 Program Prioritas
- Pemodalan UMKM
- Insentif GTT dan PTT
- Santunan Duka 2,5 juta
- Perijinan Satu Atap
- Festival Budaya Tahunan
- Revisi PERBUP 35 Tahun 2015
- Green & Smart City
- Kenaikan Honor RT/RW
- Perbaikan Infrastruktur
- Kartu Tani Mandiri Plus
- Sekolah Gratis
- Perda Madin
- Lingkungan Ramah
- Layanan Kesehatan
- 100.000 Lapangan Kerja
- Program Aladin
- Penataan Pasar Tradisional
-×
-Pemodalan UMKM
-×
-Insentif GTT dan PTT
-×
-Santunan Duka 2,5 juta
-×
-Perijinan Satu Atap
-×
-Festival Budaya Tahunan
-×
-Revisi PERBUP 35 Tahun 2015
-×
-Green & Smart City
-×
-Kenaikan Honor RT/RW
-Kenaikan Honor RT/RW
-×
-Perbaikan Infrastruktur
-×
-Kartu Tani Mandiri Plus
-×
-Sekolah Gratis
-×
-Perda Madin
-×
-Lingkungan Ramah
-×
-Layanan Kesehatan
-×
-100.000 Lapangan Kerja
-×
-Program Aladin
-×
-Penataan Pasar Tradisional
+Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak | Website Pemerintah Kabupaten Pasuruan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+27 November 2026 (18:53)
+Pelayanan Publik
+106x Dilihat
+0 Komentar
+Emil Akbar
+ E-Paper PDF
+ E-Paper JPG
+Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangerang Selatan untuk mengadopsi Sistem Integrasi Geospasial Informasi Tanah dan Pajak (SISGITA).
+Kerja sama tersebut ditandai dengan penandatanganan Nota Kesepahaman (MoU) dan Perjanjian Kerja Sama (PKS) di Aula Pemerintah Kota Tangerang Selatan, Kamis (26/11/2026).
+Penandatanganan dihadiri langsung Bupati Pasuruan, Rusdi Sutejo didampingi Plt Kepala Badan Pendapatan Daerah (Bapenda), Kokok Adi Prayogo serta Kepala Dinas Komunikasi dan Informatika Kabupaten Pasuruan, Firdaus Handara.
+Plt. Kepala Bapenda Kabupaten Pasuruan, Kokok Adi Prayogo mengatakan Pemkab Pasuruan akan mereplikasi dan memanfaatkan SISGITA ini dengan baik.
+Praktiknya, kerja sama ini berfokus pada percepatan integrasi Nomor Induk Bidang (NIB) dengan Nomor Objek Pajak (NOP), serta validasi BPHTB secara digital dan terintegrasi.
+"Melalui SISGITA, pemerintah daerah diharapkan dapat mengintegrasikan informasi geospasial pertanahan dengan data perpajakan sehingga mendukung pengelolaan informasi tanah dan pajak secara lebih terpadu," kata Kokok melalui sambungan selulernya, Jumat (27/11/2026).
+Ia berharap Melalui adopsi dan penerapan teknologi peta digital terpadu ini, Pemkab Pasuruan berkomitmen untuk meningkatkan ketepatan data perpajakan, mencegah kebocoran potensi penerimaan daerah, serta memberikan kemudahan pelayanan pertanahan dan perpajakan bagi seluruh masyarakat.
+"Sisgita tentu saja diharapkan dapat menjadi sarana pertukaran pengalaman dan pengetahuan antardaerah untuk mengembangkan tata kelola pemerintahan berbasis digital," imbuhnya. 
+Dalam kesempatan yang sama Kepala Dinas Kominfo Kabupaten Pasuruan, Firdaus Handara menyatakan kesiapannya mendukung replikasi SISGITA melalui penyediaan infrastruktur teknologi, jaringan komunikasi, dan dukungan teknis.
+"Alhamdulillah kita sudah melaksanakan penandatangan PKS dengan Tangsel, Harapannya kita segera bisa mereplikasi sistemnya, sehingga bisa membantu Bapenda dalam meningkatan Pendapatan Asli Daerah (PAD) Kabupaten Pasuruan," harapnya. (emil)
+Bagikan :
+17
+14
+Ringkasan AI 
+Beta
+ Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
+ penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
+ keakuratan sepenuhnya.
+ Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
+ Generate Ringkasan oleh AI 
+ Komentar
+ Belum ada komentar. Jadilah yang pertama berkomentar!
+Tinggalkan Komentar:
+Berita Lainnya
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+ Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak k...
+27 November 2026
+ Kesehatan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+ Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangera...
+27 November 2026
+ Pelayanan Publik
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+ Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasiona...
+26 November 2026
+ Kesehatan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+ Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Z...
+26 November 2026
+ Pelayanan Publik
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+ Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kami...
+26 November 2026
+ Ekonomi
+Kategori
+Agrowisata
+Bantuan
+Budaya
+Ekonomi
+Kepegawaian
+Kesehatan
+Lingkungan
+Nasionalisme
+Olahraga
+Pariwisata
+Pelayanan Publik
+Pemerintahan
+Pendidikan
+Politik
+Umum
+Wisata Budaya 
+ Home
+ Profil
+ Profil Daerah
+ Arti Lambang
+ Peta Pasuruan
+ Visi dan Misi
+ Sejarah Kabupaten Pasuruan
+ Gambaran Umum Kabupaten Pasuruan
+ Pimpinan Daerah
+ Bupati & Wakil Bupati
+ Lembaga Legislatif
+ Lembaga Eksekutif
+ Perangkat Daerah
+ Layanan
+ Kependudukan
+ Perizinan & Investasi
+ Perpajakan & Retribusi
+ Kesehatan
+ Pendidikan
+ Transportasi dan Perhubungan
+ Perikanan
+ Keolahragaan
+ Tanaga Kerja
+ Lingkungan Hidup & Persampahan
+ Informasi
+ Berita
+ Agenda
+ Galeri
+ Galeri Foto
+ Galeri Video
+ PPID
+ Jelajah
+ Fasilitas Umum
+ Potensi Daerah
+ Kontak
 
-## https://bojonegorokab.go.id/berita/10241/disperinaker-bojonegoro-gelar-job-fair-ajak-puluhan-perusahaan-dan-libatkan-para-pelaku-umkm
+## https://pasuruankab.go.id/berita/arumi-bachsin-emil-dardak-dan-merita-rusdi-sutejo-ajak-para-ibu-ajek-ke-posyandu
 STATUS 200
-JUDUL: Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
+JUDUL: Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
 TGL_META: 
-OG_IMAGE: https://bojonegorokab.go.id/storage/uploads/artikel/NvTPKHVDD7xhcbYe.jpg
-GAMBAR: https://bojonegorokab.go.id/portal/assets/img/logo-kabupaten.png | https://bojonegorokab.go.id/portal/assets/img/indonesia.png | https://bojonegorokab.go.id/portal/assets/img/english.png | https://bojonegorokab.go.id/storage/uploads/artikel/NvTPKHVDD7xhcbYe.jpg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-152606.jpeg | https://bojonegorokab.go.id/storage/photos/shares/whatsapp-image-2026-11-26-at-152832.jpeg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/pemodalan-umkm.jpg | https://bojonegorokab.go.id/storage/photos/shares/ProgramUnggulan/Baru/pemodalan-umkm.png
+OG_IMAGE: https://pasuruankab.go.id/download-image/arumi-bachsin-emil-dardak-dan-merita-rusdi-sutejo-ajak-para-ibu-ajek-ke-posyandu/posts/tumbnail
+GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IlBZeHhGVXlaZzBKdkNGOHBRUS9IdGc9PSIsInZhbHVlIjoiNTVURS8wWHJjKzRQVk50b3djcWl5Zz09IiwibWFjIjoiNGYxZTU5YWI4YTRiMWFkMzBlZDJlYzYzNWM0YTBhYzcwZTI4ZDYzYmQ5YzRmZGRhZTBlMGM0YWQxOGI4OWQ4OSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjYwRllGZTJ0YnJlU1hpTUFVdU1TYlE9PSIsInZhbHVlIjoiQmhSQXJaWVdJbEFmbWcvbGRtVElNQT09IiwibWFjIjoiYTI0ZmY3MDg4MmVjN2IyNDk1Yjg3OWVjMmVkNjUxZTYxNDEzZmIxMGFiYjI3MTk5Y2NiNjAyOGY2YWZjZWI5NiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlM4MzZMa2VENzhiVzE0TG5qMkx1cXc9PSIsInZhbHVlIjoiZTJWRTRhRjNEcWluN3FiU2haRzU4dz09IiwibWFjIjoiOWFkNzY5YWFjNDgxOGZhMDU5ZWM0YmZhY2QyNmViOGFjNDBlZWQ4OTA1MjNkZDlmMThlMjllNzQ4ODdiMWQ1NSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlN4b1pCeXNRcmhITm9YMkptaUxCTUE9PSIsInZhbHVlIjoiN1g5QXYwcXFEam0ybzc4VXV2ZFZPdz09IiwibWFjIjoiYTIxNGYwNmM1ZWJlODVkMWQxOGIxODY2N2UzYTU5Yzk2MjQ2NGZiODQ0MzJiNzhlOGE0YTYzYzk0YTgwMGVlNyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ik41a09oNk4vQ2kxejlLc2o1QzVyb0E9PSIsInZhbHVlIjoiZXNwa2d0ZTBHRTRtTW5lVzR4VWJldz09IiwibWFjIjoiMjUzMjBjZmYwMzFkZWVmNjFlYTRmYzE1MWFkNGE4M2Q4OTUyZTlhYWUwNjIyMTQwY2NhMmE2MmMxZTlkMjRiOCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IlZxeHM0dncxNzZDckI0dzBXTHIzRkE9PSIsInZhbHVlIjoiT3haOHNkVGtTRUJNYXBVTTNaRFgrQT09IiwibWFjIjoiNzJhMWQ5MjlhNmI4MWQwZjU5ZThmZGE0OWExZDkwNDE1NGUwM2NlM2I4NmI3ZTNmZDRhOWVkMTBkNjUxZDRkNCIsInRhZyI6IiJ9/posts/gambar_posts/berita
 ISI:
-Situs Resmi Pemkab Bojonegoro
-Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
-Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
-Redaksi
-26 Nov 2026
-94 dilihat
- Disperinaker Bojonegoro Gelar Job Fair, Ajak Puluhan Perusahaan dan Libatkan Para Pelaku UMKM
-Bojonegorokab.go.id – Dinas Perindustrian dan Tenaga Kerja (Disperinaker) Kabupaten Bojonegoro menggelar Job Fair 2026 di Sport Center Bojonegoro, Kamis (26/11/2026). Job Fair menghadirkan puluhan perusahaan yang membuka peluang kerja bagi masyarakat, sekaligus melibatkan pelaku UMKM lokal yang berjualan di halaman Sport Center.
-Job fair menjadi salah satu upaya Pemkab Bojonegoro dalam memperluas kesempatan kerja, menekan angka pengangguran, serta mendorong pertumbuhan ekonomi masyarakat. Para pencari kerja dapat bertemu langsung dengan perusahaan, memperoleh informasi lowongan, hingga mengajukan lamaran sesuai kualifikasi yang dibutuhkan.
-Wakil Bupati Bojonegoro Nurul Azizah menyampaikan bahwa program kerja Bupati dan Wakil Bupati Bojonegoro, salah satunya diarahkan untuk menurunkan angka kemiskinan, meningkatkan Indeks Pembangunan Manusia (IPM), meningkatkan ekonomi masyarakat, mengurangi angka pengangguran, serta memperkuat konektivitas dan pengembangan wilayah sesuai skala prioritas.
-Menurutnya, upaya pembangunan daerah tidak dapat dilakukan pemerintah sendiri, melainkan membutuhkan sinergi dan kolaborasi berbagai pihak, termasuk dunia usaha dan institusi lainnya.
-“Pemkab tidak akan bisa bekerja sendirian tanpa sinergi semua pihak. Dalam job fair ini ada puluhan perusahaan lokal Bojonegoro yang menyediakan sekitar 1.500 lowongan kerja. Mudah-mudahan ini menjadi ikhtiar agar pengangguran berkurang,” ujarnya.
-Ia turut mengapresiasi dukungan Polri melalui program Polisi Peduli Pengangguran (Poliran) yang turut membantu upaya penanganan pengangguran di Bojonegoro.
-Sementara itu, Kapolres Bojonegoro AKBP Yeni Diarty menyampaikan bahwa melalui kegiatan job fair, sekitar 30 perusahaan dari berbagai sektor, termasuk perbankan, dan membuka ribuan lowongan kerja yang dapat diakses masyarakat umum.
-Ia menjelaskan, program Poliran merupakan inisiatif Polri untuk merangkul masyarakat yang belum mendapatkan pekerjaan dengan memfasilitasi akses terhadap peluang kerja. Menurutnya, kondisi ekonomi yang baik turut mendukung terciptanya keamanan dan ketertiban masyarakat.
-“Kami sangat merangkul. Bapak Kapolri mempunyai program Poliran, bagi masyarakat yang belum mendapat pekerjaan agar difasilitasi untuk mendapatkan pekerjaan. Ini linier, di mana daerah yang ekonominya baik juga berpengaruh terhadap keamanan dan ketertiban masyarakat,” ungkapnya.
-Kapolres mengajak para pencari kerja, khususnya generasi muda, untuk memanfaatkan kesempatan tersebut dengan baik, meningkatkan keterampilan, dan tidak mudah menyerah ketika belum berhasil mendapatkan pekerjaan.
-“Jangan berkecil hati apabila belum berhasil. Pertemuan ini bisa menjadi langkah awal untuk masa depan yang lebih baik,” pesannya.
-Selain membuka akses rekrutmen, kehadiran UMKM di halaman Sport Center turut memberikan ruang bagi pelaku usaha lokal untuk berjualan, sehingga kegiatan job fair tidak hanya mendukung pencari kerja, tetapi juga menggerakkan ekonomi masyarakat. [ai/nn]
-Pencarian
-Kontak Kami
-Pemerintah Kabupaten Bojonegoro
-Jl. P. Mas Tumapel No. 1, Bojonegoro - Jawa Timur
-62111
-Telepon
-0353 - 881826
-0353 - 881454
-Fax
-0353 - 884893
-0353 - 882378
-0353 - 887206
-Email
-pemkab@bojonegorokab.go.id
-dinkominfo@bojonegorokab.go.id
-Copyright 2014 PEMKAB BOJONEGORO
-(Redesign 2020)
-Statistik web:
-Kemarin : 6.847
-Hari ini : 324
-Bulan ini : 191.858
-Tahun ini : 2.851.242
-Total : 35.811.097
-×
-17 Program Prioritas
- Pemodalan UMKM
- Insentif GTT dan PTT
- Santunan Duka 2,5 juta
- Perijinan Satu Atap
- Festival Budaya Tahunan
- Revisi PERBUP 35 Tahun 2015
- Green & Smart City
- Kenaikan Honor RT/RW
- Perbaikan Infrastruktur
- Kartu Tani Mandiri Plus
- Sekolah Gratis
- Perda Madin
- Lingkungan Ramah
- Layanan Kesehatan
- 100.000 Lapangan Kerja
- Program Aladin
- Penataan Pasar Tradisional
-×
-Pemodalan UMKM
-×
-Insentif GTT dan PTT
-×
-Santunan Duka 2,5 juta
-×
-Perijinan Satu Atap
-×
-Festival Budaya Tahunan
-×
-Revisi PERBUP 35 Tahun 2015
-×
-Green & Smart City
-×
-Kenaikan Honor RT/RW
-Kenaikan Honor RT/RW
-×
-Perbaikan Infrastruktur
-×
-Kartu Tani Mandiri Plus
-×
-Sekolah Gratis
-×
-Perda Madin
-×
-Lingkungan Ramah
-×
-Layanan Kesehatan
-×
-100.000 Lapangan Kerja
-×
-Program Aladin
-×
-Penataan Pasar Tradisional
+Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu | Website Pemerintah Kabupaten Pasuruan
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+27 November 2026 (20:30)
+Kesehatan
+47x Dilihat
+0 Komentar
+Emil Akbar
+ E-Paper PDF
+ E-Paper JPG
+Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak kembali berkunjung ke Kabupaten Pasuruan.
+Kali ini, istri Wakil Gubernur Jawa Timur, Emil Elestianto Dardak ini berkunjung ke Desa Kluwut, Kecamatan Wonorejo,  Jumat (27/11/2026) dalam rangka penguatan kelembagaan posyandu melalui pemberdayaan kader dan PMG Balita untuk mendukung pencegahan dan percepatan penurunan stunting di Jawa Timur, khususnya di Kabupaten Pasuruan.
+Pantauan di lokasi, begitu datang, Arumi langsung disambut oleh Ketua TP Posyandu Kabupaten Pasuruan, Merita Rusdi Sutejo. Setibanya di sana, mereka berdua langsung mengunjungi Posyandu Desa Kluwut yang baru saja meraih juara dalam penilaian Posyandu se-Kabupaten Pasuruan.
+Menariknya, dari kunjungannya yang sudah dilakukan di 21 titik, Posyandu Desa Kluwut menjadi satu-satunya Posyandu yang menyediakan meja prioritas.
+"Selamat, karena dari 21 titik yang saya kunjungi, hanya Posyandu di Kabupaten Pasuruan yang menyediakan meja prioritas, wah keren sekali," ungkapnya. 
+Selain mengunjungi Posyandu, Arumi bersama Merita juga menyerahkan paket bantuan makanan tambahan alias PMT kepada para ibu yang memiliki anak dengan kondisi masih stunting. Total lebih dari 100 keluarga yang mendapatkan bantuan PMT mulai dari telur ayam broiler, gula, beras, minyak goreng sampai susu dalam kemasan kotak besar.
+Dengan bantuan ini, ia berharap para penerima dapat menggunakannya untuk kebutuhan selama beberapa hari.
+"Bantuannya tidak besar tapi semoga dapat memberikan banyak manfaat sosial kemanusiaan," harapnya. 
+Dalam sambutannya, Arumi mengingatkan kepada para orang tua, khususnya seorang ibu untuk memahami pentingnya pencegahan stunting sejak dini dengan cara rajin datang ke Posyandu sebagai pusat pelayanan terpadu bagi masyarakat.
+"Harus ajek datang ke Posyandu untuk timbang anak dan mengetahi pertumbuhannya seperti apa," ucapnya. 
+Sementara itu, Ketua TP Posyandu Kabupaten Pasuruan, Merita Rusdi Sutejo menegaskan bahwa sampai saat ini, seluruh 24 kecamatan di Kabupaten Pasuruan telah melaksanakan kegiatan posyandu terintegrasi 6 bidang standar pelayanan minimal (SPM).
+Sebagai bentuk komitmen dalam mendorong peningkatan kualitas pelayanan posyandu, pada periode april sampai dengan mei, Pemerintah Kabupaten Pasuruan bersinergi dengan TP PKK Kabupaten Pasuruan melalui Pokja IV telah menyelenggarakan lomba posyandu 6 SPM tingkat Kabupaten Pasuruan.
+Hasilnya, Posyandu Desa Kluwut keluar sebagai pemenangnya. 
+"Melalui kegiatan ini, kami juga menyampaikan apresiasi dan rasa bangga kepada Desa Kluwut yang telah berhasil meraih juara lomba posyandu 6 SPM tingkat Kabupaten Pasuruan. Kemudian berhasil masuk 10 besar tingkat Provinsi Jawa Timur, serta kadernya memperoleh peringkat ke-8," ungkapnya. (emil)
+Bagikan :
+11
+8
+Ringkasan AI 
+Beta
+ Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
+ penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
+ keakuratan sepenuhnya.
+ Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
+ Generate Ringkasan oleh AI 
+ Komentar
+ Belum ada komentar. Jadilah yang pertama berkomentar!
+Tinggalkan Komentar:
+Berita Lainnya
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+ Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak k...
+27 November 2026
+ Kesehatan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+ Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangera...
+27 November 2026
+ Pelayanan Publik
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+ Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasiona...
+26 November 2026
+ Kesehatan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+ Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Z...
+26 November 2026
+ Pelayanan Publik
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+ Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kami...
+26 November 2026
+ Ekonomi
+Kategori
+Agrowisata
+Bantuan
+Budaya
+Ekonomi
+Kepegawaian
+Kesehatan
+Lingkungan
+Nasionalisme
+Olahraga
+Pariwisata
+Pelayanan Publik
+Pemerintahan
+Pendidikan
+Politik
+Umum
+Wisata Budaya 
+ Home
+ Profil
+ Profil Daerah
+ Arti Lambang
+ Peta Pasuruan
+ Visi dan Misi
+ Sejarah Kabupaten Pasuruan
+ Gambaran Umum Kabupaten Pasuruan
+ Pimpinan Daerah
+ Bupati & Wakil Bupati
+ Lembaga Legislatif
+ Lembaga Eksekutif
+ Perangkat Daerah
+ Layanan
+ Kependudukan
+ Perizinan & Investasi
+ Perpajakan & Retribusi
+ Kesehatan
+ Pendidikan
+ Transportasi dan Perhubungan
+ Perikanan
+ Keolahragaan
+ Tanaga Kerja
+ Lingkungan Hidup & Persampahan
+ Informasi
+ Berita
+ Agenda
+ Galeri
+ Galeri Foto
+ Galeri Video
+ PPID
+ Jelajah
+ Fasilitas Umum
+ Potensi Daerah
+ Kontak
 
-## https://www.jombangkab.go.id/berita/pemkab-jombang-hadirkan-1444-peluang-kerja-di-jemput-kerja-batch-4-gandeng-30-perusahaan-hingga-program-transmigrasi-24965
+## https://pasuruankab.go.id/berita/peringati-hkn-ke-62-wabup-gus-shobih-ajak-masyarakat-jadikan-kesehatan-sebagai-gaya-hidup
 STATUS 200
-JUDUL: Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi - Pemerintah Kabupaten Jombang
+JUDUL: Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
 TGL_META: 
-OG_IMAGE: https://resources.jombangkab.go.id/berita/uploads/2026/11/f817f3c6-bca8-4be3-97d7-e527791259bd.jpg
-GAMBAR: https://www.jombangkab.go.id/kabupaten/assets/images/logo-white.png | https://resources.jombangkab.go.id/berita/uploads/2026/11/f817f3c6-bca8-4be3-97d7-e527791259bd.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/bc94ca69-f0ea-45fc-bd97-98b7f8a77ab6.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/f1b28a9e-0f60-41a9-b976-1101afdc0624.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/6c879ffa-09c1-4f1b-b999-9b3fb7d065ef.jpg | https://resources.jombangkab.go.id/berita/content/2026/11/72b69106-e2ac-491e-8592-cffd9ed63440.jpg | https://www.jombangkab.go.id/kabupaten/assets/images/logo-kabupaten.png
+OG_IMAGE: https://pasuruankab.go.id/download-image/peringati-hkn-ke-62-wabup-gus-shobih-ajak-masyarakat-jadikan-kesehatan-sebagai-gaya-hidup/posts/tumbnail
+GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IjlnckFkUitMVVdMSEw5WUJnWFRJU1E9PSIsInZhbHVlIjoiYnNZQXozMFoySlpmSVMyRHk4K05mQT09IiwibWFjIjoiNWVlZmM3OGNmNzdjNjQ4NzgwYzMzZmZkZGExNzhmNjRiZmUyMDgxZmYyMzU2OTgzZjBmYmEyNTRjM2Q3MWJhZSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InNPMTUrcFJUZ1NEdmFqaUJFOTh6dXc9PSIsInZhbHVlIjoiZ3l1WHgwc0R3UWxUbjJRSno3eXA1UT09IiwibWFjIjoiNmNkMGFkM2UxNTBiODM1MjUyMDdmYTlkZDM4OGFhMDA4MDMzOTAyNWMzYmYyNTczNmVhMjQwYTQyYTk5OTE0NCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Im4wdWplUUVhZHJmaW9RZ3RkMjluSEE9PSIsInZhbHVlIjoiME9FZTRmZXprNHZKc3Vqd21BME5JUT09IiwibWFjIjoiMWJiNWUwM2VmNmFkZjc4MDAwNGFkZTgwYzA0MDgwMjliMDRjZTI1MjZkZmM4MjBjODllODcwMWI5YjBjYzA5NCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ik5zcTMyR0tMQXdIV1ZuUTJ1bWZVaHc9PSIsInZhbHVlIjoiN0J4ZEEzMzdpM0ZpZWFGREliTitsZz09IiwibWFjIjoiMWI2ZWQwNDRhMGFlYTgwYTQzNzg5NGU3OWJjNTFiNmE4MjBlODZkNTljZGVhNWU3ZDc3Y2M4NTY4ZDQzYzU0YyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InIycGpOUGh2dGplMk1FTmlWbHNGRFE9PSIsInZhbHVlIjoibHNPc21BVkRlYjA2d0pwMWdIUWw4dz09IiwibWFjIjoiODE0ZDMzYzRiOGE4ZDA2NWQ4ZWZkNjNjNDllZTU3NDllYzgyZTVlMWE5OTI2ZTFhMjlkMjY5OGEwOGQ0MmExNCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ik54SUlNbGRFd01tWFM0NllmZjRaWXc9PSIsInZhbHVlIjoiNWE4SFY3VXpmYUFBMnVnZ1NaVFNYdz09IiwibWFjIjoiNjkzZWE1YTdiNTk1OTgwYjc3ZTRjYmQ3ZGQ0YWU2MTU0MzdiZWM0MDA2ZWFiZGNiNTIxNDUyNzFkM2RlNGU0MyIsInRhZyI6IiJ9/posts/gambar_posts/berita
 ISI:
-Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi - Pemerintah Kabupaten Jombang
-Beranda
-/
-Berita
-/
-Detail
-Detail Berita
-Informasi resmi seputar kegiatan pemerintah, pembangunan, layanan publik, dan dinamika Kabupaten Jombang.
- Kembali ke daftar berita
-Kabupaten
-Pemkab Jombang Hadirkan 1.444 Peluang Kerja di Jemput Kerja Batch 4, Gandeng 30 Perusahaan hingga Program Transmigrasi
-Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar bursa kerja bertajuk Jemput Kerja/Job Fair Batch 4 Tahun 2026 di SMK Dwija Bhakti II Jombang, Kamis (26/11/2026). Kegiatan ini menghadirkan 30 perusahaan dari berbagai sektor usaha dengan total 126 jabatan dan 1.444 lowongan pekerjaan yang terbuka bagi lulusan SMP hingga sarjana.
- 26 November 2026
- Pemerintah Kabupaten Jombang
- 105 views
-#Jemput Kerja Batch 4
-#Talenta
-#Jombang Maju dan Sejahtera Untuk Semua
-#Peluang Kerja
-#Program AKAD
-#Disnaker Jombang
-JOMBANGKAB
- – Pemerintah Kabupaten Jombang melalui Dinas Tenaga Kerja (Disnaker) kembali menggelar bursa kerja bertajuk Jemput Kerja/Job Fair Batch 4 Tahun 2026 di SMK Dwija Bhakti II Jombang, Kamis (26/11/2026). Kegiatan ini menghadirkan 30 perusahaan dari berbagai sektor usaha dengan total 126 jabatan dan 1.444 lowongan pekerjaan yang terbuka bagi lulusan SMP hingga sarjana.
-Acara pembukaan dihadiri langsung oleh Wakil Bupati Jombang M. Salmanudin, S.Ag., M.Pd., Kapolres Jombang diwakili oleh KaBiro SDM Polres Jombang, Kompol Yanuar Tri Ratna Sanjaya, S.H.,M.H, Kepala BPVP Sidoarjo Rahmad Faisal, S.T., M.M., Ketua PD Muhammadiyah Jombang Assoc. Prof. Dr. Ir. Abdul Malik, MP., IPU., jajaran Kepala Dinas Tenaga Kerja kabupaten/kota tetangga, perangkat daerah, pengurus APINDO, BKK, LPK, serta ratusan pencari kerja. 
-Kepala Dinas Tenaga Kerja Kabupaten Jombang, Isawan Nanang Risdiyanto, S.Hut., M.Si., dalam laporannya menyampaikan bahwa kegiatan ini merupakan bentuk nyata fasilitasi pemerintah daerah untuk menurunkan Tingkat Pengangguran Terbuka (TPT) sekaligus menjawab tantangan akses informasi kerja bagi masyarakat usia produktif. 
-Dari total 1.444 formasi yang tersedia, sebanyak 1.147 lowongan diperuntukkan bagi lulusan SMA/SMK/sederajat, 206 lowongan untuk lulusan SMP, dan 91 lowongan bagi lulusan D-3/S1 dari berbagai disiplin ilmu.
-Salah satu terobosan pada Job Fair kali ini adalah partisipasi PT Bumitama Gunajaya Agro (PT BGA) yang membuka peluang kerja sebagai tenaga panen sawit di perkebunan kelapa sawit wilayah Kalimantan Tengah, Kalimantan Barat, dan Riau melalui program Antar Kerja Antar Daerah (AKAD) yang bersinergi dengan program transmigrasi.
-"Keterlibatan PT BGA juga membuka peluang pelaksanaan program Antar Kerja Antar Daerah atau AKAD, yaitu pelayanan penempatan tenaga kerja yang mempertemukan pencari kerja dari suatu daerah dengan kebutuhan pekerjaan di daerah lain. Dan difasilitasi untuk keberangkatan dengan keluarga, serta fasilitasi rumah dan sekolah untuk anak," ujar Isawan Nanang Risdiyanto.
-Selain layanan rekrutmen dan konsultasi karier, Isawan juga menyoroti kolaborasi strategis bersama kepolisian melalui Program Polisi Peduli Pengangguran untuk menjangkau masyarakat hingga tingkat paling bawah. "Melalui Program Polisi Peduli Pengangguran, kami berharap dapat terbangun kolaborasi dalam mengidentifikasi masyarakat yang belum bekerja, membantu menyebarluaskan informasi lowongan pekerjaan, serta menghubungkan para pencari kerja dengan perusahaan yang membutuhkan tenaga kerja," tambahnya.
-Sementara itu, Wakil Bupati Jombang Salmanudin, S.Ag., M.Pd., yang hadir membacakan sambutan Bupati Jombang Warsubi, S.H., M.Si., menegaskan bahwa Jemput Kerja Batch 4 menjadi instrumen penting dalam menjembatani kesenjangan kompetensi (skill mismatch) antara lulusan pendidikan dengan kualifikasi dunia industri. Pemkab Jombang juga mendorong optimalisasi aplikasi digital terintegrasi 
-TALENTA
- agar pendataan pencari kerja dan kebutuhan perusahaan terkelola secara sistematis.
-"Kita tidak ingin lulusan pendidikan dan pelatihan hanya memiliki ijazah atau sertifikat, tanpa keterampilan yang sesuai dengan kebutuhan dunia kerja. Karena itu, saya minta Dinas Tenaga Kerja untuk memperkuat link and match melalui koordinasi dan kerja sama dengan perusahaan, lembaga pelatihan kerja, SMK, perguruan tinggi, dan Bursa Kerja Khusus," tutur Gus Salmanudin membacakan sambutan Bupati.
-Ia juga berpesan agar investasi yang masuk ke Kabupaten Jombang memberikan dampak langsung bagi kesejahteraan warga lokal, serta meminta pihak perusahaan menjalankan proses seleksi secara objektif.
-"Kepada perusahaan, saya berharap agar proses rekrutmen dilaksanakan secara transparan, objektif, profesional, dan tidak diskriminatif. Berikan kesempatan yang sama kepada pencari kerja yang memenuhi persyaratan, serta bangun kemitraan yang berkelanjutan dengan Pemerintah Kabupaten Jombang dalam peningkatan kualitas tenaga kerja lokal," pesannya.
-Kepada para pencari kerja, Wakil Bupati Jombang juga berpesan agar tidak terpaku pada satu jenis pekerjaan saja, terus mengasah keterampilan digital, menjaga kedisiplinan, serta tidak mudah menyerah menghadapi persaingan. Disnaker Kabupaten Jombang juga diinstruksikan untuk melakukan pendataan hasil rekrutmen dan pemantauan penempatan pascakegiatan sebagai bahan evaluasi berkelanjutan guna mewujudkan Jombang yang maju dan sejahtera untuk semua.
-Pada kesempatan tersebut juga diserahkan penghargaan kepada ;
-Perusahaan Penyelenggara Maganghub dengan Penempatan Tenaga Kerja Terbanyak tahun 2026. 
-1. PT. Camino Industrial Indonesia 
-2. PT. Akui Bird Nest Indonesia 
-Lembaga Pelatihan Kerja sebagai Lembaga Pelatihan Kerja dengan Penempatan Tenaga Kerja Alumni Terbanyak tahun 2026
-1. LPK Bangun Karya
-2. LPK Bangun Pertiwi 
-Bursa Kerja Khusus sebagai SMK dengan Penempatan Tenaga Kerja Alumni Terbanyak Tribulan III Tahun 2026.
-1. SMK Negeri 1 Jombang
-2. SMK PGRI I Jombang 
-3. SMK Negeri Mojoagung 
-↑
+Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup | Website Pemerintah Kabupaten Pasuruan
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+26 November 2026 (17:06)
+Kesehatan
+169x Dilihat
+0 Komentar
+Emil Akbar
+ E-Paper PDF
+ E-Paper JPG
+Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasional atau HKN ke 62, Kamis (26/11/2026).
+Acara bertemakan  “sehat untuk semua” ini dilaksanakan di Finna Golf and Country Club Resort dan dihadiri Wakil Bupati Pasuruan, Shobih Asrori; Sekda Kabupaten Pasuruan, Yudha Triwidya Sasongko hingga seluruh insan Kesehatan se-Kabupaten Pasuruan.
+Pantauan di lokasi, acara diawali dengan fun walk, kemudian senam bersama dan hiburan pra acara. Setelah itu dilanjutkan dengan ceremony acara, di mana Gus Shobih menyerahkan banyak penghargaan kepada para insan kesehatan, diantaranya posyandu berprestasi, kader berprestasi, saka bakti husada terbaik, kelompok asman toga kreatif dan produktif, pelayanan persalinan terbanyak, hingga pendonor terbanyak dan penerima penghargaan lainnya.
+Selain itu, BPJS Kesehatan Cabang Pasuruan juga menyerahkan bantuan sebanyak 100 buah timbangan digital kepada Dinas Kesehatan, dan launching buku tentang kusta "Bengkura Mas Eliminasi Bukan Mimpi" oleh Penulis Dr. Eko Santoso Machfur yang kesehariannya menjabat Kepala Puskesmas Grati.
+Kepala Dinas Kesehatan, Pengendalian Penduduk dan Keluarga Berencana Kabupaten Pasuruan, dr Arma Roosalina mengatakan sesuai dengan tema HKN tahun ini, yakni "sehat untuk semua", maka kesehatan adalah hak setiap orang dan harus dapat diakses secara adil, tanpa ada yang tertinggal.
+Tema ini sejalan dengan program hasil terbaik cepat (PHTC) bidang kesehatan, yaitu cek kesehatan gratis, pengentasan tuberkulosis (tb), serta pembangunan rumah sakit yang lengkap dan berkualitas di daerah, dan hal tersebut sudah dilaksanakan di Kabupaten Pasuruan melalui UGD 24 jam di semua puskesmas se-Kabupaten Pasuruan serta rencana pembangunan RSUD Purwodadi. 
+"Di kabupaten pasuruan, upaya tersebut telah kami wujudkan melalui hadirnya UGD 24 jam di seluruh puskesmas, dan akan kami perkuat dengan rencana pembangunan RSUD Purwodadi pada tahun 2027 mendatang," jelasnya. 
+Dijelaskan Arma, Peringatan di tingkat kabupaten ini menjadi bagian dari semarak HKN ke-62 yang digelar Kementerian Kesehatan pada oktober hingga november 2026 di 38 provinsi. Diantaranya kampanye aktivitas fisik indonesia bergerak, sejuta pemeriksaan sejuta kepedulian, dan imunisasi serentak penari.
+"Kalau agendanya ya banyak sekali pokoknya. Hari ini adalah puncaknya dengan kami berikan apresiasi kepada seluruh insan kesehatan berprestasi maupun kegiatan yang memberikan banyak manfaat kepada masyarakat luas," imbuhnya.
+Sementara itu, Wakil Bupati Pasuruan, Shobih Asrori dalam sambutannya berharap agar peringatan HKN ke 62 ini tidak berhenti sebagai seremoni, tetapi menjadi ruang untuk memperkuat edukasi, meningkatkan kesadaran, mempererat kolaborasi, dan menggerakkan masyarakat kabupaten pasuruan menjadikan Kesehatan sebagai bagian dari gaya hidup.
+"Harapannya, masyarakat semakin sadar betapa pentingnya menjaga kesehatan jiwa dan raga. Jadikan HKN ini sebagai momentum untuk mengajak seluruh masyarakat untuk tahu bahwa sehat itu murah tapi banyak yang meremehkannya, dan ketika sakit jadi mahal. Maka dari itu, jaga kesehatan dengan baik dan jadikan pola gaya hidup sehat jadi sebuah hal yang wajib," ajaknya.
+Tak lupa, Gus Shobih - sapaan akrab Wabup Pasuruan ini juga menekankan tentang kasus Angka kematian ibu (AKI) dan angka kematian bayi (AKB) di Kabupaten Pasuruan yang telah menurun secara signifikan.  Sebagai buktinya, Kabupaten pasuruan meraih peringkat ke 2 se jawa timur dalam upaya penurunan AKI dan AKB.
+"Capaian ini harus kita jaga dan tingkatkan," singkatnya. 
+Dalam penanganan stunting,  Kabupaten Pasuruan telah memiliki aplikasi SIKIA.  Gus Shobih berharap aplikasi ini dapat dijalankan secara optimal.
+"Data diinput lengkap dan tepat waktu, setiap sasaran segera ditindaklanjuti, dan hasilnya akan menjadi dasar dalam perencanaan kebijakan strategis di Kabupaten Pasuruan," tutupnya. (emil)
+Bagikan :
+20
+16
+Ringkasan AI 
+Beta
+ Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
+ penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
+ keakuratan sepenuhnya.
+ Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
+ Generate Ringkasan oleh AI 
+ Komentar
+ Belum ada komentar. Jadilah yang pertama berkomentar!
+Tinggalkan Komentar:
+Berita Lainnya
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+ Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak k...
+27 November 2026
+ Kesehatan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+ Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangera...
+27 November 2026
+ Pelayanan Publik
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+ Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasiona...
+26 November 2026
+ Kesehatan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+ Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Z...
+26 November 2026
+ Pelayanan Publik
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+ Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kami...
+26 November 2026
+ Ekonomi
+Kategori
+Agrowisata
+Bantuan
+Budaya
+Ekonomi
+Kepegawaian
+Kesehatan
+Lingkungan
+Nasionalisme
+Olahraga
+Pariwisata
+Pelayanan Publik
+Pemerintahan
+Pendidikan
+Politik
+Umum
+Wisata Budaya 
+ Home
+ Profil
+ Profil Daerah
+ Arti Lambang
+ Peta Pasuruan
+ Visi dan Misi
+ Sejarah Kabupaten Pasuruan
+ Gambaran Umum Kabupaten Pasuruan
+ Pimpinan Daerah
+ Bupati & Wakil Bupati
+ Lembaga Legislatif
+ Lembaga Eksekutif
+ Perangkat Daerah
+ Layanan
+ Kependudukan
+ Perizinan & Investasi
+ Perpajakan & Retribusi
+ Kesehatan
+ Pendidikan
+ Transportasi dan Perhubungan
+ Perikanan
+ Keolahragaan
+ Tanaga Kerja
+ Lingkungan Hidup & Persampahan
+ Informasi
+ Berita
+ Agenda
+ Galeri
+ Galeri Foto
+ Galeri Video
+ PPID
+ Jelajah
+ Fasilitas Umum
+ Potensi Daerah
+ Kontak
+
+## https://pasuruankab.go.id/berita/hut-korpri-ke-55-pemkab-pasuruan-gelar-upazara-ziarah-tabur-bunga-baksos-lansia-dan-warga-kampung-janda
+STATUS 200
+JUDUL: HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+TGL_META: 
+OG_IMAGE: https://pasuruankab.go.id/download-image/hut-korpri-ke-55-pemkab-pasuruan-gelar-upazara-ziarah-tabur-bunga-baksos-lansia-dan-warga-kampung-janda/posts/tumbnail
+GAMBAR: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Lambang_Kabupaten_Pasuruan.png/250px-Lambang_Kabupaten_Pasuruan.png | https://pasuruankab.go.id/download-file/eyJpdiI6IjA1L3p5SHA3cGRQSktUL2k5NDl3Ymc9PSIsInZhbHVlIjoiK1E0b3krVmdONk5DMTNRMm9VNXBJZz09IiwibWFjIjoiNjMyMzdmNWU3YjVlM2Y1MjdhZjkzOWYzYWY0MWU4ZjFkYzc1MzBiN2YzMTIzNzc0NGI0NTExNWZkNDZjNmJjYiIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6IjFiYXpTZ1hiS1JVdk1ZZ0R2S2Q2SWc9PSIsInZhbHVlIjoid0NLdE11QXhuYThIS0JiUzRFNVBKZz09IiwibWFjIjoiZDU3NzQ0Mjg0YmJjMTE2OTVkYjU3ZWUzMGM5NjY2OTc4ZDgwYmQzNjY4YWFiMmJkMjFmZWVjMzk5MmYyMTE1NCIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImdzQ0xISnBqZ0VMdHlHTFhxb0dXdmc9PSIsInZhbHVlIjoiVWZ6T05yRVJEeFByNXN6SzFiR2dvdz09IiwibWFjIjoiOWJjMzA4ZTVlMGQyZjM1YzlmZTY3NDE0OTA5ZTIzZDZjOTg5YTY2MzBlYWI4NzM3Mzc1NDFjOGY5NjRjZGI3OSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6ImRCaHlpdTVWcS9icmk0dEJxWWpzNVE9PSIsInZhbHVlIjoiQU5FR1BoRDRzVFp2RUd5OUU5eDkzUT09IiwibWFjIjoiZTVhYzFmYWFhYWI2ZmNmNDUxODhjZThlMWQ3MzIxYmQ1YjVjYjQ0YjUwZDJkZWNmOWMxYzVkYWNmMWVkMjAzNyIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6Ik56VjR0R3BsdkQ4S3BONUxjTzFxSGc9PSIsInZhbHVlIjoiM2x1bktTVHlZNHdZR1duaGx4citYZz09IiwibWFjIjoiZDcwNWVhZTZlMDZkYWQ3ODIwNWM5MWEyMzQxM2UzOGE3ZDNjMzY4NDMzM2U5ZDQzNDAzYTdmYTQ2YTBkYjA2NSIsInRhZyI6IiJ9/posts/gambar_posts/berita | https://pasuruankab.go.id/download-file/eyJpdiI6InltSmZUOE82L3BhNDU0RGhUajNEb0E9PSIsInZhbHVlIjoiTWFzb25RTm8zTGdWdytZbGx0ZmcvQT09IiwibWFjIjoiNjc3MTJjYzlhNmZiYzdmZGZkMTA4MTBiMGQ2NDIzOTUzNWViZjQ2NDAyMmRkZjFjMTllYWRlZGRhYjVhYmMyNSIsInRhZyI6IiJ9/posts/gambar_posts/berita
+ISI:
+HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda | Website Pemerintah Kabupaten Pasuruan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+26 November 2026 (16:15)
+Pelayanan Publik
+177x Dilihat
+0 Komentar
+Emil Akbar
+ E-Paper PDF
+ E-Paper JPG
+Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Ziarah Nasional dan tabur bunga di Taman Makam Pahlawan Bangil
+Upacara ini dihadiri Wakil Bupati Pasuruan, Shobih Asrori, Sekda Yudha Triwidya Sasongko, para asisten, staf ahli, hingga kepala OPD dan staf Pemkab Pasuruan.
+Pantauan di lokasi, Sekda Yudha mendapat amanah sebagai Inspektur Upacara. Sedangkan Komandan Upacara dipercayakan kepada Sekretaris Dinas Sosial Kabupaten Pasuruan.
+Sedangkan jalannya upacara diawali dengan laporan komandan upacara kepada inspektur upacara. Kemudian dilanjutkan penghormatan kepada arwah para pahlawan yang dipimpin Komandan Upacara.
+Selanjutnya mengheningkan cipta dipimpin oleh Inspektur Upacara, peletakan karangan bunga, pembacaan doa, penghormatan terakhir kepada arwah para pahlawan dan diakhiri dengan tabur bunga di makam para pahlawan. 
+Menurut Wakil Bupati Pasuruan, Gus Shobih, ziarah dan tabur bunga ini merupakan bentuk penghormatan atas jasa para pahlawan yang telah berjuang dan mengorbankan jiwa raga demi kemerdekaan bangsa.
+"Semangat perjuangan, pengabdian, dan keikhlasan para pahlawan harus kita teladani dalam melaksanakan tugas sebagai ASN, khususnya sebagai anggota KORPRI Pemkab Pasuruan," katanya. 
+Usai upacara selesai dilaksanakan, Gus Shobih dan pejabat Pemkab Pasuruan lainnya menuju Kampung Janda di Kelurahan Gempeng, Kecamatan Bangil untuk menyerahkan bantuan sosial (bansos) dan tali asih.
+Dengan pemberian bansos dan tali asih, diharapkan dapat memberikan manfaat dan membantu kebutuhan para penerima selama beberapa hari ke depan.
+"Semoga bermanfaat untuk mencukupi kebutuhan selama beberapa hari ke depan," singkatnya. 
+Diketahui, HUT KORPRI ke 55 mengusung tema nasional “55 Tahun KORPRI Bergerak, Berkarya, Wujudkan Asta Cita”.
+Kata Gus Shobih, peringatan tersebut menjadi momentum bagi Aparatur Sipil Negara (ASN) Pemkab Pasuruan untuk memperkuat peran dalam memberikan pelayanan kepada masyarakat sekaligus mendukung agenda pembangunan nasional. 
+"Pesan bagi ASN Pemkab Pasuruan agar tidak hanya menjalankan rutinitas administratif. Melainkan menunjukkan sikap adaptif dan responsif terhadap kebutuhan masyarakat. Juga terus berkarya dengan menghadirkan inovasi, termasuk memanfaatkan perkembangan teknologi dan kecerdasan buatan (AI) dalam pelayanan publik dengan tetap mempertahankan kendali manusia," harapnya. 
+Tak lupa, Gus Shobih juga berpesan agar seluruh PNS Pemkab Pasuruan terus meningkatkan disiplin, integritas, dan profesionalisme dalam memberikan pelayanan terbaik kepada masyarakat.
+"Tetap jaga profesionalitas, integritas dan disiplin dalam menjalankan perannya sebagai ASN Pemkab Pasuruan," harapnya. (emil)
+Bagikan :
+18
+14
+Ringkasan AI 
+Beta
+ Ringkasan AI adalah alat untuk mempermudah Anda membaca berita dalam bentuk poin-poin
+ penting. Ringkasan ini dibuat oleh kecerdasan buatan (AI), dan kami tidak menjamin
+ keakuratan sepenuhnya.
+ Silakan klik tombol di bawah ini untuk menghasilkan ringkasan berita oleh AI.
+ Generate Ringkasan oleh AI 
+ Komentar
+ Belum ada komentar. Jadilah yang pertama berkomentar!
+Tinggalkan Komentar:
+Berita Lainnya
+ Arumi Bachsin Emil Dardak dan Merita Rusdi Sutejo Ajak Para Ibu "Ajek" ke Posyandu
+ Ketua Tim Pembina (TP) Posyandu Provinsi Jawa Timur, Arumi Bachsin Emil Dardak k...
+27 November 2026
+ Kesehatan
+ Jalin Kerjasama dengan Pemkot Tangsel, Pemkab Pasuruan Siap Adopsi Sistem Tanah dan Pajak
+ Pemerintah Kabupaten Pasuruan menjalin kerja sama dengan Pemerintah Kota Tangera...
+27 November 2026
+ Pelayanan Publik
+ Peringati HKN ke 62. Wabup Gus Shobih Ajak Masyarakat Jadikan Kesehatan sebagai Gaya Hidup
+ Pemerintah Kabupaten Pasuruan menggelar Puncak Peringatan Hari Kesehatan Nasiona...
+26 November 2026
+ Kesehatan
+ HUT KORPRI ke 55, Pemkab Pasuruan Gelar Upacara Ziarah, Tabur Bunga, Baksos Lansia dan Warga Kampung Janda
+ Dalam rangka HUT KORPRI ke 55, Pemerintah Kabupaten Pasuruan menggelar Upacara Z...
+26 November 2026
+ Pelayanan Publik
+ Kabupaten Pasuruan Kedatangan 1100 Sapi Perah Australia. Siap Jadi Produsen Susu Terbesar Nasional
+ Kabupaten Pasuruan kedatangan sebanyak 1100 ekor sapi perah dari Australia, Kami...
+26 November 2026
+ Ekonomi
+Kategori
+Agrowisata
+Bantuan
+Budaya
+Ekonomi
+Kepegawaian
+Kesehatan
+Lingkungan
+Nasionalisme
+Olahraga
+Pariwisata
+Pelayanan Publik
+Pemerintahan
+Pendidikan
+Politik
+Umum
+Wisata Budaya 
+ Home
+ Profil
+ Profil Daerah
+ Arti Lambang
+ Peta Pasuruan
+ Visi dan Misi
+ Sejarah Kabupaten Pasuruan
+ Gambaran Umum Kabupaten Pasuruan
+ Pimpinan Daerah
+ Bupati & Wakil Bupati
+ Lembaga Legislatif
+ Lembaga Eksekutif
+ Perangkat Daerah
+ Layanan
+ Kependudukan
+ Perizinan & Investasi
+ Perpajakan & Retribusi
+ Kesehatan
+ Pendidikan
+ Transportasi dan Perhubungan
+ Perikanan
+ Keolahragaan
+ Tanaga Kerja
+ Lingkungan Hidup & Persampahan
+ Informasi
+ Berita
+ Agenda
+ Galeri
+ Galeri Foto
+ Galeri Video
+ PPID
+ Jelajah
+ Fasilitas Umum
+ Potensi Daerah
+ Kontak
+
+## https://sumenepkab.go.id/berita/baca/mutasi-pejabat-disdukcapil-sumenep-bupati-tekankan-peningkatan-kualitas-pelayanan
+STATUS 200
+JUDUL: Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan
+TGL_META: 
+OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/f518c2976093151c2c2edf9deb9e2f74bf4fb9d3.jpg
+GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/f518c2976093151c2c2edf9deb9e2f74bf4fb9d3.jpg | https://sumenepkab.go.id/uploads/images/news_news/50291dbdaf4d8c152406786c268277e8f281d8b8.jpg | https://sumenepkab.go.id/uploads/images/news_news/f518c2976093151c2c2edf9deb9e2f74bf4fb9d3.jpg | https://sumenepkab.go.id/uploads/images/news_news/d66f59b9c9668400f98598a7dc0bd54b27d63775.jpg | https://sumenepkab.go.id/uploads/images/news_news/f01840dab407d20d6aa1f656973efae502aece63.jpg | https://sumenepkab.go.id/uploads/images/news_news/16b27fae62f94b4c9d9ed0dad6929068e9c23da5.jpg
+ISI:
+Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan | Kabupaten Sumenep
+ADMIN
+27-11-2026
+396 Kali
+Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan
+Media Center, Jumat ( 27/11 ) Mutasi pejabat di lingkungan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Sumenep, harus menjadi momentum untuk meningkatkan kinerja organisasi dan kualitas pelayanan administrasi kependudukan kepada masyarakat.
+Bupati Sumenep Achmad Fauzi Wongsojudo mengatakan, pembenahan pelayanan administrasi kependudukan penting dilakukan agar masyarakat memperoleh kemudahan, kecepatan, dan kepastian dalam mengurus berbagai dokumen kependudukan.
+“Pelayanan administrasi kependudukan harus dibenahi agar masyarakat mendapatkan kemudahan, kecepatan, dan kepastian dalam mengurus berbagai dokumen kependudukan,” kata Bupati di sela-sela Pelantikan dan Pengambilan Sumpah/Janji Pejabat Administrator dan Pejabat Pengawas, di PASA, Jumat (27/11/2026).
+Pejabat yang mendapatkan amanah baru segera beradaptasi supaya memahami tugas pokok dan fungsi (tupoksi), serta menghadirkan inovasi, karena pelayanan administrasi kependudukan, seperti pengurusan Kartu Keluarga (KK), KTP elektronik, akta kelahiran, dan dokumen kependudukan lainnya, agar semakin mudah, cepat, transparan, dan memberikan kepastian bagi masyarakat.
+“Selain itu, seluruh jajaran Disdukcapil harus menjaga integritas, kedisiplinan, dan komitmen dalam menjalankan tugas, sehingga tidak ada masyarakat yang merasa kesulitan mendapatkan pelayanan,” terangnya.
+Sementara mutasi jabatan di Disdukcapil mulai sekretaris, kepala bidang, Kasubag dan UPTD sebanyak 7 orang. 
+Karena itu, kata Bupati melalui penyegaran pejabat Disdukcapil Kabupaten Sumenep semakin optimal dalam memberikan pelayanan administrasi kependudukan yang profesional, responsif, dan berorientasi pada kebutuhan masyarakat.
+“Jajaran Disdukcapil Sumenep meningkatkan kualitas pelayanan dengan mampu membangun budaya kerja yang disiplin, transparan, dan berintegritas,” pungkasnya. ( Yasik, Fer )
+Berita Terbaru
+27-11-2026
+Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari
+27-11-2026
+Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan
+27-11-2026
+Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi
+27-11-2026
+Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas
+27-11-2026
+Babinsa Pasongsongan Bantu Warga Rehab Rumah
+
+## https://sumenepkab.go.id/berita/baca/bupati-sumenep-asn-jadikan-hidup-sehat-sebagai-gaya-hidup-sehari-hari
+STATUS 200
+JUDUL: Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari
+TGL_META: 
+OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/50291dbdaf4d8c152406786c268277e8f281d8b8.jpg
+GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/50291dbdaf4d8c152406786c268277e8f281d8b8.jpg | https://sumenepkab.go.id/uploads/images/news_news/50291dbdaf4d8c152406786c268277e8f281d8b8.jpg | https://sumenepkab.go.id/uploads/images/news_news/f518c2976093151c2c2edf9deb9e2f74bf4fb9d3.jpg | https://sumenepkab.go.id/uploads/images/news_news/d66f59b9c9668400f98598a7dc0bd54b27d63775.jpg | https://sumenepkab.go.id/uploads/images/news_news/f01840dab407d20d6aa1f656973efae502aece63.jpg | https://sumenepkab.go.id/uploads/images/news_news/16b27fae62f94b4c9d9ed0dad6929068e9c23da5.jpg
+ISI:
+Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari | Kabupaten Sumenep
+ADMIN
+27-11-2026
+355 Kali
+Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari
+Media Center, Jumat ( 27/11 ) Seluruh Aparatur Sipil Negara (ASN) di lingkungan Pemerintah Kabupaten Sumenep hendaknya membudayakan pola hidup sehat dalam kehidupan sehari-hari, baik di lingkungan kerja maupun di tengah masyarakat.
+ASN harus memiliki kesadaran terhadap pentingnya menjaga kesehatan dan kebugaran tubuh, karena dengan kondisi fisik yang sehat bisa menjalankan tugas dan tanggung jawab sehari-hari.
+Bupati Sumenep Achmad Fauzi Wongsojudo mengatakan, ASN dalam menjalankan tugas dan tanggung jawab harus sehat sebagai modal utama, sehingga menjaga kesehatan harus menjadi bagian dari gaya hidup sehari-hari, bukan hanya dilakukan ketika tubuh sedang mengalami gangguan kesehatan.
+"ASN dengan tubuh yang sehat dan bugar, tentu saja bisa menjalankan tugas dan memberikan pelayanan kepada masyarakat secara optimal," kata Bupati di sela-sela Jalan-Jalan Sehat, Pemeriksaan Kesehatan Gratis, dan Donor Darah bagi seluruh ASN lingkungan Pemkab Sumenep, di halaman Kantor Bupati, Jumat (27/11/2026).
+ASN membudayakan hidup sehat tidak hanya penting untuk menjaga kesehatan pribadi, tetapi menjadi bagian dari upaya membangun lingkungan kerja yang produktif, disiplin, dan berkualitas.
+"Selain itu, ASN diharapkan mampu menghindari kebiasaan yang dapat berdampak buruk bagi kesehatan, seperti kurangnya aktivitas fisik, pola makan tidak teratur, serta mengabaikan kebutuhan istirahat," terang Bupati.
+la menyatakan, seluruh ASN hendaknya menerapkan pola hidup sehat secara konsisten sebagai salah satu contoh positif bagi masyarakat, sekaligus mendukung terwujudnya pelayanan publik yang semakin baik.
+"ASN sadar dalam menjaga kesehatan tidak sekadar menjadi kegiatan sesaat seperti Jalan-Jalan Sehat, Pemeriksaan Kesehatan Gratis, dan Donor Darah, tetapi tumbuh menjadi kebiasaan dan budaya dalam kehidupan seluruh ASN di lingkungan Pemkab Sumenep," pungkas Bupati. ( Yasik, Fer )
+Berita Terbaru
+27-11-2026
+Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari
+27-11-2026
+Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan
+27-11-2026
+Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi
+27-11-2026
+Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas
+27-11-2026
+Babinsa Pasongsongan Bantu Warga Rehab Rumah
+
+## https://sumenepkab.go.id/berita/baca/ketua-tp-pkk-sumenep-ajak-masyarakat-perkuat-ketahanan-keluarga-dan-pemberdayaan-ekonomi
+STATUS 200
+JUDUL: Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi
+TGL_META: 
+OG_IMAGE: https://sumenepkab.go.id/uploads/images/news_news/d66f59b9c9668400f98598a7dc0bd54b27d63775.jpg
+GAMBAR: https://sumenepkab.go.id/assets/theme2/img/logo.png | https://sumenepkab.go.id/assets/theme2/img/berakhlak-bangga-melayani-bangsa.png | https://sumenepkab.go.id/uploads/images/news_news/d66f59b9c9668400f98598a7dc0bd54b27d63775.jpg | https://sumenepkab.go.id/uploads/images/news_news/50291dbdaf4d8c152406786c268277e8f281d8b8.jpg | https://sumenepkab.go.id/uploads/images/news_news/f518c2976093151c2c2edf9deb9e2f74bf4fb9d3.jpg | https://sumenepkab.go.id/uploads/images/news_news/d66f59b9c9668400f98598a7dc0bd54b27d63775.jpg | https://sumenepkab.go.id/uploads/images/news_news/f01840dab407d20d6aa1f656973efae502aece63.jpg | https://sumenepkab.go.id/uploads/images/news_news/16b27fae62f94b4c9d9ed0dad6929068e9c23da5.jpg
+ISI:
+Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi | Kabupaten Sumenep
+ADMIN
+27-11-2026
+118 Kali
+Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi
+Media Center, Jumat ( 27/11 ) Ketua Tim Penggerak Pemberdayaan dan Kesejahteraan Keluarga (TP-PKK) Kabupaten Sumenep, Nia Kurnia Fauzi, mengajak seluruh elemen masyarakat untuk bersama-sama memperkuat ketahanan keluarga, meningkatkan kualitas Sumber Daya Manusia (SDM), serta mendorong pemberdayaan ekonomi keluarga.
+“Keluarga memiliki peran strategis dalam membangun masyarakat yang sejahtera, mandiri, dan berkualitas, karena merupakan lingkungan pertama dalam membentuk karakter, kepribadian, kedisiplinan, serta nilai-nilai moral dan agama bagi generasi penerus,” kata Nia Kurnia Fauzi di sela-sela Peringatan Hari Kesatuan Gerak (HKG) PKK ke-54 tahun 2026, di Gedung Islamic Center, Jumat (27/11/2026). 
+TP-PKK Kabupaten Sumenep memiliki sejumlah program penting yang perlu menjadi perhatian dan gerakan bersama dalam pelaksanaannya supaya memberikan efek positif bagi masyarakat.
+Program itu di antaranya memperkuat ketahanan keluarga dan meningkatkan kualitas sumber daya manusia, sebagai lingkungan pendidikan pertama dan utama bagi anak-anak dalam membentuk karakter, kedisiplinan, nilai agama, etika, sopan santun, serta rasa tanggung jawab mulai dibentuk.
+Selanjutnya mendukung percepatan penurunan angka tengkes (stunting) dan peningkatan kesehatan keluarga, karena persoalan stunting bukan sekadar berkaitan dengan tinggi badan anak, melainkan menyangkut kualitas tumbuh kembang, kesehatan, dan masa depan generasi bangsa.
+“Upaya pencegahan stunting harus dilakukan sejak sebelum kehamilan, selama masa kehamilan, hingga anak berusia dua tahun, sehingga perlu melibatkan seluruh pihak untuk meningkatkan kesadaran masyarakat mengenai pentingnya pemenuhan gizi, kesehatan ibu dan anak, serta pola pengasuhan yang tepat,” ungkapnya.
+Selain itu, meningkatkan pemberdayaan ekonomi keluarga dengan program Usaha Peningkatan Pendapatan Keluarga (UP2K) agar berkembang dan mampu membuka peluang usaha bagi masyarakat.
+“Kami melalui berbagai program ini bisa berperan aktif dalam meningkatkan kesejahteraan keluarga, memperkuat kemandirian masyarakat, serta mendorong pembangunan yang merata hingga wilayah kepulauan,” jelasnya.
+Ia menyatakan, seluruh kader PKK dan masyarakat untuk menjadikan pemberdayaan keluarga sebagai tanggung jawab bersama, agar berbagai program yang dijalankan bisa memberikan manfaat nyata bagi peningkatan kualitas hidup masyarakat Kabupaten Sumenep.
+“Melalui gerakan PKK, diharapkan seluruh kader dan elemen masyarakat memperkuat sinergi dalam menjalankan program pemberdayaan keluarga,” pungkas Nia Kurnia Fauzi. ( Yasik, Fer )
+Berita Terbaru
+27-11-2026
+Bupati Sumenep: ASN Jadikan Hidup Sehat sebagai Gaya Hidup Sehari-hari
+27-11-2026
+Mutasi Pejabat Disdukcapil Sumenep, Bupati Tekankan Peningkatan Kualitas Pelayanan
+27-11-2026
+Ketua TP-PKK Sumenep Ajak Masyarakat Perkuat Ketahanan Keluarga dan Pemberdayaan Ekonomi
+27-11-2026
+Jumat Berkah, KBS Sumenep Bagi-bagi Ratusan Nasi Bungkus Warga Melintas
+27-11-2026
+Babinsa Pasongsongan Bantu Warga Rehab Rumah
