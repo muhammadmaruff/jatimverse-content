@@ -204,6 +204,18 @@ def sinkron_meta(wp, cfg, p, tayang=None):
     v = r.json()
     ids, kurang = id_meta(wp, cfg, p)
     upd = {}
+    media_baru = None
+    if p.get("ganti_foto"):
+        jpg = ROOT / p["file_jpg"]
+        rm = wp.req("POST", "/wp/v2/media", data=jpg.read_bytes(),
+                    headers={"Content-Disposition": f'attachment; filename="{jpg.stem}-ganti.jpg"',
+                             "Content-Type": "image/jpeg"})
+        if not rm.ok:
+            raise RuntimeError(f"unggah foto pengganti HTTP {rm.status_code}")
+        media_baru = rm.json()["id"]
+        ket = p.get("keterangan_foto") or f"Foto: {p.get('kredit_foto', '')}"
+        wp.req("POST", f"/wp/v2/media/{media_baru}", json={"alt_text": p["judul"], "caption": ket})
+        upd["featured_media"] = media_baru
     if ids.get("categories") and sorted(v.get("categories", [])) != sorted(ids["categories"]):
         upd["categories"] = ids["categories"]
     for kunci in ("tags", "wilayah", "rubrik", "dapil"):
@@ -225,6 +237,11 @@ def sinkron_meta(wp, cfg, p, tayang=None):
         r = wp.req("POST", f"/wp/v2/posts/{p['wp_post_id']}", json=upd)
         if not r.ok:
             raise RuntimeError(f"update metadata HTTP {r.status_code}")
+        if media_baru:
+            if r.json().get("featured_media") != media_baru:
+                raise RuntimeError("ganti foto gagal: featured_media tidak berubah")
+            p["wp_media_id"] = media_baru
+            p.pop("ganti_foto", None)
         if ulang:
             if r.json().get("status") != "future":
                 raise RuntimeError(f"jadwal ulang gagal: status {r.json().get('status')}")
@@ -253,7 +270,7 @@ def sidik_meta(cfg, p):
 
 def perlu_sinkron(cfg, p, semua=False):
     """Hemat menit Actions: post lama yang tidak berubah tidak perlu dicek ulang setiap jalan."""
-    if semua or p.get("jadwal_ulang") or p.get("tayang_segera") or p.get("catatan_wp"):
+    if semua or p.get("jadwal_ulang") or p.get("tayang_segera") or p.get("ganti_foto") or p.get("catatan_wp"):
         return True
     if p.get("sidik_meta") != sidik_meta(cfg, p):
         return True
